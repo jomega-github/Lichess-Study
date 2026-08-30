@@ -1,0 +1,16635 @@
+# Jomega's Studies Index for the Advanced Course
+
+## Concept: Accumulate Small Advantages
+
+Aliases: accumulate small advantages, accumulated advantages, accumulated force, accumulated power, accumulation of attacking power, accumulation of force, accumulation of power, accumulation of tempi, small advantage, small advantages
+
+Appears In:
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: small advantage
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: accumulate small advantages, small advantages
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: accumulate small advantages, small advantages
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: accumulate small advantages, small advantages
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: accumulate small advantages, small advantages
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+
+
+## Concept: Anastasia's Mate
+
+Aliases: anastasia, anastasia mate, anastasia's mate, anastasia’s mate
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Named Mate: anastasia
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Named Mate: anastasia
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+
+
+## Concept: Back Rank Mate
+
+Aliases: back rank mate, back-rank mate
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: How Many Moves Can You Calculate Ahead? I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/azsexh4P
+    - Named Mate: back-rank mate
+    - All found aliases: back-rank mate, calculate
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: How Many Moves Can You Calculate Ahead? I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/azsexh4P
+    - Named Mate: back-rank mate
+    - All found aliases: back-rank mate, calculate
+
+
+## Concept: Backward Move (Retreat)
+
+Aliases: backward move, backward moves, retreat, retreated, retreating, retreats
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Found: retreat, retreats
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Found: retreat, retreats
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 4
+    - Chapter URL: https://lichess.org/study/pEF9QCic/r2lDGzev
+    - Found: retreat
+    - All found aliases: center, discovered check, forking, initiative, pinned, pinning, removing the defender, retreat, threatening
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/pEF9QCic/XuYJQwWp
+    - Found: retreat
+    - All found aliases: center, discovered check, initiative, majority, minority, pawn structures, plan, plans, restrict, retreat, structure, tempo, threat, threaten, threatening
+  - Chapter: Annotate 13
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oSar8sm6
+    - Found: retreat
+    - All found aliases: center, classical center, combination, discovered check, pawn formation, pinned, retreat, threatened
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: Annotate 4
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/kfCNFauQ
+    - Found: retreat
+    - All found aliases: forking, pinned, retreat
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Awkward Piece Placement
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2bs65ZwO
+    - Found: retreat
+    - All found aliases: center, chain, closed, outpost, pawn chain, pawn formation, plan, plans, pressure, retreat, threatening
+  - Chapter: Double Finachettoes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/DrwAR6qc
+    - Found: retreat
+    - All found aliases: center, hypermodern, key squares, maneuver, pawn structure, pinned, plan, plans, retreat
+  - Chapter: Kingside Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/dh1EXD5H
+    - Found: retreat
+    - All found aliases: fork, monster, retreat, sacrifice, threatening
+  - Chapter: King in the Center Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/yG4ujqAW
+    - Found: retreat
+    - All found aliases: calculate, material, retreat, threatened, threatening
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Found: retreat
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: retreats
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: retreat
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/xbeAVC8Y
+    - Found: retreats
+    - All found aliases: calculations, candidate, gain a tempo, maneuver, retreats, sacrifices
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: retreat
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: retreat
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: The Blind Spot  (Blumenfeld's Rule)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/O4Pnrloy
+    - Found: backward moves
+    - All found aliases: backward moves, calculations, king safety, material
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Found: retreat
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: retreat
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Found: retreat, retreats
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Found: retreat, retreats
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+  - Chapter: Planning III: Piece Placement
+    - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
+    - Found: retreated
+    - All found aliases: center, developing, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #31
+    - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
+    - Found: retreat
+    - All found aliases: candidate, chain, initiative, isolated, material, pawn chain, plan, plans, retreat, sacrifice, threat
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Found: retreat
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: RYCW #37
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Wnnf3YyJ
+    - Found: retreat
+    - All found aliases: bad bishop, center, chain, closed, imbalances, maneuver, pawn chain, pawn chains, pawn formation, pawn structure, pinned, plan, plans, retreat, space
+  - Chapter: RYCW #40
+    - Chapter URL: https://lichess.org/study/49AuOOCo/kyt1auLh
+    - Found: retreat
+    - All found aliases: calculate, candidates, center, classical pawn, pawn break, plan, planning, retreat, space, threatening
+  - Chapter: RYCW Problem 13
+    - Chapter URL: https://lichess.org/study/49AuOOCo/LPG1Ewwz
+    - Found: backward move, backward moves
+    - All found aliases: backward move, backward moves, discovered attack, fork, good bishop, pinning, plan, space, tactical pattern
+  - Chapter: RYCW Problem 13
+    - Chapter URL: https://lichess.org/study/49AuOOCo/LPG1Ewwz
+    - Found: backward move, backward moves
+    - All found aliases: backward move, backward moves, discovered attack, fork, good bishop, pinning, plan, space, tactical pattern
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/ZsDpi5OZ
+    - Found: retreat
+    - All found aliases: blockade, center, chain, retreat
+  - Chapter: 2PBKbk: Opposite Color Bishops General VI
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/h8yb0p6X
+    - Found: retreat
+    - All found aliases: retreat
+  - Chapter: 2PBKbk: Opposite Color Bishops General VIII
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/VbeWKhse
+    - Found: retreat
+    - All found aliases: retreat, zugzwang
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Where is the Black Queen Knight?
+    - Chapter URL: https://lichess.org/study/6P90HTwf/cNmFOfP9
+    - Found: retreat
+    - All found aliases: classical school, formation, isolani, plan, retreat
+  - Chapter: Black plays ...Nc6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/dT6pFbaJ
+    - Found: retreats
+    - All found aliases: compensation, fork, formation, isolani, pawn formation, pawn structure, pawn structures, plans, retreats, threatening
+  - Chapter: Colle, Edgar - Euwe, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/YtNn4KhH
+    - Found: retreat
+    - All found aliases: center, combination, fork, formation, good bishop, pawn formation, pin, pinning, plans, retreat, threatening
+  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+    - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
+    - Found: retreat
+    - All found aliases: center, doubled, material, passed pawn, passed pawns, planning, retreat, simplifies, simplify, threatening
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Found: retreat
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Colle, Edgar - Alekhine, Alexander
+    - Chapter URL: https://lichess.org/study/6P90HTwf/fgGgMOU2
+    - Found: retreats
+    - All found aliases: combination, developed, doubled pawns, doubles, good bishop, isolani, material, overworked, pin, retreats, threatening
+  - Chapter: Colle, Edgar - Michell, Reginald Pryce
+    - Chapter URL: https://lichess.org/study/6P90HTwf/omQHTftl
+    - Found: retreats
+    - All found aliases: center, isolated, isolated pawn, majority, restricts, retreats, threatening
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: 2PKpk: Outflanking X; Triangulation
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/6iv4aIgp
+    - Found: retreat
+    - All found aliases: maneuver, outflanking, retreat, triangulation, waiting move
+  - Chapter: Triangulation II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Z3utcP6U
+    - Found: retreat
+    - All found aliases: passed pawn, plan, retreat, threatening, triangulation
+  - Chapter: PKpk: Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/doe6mc9v
+    - Found: retreat
+    - All found aliases: corresponding squares, key square, key squares, retreat
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: RKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BXBY9U1j
+    - Found: retreats
+    - All found aliases: center, opposition, retreats, take the opposition, waiting move
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1cFPLD12
+    - Found: retreat
+    - All found aliases: king cut off, lucena position, retreat
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Found: retreat
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/UEJGJd7x
+    - Found: retreats
+    - All found aliases: retreats
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/ZsDpi5OZ
+    - Found: retreat
+    - All found aliases: blockade, center, chain, retreat
+  - Chapter: 2PBKbk: Opposite Color Bishops General VI
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/h8yb0p6X
+    - Found: retreat
+    - All found aliases: retreat
+  - Chapter: 2PBKbk: Opposite Color Bishops General VIII
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/VbeWKhse
+    - Found: retreat
+    - All found aliases: retreat, zugzwang
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: 2PKpk: Outflanking X; Triangulation
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/6iv4aIgp
+    - Found: retreat
+    - All found aliases: maneuver, outflanking, retreat, triangulation, waiting move
+  - Chapter: Triangulation II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Z3utcP6U
+    - Found: retreat
+    - All found aliases: passed pawn, plan, retreat, threatening, triangulation
+  - Chapter: PKpk: Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/doe6mc9v
+    - Found: retreat
+    - All found aliases: corresponding squares, key square, key squares, retreat
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: RKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BXBY9U1j
+    - Found: retreats
+    - All found aliases: center, opposition, retreats, take the opposition, waiting move
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1cFPLD12
+    - Found: retreat
+    - All found aliases: king cut off, lucena position, retreat
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Found: retreat
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/UEJGJd7x
+    - Found: retreats
+    - All found aliases: retreats
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/ZsDpi5OZ
+    - Found: retreat
+    - All found aliases: blockade, center, chain, retreat
+  - Chapter: 2PBKbk: Opposite Color Bishops General VI
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/h8yb0p6X
+    - Found: retreat
+    - All found aliases: retreat
+  - Chapter: 2PBKbk: Opposite Color Bishops General VIII
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/VbeWKhse
+    - Found: retreat
+    - All found aliases: retreat, zugzwang
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: 2PKpk: Outflanking X; Triangulation
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/6iv4aIgp
+    - Found: retreat
+    - All found aliases: maneuver, outflanking, retreat, triangulation, waiting move
+  - Chapter: Triangulation II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Z3utcP6U
+    - Found: retreat
+    - All found aliases: passed pawn, plan, retreat, threatening, triangulation
+  - Chapter: PKpk: Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/doe6mc9v
+    - Found: retreat
+    - All found aliases: corresponding squares, key square, key squares, retreat
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: RKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BXBY9U1j
+    - Found: retreats
+    - All found aliases: center, opposition, retreats, take the opposition, waiting move
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1cFPLD12
+    - Found: retreat
+    - All found aliases: king cut off, lucena position, retreat
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Found: retreat
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/UEJGJd7x
+    - Found: retreats
+    - All found aliases: retreats
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: retreat
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/xbeAVC8Y
+    - Found: retreats
+    - All found aliases: calculations, candidate, gain a tempo, maneuver, retreats, sacrifices
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: retreat
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: retreat
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: The Blind Spot  (Blumenfeld's Rule)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/O4Pnrloy
+    - Found: backward moves
+    - All found aliases: backward moves, calculations, king safety, material
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Found: retreat
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: retreat
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Backward Pawn
+
+Aliases: backward pawn, backward pawns, backwardness, backwards pawn, backwards pawns
+
+Appears In:
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Planning IV: Natural Moves May Not Be Good Enough
+    - Chapter URL: https://lichess.org/study/1O0UELn6/rDY9RpZ6
+    - Feature: backward pawn
+    - All found aliases: backward pawn, center, constricted, initiative, material, mobility, passed pawn, plan, pressure, restricted, sacrificing, threats
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/R1NKBrG6
+    - Feature: backward pawn
+    - All found aliases: backward pawn, material, pressure, threatening
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Feature: backward pawn
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: S-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/nkFCfbme
+    - Feature: backward pawn
+    - All found aliases: backward pawn, center, planning
+  - Chapter: U-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/cMCM1BxT
+    - Feature: backward pawn
+    - All found aliases: active pieces, backward pawn, compensation, passed pawn
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: S-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/nkFCfbme
+    - Feature: backward pawn
+    - All found aliases: backward pawn, center, planning
+  - Chapter: U-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/cMCM1BxT
+    - Feature: backward pawn
+    - All found aliases: active pieces, backward pawn, compensation, passed pawn
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: S-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/nkFCfbme
+    - Feature: backward pawn
+    - All found aliases: backward pawn, center, planning
+  - Chapter: U-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/cMCM1BxT
+    - Feature: backward pawn
+    - All found aliases: active pieces, backward pawn, compensation, passed pawn
+
+
+## Concept: Battery
+
+Aliases: battery, doubled pieces, doubling pieces, piece battery
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/pEF9QCic/umydfvUv
+    - Found: battery
+    - All found aliases: active pieces, battery, fork, material, mobile, mobility, pawn storm, pin, pinned, pinning, plan, plans, qualitative pawn majority, remove the defender, threat
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/OE8IjSqO
+    - Found: battery
+    - All found aliases: battery, mobile, pinned, plan, plans, qualitative pawn majority, threat
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: battery
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: battery
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Lascano, J. - Bahamonde, Antonio
+    - Chapter URL: https://lichess.org/study/6P90HTwf/pRBqdJqu
+    - Found: battery
+    - All found aliases: battery, isolani, pin, plan, sacrifices, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: battery
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+
+
+## Concept: Bishop (Active/Inactive)
+
+Aliases: active bishop, active bishops, inactive bishop, inactive bishops
+
+Appears In:
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: active bishop
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+
+## Concept: Bishop (Good/Bad)
+
+Aliases: bad bishop, bad bishops, good bishop, good bishops, hemmed in bishop, hemmed in bishops
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: bad bishop, good bishop
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: bad bishop, good bishop
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 15
+    - Chapter URL: https://lichess.org/study/pEF9QCic/xpogdCvR
+    - Found: bad bishop
+    - All found aliases: bad bishop, center, counterplay, develop, discovered check, majority, material, pinned, plan, restrict, threatening
+  - Chapter: Annotate 16
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oOYrqEZF
+    - Found: bad bishop
+    - All found aliases: bad bishop, bishop pair, center, compensation, discovery, doubled pawns, material, mating net, pin, pins, plan, sacrifice, two bishops
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Imobilizing a Target
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2fOaUtrd
+    - Found: bad bishop
+    - All found aliases: bad bishop, blockading, minority, pawn structure, pawn structures, plans, silman's imbalances
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: bad bishop
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: bad bishop, good bishop
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: bad bishop, good bishop
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: bad bishop
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/WSL5QMD1
+    - Found: bad bishop, good bishop
+    - All found aliases: bad bishop, center, counterplay, cramp, doubled, good bishop, outpost, outposts, plan, pressure, waiting move, weak squares
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/WSL5QMD1
+    - Found: bad bishop, good bishop
+    - All found aliases: bad bishop, center, counterplay, cramp, doubled, good bishop, outpost, outposts, plan, pressure, waiting move, weak squares
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #37
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Wnnf3YyJ
+    - Found: bad bishop
+    - All found aliases: bad bishop, center, chain, closed, imbalances, maneuver, pawn chain, pawn chains, pawn formation, pawn structure, pinned, plan, plans, retreat, space
+  - Chapter: RYCW Problem 13
+    - Chapter URL: https://lichess.org/study/49AuOOCo/LPG1Ewwz
+    - Found: good bishop
+    - All found aliases: backward move, backward moves, discovered attack, fork, good bishop, pinning, plan, space, tactical pattern
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: bad bishop, good bishop
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: bad bishop, good bishop
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Colle, Edgar - Euwe, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/YtNn4KhH
+    - Found: good bishop
+    - All found aliases: center, combination, fork, formation, good bishop, pawn formation, pin, pinning, plans, retreat, threatening
+  - Chapter: Colle, Edgar - Alekhine, Alexander
+    - Chapter URL: https://lichess.org/study/6P90HTwf/fgGgMOU2
+    - Found: good bishop
+    - All found aliases: combination, developed, doubled pawns, doubles, good bishop, isolani, material, overworked, pin, retreats, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: bad bishop, good bishop
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: bad bishop, good bishop
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: bad bishop
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Bishop Pair
+
+Aliases: bishop pair, two bishops
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Found: bishop pair
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 16
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oOYrqEZF
+    - Found: bishop pair, two bishops
+    - All found aliases: bad bishop, bishop pair, center, compensation, discovery, doubled pawns, material, mating net, pin, pins, plan, sacrifice, two bishops
+  - Chapter: Annotate 16
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oOYrqEZF
+    - Found: bishop pair, two bishops
+    - All found aliases: bad bishop, bishop pair, center, compensation, discovery, doubled pawns, material, mating net, pin, pins, plan, sacrifice, two bishops
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Alekhine's Sting II
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/ppNu9nSz
+    - Found: two bishops
+    - All found aliases: calculate, gain a tempo, isolani, material, pinned, two bishops
+  - Chapter: Two Bishops
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/lpuvWfIr
+    - Found: two bishops
+    - All found aliases: fork, simplifying, two bishops
+  - Chapter: A Bad Plan Is Better Than No Plan
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
+    - Found: bishop pair
+    - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, pin, plan, sacrifice, threat, threatening, weak square
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: bishop pair, two bishops
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: bishop pair, two bishops
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Found: two bishops
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: two bishops
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Positional Judgement VI: Position of the Pieces I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/IZWd8NUo
+    - Found: bishop pair, two bishops
+    - All found aliases: bishop pair, doubled, passed pawns, pawn islands, pawn structure, two bishops, zugzwang
+  - Chapter: Positional Judgement VI: Position of the Pieces I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/IZWd8NUo
+    - Found: bishop pair, two bishops
+    - All found aliases: bishop pair, doubled, passed pawns, pawn islands, pawn structure, two bishops, zugzwang
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: two bishops
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: two bishops
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: bishop pair, two bishops
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: bishop pair, two bishops
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #30 - How the position occurred
+    - Chapter URL: https://lichess.org/study/49AuOOCo/74h033UV
+    - Found: two bishops
+    - All found aliases: closed, majority, open position, plan, tempo, two bishops
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Found: two bishops
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #36
+    - Chapter URL: https://lichess.org/study/49AuOOCo/udNTzK0j
+    - Found: two bishops
+    - All found aliases: calculate, center, plan, threatening, two bishops
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: two bishops
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: RYCW #43
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wlt10gdE
+    - Found: bishop pair
+    - All found aliases: bishop pair, minority, pawn formation, pawn structures, plan, space
+  - Chapter: TLG #145
+    - Chapter URL: https://lichess.org/study/49AuOOCo/gs829rtA
+    - Found: two bishops
+    - All found aliases: calculation, material, minority, pawn structure, pawn structures, pawn weaknesses, plan, plans, sacrifices, simplification, space, structure, tempi, threatening, two bishops
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: two bishops
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Black plays ...Nbd7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/SDgxfVCK
+    - Found: bishop pair
+    - All found aliases: bishop pair, center, develops, fork, isolani, minority, pawn formation, pin, planned
+  - Chapter: Black omits ...c5
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8WbROLKA
+    - Found: two bishops
+    - All found aliases: center, two bishops
+  - Chapter: Anti-Colle
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J6JKnaKB
+    - Found: two bishops
+    - All found aliases: center, classical school, develop, doubled pawns, formation, key squares, plans, tempo, threat, two bishops
+  - Chapter: Tennenwurzel, Edward - Capablanca, Jose Raul
+    - Chapter URL: https://lichess.org/study/6P90HTwf/oAKtfvrp
+    - Found: two bishops
+    - All found aliases: compensation, isolani, majority, passed pawn, sacrificing, threatening, two bishops
+  - Chapter: Colle, Edgar - Bogoljubow, Efim
+    - Chapter URL: https://lichess.org/study/6P90HTwf/RxRlaQXM
+    - Found: bishop pair, two bishops
+    - All found aliases: bishop pair, initiative, isolani, majority, tempi, tempo, threatening, two bishops
+  - Chapter: Colle, Edgar - Bogoljubow, Efim
+    - Chapter URL: https://lichess.org/study/6P90HTwf/RxRlaQXM
+    - Found: bishop pair, two bishops
+    - All found aliases: bishop pair, initiative, isolani, majority, tempi, tempo, threatening, two bishops
+  - Chapter: Havasi, Kornel - Monticelli, Mario
+    - Chapter URL: https://lichess.org/study/6P90HTwf/S8hLLj6k
+    - Found: two bishops
+    - All found aliases: combination, fortress, material, overloaded, threat, threatening, two bishops
+  - Chapter: Alekhine, Alexander - Flohr, Salo
+    - Chapter URL: https://lichess.org/study/6P90HTwf/m8jmj0a2
+    - Found: two bishops
+    - All found aliases: combination, develop, double attack, isolani, material, sacrificing, threat, threats, two bishops
+  - Chapter: Koltanowski, George - Feigins, Movsas
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8LiCSujP
+    - Found: two bishops
+    - All found aliases: isolani, passed pawns, two bishops
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/8iGonU8A
+    - Found: two bishops
+    - All found aliases: material, two bishops
+  - Chapter: Interlude II: Sufficient Mating Material
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/djCU63zy
+    - Found: two bishops
+    - All found aliases: king safety, two bishops
+  - Chapter: 2BKk: Driving the King to the Corner
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hGPzVo3O
+    - Found: two bishops
+    - All found aliases: two bishops, waiting move
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/8iGonU8A
+    - Found: two bishops
+    - All found aliases: material, two bishops
+  - Chapter: Interlude II: Sufficient Mating Material
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/djCU63zy
+    - Found: two bishops
+    - All found aliases: king safety, two bishops
+  - Chapter: 2BKk: Driving the King to the Corner
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hGPzVo3O
+    - Found: two bishops
+    - All found aliases: two bishops, waiting move
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/8iGonU8A
+    - Found: two bishops
+    - All found aliases: material, two bishops
+  - Chapter: Interlude II: Sufficient Mating Material
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/djCU63zy
+    - Found: two bishops
+    - All found aliases: king safety, two bishops
+  - Chapter: 2BKk: Driving the King to the Corner
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hGPzVo3O
+    - Found: two bishops
+    - All found aliases: two bishops, waiting move
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Found: two bishops
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: two bishops
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Bishop and Knight Mate
+
+Aliases: bishop and knight mate
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Named Mate: bishop and knight mate
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Named Mate: bishop and knight mate
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+
+
+## Concept: Bishop vs Knight
+
+Aliases: bishop vs knight, bishop vs knights, bishops vs knight, bishops vs knights, superior minor piece
+
+Appears In:
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: bishop vs knight
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Found: bishop vs knight
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Found: bishop vs knight
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+
+
+## Concept: Blockade
+
+Aliases: block the pawn, block the pawns, blockade, blockaded, blockades, blockading
+
+Appears In:
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: A Benoni Passer
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/826AY7WG
+    - Found: blockading
+    - All found aliases: blockading, decoying, loose pieces, passed pawn, tempo
+  - Chapter: What blockade?
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/wyahzSRJ
+    - Found: blockade
+    - All found aliases: blockade, passed pawn, planning
+  - Chapter: Imobilizing a Target
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2fOaUtrd
+    - Found: blockading
+    - All found aliases: bad bishop, blockading, minority, pawn structure, pawn structures, plans, silman's imbalances
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: blockading
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: blockade
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: blockade, blockading
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: blockade, blockading
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Bishops of Opposite Colors II
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/VxVZnR8m
+    - Found: blockade
+    - All found aliases: blockade
+  - Chapter: 2PBKbk: Opposite Color Bishops General I
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/mJKU8zsb
+    - Found: blockade
+    - All found aliases: blockade, rule of thumb, sacrificing
+  - Chapter: 2PBKbk: Opposite Color Bishops General II
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/lwbQ7wrF
+    - Found: blockade
+    - All found aliases: blockade, plan
+  - Chapter: 2PBKbk: Opposite Color Bishops General V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/ZsDpi5OZ
+    - Found: blockade
+    - All found aliases: blockade, center, chain, retreat
+  - Chapter: 2PBKbk: Opposite Color Bishops General XII
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/wxRf2R9i
+    - Found: blockade
+    - All found aliases: blockade, plan
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Schwietzer, George J - Shrader, Eugene Wesley
+    - Chapter URL: https://lichess.org/study/6P90HTwf/bnjCvU7E
+    - Found: blockaded
+    - All found aliases: blockaded, discovered check, isolani, outpost, overworked, pressure, threatening
+  - Chapter: Colle, Edgar - Loman, Rudolf
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qeBoOo52
+    - Found: blockade
+    - All found aliases: blockade, discovered attack, isolani, tempi
+  - Chapter: Colle, Edgar - Tarrasch, Siegbert
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
+    - Found: blockaded
+    - All found aliases: blockaded, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
+  - Chapter: Colle, Edgar - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8wjjmuef
+    - Found: blockade
+    - All found aliases: blockade, tempo, threatening
+  - Chapter: Kashdan, Isaac - Steiner, Herman
+    - Chapter URL: https://lichess.org/study/6P90HTwf/FxXyrdZs
+    - Found: blockading
+    - All found aliases: blockading, doubles, majority, passed, passed pawn, passed pawns, pins, plan, restricts, tempo, threatened, threatening, zugzwang
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: General Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/OmVrYn7K
+    - Found: blockade
+    - All found aliases: blockade, material, passed pawns
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: V-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/VM8pDtMA
+    - Found: blockaded
+    - All found aliases: blockaded, passed pawn
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: Rank Matters I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VfKnAxsO
+    - Found: blockading
+    - All found aliases: blockading, corresponding squares, opposition
+  - Chapter: Outside Passed Pawn II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ENicrTzU
+    - Found: blockade
+    - All found aliases: blockade, create a weakness, passed pawn, passed pawns, zugzwang
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: blockade, blockading
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: blockade, blockading
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+
+- Study: King and Pawn Endgames II
+  - Study URL: https://lichess.org/study/J4xrM4nV
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/J4xrM4nV/Y9vfnXTQ
+    - Found: blockade
+    - All found aliases: blockade, skewer, skewering, threatening
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: NKpk: White King Not Close I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/o8HlruKR
+    - Found: blockading
+    - All found aliases: blockading
+  - Chapter: NKpk: White King Not Close II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ANvEeosd
+    - Found: blockade, blockading
+    - All found aliases: blockade, blockading, tempo, threatening
+  - Chapter: NKpk: White King Not Close II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ANvEeosd
+    - Found: blockade, blockading
+    - All found aliases: blockade, blockading, tempo, threatening
+  - Chapter: RKpk: White's King Close
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/NoGAkCji
+    - Found: blockade, blockades
+    - All found aliases: blockade, blockades
+  - Chapter: RKpk: White's King Close
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/NoGAkCji
+    - Found: blockade, blockades
+    - All found aliases: blockade, blockades
+  - Chapter: QKpk: 7th Rank Bishop Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/E3yRkKZt
+    - Found: block the pawn
+    - All found aliases: block the pawn, mating net, pinning, sacrifice
+  - Chapter: QKpk: 7th Rank Rook Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/kd0J8OSV
+    - Found: blockade
+    - All found aliases: blockade, discovered check, lose a tempo, maneuvers, mating net
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Rook and Two Connected Pawns versus Rook
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Qssm0UBL
+    - Found: blockades
+    - All found aliases: blockades, passed pawns, pinning, plan
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Bishops of Opposite Colors II
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/VxVZnR8m
+    - Found: blockade
+    - All found aliases: blockade
+  - Chapter: 2PBKbk: Opposite Color Bishops General I
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/mJKU8zsb
+    - Found: blockade
+    - All found aliases: blockade, rule of thumb, sacrificing
+  - Chapter: 2PBKbk: Opposite Color Bishops General II
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/lwbQ7wrF
+    - Found: blockade
+    - All found aliases: blockade, plan
+  - Chapter: 2PBKbk: Opposite Color Bishops General V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/ZsDpi5OZ
+    - Found: blockade
+    - All found aliases: blockade, center, chain, retreat
+  - Chapter: 2PBKbk: Opposite Color Bishops General XII
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/wxRf2R9i
+    - Found: blockade
+    - All found aliases: blockade, plan
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: General Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/OmVrYn7K
+    - Found: blockade
+    - All found aliases: blockade, material, passed pawns
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: V-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/VM8pDtMA
+    - Found: blockaded
+    - All found aliases: blockaded, passed pawn
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: Rank Matters I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VfKnAxsO
+    - Found: blockading
+    - All found aliases: blockading, corresponding squares, opposition
+  - Chapter: Outside Passed Pawn II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ENicrTzU
+    - Found: blockade
+    - All found aliases: blockade, create a weakness, passed pawn, passed pawns, zugzwang
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: blockade, blockading
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: blockade, blockading
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: NKpk: White King Not Close I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/o8HlruKR
+    - Found: blockading
+    - All found aliases: blockading
+  - Chapter: NKpk: White King Not Close II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ANvEeosd
+    - Found: blockade, blockading
+    - All found aliases: blockade, blockading, tempo, threatening
+  - Chapter: NKpk: White King Not Close II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ANvEeosd
+    - Found: blockade, blockading
+    - All found aliases: blockade, blockading, tempo, threatening
+  - Chapter: RKpk: White's King Close
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/NoGAkCji
+    - Found: blockade, blockades
+    - All found aliases: blockade, blockades
+  - Chapter: RKpk: White's King Close
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/NoGAkCji
+    - Found: blockade, blockades
+    - All found aliases: blockade, blockades
+  - Chapter: QKpk: 7th Rank Bishop Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/E3yRkKZt
+    - Found: block the pawn
+    - All found aliases: block the pawn, mating net, pinning, sacrifice
+  - Chapter: QKpk: 7th Rank Rook Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/kd0J8OSV
+    - Found: blockade
+    - All found aliases: blockade, discovered check, lose a tempo, maneuvers, mating net
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Rook and Two Connected Pawns versus Rook
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Qssm0UBL
+    - Found: blockades
+    - All found aliases: blockades, passed pawns, pinning, plan
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Bishops of Opposite Colors II
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/VxVZnR8m
+    - Found: blockade
+    - All found aliases: blockade
+  - Chapter: 2PBKbk: Opposite Color Bishops General I
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/mJKU8zsb
+    - Found: blockade
+    - All found aliases: blockade, rule of thumb, sacrificing
+  - Chapter: 2PBKbk: Opposite Color Bishops General II
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/lwbQ7wrF
+    - Found: blockade
+    - All found aliases: blockade, plan
+  - Chapter: 2PBKbk: Opposite Color Bishops General V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/ZsDpi5OZ
+    - Found: blockade
+    - All found aliases: blockade, center, chain, retreat
+  - Chapter: 2PBKbk: Opposite Color Bishops General XII
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/wxRf2R9i
+    - Found: blockade
+    - All found aliases: blockade, plan
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: General Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/OmVrYn7K
+    - Found: blockade
+    - All found aliases: blockade, material, passed pawns
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: V-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/VM8pDtMA
+    - Found: blockaded
+    - All found aliases: blockaded, passed pawn
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: Rank Matters I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VfKnAxsO
+    - Found: blockading
+    - All found aliases: blockading, corresponding squares, opposition
+  - Chapter: Outside Passed Pawn II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ENicrTzU
+    - Found: blockade
+    - All found aliases: blockade, create a weakness, passed pawn, passed pawns, zugzwang
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: blockade, blockading
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: blockade, blockading
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: NKpk: White King Not Close I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/o8HlruKR
+    - Found: blockading
+    - All found aliases: blockading
+  - Chapter: NKpk: White King Not Close II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ANvEeosd
+    - Found: blockade, blockading
+    - All found aliases: blockade, blockading, tempo, threatening
+  - Chapter: NKpk: White King Not Close II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ANvEeosd
+    - Found: blockade, blockading
+    - All found aliases: blockade, blockading, tempo, threatening
+  - Chapter: RKpk: White's King Close
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/NoGAkCji
+    - Found: blockade, blockades
+    - All found aliases: blockade, blockades
+  - Chapter: RKpk: White's King Close
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/NoGAkCji
+    - Found: blockade, blockades
+    - All found aliases: blockade, blockades
+  - Chapter: QKpk: 7th Rank Bishop Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/E3yRkKZt
+    - Found: block the pawn
+    - All found aliases: block the pawn, mating net, pinning, sacrifice
+  - Chapter: QKpk: 7th Rank Rook Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/kd0J8OSV
+    - Found: blockade
+    - All found aliases: blockade, discovered check, lose a tempo, maneuvers, mating net
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Rook and Two Connected Pawns versus Rook
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Qssm0UBL
+    - Found: blockades
+    - All found aliases: blockades, passed pawns, pinning, plan
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: blockading
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Box Mate
+
+Aliases: box mate, box mate (rook mate)
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Named Mate: box mate
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Named Mate: box mate
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+
+
+## Concept: Break the Pin
+
+Aliases: break the pin, pin break, pin broken
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Tactical Motif: break the pin
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Tactical Motif: break the pin
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+
+
+## Concept: Calculation
+
+Aliases: calculate, calculated, calculates, calculating, calculation, calculations
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 8
+    - Chapter URL: https://lichess.org/study/pEF9QCic/mWPKMZ1W
+    - Found: calculating
+    - All found aliases: calculating, develop, developed, initiative, material, plan, seize the initiative, threat, threats
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Found: calculate
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/o59gT8ZH
+    - Found: calculate
+    - All found aliases: calculate, double attack, plans, threat, threatening
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Alekhine's Sting II
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/ppNu9nSz
+    - Found: calculate
+    - All found aliases: calculate, gain a tempo, isolani, material, pinned, two bishops
+  - Chapter: Black: \"What, me worry?\
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/n3ikXUxW
+    - Found: calculate
+    - All found aliases: calculate, material, pinned, sacrifice, threatened, threatening
+  - Chapter: Black \"What, me worry?\"; again
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/SszEToEr
+    - Found: calculate
+    - All found aliases: calculate, pinned, sacrifice
+  - Chapter: White: \"What, me worry?\
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/kt1wIbrY
+    - Found: calculate
+    - All found aliases: calculate, center, discovered check, pin, sacrifice, threat, threatening
+  - Chapter: Queenside Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/s2zJpwHc
+    - Found: calculate
+    - All found aliases: calculate, material, sacrifice, sacrifices, threat, threatening
+  - Chapter: King in the Center Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/yG4ujqAW
+    - Found: calculate
+    - All found aliases: calculate, material, retreat, threatened, threatening
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Found: calculate
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: calculate, calculating
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: calculate, calculating
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/qbqePrWd
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, candidate moves, rules of thumb
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/qbqePrWd
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, candidate moves, rules of thumb
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/qbqePrWd
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, candidate moves, rules of thumb
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/8MWN0xFK
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, candidate, combinations, sacrifices
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/8MWN0xFK
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, candidate, combinations, sacrifices
+  - Chapter: No Calculation Required I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/9tQb9KCp
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, corresponding squares, key squares, opposition, rules of thumb
+  - Chapter: No Calculation Required I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/9tQb9KCp
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, corresponding squares, key squares, opposition, rules of thumb
+  - Chapter: No Calculation Required I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/9tQb9KCp
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, corresponding squares, key squares, opposition, rules of thumb
+  - Chapter: No Calculation Required II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PadTQzzl
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation
+  - Chapter: No Calculation Required II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PadTQzzl
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation
+  - Chapter: How Many Moves Can You Calculate Ahead? I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/azsexh4P
+    - Found: calculate
+    - All found aliases: back-rank mate, calculate
+  - Chapter: How Many Moves Can You Calculate Ahead? II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/lgTEA2Ui
+    - Found: calculate
+    - All found aliases: calculate, candidate, candidate moves, candidates, material, pin, threatening
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Straight-line Calculation? That depends. II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/r3InPnvF
+    - Found: calculated, calculation
+    - All found aliases: calculated, calculation, threatening
+  - Chapter: Straight-line Calculation? That depends. II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/r3InPnvF
+    - Found: calculated, calculation
+    - All found aliases: calculated, calculation, threatening
+  - Chapter: Straight-line Calculation? That depends. III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/R4VpMNSt
+    - Found: calculation
+    - All found aliases: calculation, sacrifice, threatening
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/xbeAVC8Y
+    - Found: calculations
+    - All found aliases: calculations, candidate, gain a tempo, maneuver, retreats, sacrifices
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: calculating, calculation
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: calculating, calculation
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: calculate, calculated, calculating, calculation, calculations
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: calculate, calculated, calculating, calculation, calculations
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: calculate, calculated, calculating, calculation, calculations
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: calculate, calculated, calculating, calculation, calculations
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: calculate, calculated, calculating, calculation, calculations
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Found: calculated, calculating, calculation, calculations
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Found: calculated, calculating, calculation, calculations
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Found: calculated, calculating, calculation, calculations
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Found: calculated, calculating, calculation, calculations
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+  - Chapter: The Impossible Square
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/dZjOPt3J
+    - Found: calculating
+    - All found aliases: calculating
+  - Chapter: The Blind Spot  (Blumenfeld's Rule)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/O4Pnrloy
+    - Found: calculations
+    - All found aliases: backward moves, calculations, king safety, material
+  - Chapter: Exercise 6
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PrvAJZHP
+    - Found: calculate, calculations
+    - All found aliases: calculate, calculations, candidate, candidates, planned, restricting
+  - Chapter: Exercise 6
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PrvAJZHP
+    - Found: calculate, calculations
+    - All found aliases: calculate, calculations, candidate, candidates, planned, restricting
+  - Chapter: Improving Visualization (APROP)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsHod0mh
+    - Found: calculate, calculates, calculation
+    - All found aliases: calculate, calculates, calculation, candidates
+  - Chapter: Improving Visualization (APROP)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsHod0mh
+    - Found: calculate, calculates, calculation
+    - All found aliases: calculate, calculates, calculation, candidates
+  - Chapter: Improving Visualization (APROP)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsHod0mh
+    - Found: calculate, calculates, calculation
+    - All found aliases: calculate, calculates, calculation, candidates
+  - Chapter: Improving Visualization  II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/tWxtJPjH
+    - Found: calculate
+    - All found aliases: calculate, mating net, pinning
+  - Chapter: How Many Candidate Moves to Examine?
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/JaG8vtZj
+    - Found: calculated, calculation
+    - All found aliases: calculated, calculation, candidate moves, candidates, simplification, threat
+  - Chapter: How Many Candidate Moves to Examine?
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/JaG8vtZj
+    - Found: calculated, calculation
+    - All found aliases: calculated, calculation, candidate moves, candidates, simplification, threat
+  - Chapter: Kotov's Three Factors for Calculation Success
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/twwzRVRz
+    - Found: calculation
+    - All found aliases: calculation, candidate, perpetual, threatening
+  - Chapter: Kotov on the Creative Process of Calculation
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/HwKUJ5Zq
+    - Found: calculate
+    - All found aliases: calculate, candidates, material, plan, quiet move, quiet moves, threatening
+  - Chapter: Exercise 8 (Unexpected Move)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ALCC0Zua
+    - Found: calculated
+    - All found aliases: calculated, candidate, passed pawns, sacrifice
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: calculating, calculation
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: calculating, calculation
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: To Analyze or Not to Analyze I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0EMZaI7T
+    - Found: calculate
+    - All found aliases: calculate, material
+  - Chapter: Time Trouble I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/12IYsL9F
+    - Found: calculation
+    - All found aliases: calculation, candidate moves, forking, pressure
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: calculating, calculation
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: calculating, calculation
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: calculation
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Curriculum
+  - Study URL: https://lichess.org/study/VHcKZ37M
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/ix21n4Vk
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, combinations, material, pawn structure, pawn structures, structures
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/ix21n4Vk
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, combinations, material, pawn structure, pawn structures, structures
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/4TFpQNtd
+    - Found: calculation
+    - All found aliases: calculation, material, pawn structures, structure
+  - Chapter: Move Selection: Planning and Calculating
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/FZbm4pWi
+    - Found: calculate
+    - All found aliases: calculate, plan
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/T0plr9Dv
+    - Found: calculating
+    - All found aliases: calculating, candidate moves, pawn structure, pawn structures, planning, simplified
+  - Chapter: Orientation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/mHKJVcyj
+    - Found: calculation
+    - All found aliases: calculation, forks, imbalances, initiative, king safety, lucena position, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: calculate, calculates, calculating, calculation
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: calculate, calculates, calculating, calculation
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: calculate, calculates, calculating, calculation
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: calculate, calculates, calculating, calculation
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Positional Judgement I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/1jCcl5st
+    - Found: calculation
+    - All found aliases: calculation, center, imbalances, pawn structure, pawn structures, space
+  - Chapter: Positional Judgement II: Open Lines
+    - Chapter URL: https://lichess.org/study/1O0UELn6/4M5Wq8VQ
+    - Found: calculation, calculations
+    - All found aliases: calculation, calculations, initiative, material, pawn structure, pressure, weak pawns
+  - Chapter: Positional Judgement II: Open Lines
+    - Chapter URL: https://lichess.org/study/1O0UELn6/4M5Wq8VQ
+    - Found: calculation, calculations
+    - All found aliases: calculation, calculations, initiative, material, pawn structure, pressure, weak pawns
+
+- Study: Advanced: Table of Contents
+  - Study URL: https://lichess.org/study/RI1x6Hxb
+  - Chapter: TOC
+    - Chapter URL: https://lichess.org/study/RI1x6Hxb/OjX0rahM
+    - Found: calculating
+    - All found aliases: calculating, planning
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JmlHUiuP
+    - Found: calculate
+    - All found aliases: calculate, candidate, center, pawn structure
+  - Chapter: Orientation to a position
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Qv1Qxa9v
+    - Found: calculation
+    - All found aliases: calculation, imbalances, initiative, king safety, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: calculate
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: calculate, calculation
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: calculate, calculation
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #32, #33
+    - Chapter URL: https://lichess.org/study/49AuOOCo/jtT7DsE2
+    - Found: calculate
+    - All found aliases: calculate, center, counterplay, formation, minority, pawn structure, pawn structures, pins, plan, plans, pressure, structure
+  - Chapter: RYCW #34
+    - Chapter URL: https://lichess.org/study/49AuOOCo/PbLdR8Bt
+    - Found: calculate, calculating
+    - All found aliases: calculate, calculating, candidate, center, developed, threat
+  - Chapter: RYCW #34
+    - Chapter URL: https://lichess.org/study/49AuOOCo/PbLdR8Bt
+    - Found: calculate, calculating
+    - All found aliases: calculate, calculating, candidate, center, developed, threat
+  - Chapter: RYCW #36
+    - Chapter URL: https://lichess.org/study/49AuOOCo/udNTzK0j
+    - Found: calculate
+    - All found aliases: calculate, center, plan, threatening, two bishops
+  - Chapter: RYCW #40
+    - Chapter URL: https://lichess.org/study/49AuOOCo/kyt1auLh
+    - Found: calculate
+    - All found aliases: calculate, candidates, center, classical pawn, pawn break, plan, planning, retreat, space, threatening
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: calculated
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Found: calculate, calculation
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Found: calculate, calculation
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+  - Chapter: TLG #145
+    - Chapter URL: https://lichess.org/study/49AuOOCo/gs829rtA
+    - Found: calculation
+    - All found aliases: calculation, material, minority, pawn structure, pawn structures, pawn weaknesses, plan, plans, sacrifices, simplification, space, structure, tempi, threatening, two bishops
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/MtdR3swx
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/MtdR3swx
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: calculation
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: Progress so far. Next steps.
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/8oCbsR2I
+    - Found: calculation
+    - All found aliases: calculation, candidate moves, material, plan, restrict
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: calculate
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: References I [A-M]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/xEKJ6WbA
+    - Found: calculate
+    - All found aliases: calculate, candidate, center, classical school, material, pawn structures, structures
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Found: calculation
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Colle, Edgar - Rubinstein, Akiba
+    - Chapter URL: https://lichess.org/study/6P90HTwf/ezohuCNS
+    - Found: calculated
+    - All found aliases: calculated, center, passed pawn, passed pawns, threatening
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: L-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ACnC3zO1
+    - Found: calculation
+    - All found aliases: calculation, doubled pawns
+  - Chapter: N-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ALf1N5Hm
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, center, pawn structure
+  - Chapter: N-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ALf1N5Hm
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, center, pawn structure
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: calculate
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: calculate
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+
+- Study: King and Pawn Endgames II
+  - Study URL: https://lichess.org/study/J4xrM4nV
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/J4xrM4nV/V2ZfOQYF
+    - Found: calculation
+    - All found aliases: calculation, plan, restrict, tempo, threatening
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/MtdR3swx
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/MtdR3swx
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: calculation
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: Progress so far. Next steps.
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/8oCbsR2I
+    - Found: calculation
+    - All found aliases: calculation, candidate moves, material, plan, restrict
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: calculate
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: References I [A-M]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/xEKJ6WbA
+    - Found: calculate
+    - All found aliases: calculate, candidate, center, classical school, material, pawn structures, structures
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Found: calculation
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: L-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ACnC3zO1
+    - Found: calculation
+    - All found aliases: calculation, doubled pawns
+  - Chapter: N-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ALf1N5Hm
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, center, pawn structure
+  - Chapter: N-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ALf1N5Hm
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, center, pawn structure
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: calculate
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: calculate
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: L-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ACnC3zO1
+    - Found: calculation
+    - All found aliases: calculation, doubled pawns
+  - Chapter: N-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ALf1N5Hm
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, center, pawn structure
+  - Chapter: N-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ALf1N5Hm
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, center, pawn structure
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: calculate
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: calculate
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/qbqePrWd
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, candidate moves, rules of thumb
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/qbqePrWd
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, candidate moves, rules of thumb
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/qbqePrWd
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, candidate moves, rules of thumb
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/8MWN0xFK
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, candidate, combinations, sacrifices
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/8MWN0xFK
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, candidate, combinations, sacrifices
+  - Chapter: No Calculation Required I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/9tQb9KCp
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, corresponding squares, key squares, opposition, rules of thumb
+  - Chapter: No Calculation Required I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/9tQb9KCp
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, corresponding squares, key squares, opposition, rules of thumb
+  - Chapter: No Calculation Required I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/9tQb9KCp
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, corresponding squares, key squares, opposition, rules of thumb
+  - Chapter: No Calculation Required II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PadTQzzl
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation
+  - Chapter: No Calculation Required II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PadTQzzl
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation
+  - Chapter: How Many Moves Can You Calculate Ahead? I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/azsexh4P
+    - Found: calculate
+    - All found aliases: back-rank mate, calculate
+  - Chapter: How Many Moves Can You Calculate Ahead? II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/lgTEA2Ui
+    - Found: calculate
+    - All found aliases: calculate, candidate, candidate moves, candidates, material, pin, threatening
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Found: calculate, calculating, calculation
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Straight-line Calculation? That depends. II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/r3InPnvF
+    - Found: calculated, calculation
+    - All found aliases: calculated, calculation, threatening
+  - Chapter: Straight-line Calculation? That depends. II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/r3InPnvF
+    - Found: calculated, calculation
+    - All found aliases: calculated, calculation, threatening
+  - Chapter: Straight-line Calculation? That depends. III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/R4VpMNSt
+    - Found: calculation
+    - All found aliases: calculation, sacrifice, threatening
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/xbeAVC8Y
+    - Found: calculations
+    - All found aliases: calculations, candidate, gain a tempo, maneuver, retreats, sacrifices
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: calculating, calculation
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: calculating, calculation
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: calculate, calculated, calculating, calculation, calculations
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: calculate, calculated, calculating, calculation, calculations
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: calculate, calculated, calculating, calculation, calculations
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: calculate, calculated, calculating, calculation, calculations
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: calculate, calculated, calculating, calculation, calculations
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Found: calculated, calculating, calculation, calculations
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Found: calculated, calculating, calculation, calculations
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Found: calculated, calculating, calculation, calculations
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Found: calculated, calculating, calculation, calculations
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+  - Chapter: The Impossible Square
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/dZjOPt3J
+    - Found: calculating
+    - All found aliases: calculating
+  - Chapter: The Blind Spot  (Blumenfeld's Rule)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/O4Pnrloy
+    - Found: calculations
+    - All found aliases: backward moves, calculations, king safety, material
+  - Chapter: Exercise 6
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PrvAJZHP
+    - Found: calculate, calculations
+    - All found aliases: calculate, calculations, candidate, candidates, planned, restricting
+  - Chapter: Exercise 6
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PrvAJZHP
+    - Found: calculate, calculations
+    - All found aliases: calculate, calculations, candidate, candidates, planned, restricting
+  - Chapter: Improving Visualization (APROP)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsHod0mh
+    - Found: calculate, calculates, calculation
+    - All found aliases: calculate, calculates, calculation, candidates
+  - Chapter: Improving Visualization (APROP)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsHod0mh
+    - Found: calculate, calculates, calculation
+    - All found aliases: calculate, calculates, calculation, candidates
+  - Chapter: Improving Visualization (APROP)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsHod0mh
+    - Found: calculate, calculates, calculation
+    - All found aliases: calculate, calculates, calculation, candidates
+  - Chapter: Improving Visualization  II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/tWxtJPjH
+    - Found: calculate
+    - All found aliases: calculate, mating net, pinning
+  - Chapter: How Many Candidate Moves to Examine?
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/JaG8vtZj
+    - Found: calculated, calculation
+    - All found aliases: calculated, calculation, candidate moves, candidates, simplification, threat
+  - Chapter: How Many Candidate Moves to Examine?
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/JaG8vtZj
+    - Found: calculated, calculation
+    - All found aliases: calculated, calculation, candidate moves, candidates, simplification, threat
+  - Chapter: Kotov's Three Factors for Calculation Success
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/twwzRVRz
+    - Found: calculation
+    - All found aliases: calculation, candidate, perpetual, threatening
+  - Chapter: Kotov on the Creative Process of Calculation
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/HwKUJ5Zq
+    - Found: calculate
+    - All found aliases: calculate, candidates, material, plan, quiet move, quiet moves, threatening
+  - Chapter: Exercise 8 (Unexpected Move)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ALCC0Zua
+    - Found: calculated
+    - All found aliases: calculated, candidate, passed pawns, sacrifice
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Found: calculate, calculation
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: calculating, calculation
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: calculating, calculation
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: calculate, calculating, calculation, calculations
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: To Analyze or Not to Analyze I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0EMZaI7T
+    - Found: calculate
+    - All found aliases: calculate, material
+  - Chapter: Time Trouble I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/12IYsL9F
+    - Found: calculation
+    - All found aliases: calculation, candidate moves, forking, pressure
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: calculating, calculation
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: calculating, calculation
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: calculation
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Candidate Moves
+
+Aliases: candidate, candidate moves, candidates
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/pEF9QCic/LSqGUiSP
+    - Found: candidate moves
+    - All found aliases: candidate moves, pawn structure, pawn structures, silman's imbalances
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/P1sL2kbN
+    - Found: candidate moves
+    - All found aliases: candidate moves, pawn structure, pawn structures, silman's imbalances
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: A Bad Plan Is Better Than No Plan
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
+    - Found: candidate
+    - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, pin, plan, sacrifice, threat, threatening, weak square
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/qbqePrWd
+    - Found: candidate moves
+    - All found aliases: calculate, calculating, calculation, candidate moves, rules of thumb
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/8MWN0xFK
+    - Found: candidate
+    - All found aliases: calculate, calculation, candidate, combinations, sacrifices
+  - Chapter: How Many Moves Can You Calculate Ahead? II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/lgTEA2Ui
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: calculate, candidate, candidate moves, candidates, material, pin, threatening
+  - Chapter: How Many Moves Can You Calculate Ahead? II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/lgTEA2Ui
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: calculate, candidate, candidate moves, candidates, material, pin, threatening
+  - Chapter: How Many Moves Can You Calculate Ahead? II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/lgTEA2Ui
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: calculate, candidate, candidate moves, candidates, material, pin, threatening
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/xbeAVC8Y
+    - Found: candidate
+    - All found aliases: calculations, candidate, gain a tempo, maneuver, retreats, sacrifices
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: candidate, candidates
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: candidate, candidates
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: candidate, candidates
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: candidate, candidates
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Found: candidate, candidates
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Found: candidate, candidates
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Found: candidate, candidates
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Found: candidate, candidates
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+  - Chapter: Exercise 6
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PrvAJZHP
+    - Found: candidate, candidates
+    - All found aliases: calculate, calculations, candidate, candidates, planned, restricting
+  - Chapter: Exercise 6
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PrvAJZHP
+    - Found: candidate, candidates
+    - All found aliases: calculate, calculations, candidate, candidates, planned, restricting
+  - Chapter: Improving Visualization (APROP)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsHod0mh
+    - Found: candidates
+    - All found aliases: calculate, calculates, calculation, candidates
+  - Chapter: How Many Candidate Moves to Examine?
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/JaG8vtZj
+    - Found: candidate moves, candidates
+    - All found aliases: calculated, calculation, candidate moves, candidates, simplification, threat
+  - Chapter: How Many Candidate Moves to Examine?
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/JaG8vtZj
+    - Found: candidate moves, candidates
+    - All found aliases: calculated, calculation, candidate moves, candidates, simplification, threat
+  - Chapter: Kotov's Three Factors for Calculation Success
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/twwzRVRz
+    - Found: candidate
+    - All found aliases: calculation, candidate, perpetual, threatening
+  - Chapter: Kotov on the Creative Process of Calculation
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/HwKUJ5Zq
+    - Found: candidates
+    - All found aliases: calculate, candidates, material, plan, quiet move, quiet moves, threatening
+  - Chapter: Exercise 8 (Unexpected Move)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ALCC0Zua
+    - Found: candidate
+    - All found aliases: calculated, candidate, passed pawns, sacrifice
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Found: candidate moves
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: candidate, candidates
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: candidate, candidates
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Time Trouble I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/12IYsL9F
+    - Found: candidate moves
+    - All found aliases: calculation, candidate moves, forking, pressure
+  - Chapter: Exercise 15
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/BgC8bw52
+    - Found: candidate, candidates
+    - All found aliases: candidate, candidates, deflecting, double attack, pin
+  - Chapter: Exercise 15
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/BgC8bw52
+    - Found: candidate, candidates
+    - All found aliases: candidate, candidates, deflecting, double attack, pin
+  - Chapter: Exercise 16
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bSFwHEaa
+    - Found: candidate
+    - All found aliases: candidate, threatening
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Found: candidate
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: candidates
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/T0plr9Dv
+    - Found: candidate moves
+    - All found aliases: calculating, candidate moves, pawn structure, pawn structures, planning, simplified
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JmlHUiuP
+    - Found: candidate
+    - All found aliases: calculate, candidate, center, pawn structure
+  - Chapter: RYCW #29
+    - Chapter URL: https://lichess.org/study/49AuOOCo/I2nt3Aan
+    - Found: candidate moves
+    - All found aliases: candidate moves
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: candidates
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: candidate, candidates
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: candidate, candidates
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #31
+    - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
+    - Found: candidate
+    - All found aliases: candidate, chain, initiative, isolated, material, pawn chain, plan, plans, retreat, sacrifice, threat
+  - Chapter: RYCW #34
+    - Chapter URL: https://lichess.org/study/49AuOOCo/PbLdR8Bt
+    - Found: candidate
+    - All found aliases: calculate, calculating, candidate, center, developed, threat
+  - Chapter: RYCW #40
+    - Chapter URL: https://lichess.org/study/49AuOOCo/kyt1auLh
+    - Found: candidates
+    - All found aliases: calculate, candidates, center, classical pawn, pawn break, plan, planning, retreat, space, threatening
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Found: candidate moves
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Progress so far. Next steps.
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/8oCbsR2I
+    - Found: candidate moves
+    - All found aliases: calculation, candidate moves, material, plan, restrict
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: candidate, candidate moves
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: candidate, candidate moves
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: References I [A-M]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/xEKJ6WbA
+    - Found: candidate
+    - All found aliases: calculate, candidate, center, classical school, material, pawn structures, structures
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Found: candidate, candidate moves
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Found: candidate, candidate moves
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: candidate
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: RKpk: Not Both on 4th
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/t6WAuxGu
+    - Found: candidate
+    - All found aliases: candidate, passed pawns, sacrifice
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Progress so far. Next steps.
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/8oCbsR2I
+    - Found: candidate moves
+    - All found aliases: calculation, candidate moves, material, plan, restrict
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: candidate, candidate moves
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: candidate, candidate moves
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: References I [A-M]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/xEKJ6WbA
+    - Found: candidate
+    - All found aliases: calculate, candidate, center, classical school, material, pawn structures, structures
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Found: candidate, candidate moves
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Found: candidate, candidate moves
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: candidate
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: RKpk: Not Both on 4th
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/t6WAuxGu
+    - Found: candidate
+    - All found aliases: candidate, passed pawns, sacrifice
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Found: candidate, candidate moves
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Found: candidate, candidate moves
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: candidate
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: RKpk: Not Both on 4th
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/t6WAuxGu
+    - Found: candidate
+    - All found aliases: candidate, passed pawns, sacrifice
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/qbqePrWd
+    - Found: candidate moves
+    - All found aliases: calculate, calculating, calculation, candidate moves, rules of thumb
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/8MWN0xFK
+    - Found: candidate
+    - All found aliases: calculate, calculation, candidate, combinations, sacrifices
+  - Chapter: How Many Moves Can You Calculate Ahead? II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/lgTEA2Ui
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: calculate, candidate, candidate moves, candidates, material, pin, threatening
+  - Chapter: How Many Moves Can You Calculate Ahead? II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/lgTEA2Ui
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: calculate, candidate, candidate moves, candidates, material, pin, threatening
+  - Chapter: How Many Moves Can You Calculate Ahead? II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/lgTEA2Ui
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: calculate, candidate, candidate moves, candidates, material, pin, threatening
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/xbeAVC8Y
+    - Found: candidate
+    - All found aliases: calculations, candidate, gain a tempo, maneuver, retreats, sacrifices
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: candidate, candidates
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: candidate, candidates
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: candidate, candidates
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: candidate, candidates
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Found: candidate, candidates
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Found: candidate, candidates
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Found: candidate, candidates
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Found: candidate, candidates
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+  - Chapter: Exercise 6
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PrvAJZHP
+    - Found: candidate, candidates
+    - All found aliases: calculate, calculations, candidate, candidates, planned, restricting
+  - Chapter: Exercise 6
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PrvAJZHP
+    - Found: candidate, candidates
+    - All found aliases: calculate, calculations, candidate, candidates, planned, restricting
+  - Chapter: Improving Visualization (APROP)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsHod0mh
+    - Found: candidates
+    - All found aliases: calculate, calculates, calculation, candidates
+  - Chapter: How Many Candidate Moves to Examine?
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/JaG8vtZj
+    - Found: candidate moves, candidates
+    - All found aliases: calculated, calculation, candidate moves, candidates, simplification, threat
+  - Chapter: How Many Candidate Moves to Examine?
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/JaG8vtZj
+    - Found: candidate moves, candidates
+    - All found aliases: calculated, calculation, candidate moves, candidates, simplification, threat
+  - Chapter: Kotov's Three Factors for Calculation Success
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/twwzRVRz
+    - Found: candidate
+    - All found aliases: calculation, candidate, perpetual, threatening
+  - Chapter: Kotov on the Creative Process of Calculation
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/HwKUJ5Zq
+    - Found: candidates
+    - All found aliases: calculate, candidates, material, plan, quiet move, quiet moves, threatening
+  - Chapter: Exercise 8 (Unexpected Move)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ALCC0Zua
+    - Found: candidate
+    - All found aliases: calculated, candidate, passed pawns, sacrifice
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Found: candidate moves
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: candidate, candidate moves, candidates
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: candidate, candidates
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: candidate, candidates
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Time Trouble I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/12IYsL9F
+    - Found: candidate moves
+    - All found aliases: calculation, candidate moves, forking, pressure
+  - Chapter: Exercise 15
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/BgC8bw52
+    - Found: candidate, candidates
+    - All found aliases: candidate, candidates, deflecting, double attack, pin
+  - Chapter: Exercise 15
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/BgC8bw52
+    - Found: candidate, candidates
+    - All found aliases: candidate, candidates, deflecting, double attack, pin
+  - Chapter: Exercise 16
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bSFwHEaa
+    - Found: candidate
+    - All found aliases: candidate, threatening
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Found: candidate
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: candidates
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Cat-and-Mouse Technique
+
+Aliases: cat and mouse, cat-and-mouse, cat-and-mouse technique
+
+Appears In:
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Found: cat and mouse
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Found: cat and mouse
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Found: cat and mouse
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+
+
+## Concept: Center Control
+
+Aliases: center, center control, central control, control the center
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Found: center
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 2
+    - Chapter URL: https://lichess.org/study/pEF9QCic/5Lb60MIz
+    - Found: center
+    - All found aliases: center, developing, discovered check, fork, king safety, pawn structure, plan, pressure, threaten, threatening
+  - Chapter: Annotate 4
+    - Chapter URL: https://lichess.org/study/pEF9QCic/r2lDGzev
+    - Found: center
+    - All found aliases: center, discovered check, forking, initiative, pinned, pinning, removing the defender, retreat, threatening
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: center
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 7
+    - Chapter URL: https://lichess.org/study/pEF9QCic/m8rZVb9h
+    - Found: center
+    - All found aliases: center, clearance, compensation, develop, double attacks, initiative, pin, pinned, sacrifice, threatening, threats
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Found: center, control the center
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Found: center, control the center
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/pEF9QCic/XuYJQwWp
+    - Found: center
+    - All found aliases: center, discovered check, initiative, majority, minority, pawn structures, plan, plans, restrict, retreat, structure, tempo, threat, threaten, threatening
+  - Chapter: Annotate 11
+    - Chapter URL: https://lichess.org/study/pEF9QCic/680zAJGQ
+    - Found: center
+    - All found aliases: center, mobilized, threats
+  - Chapter: Annotate 12
+    - Chapter URL: https://lichess.org/study/pEF9QCic/fGNoUJN0
+    - Found: center
+    - All found aliases: center, combination, compensation, developing, plan, threatening
+  - Chapter: Annotate 13
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oSar8sm6
+    - Found: center
+    - All found aliases: center, classical center, combination, discovered check, pawn formation, pinned, retreat, threatened
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Found: center
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+  - Chapter: Annotate 15
+    - Chapter URL: https://lichess.org/study/pEF9QCic/xpogdCvR
+    - Found: center
+    - All found aliases: bad bishop, center, counterplay, develop, discovered check, majority, material, pinned, plan, restrict, threatening
+  - Chapter: Annotate 16
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oOYrqEZF
+    - Found: center
+    - All found aliases: bad bishop, bishop pair, center, compensation, discovery, doubled pawns, material, mating net, pin, pins, plan, sacrifice, two bishops
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Awkward Piece Placement
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2bs65ZwO
+    - Found: center
+    - All found aliases: center, chain, closed, outpost, pawn chain, pawn formation, plan, plans, pressure, retreat, threatening
+  - Chapter: Double Finachettoes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/DrwAR6qc
+    - Found: center
+    - All found aliases: center, hypermodern, key squares, maneuver, pawn structure, pinned, plan, plans, retreat
+  - Chapter: Superior Majority
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/9Cb11DuC
+    - Found: center
+    - All found aliases: center, passed pawns, zwischenzug
+  - Chapter: White: \"What, me worry?\
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/kt1wIbrY
+    - Found: center
+    - All found aliases: calculate, center, discovered check, pin, sacrifice, threat, threatening
+  - Chapter: Planless Play
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/iAHjTLPE
+    - Found: center
+    - All found aliases: center, classical pawn, cramped position, plan, sacrificed, threatening
+  - Chapter: A Bad Plan Is Better Than No Plan
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
+    - Found: center
+    - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, pin, plan, sacrifice, threat, threatening, weak square
+  - Chapter: When Not to Lock the Center
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/Tv7kkzHW
+    - Found: center
+    - All found aliases: center
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Found: center
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: center
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Found: center
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: center
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: center
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Found: center
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: center
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Curriculum
+  - Study URL: https://lichess.org/study/VHcKZ37M
+  - Chapter: Opening
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/hw3QuYDc
+    - Found: center
+    - All found aliases: center
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Orientation Example
+    - Chapter URL: https://lichess.org/study/1O0UELn6/s81l1Xs5
+    - Found: center
+    - All found aliases: center, fork, imbalances, initiative, king safety, material, pawn structure, plans, pressure, space, threatening, threats
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: center
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Found: center
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+  - Chapter: Planning III: Piece Placement
+    - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
+    - Found: center
+    - All found aliases: center, developing, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+  - Chapter: Planning IV: Natural Moves May Not Be Good Enough
+    - Chapter URL: https://lichess.org/study/1O0UELn6/rDY9RpZ6
+    - Found: center
+    - All found aliases: backward pawn, center, constricted, initiative, material, mobility, passed pawn, plan, pressure, restricted, sacrificing, threats
+  - Chapter: Planning V: Be Flexible
+    - Chapter URL: https://lichess.org/study/1O0UELn6/efkxhMhp
+    - Found: center
+    - All found aliases: center, fork, pinned, plan, plans, threat, threatening, threats, undermine, undermining
+  - Chapter: Planning VI: Pawn Structures
+    - Chapter URL: https://lichess.org/study/1O0UELn6/L5R84drq
+    - Found: center
+    - All found aliases: center, closed, formations, mobile, pawn formation, pawn structure, pawn structures, planning, plans, structures, tension
+  - Chapter: Positional Judgement I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/1jCcl5st
+    - Found: center
+    - All found aliases: calculation, center, imbalances, pawn structure, pawn structures, space
+  - Chapter: Positional Judgement III: Open Lines: Example I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/2DrdjkKg
+    - Found: center
+    - All found aliases: center, doubled, doubled pawns, doubling, material, plan, tempi, tempo, threatened
+  - Chapter: Positional Judgement IV: Open Lines: Example II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/RHyLds3Y
+    - Found: center
+    - All found aliases: center, mobile, mobilize, pin, pinned, plan, sacrificing, tension, threatening
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/WSL5QMD1
+    - Found: center
+    - All found aliases: bad bishop, center, counterplay, cramp, doubled, good bishop, outpost, outposts, plan, pressure, waiting move, weak squares
+  - Chapter: Positional Judgement VI: Position of the Pieces III
+    - Chapter URL: https://lichess.org/study/1O0UELn6/Vi1pHIHN
+    - Found: control the center
+    - All found aliases: control the center, counterplay, passed pawn, sacrifice
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JmlHUiuP
+    - Found: center
+    - All found aliases: calculate, candidate, center, pawn structure
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: center
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: RYCW #29   - What would TLG say
+    - Chapter URL: https://lichess.org/study/49AuOOCo/QGGnwKgX
+    - Found: center
+    - All found aliases: center, closed, counter-attacking, plan, pressure
+  - Chapter: RYCW #29 - How the position occurred
+    - Chapter URL: https://lichess.org/study/49AuOOCo/oyfIpu0v
+    - Found: center
+    - All found aliases: center, closed, discovered attack, pin, plans, tempi
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Found: center
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: RYCW #32, #33
+    - Chapter URL: https://lichess.org/study/49AuOOCo/jtT7DsE2
+    - Found: center
+    - All found aliases: calculate, center, counterplay, formation, minority, pawn structure, pawn structures, pins, plan, plans, pressure, structure
+  - Chapter: RYCW #34
+    - Chapter URL: https://lichess.org/study/49AuOOCo/PbLdR8Bt
+    - Found: center
+    - All found aliases: calculate, calculating, candidate, center, developed, threat
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Found: center, central control
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Found: center, central control
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #36
+    - Chapter URL: https://lichess.org/study/49AuOOCo/udNTzK0j
+    - Found: center
+    - All found aliases: calculate, center, plan, threatening, two bishops
+  - Chapter: RYCW #37
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Wnnf3YyJ
+    - Found: center
+    - All found aliases: bad bishop, center, chain, closed, imbalances, maneuver, pawn chain, pawn chains, pawn formation, pawn structure, pinned, plan, plans, retreat, space
+  - Chapter: RYCW #38
+    - Chapter URL: https://lichess.org/study/49AuOOCo/b3Iv75Uh
+    - Found: center
+    - All found aliases: center, closed, closed position, pawn chain, pawn formation, pawn structure, plan, plans
+  - Chapter: RYCW #39
+    - Chapter URL: https://lichess.org/study/49AuOOCo/9r0zd2RI
+    - Found: center
+    - All found aliases: center, pin
+  - Chapter: RYCW #40
+    - Chapter URL: https://lichess.org/study/49AuOOCo/kyt1auLh
+    - Found: center
+    - All found aliases: calculate, candidates, center, classical pawn, pawn break, plan, planning, retreat, space, threatening
+  - Chapter: RYCW #41
+    - Chapter URL: https://lichess.org/study/49AuOOCo/DX2OIF6M
+    - Found: center
+    - All found aliases: center, closed, formation, pawn chains, pawn structure, pawn structures, space, tension
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Found: center
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: center
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: center
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: References I [A-M]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/xEKJ6WbA
+    - Found: center
+    - All found aliases: calculate, candidate, center, classical school, material, pawn structures, structures
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General IV
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/lgXSLE20
+    - Found: center
+    - All found aliases: center, maneuver, maneuvering
+  - Chapter: 2PBKbk: Opposite Color Bishops General V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/ZsDpi5OZ
+    - Found: center
+    - All found aliases: blockade, center, chain, retreat
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: center
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Black plays ...Nbd7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/SDgxfVCK
+    - Found: center
+    - All found aliases: bishop pair, center, develops, fork, isolani, minority, pawn formation, pin, planned
+  - Chapter: Black omits ...c5
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8WbROLKA
+    - Found: center
+    - All found aliases: center, two bishops
+  - Chapter: Anti-Colle
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J6JKnaKB
+    - Found: center
+    - All found aliases: center, classical school, develop, doubled pawns, formation, key squares, plans, tempo, threat, two bishops
+  - Chapter: A hypermodern defense: East Indian Defense
+    - Chapter URL: https://lichess.org/study/6P90HTwf/XffXT7IM
+    - Found: center
+    - All found aliases: center, formation, pawn chain, planned
+  - Chapter: Salwe, Georg - Alapin, Simon
+    - Chapter URL: https://lichess.org/study/6P90HTwf/TSQw6fzo
+    - Found: center
+    - All found aliases: center, fork, majority, mobility, passed pawns, pins, threatening
+  - Chapter: Alekhine, Alexander  - Koehnlein, Friedrich
+    - Chapter URL: https://lichess.org/study/6P90HTwf/blyRVQCr
+    - Found: center
+    - All found aliases: center, combination, developed, pin, sacrifice
+  - Chapter: Jaffe, Charles - Roething, Otto
+    - Chapter URL: https://lichess.org/study/6P90HTwf/G3CxNgbl
+    - Found: center
+    - All found aliases: center, passed pawns, threaten, threatening
+  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+    - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
+    - Found: center
+    - All found aliases: center, closes, fork, mating net, plan, sacrifices, tension, threatening
+  - Chapter: Colle, Edgar - Euwe, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/YtNn4KhH
+    - Found: center
+    - All found aliases: center, combination, fork, formation, good bishop, pawn formation, pin, pinning, plans, retreat, threatening
+  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+    - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
+    - Found: center
+    - All found aliases: center, doubled, material, passed pawn, passed pawns, planning, retreat, simplifies, simplify, threatening
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Found: center
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Colle, Edgar - O'Hanlon, John James
+    - Chapter URL: https://lichess.org/study/6P90HTwf/CGy4flIt
+    - Found: center
+    - All found aliases: center, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Colle, Edgar - Rubinstein, Akiba
+    - Chapter URL: https://lichess.org/study/6P90HTwf/ezohuCNS
+    - Found: center
+    - All found aliases: calculated, center, passed pawn, passed pawns, threatening
+  - Chapter: Colle, Edgar - Michell, Reginald Pryce
+    - Chapter URL: https://lichess.org/study/6P90HTwf/omQHTftl
+    - Found: center
+    - All found aliases: center, isolated, isolated pawn, majority, restricts, retreats, threatening
+  - Chapter: Cristia, Jose Maria - Lynch, Julio
+    - Chapter URL: https://lichess.org/study/6P90HTwf/sF9MUmJ1
+    - Found: center
+    - All found aliases: center, sacrificing, threatening
+  - Chapter: Flohr, Salo - Walter, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8owQ6QBm
+    - Found: center
+    - All found aliases: center, combination, fork, passed, passed pawn, pinned, sacrifice, threatening
+  - Chapter: Black plays ...Nbd7 and ...Be7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/VsLs8V3T
+    - Found: center
+    - All found aliases: center, develops, fork, isolani, minority, pawn formation, pin, planned
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: B-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/CqR8xSGt
+    - Found: center
+    - All found aliases: center, outpost, planning, qualitative pawn majority
+  - Chapter: M-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/JUVvSdBk
+    - Found: center
+    - All found aliases: center, pawn majority, qualitative pawn majority
+  - Chapter: N-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ALf1N5Hm
+    - Found: center
+    - All found aliases: calculate, calculation, center, pawn structure
+  - Chapter: P-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/MPoJTaHc
+    - Found: center
+    - All found aliases: center, outpost, passed pawn, pawn structure, planning
+  - Chapter: S-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/nkFCfbme
+    - Found: center
+    - All found aliases: backward pawn, center, planning
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: RKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BXBY9U1j
+    - Found: center
+    - All found aliases: center, opposition, retreats, take the opposition, waiting move
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Found: center
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: NBKk: Why?
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/D5iJKu97
+    - Found: center
+    - All found aliases: center, threat
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: PRKrk: 5th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Tj3LPuLq
+    - Found: center
+    - All found aliases: center, lucena position, restrict, space, threatening
+  - Chapter: PRKrk: 4th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/jgO5zJ3T
+    - Found: center
+    - All found aliases: center, threatening
+  - Chapter: Exercise 7
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/uWDxkExc
+    - Found: center
+    - All found aliases: center
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: center
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: center
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: References I [A-M]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/xEKJ6WbA
+    - Found: center
+    - All found aliases: calculate, candidate, center, classical school, material, pawn structures, structures
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General IV
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/lgXSLE20
+    - Found: center
+    - All found aliases: center, maneuver, maneuvering
+  - Chapter: 2PBKbk: Opposite Color Bishops General V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/ZsDpi5OZ
+    - Found: center
+    - All found aliases: blockade, center, chain, retreat
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: B-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/CqR8xSGt
+    - Found: center
+    - All found aliases: center, outpost, planning, qualitative pawn majority
+  - Chapter: M-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/JUVvSdBk
+    - Found: center
+    - All found aliases: center, pawn majority, qualitative pawn majority
+  - Chapter: N-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ALf1N5Hm
+    - Found: center
+    - All found aliases: calculate, calculation, center, pawn structure
+  - Chapter: P-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/MPoJTaHc
+    - Found: center
+    - All found aliases: center, outpost, passed pawn, pawn structure, planning
+  - Chapter: S-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/nkFCfbme
+    - Found: center
+    - All found aliases: backward pawn, center, planning
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: RKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BXBY9U1j
+    - Found: center
+    - All found aliases: center, opposition, retreats, take the opposition, waiting move
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Found: center
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: NBKk: Why?
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/D5iJKu97
+    - Found: center
+    - All found aliases: center, threat
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: PRKrk: 5th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Tj3LPuLq
+    - Found: center
+    - All found aliases: center, lucena position, restrict, space, threatening
+  - Chapter: PRKrk: 4th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/jgO5zJ3T
+    - Found: center
+    - All found aliases: center, threatening
+  - Chapter: Exercise 7
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/uWDxkExc
+    - Found: center
+    - All found aliases: center
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General IV
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/lgXSLE20
+    - Found: center
+    - All found aliases: center, maneuver, maneuvering
+  - Chapter: 2PBKbk: Opposite Color Bishops General V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/ZsDpi5OZ
+    - Found: center
+    - All found aliases: blockade, center, chain, retreat
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: B-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/CqR8xSGt
+    - Found: center
+    - All found aliases: center, outpost, planning, qualitative pawn majority
+  - Chapter: M-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/JUVvSdBk
+    - Found: center
+    - All found aliases: center, pawn majority, qualitative pawn majority
+  - Chapter: N-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ALf1N5Hm
+    - Found: center
+    - All found aliases: calculate, calculation, center, pawn structure
+  - Chapter: P-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/MPoJTaHc
+    - Found: center
+    - All found aliases: center, outpost, passed pawn, pawn structure, planning
+  - Chapter: S-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/nkFCfbme
+    - Found: center
+    - All found aliases: backward pawn, center, planning
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: RKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BXBY9U1j
+    - Found: center
+    - All found aliases: center, opposition, retreats, take the opposition, waiting move
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Found: center
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: NBKk: Why?
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/D5iJKu97
+    - Found: center
+    - All found aliases: center, threat
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: PRKrk: 5th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Tj3LPuLq
+    - Found: center
+    - All found aliases: center, lucena position, restrict, space, threatening
+  - Chapter: PRKrk: 4th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/jgO5zJ3T
+    - Found: center
+    - All found aliases: center, threatening
+  - Chapter: Exercise 7
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/uWDxkExc
+    - Found: center
+    - All found aliases: center
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Found: center
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: center
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: center
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Found: center
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: center
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Centralization
+
+Aliases: centralize, centralized, centralizes, centralizing
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: centralizing
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: centralized
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKnk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/6ZTGzoXh
+    - Found: centralized
+    - All found aliases: centralized, fork, material, pins, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKnk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/6ZTGzoXh
+    - Found: centralized
+    - All found aliases: centralized, fork, material, pins, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKnk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/6ZTGzoXh
+    - Found: centralized
+    - All found aliases: centralized, fork, material, pins, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: centralizing
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Classical School
+
+Aliases: classical approach, classical center, classical chess, classical concept, classical dream, classical fashion, classical idea, classical move, classical moves, classical opening, classical or hypermodern, classical pawn, classical response, classical school, classical school, classical school's, classical sequence, classical style, classical theory, classical way, classically dogmatic
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 13
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oSar8sm6
+    - Found: classical center
+    - All found aliases: center, classical center, combination, discovered check, pawn formation, pinned, retreat, threatened
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Found: classical school
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Planless Play
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/iAHjTLPE
+    - Found: classical pawn
+    - All found aliases: center, classical pawn, cramped position, plan, sacrificed, threatening
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #40
+    - Chapter URL: https://lichess.org/study/49AuOOCo/kyt1auLh
+    - Found: classical pawn
+    - All found aliases: calculate, candidates, center, classical pawn, pawn break, plan, planning, retreat, space, threatening
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: classical school
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: classical school
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: References I [A-M]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/xEKJ6WbA
+    - Found: classical school
+    - All found aliases: calculate, candidate, center, classical school, material, pawn structures, structures
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: classical school
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Where is the Black Queen Knight?
+    - Chapter URL: https://lichess.org/study/6P90HTwf/cNmFOfP9
+    - Found: classical school
+    - All found aliases: classical school, formation, isolani, plan, retreat
+  - Chapter: Anti-Colle
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J6JKnaKB
+    - Found: classical school
+    - All found aliases: center, classical school, develop, doubled pawns, formation, key squares, plans, tempo, threat, two bishops
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: Corresponding Squares Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kw3jYAmK
+    - Found: classical school
+    - All found aliases: classical school, corresponding squares, key square, opposition, take the opposition
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: classical school
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: classical school
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: References I [A-M]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/xEKJ6WbA
+    - Found: classical school
+    - All found aliases: calculate, candidate, center, classical school, material, pawn structures, structures
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: Corresponding Squares Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kw3jYAmK
+    - Found: classical school
+    - All found aliases: classical school, corresponding squares, key square, opposition, take the opposition
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: Corresponding Squares Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kw3jYAmK
+    - Found: classical school
+    - All found aliases: classical school, corresponding squares, key square, opposition, take the opposition
+
+
+## Concept: Clearance
+
+Aliases: clear the line, clear the lines, clearance, clearances, clearing the line, clearing the lines, line clearance, line clearances
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 7
+    - Chapter URL: https://lichess.org/study/pEF9QCic/m8rZVb9h
+    - Tactical Motif: clearance
+    - All found aliases: center, clearance, compensation, develop, double attacks, initiative, pin, pinned, sacrifice, threatening, threats
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Queenside, Kingside, and Middle
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/WusJPjSu
+    - Tactical Motif: clearance
+    - All found aliases: clearance, compensation, decoy, material, mobility, pin, pinned, sacrifice, zwischenzug
+
+
+## Concept: Closed Position
+
+Aliases: closed, closed position, closes
+
+Appears In:
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Awkward Piece Placement
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2bs65ZwO
+    - Found: closed
+    - All found aliases: center, chain, closed, outpost, pawn chain, pawn formation, plan, plans, pressure, retreat, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: closed
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Planning VI: Pawn Structures
+    - Chapter URL: https://lichess.org/study/1O0UELn6/L5R84drq
+    - Found: closed
+    - All found aliases: center, closed, formations, mobile, pawn formation, pawn structure, pawn structures, planning, plans, structures, tension
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: closed
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: closed
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #29   - What would TLG say
+    - Chapter URL: https://lichess.org/study/49AuOOCo/QGGnwKgX
+    - Found: closed
+    - All found aliases: center, closed, counter-attacking, plan, pressure
+  - Chapter: RYCW #29 - How the position occurred
+    - Chapter URL: https://lichess.org/study/49AuOOCo/oyfIpu0v
+    - Found: closed
+    - All found aliases: center, closed, discovered attack, pin, plans, tempi
+  - Chapter: RYCW #30 - How the position occurred
+    - Chapter URL: https://lichess.org/study/49AuOOCo/74h033UV
+    - Found: closed
+    - All found aliases: closed, majority, open position, plan, tempo, two bishops
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Found: closed
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: RYCW #37
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Wnnf3YyJ
+    - Found: closed
+    - All found aliases: bad bishop, center, chain, closed, imbalances, maneuver, pawn chain, pawn chains, pawn formation, pawn structure, pinned, plan, plans, retreat, space
+  - Chapter: RYCW #38
+    - Chapter URL: https://lichess.org/study/49AuOOCo/b3Iv75Uh
+    - Found: closed, closed position
+    - All found aliases: center, closed, closed position, pawn chain, pawn formation, pawn structure, plan, plans
+  - Chapter: RYCW #38
+    - Chapter URL: https://lichess.org/study/49AuOOCo/b3Iv75Uh
+    - Found: closed, closed position
+    - All found aliases: center, closed, closed position, pawn chain, pawn formation, pawn structure, plan, plans
+  - Chapter: RYCW #41
+    - Chapter URL: https://lichess.org/study/49AuOOCo/DX2OIF6M
+    - Found: closed
+    - All found aliases: center, closed, formation, pawn chains, pawn structure, pawn structures, space, tension
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+    - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
+    - Found: closes
+    - All found aliases: center, closes, fork, mating net, plan, sacrifices, tension, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: closed
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Combination
+
+Aliases: combination, combinations, combo
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 12
+    - Chapter URL: https://lichess.org/study/pEF9QCic/fGNoUJN0
+    - Tactical Motif: combination
+    - All found aliases: center, combination, compensation, developing, plan, threatening
+  - Chapter: Annotate 13
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oSar8sm6
+    - Tactical Motif: combination
+    - All found aliases: center, classical center, combination, discovered check, pawn formation, pinned, retreat, threatened
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Tactical Motif: combination
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Tactical Motif: combination
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/8MWN0xFK
+    - Tactical Motif: combinations
+    - All found aliases: calculate, calculation, candidate, combinations, sacrifices
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Tactical Motif: combination, combinations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Tactical Motif: combination, combinations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Tactical Motif: combination
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Tactical Motif: combination
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Tactical Motif: combination
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Curriculum
+  - Study URL: https://lichess.org/study/VHcKZ37M
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/ix21n4Vk
+    - Tactical Motif: combinations
+    - All found aliases: calculate, calculation, combinations, material, pawn structure, pawn structures, structures
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Tactical Motif: combinations
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: KRk I : Chessmaster 10
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/k5suJ1Dn
+    - Tactical Motif: combination
+    - All found aliases: combination
+  - Chapter: KRk I : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/iya2zz3C
+    - Tactical Motif: combination
+    - All found aliases: combination, interfere, interfering, opposition, restricting, space, waiting move
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Alekhine, Alexander  - Koehnlein, Friedrich
+    - Chapter URL: https://lichess.org/study/6P90HTwf/blyRVQCr
+    - Tactical Motif: combination
+    - All found aliases: center, combination, developed, pin, sacrifice
+  - Chapter: Colle, Edgar - Euwe, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/YtNn4KhH
+    - Tactical Motif: combination
+    - All found aliases: center, combination, fork, formation, good bishop, pawn formation, pin, pinning, plans, retreat, threatening
+  - Chapter: Colle, Edgar - Bogoljubow, Efim
+    - Chapter URL: https://lichess.org/study/6P90HTwf/W96cSISA
+    - Tactical Motif: combination
+    - All found aliases: combination, isolani, pinning, planned, sacrifices, skewer
+  - Chapter: Havasi, Kornel - Monticelli, Mario
+    - Chapter URL: https://lichess.org/study/6P90HTwf/S8hLLj6k
+    - Tactical Motif: combination
+    - All found aliases: combination, fortress, material, overloaded, threat, threatening, two bishops
+  - Chapter: Colle, Edgar - Alekhine, Alexander
+    - Chapter URL: https://lichess.org/study/6P90HTwf/fgGgMOU2
+    - Tactical Motif: combination
+    - All found aliases: combination, developed, doubled pawns, doubles, good bishop, isolani, material, overworked, pin, retreats, threatening
+  - Chapter: Flohr, Salo - Walter, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8owQ6QBm
+    - Tactical Motif: combination
+    - All found aliases: center, combination, fork, passed, passed pawn, pinned, sacrifice, threatening
+  - Chapter: Alekhine, Alexander - Flohr, Salo
+    - Chapter URL: https://lichess.org/study/6P90HTwf/m8jmj0a2
+    - Tactical Motif: combination
+    - All found aliases: combination, develop, double attack, isolani, material, sacrificing, threat, threats, two bishops
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: NBKk: Driving the King to the Corner
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/z2luMOdm
+    - Tactical Motif: combination
+    - All found aliases: combination, maneuvers
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Tactical Motif: combinations
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: NBKk: Driving the King to the Corner
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/z2luMOdm
+    - Tactical Motif: combination
+    - All found aliases: combination, maneuvers
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: NBKk: Driving the King to the Corner
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/z2luMOdm
+    - Tactical Motif: combination
+    - All found aliases: combination, maneuvers
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/8MWN0xFK
+    - Tactical Motif: combinations
+    - All found aliases: calculate, calculation, candidate, combinations, sacrifices
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Tactical Motif: combination, combinations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Tactical Motif: combination, combinations
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Tactical Motif: combination
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Tactical Motif: combination
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Tactical Motif: combination
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Compensation
+
+Aliases: compensation, dynamic compensation, positional compensation
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Found: compensation
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/pEF9QCic/O3FEVxks
+    - Found: compensation
+    - All found aliases: compensation, develop, developed, develops, discovered attack, discovering, key squares, material, pawn formation, plan, sacrifice, sacrificed, sacrifices, threatening, threats
+  - Chapter: Annotate 7
+    - Chapter URL: https://lichess.org/study/pEF9QCic/m8rZVb9h
+    - Found: compensation
+    - All found aliases: center, clearance, compensation, develop, double attacks, initiative, pin, pinned, sacrifice, threatening, threats
+  - Chapter: Annotate 12
+    - Chapter URL: https://lichess.org/study/pEF9QCic/fGNoUJN0
+    - Found: compensation
+    - All found aliases: center, combination, compensation, developing, plan, threatening
+  - Chapter: Annotate 16
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oOYrqEZF
+    - Found: compensation
+    - All found aliases: bad bishop, bishop pair, center, compensation, discovery, doubled pawns, material, mating net, pin, pins, plan, sacrifice, two bishops
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/nIoPxDql
+    - Found: compensation
+    - All found aliases: compensation, doubled, pin, plan, planned, plans, threat, threatening, threats
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Queenside, Kingside, and Middle
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/WusJPjSu
+    - Found: compensation
+    - All found aliases: clearance, compensation, decoy, material, mobility, pin, pinned, sacrifice, zwischenzug
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Found: compensation
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Found: compensation
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Black plays ...Nc6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/dT6pFbaJ
+    - Found: compensation
+    - All found aliases: compensation, fork, formation, isolani, pawn formation, pawn structure, pawn structures, plans, retreats, threatening
+  - Chapter: Tennenwurzel, Edward - Capablanca, Jose Raul
+    - Chapter URL: https://lichess.org/study/6P90HTwf/oAKtfvrp
+    - Found: compensation
+    - All found aliases: compensation, isolani, majority, passed pawn, sacrificing, threatening, two bishops
+  - Chapter: Landau, Salo - Book, Eero
+    - Chapter URL: https://lichess.org/study/6P90HTwf/BuMhjSSl
+    - Found: compensation
+    - All found aliases: compensation, isolani, threatening, threats
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: U-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/cMCM1BxT
+    - Found: compensation
+    - All found aliases: active pieces, backward pawn, compensation, passed pawn
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: U-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/cMCM1BxT
+    - Found: compensation
+    - All found aliases: active pieces, backward pawn, compensation, passed pawn
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: U-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/cMCM1BxT
+    - Found: compensation
+    - All found aliases: active pieces, backward pawn, compensation, passed pawn
+
+
+## Concept: Corresponding Squares
+
+Aliases: corresponding squares, sister squares
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: No Calculation Required I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/9tQb9KCp
+    - Found: corresponding squares
+    - All found aliases: calculate, calculating, calculation, corresponding squares, key squares, opposition, rules of thumb
+
+- Study: Advanced: Curriculum
+  - Study URL: https://lichess.org/study/VHcKZ37M
+  - Chapter: The Endgame
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/grdSrVqs
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, decoy, material
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Understanding Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/DDRPLs3J
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key squares, opposition, outflank, outflanking
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: PKk: Corresponding Squares I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/wH4WXLku
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, zugzwang
+  - Chapter: PKk: Rank Matters I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VfKnAxsO
+    - Found: corresponding squares
+    - All found aliases: blockading, corresponding squares, opposition
+  - Chapter: PKk: King in Front (not 6th) I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Pk2tN1G8
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key squares
+  - Chapter: PKk: Corresponding Squares Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/IAwpwISl
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key square
+  - Chapter: PKk: Corresponding Squares Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kw3jYAmK
+    - Found: corresponding squares
+    - All found aliases: classical school, corresponding squares, key square, opposition, take the opposition
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: corresponding squares
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: The Natural Oppositional Field
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/HcxBAC4U
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, opposition, restrict
+  - Chapter: PKk: Corresponding Square Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/7wvZCDxU
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, opposition, take the opposition
+  - Chapter: 2PKk: Disconnected Passed Pawns II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/FY990H0f
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key square, passed pawns, threatening
+  - Chapter: PKpk: Outflanking II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OpHcr9vA
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key square, key squares, opposition, outflanking
+  - Chapter: PKpk: Outflanking III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/sKwmQZBi
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, opposition, outflank, threatening
+  - Chapter: 2PKpk: Outflanking VII
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/NCuMXii0
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, opposition, sacrifice
+  - Chapter: 2PKpk: Outflanking IX
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/3cozl5yJ
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, outflank
+  - Chapter: Triangulation I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OEP1d5e4
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key square, maneuver, outflanking, triangulate
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: corresponding squares
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+  - Chapter: PKpk: Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/doe6mc9v
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key square, key squares, retreat
+  - Chapter: King Destinations and Paths II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/0ODoh8bO
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, plan, restricts
+  - Chapter: PKpk: Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/nbcA5cI3
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, restricted, restricting, restricts
+  - Chapter: PKpk: Races I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/uBN5nzbc
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, outflanking, skewers, triangulation
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Understanding Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/DDRPLs3J
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key squares, opposition, outflank, outflanking
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: PKk: Corresponding Squares I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/wH4WXLku
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, zugzwang
+  - Chapter: PKk: Rank Matters I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VfKnAxsO
+    - Found: corresponding squares
+    - All found aliases: blockading, corresponding squares, opposition
+  - Chapter: PKk: King in Front (not 6th) I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Pk2tN1G8
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key squares
+  - Chapter: PKk: Corresponding Squares Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/IAwpwISl
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key square
+  - Chapter: PKk: Corresponding Squares Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kw3jYAmK
+    - Found: corresponding squares
+    - All found aliases: classical school, corresponding squares, key square, opposition, take the opposition
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: corresponding squares
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: The Natural Oppositional Field
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/HcxBAC4U
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, opposition, restrict
+  - Chapter: PKk: Corresponding Square Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/7wvZCDxU
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, opposition, take the opposition
+  - Chapter: 2PKk: Disconnected Passed Pawns II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/FY990H0f
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key square, passed pawns, threatening
+  - Chapter: PKpk: Outflanking II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OpHcr9vA
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key square, key squares, opposition, outflanking
+  - Chapter: PKpk: Outflanking III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/sKwmQZBi
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, opposition, outflank, threatening
+  - Chapter: 2PKpk: Outflanking VII
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/NCuMXii0
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, opposition, sacrifice
+  - Chapter: 2PKpk: Outflanking IX
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/3cozl5yJ
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, outflank
+  - Chapter: Triangulation I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OEP1d5e4
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key square, maneuver, outflanking, triangulate
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: corresponding squares
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+  - Chapter: PKpk: Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/doe6mc9v
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key square, key squares, retreat
+  - Chapter: King Destinations and Paths II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/0ODoh8bO
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, plan, restricts
+  - Chapter: PKpk: Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/nbcA5cI3
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, restricted, restricting, restricts
+  - Chapter: PKpk: Races I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/uBN5nzbc
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, outflanking, skewers, triangulation
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Understanding Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/DDRPLs3J
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key squares, opposition, outflank, outflanking
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: PKk: Corresponding Squares I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/wH4WXLku
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, zugzwang
+  - Chapter: PKk: Rank Matters I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VfKnAxsO
+    - Found: corresponding squares
+    - All found aliases: blockading, corresponding squares, opposition
+  - Chapter: PKk: King in Front (not 6th) I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Pk2tN1G8
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key squares
+  - Chapter: PKk: Corresponding Squares Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/IAwpwISl
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key square
+  - Chapter: PKk: Corresponding Squares Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kw3jYAmK
+    - Found: corresponding squares
+    - All found aliases: classical school, corresponding squares, key square, opposition, take the opposition
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: corresponding squares
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: The Natural Oppositional Field
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/HcxBAC4U
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, opposition, restrict
+  - Chapter: PKk: Corresponding Square Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/7wvZCDxU
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, opposition, take the opposition
+  - Chapter: 2PKk: Disconnected Passed Pawns II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/FY990H0f
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key square, passed pawns, threatening
+  - Chapter: PKpk: Outflanking II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OpHcr9vA
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key square, key squares, opposition, outflanking
+  - Chapter: PKpk: Outflanking III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/sKwmQZBi
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, opposition, outflank, threatening
+  - Chapter: 2PKpk: Outflanking VII
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/NCuMXii0
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, opposition, sacrifice
+  - Chapter: 2PKpk: Outflanking IX
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/3cozl5yJ
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, outflank
+  - Chapter: Triangulation I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OEP1d5e4
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key square, maneuver, outflanking, triangulate
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: corresponding squares
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+  - Chapter: PKpk: Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/doe6mc9v
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, key square, key squares, retreat
+  - Chapter: King Destinations and Paths II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/0ODoh8bO
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, plan, restricts
+  - Chapter: PKpk: Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/nbcA5cI3
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, restricted, restricting, restricts
+  - Chapter: PKpk: Races I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/uBN5nzbc
+    - Found: corresponding squares
+    - All found aliases: corresponding squares, outflanking, skewers, triangulation
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: No Calculation Required I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/9tQb9KCp
+    - Found: corresponding squares
+    - All found aliases: calculate, calculating, calculation, corresponding squares, key squares, opposition, rules of thumb
+
+
+## Concept: Counterattack
+
+Aliases: counter-attacking, counterattack, counterattacked, counterattacks
+
+Appears In:
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #29   - What would TLG say
+    - Chapter URL: https://lichess.org/study/49AuOOCo/QGGnwKgX
+    - Found: counter-attacking
+    - All found aliases: center, closed, counter-attacking, plan, pressure
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: counter-attacking
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+
+## Concept: Counterplay
+
+Aliases: counterplay, generate counterplay
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 15
+    - Chapter URL: https://lichess.org/study/pEF9QCic/xpogdCvR
+    - Found: counterplay
+    - All found aliases: bad bishop, center, counterplay, develop, discovered check, majority, material, pinned, plan, restrict, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: counterplay
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/WSL5QMD1
+    - Found: counterplay
+    - All found aliases: bad bishop, center, counterplay, cramp, doubled, good bishop, outpost, outposts, plan, pressure, waiting move, weak squares
+  - Chapter: Positional Judgement VI: Position of the Pieces III
+    - Chapter URL: https://lichess.org/study/1O0UELn6/Vi1pHIHN
+    - Found: counterplay
+    - All found aliases: control the center, counterplay, passed pawn, sacrifice
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #32, #33
+    - Chapter URL: https://lichess.org/study/49AuOOCo/jtT7DsE2
+    - Found: counterplay
+    - All found aliases: calculate, center, counterplay, formation, minority, pawn structure, pawn structures, pins, plan, plans, pressure, structure
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: counterplay
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: counterplay
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+
+
+## Concept: Cutting Off the King
+
+Aliases: cut off the king, king cut off
+
+Appears In:
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Found: king cut off
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1cFPLD12
+    - Found: king cut off
+    - All found aliases: king cut off, lucena position, retreat
+  - Chapter: PRKrk: 4th Rank Rule VII: Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/cZ2dbFpx
+    - Found: king cut off
+    - All found aliases: king cut off, tempo
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Found: king cut off
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1cFPLD12
+    - Found: king cut off
+    - All found aliases: king cut off, lucena position, retreat
+  - Chapter: PRKrk: 4th Rank Rule VII: Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/cZ2dbFpx
+    - Found: king cut off
+    - All found aliases: king cut off, tempo
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Found: king cut off
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1cFPLD12
+    - Found: king cut off
+    - All found aliases: king cut off, lucena position, retreat
+  - Chapter: PRKrk: 4th Rank Rule VII: Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/cZ2dbFpx
+    - Found: king cut off
+    - All found aliases: king cut off, tempo
+
+
+## Concept: Decoy
+
+Aliases: decoy, decoyed, decoying, decoys
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Tactical Motif: decoy
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: A Benoni Passer
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/826AY7WG
+    - Tactical Motif: decoying
+    - All found aliases: blockading, decoying, loose pieces, passed pawn, tempo
+  - Chapter: Queenside, Kingside, and Middle
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/WusJPjSu
+    - Tactical Motif: decoy
+    - All found aliases: clearance, compensation, decoy, material, mobility, pin, pinned, sacrifice, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Tactical Motif: decoy
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+
+- Study: Advanced: Curriculum
+  - Study URL: https://lichess.org/study/VHcKZ37M
+  - Chapter: The Endgame
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/grdSrVqs
+    - Tactical Motif: decoy
+    - All found aliases: corresponding squares, decoy, material
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: R2PKrk: Rook in Front of its 7th Rank Pawn - Decoy
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/OgvPw3wT
+    - Tactical Motif: decoy
+    - All found aliases: decoy, skewer, skewers
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: R2PKrk: Rook in Front of its 7th Rank Pawn - Decoy
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/OgvPw3wT
+    - Tactical Motif: decoy
+    - All found aliases: decoy, skewer, skewers
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: R2PKrk: Rook in Front of its 7th Rank Pawn - Decoy
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/OgvPw3wT
+    - Tactical Motif: decoy
+    - All found aliases: decoy, skewer, skewers
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Tactical Motif: decoy
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+
+
+## Concept: Deflection
+
+Aliases: deflect, deflected, deflecting, deflection, deflects
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Tactical Motif: deflection
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Tactical Motif: deflection
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+  - Chapter: Exercise 15
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/BgC8bw52
+    - Tactical Motif: deflecting
+    - All found aliases: candidate, candidates, deflecting, double attack, pin
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ZqfI8oy2
+    - Tactical Motif: deflection
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidates, decoy, deflection
+  - Chapter: Exercise 15
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/BgC8bw52
+    - Tactical Motif: deflecting
+    - All found aliases: candidate, candidates, deflecting, double attack, pin
+
+
+## Concept: Development
+
+Aliases: develop, developed, developing, develops, undeveloping
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: The Annotator comments on the Immortal Game
+    - Chapter URL: https://lichess.org/study/pEF9QCic/7uiI9P9K
+    - Found: developed
+    - All found aliases: developed, material, plan, sacrifice, sacrificed
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Found: develop
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 2
+    - Chapter URL: https://lichess.org/study/pEF9QCic/5Lb60MIz
+    - Found: developing
+    - All found aliases: center, developing, discovered check, fork, king safety, pawn structure, plan, pressure, threaten, threatening
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/pEF9QCic/O3FEVxks
+    - Found: develop, developed, develops
+    - All found aliases: compensation, develop, developed, develops, discovered attack, discovering, key squares, material, pawn formation, plan, sacrifice, sacrificed, sacrifices, threatening, threats
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/pEF9QCic/O3FEVxks
+    - Found: develop, developed, develops
+    - All found aliases: compensation, develop, developed, develops, discovered attack, discovering, key squares, material, pawn formation, plan, sacrifice, sacrificed, sacrifices, threatening, threats
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/pEF9QCic/O3FEVxks
+    - Found: develop, developed, develops
+    - All found aliases: compensation, develop, developed, develops, discovered attack, discovering, key squares, material, pawn formation, plan, sacrifice, sacrificed, sacrifices, threatening, threats
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: develop, developed
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: develop, developed
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 7
+    - Chapter URL: https://lichess.org/study/pEF9QCic/m8rZVb9h
+    - Found: develop
+    - All found aliases: center, clearance, compensation, develop, double attacks, initiative, pin, pinned, sacrifice, threatening, threats
+  - Chapter: Annotate 8
+    - Chapter URL: https://lichess.org/study/pEF9QCic/mWPKMZ1W
+    - Found: develop, developed
+    - All found aliases: calculating, develop, developed, initiative, material, plan, seize the initiative, threat, threats
+  - Chapter: Annotate 8
+    - Chapter URL: https://lichess.org/study/pEF9QCic/mWPKMZ1W
+    - Found: develop, developed
+    - All found aliases: calculating, develop, developed, initiative, material, plan, seize the initiative, threat, threats
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Found: develop
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+  - Chapter: Annotate 12
+    - Chapter URL: https://lichess.org/study/pEF9QCic/fGNoUJN0
+    - Found: developing
+    - All found aliases: center, combination, compensation, developing, plan, threatening
+  - Chapter: Annotate 15
+    - Chapter URL: https://lichess.org/study/pEF9QCic/xpogdCvR
+    - Found: develop
+    - All found aliases: bad bishop, center, counterplay, develop, discovered check, majority, material, pinned, plan, restrict, threatening
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: The Annotator comments on the Immortal Game
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/6RDPlV0m
+    - Found: developed
+    - All found aliases: developed, material, plan, sacrifice, sacrificed
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/oZQjQEdx
+    - Found: develop
+    - All found aliases: develop, pawn feature, pawn structure, plan, plans, tempo, threat
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: A Bad Plan Is Better Than No Plan
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
+    - Found: developed
+    - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, pin, plan, sacrifice, threat, threatening, weak square
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Found: develop, developing
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Found: develop, developing
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: develop, developing
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: develop, developing
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: develop
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: develop, developing
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: develop, developing
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: develops
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Found: developed, developing
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Found: developed, developing
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+  - Chapter: Planning II: Start Planning Soon
+    - Chapter URL: https://lichess.org/study/1O0UELn6/nzxfZej2
+    - Found: develops
+    - All found aliases: develops, plan, plans
+  - Chapter: Planning III: Piece Placement
+    - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
+    - Found: developing
+    - All found aliases: center, developing, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: develop, developing, develops
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: develop, developing, develops
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: develop, developing, develops
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: develops
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #34
+    - Chapter URL: https://lichess.org/study/49AuOOCo/PbLdR8Bt
+    - Found: developed
+    - All found aliases: calculate, calculating, candidate, center, developed, threat
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Found: develop
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: developed
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Found: developed
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: develop
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: The Touch-move Rule
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/i5Xi6F2o
+    - Found: developed
+    - All found aliases: developed, plan
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: developed
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: develop
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: developed
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Black plays ...Nbd7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/SDgxfVCK
+    - Found: develops
+    - All found aliases: bishop pair, center, develops, fork, isolani, minority, pawn formation, pin, planned
+  - Chapter: Anti-Colle
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J6JKnaKB
+    - Found: develop
+    - All found aliases: center, classical school, develop, doubled pawns, formation, key squares, plans, tempo, threat, two bishops
+  - Chapter: Alekhine, Alexander  - Koehnlein, Friedrich
+    - Chapter URL: https://lichess.org/study/6P90HTwf/blyRVQCr
+    - Found: developed
+    - All found aliases: center, combination, developed, pin, sacrifice
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Found: develop, developing
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Found: develop, developing
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Colle, Edgar - Alekhine, Alexander
+    - Chapter URL: https://lichess.org/study/6P90HTwf/fgGgMOU2
+    - Found: developed
+    - All found aliases: combination, developed, doubled pawns, doubles, good bishop, isolani, material, overworked, pin, retreats, threatening
+  - Chapter: Alekhine, Alexander - Flohr, Salo
+    - Chapter URL: https://lichess.org/study/6P90HTwf/m8jmj0a2
+    - Found: develop
+    - All found aliases: combination, develop, double attack, isolani, material, sacrificing, threat, threats, two bishops
+  - Chapter: Black plays ...Nbd7 and ...Be7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/VsLs8V3T
+    - Found: develops
+    - All found aliases: center, develops, fork, isolani, minority, pawn formation, pin, planned
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: develop
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: The Touch-move Rule
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/i5Xi6F2o
+    - Found: developed
+    - All found aliases: developed, plan
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: developed
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: develop
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: develop
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: develop, developing
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: develop, developing
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: develops
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Discovered Attack
+
+Aliases: discover attack, discover attacks, discover check, discovered attack, discovered attacks, discovered check, discovered checks, discovering, discovering check, discovery
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 2
+    - Chapter URL: https://lichess.org/study/pEF9QCic/5Lb60MIz
+    - Tactical Motif: discovered check
+    - All found aliases: center, developing, discovered check, fork, king safety, pawn structure, plan, pressure, threaten, threatening
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/pEF9QCic/O3FEVxks
+    - Tactical Motif: discovered attack, discovering
+    - All found aliases: compensation, develop, developed, develops, discovered attack, discovering, key squares, material, pawn formation, plan, sacrifice, sacrificed, sacrifices, threatening, threats
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/pEF9QCic/O3FEVxks
+    - Tactical Motif: discovered attack, discovering
+    - All found aliases: compensation, develop, developed, develops, discovered attack, discovering, key squares, material, pawn formation, plan, sacrifice, sacrificed, sacrifices, threatening, threats
+  - Chapter: Annotate 4
+    - Chapter URL: https://lichess.org/study/pEF9QCic/r2lDGzev
+    - Tactical Motif: discovered check
+    - All found aliases: center, discovered check, forking, initiative, pinned, pinning, removing the defender, retreat, threatening
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/pEF9QCic/XuYJQwWp
+    - Tactical Motif: discovered check
+    - All found aliases: center, discovered check, initiative, majority, minority, pawn structures, plan, plans, restrict, retreat, structure, tempo, threat, threaten, threatening
+  - Chapter: Annotate 13
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oSar8sm6
+    - Tactical Motif: discovered check
+    - All found aliases: center, classical center, combination, discovered check, pawn formation, pinned, retreat, threatened
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Tactical Motif: discovered attack
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+  - Chapter: Annotate 15
+    - Chapter URL: https://lichess.org/study/pEF9QCic/xpogdCvR
+    - Tactical Motif: discovered check
+    - All found aliases: bad bishop, center, counterplay, develop, discovered check, majority, material, pinned, plan, restrict, threatening
+  - Chapter: Annotate 16
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oOYrqEZF
+    - Tactical Motif: discovery
+    - All found aliases: bad bishop, bishop pair, center, compensation, discovery, doubled pawns, material, mating net, pin, pins, plan, sacrifice, two bishops
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/uI2sp5Mb
+    - Tactical Motif: discovering
+    - All found aliases: discovering, material, pawn formation, plan, sacrifice, sacrifices, threats
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: White: \"What, me worry?\
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/kt1wIbrY
+    - Tactical Motif: discovered check
+    - All found aliases: calculate, center, discovered check, pin, sacrifice, threat, threatening
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Tactical Motif: discovered attack, discovered check
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Tactical Motif: discovered attack, discovered check
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 7: Handling Flawed Exercises
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/VlmZtn0Y
+    - Tactical Motif: discovered attack
+    - All found aliases: discovered attack, overworked, threatening
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Tactical Motif: discovered attack
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Tactical Motif: discovered attack
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Tactical Motif: discovered attack
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #29 - How the position occurred
+    - Chapter URL: https://lichess.org/study/49AuOOCo/oyfIpu0v
+    - Tactical Motif: discovered attack
+    - All found aliases: center, closed, discovered attack, pin, plans, tempi
+  - Chapter: RYCW Problem 13
+    - Chapter URL: https://lichess.org/study/49AuOOCo/LPG1Ewwz
+    - Tactical Motif: discovered attack
+    - All found aliases: backward move, backward moves, discovered attack, fork, good bishop, pinning, plan, space, tactical pattern
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Tactical Motif: discovered attack
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Schwietzer, George J - Shrader, Eugene Wesley
+    - Chapter URL: https://lichess.org/study/6P90HTwf/bnjCvU7E
+    - Tactical Motif: discovered check
+    - All found aliases: blockaded, discovered check, isolani, outpost, overworked, pressure, threatening
+  - Chapter: Colle, Edgar - Loman, Rudolf
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qeBoOo52
+    - Tactical Motif: discovered attack
+    - All found aliases: blockade, discovered attack, isolani, tempi
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: QKpk: 7th Rank Rook Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/kd0J8OSV
+    - Tactical Motif: discovered check
+    - All found aliases: blockade, discovered check, lose a tempo, maneuvers, mating net
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: QKpk: 7th Rank Rook Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/kd0J8OSV
+    - Tactical Motif: discovered check
+    - All found aliases: blockade, discovered check, lose a tempo, maneuvers, mating net
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: QKpk: 7th Rank Rook Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/kd0J8OSV
+    - Tactical Motif: discovered check
+    - All found aliases: blockade, discovered check, lose a tempo, maneuvers, mating net
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 7: Handling Flawed Exercises
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/VlmZtn0Y
+    - Tactical Motif: discovered attack
+    - All found aliases: discovered attack, overworked, threatening
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Tactical Motif: discovered attack
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Tactical Motif: discovered attack
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Tactical Motif: discovered attack
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Domination
+
+Aliases: dominate, dominated, dominates, dominating
+
+Appears In:
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Another Easy Draw
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/xxL0wyVF
+    - Found: dominating
+    - All found aliases: dominating, majority, plan, threatening
+  - Chapter: 2PBKbk: Opposite Color Bishops General X
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/u129pP1I
+    - Found: dominating
+    - All found aliases: dominating, double attack
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Another Easy Draw
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/xxL0wyVF
+    - Found: dominating
+    - All found aliases: dominating, majority, plan, threatening
+  - Chapter: 2PBKbk: Opposite Color Bishops General X
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/u129pP1I
+    - Found: dominating
+    - All found aliases: dominating, double attack
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Another Easy Draw
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/xxL0wyVF
+    - Found: dominating
+    - All found aliases: dominating, majority, plan, threatening
+  - Chapter: 2PBKbk: Opposite Color Bishops General X
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/u129pP1I
+    - Found: dominating
+    - All found aliases: dominating, double attack
+
+
+## Concept: Double Attack
+
+Aliases: double attack, double attacked, double attacking, double attacks
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Tactical Motif: double attack
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 7
+    - Chapter URL: https://lichess.org/study/pEF9QCic/m8rZVb9h
+    - Tactical Motif: double attacks
+    - All found aliases: center, clearance, compensation, develop, double attacks, initiative, pin, pinned, sacrifice, threatening, threats
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Tactical Motif: double attack
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: Annotate 7
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/emj96wNP
+    - Tactical Motif: double attacks
+    - All found aliases: double attacks, pin, pinned
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/o59gT8ZH
+    - Tactical Motif: double attack
+    - All found aliases: calculate, double attack, plans, threat, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 15
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/BgC8bw52
+    - Tactical Motif: double attack
+    - All found aliases: candidate, candidates, deflecting, double attack, pin
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Tactical Motif: double attack
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General X
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/u129pP1I
+    - Tactical Motif: double attack
+    - All found aliases: dominating, double attack
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Tactical Motif: double attacks
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Alekhine, Alexander - Flohr, Salo
+    - Chapter URL: https://lichess.org/study/6P90HTwf/m8jmj0a2
+    - Tactical Motif: double attack
+    - All found aliases: combination, develop, double attack, isolani, material, sacrificing, threat, threats, two bishops
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Tactical Motif: double attack
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: Non Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/P6AbZXKZ
+    - Tactical Motif: double attack
+    - All found aliases: double attack, pinned, restricts, threat
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General X
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/u129pP1I
+    - Tactical Motif: double attack
+    - All found aliases: dominating, double attack
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Tactical Motif: double attack
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: Non Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/P6AbZXKZ
+    - Tactical Motif: double attack
+    - All found aliases: double attack, pinned, restricts, threat
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General X
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/u129pP1I
+    - Tactical Motif: double attack
+    - All found aliases: dominating, double attack
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Tactical Motif: double attack
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: Non Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/P6AbZXKZ
+    - Tactical Motif: double attack
+    - All found aliases: double attack, pinned, restricts, threat
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 15
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/BgC8bw52
+    - Tactical Motif: double attack
+    - All found aliases: candidate, candidates, deflecting, double attack, pin
+
+
+## Concept: Double Check
+
+Aliases: double check, double checks
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Tactical Motif: double check
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+
+
+## Concept: Doubled Pawns
+
+Aliases: doubled, doubled pawns, doubles, doubling, tripled pawns, undouble, undoubled, undoubles, undoubling
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Feature: doubled
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Feature: doubled
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+  - Chapter: Annotate 16
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oOYrqEZF
+    - Feature: doubled pawns
+    - All found aliases: bad bishop, bishop pair, center, compensation, discovery, doubled pawns, material, mating net, pin, pins, plan, sacrifice, two bishops
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/nIoPxDql
+    - Feature: doubled
+    - All found aliases: compensation, doubled, pin, plan, planned, plans, threat, threatening, threats
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: A Bad Plan Is Better Than No Plan
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
+    - Feature: doubled, doubled pawns
+    - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, pin, plan, sacrifice, threat, threatening, weak square
+  - Chapter: A Bad Plan Is Better Than No Plan
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
+    - Feature: doubled, doubled pawns
+    - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, pin, plan, sacrifice, threat, threatening, weak square
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Feature: doubled pawns
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Feature: doubled
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Feature: doubling
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Positional Judgement III: Open Lines: Example I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/2DrdjkKg
+    - Feature: doubled, doubled pawns, doubling
+    - All found aliases: center, doubled, doubled pawns, doubling, material, plan, tempi, tempo, threatened
+  - Chapter: Positional Judgement III: Open Lines: Example I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/2DrdjkKg
+    - Feature: doubled, doubled pawns, doubling
+    - All found aliases: center, doubled, doubled pawns, doubling, material, plan, tempi, tempo, threatened
+  - Chapter: Positional Judgement III: Open Lines: Example I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/2DrdjkKg
+    - Feature: doubled, doubled pawns, doubling
+    - All found aliases: center, doubled, doubled pawns, doubling, material, plan, tempi, tempo, threatened
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/WSL5QMD1
+    - Feature: doubled
+    - All found aliases: bad bishop, center, counterplay, cramp, doubled, good bishop, outpost, outposts, plan, pressure, waiting move, weak squares
+  - Chapter: Positional Judgement VI: Position of the Pieces I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/IZWd8NUo
+    - Feature: doubled
+    - All found aliases: bishop pair, doubled, passed pawns, pawn islands, pawn structure, two bishops, zugzwang
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Feature: doubling
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Feature: doubled
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Feature: doubled
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Feature: doubled
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Anti-Colle
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J6JKnaKB
+    - Feature: doubled pawns
+    - All found aliases: center, classical school, develop, doubled pawns, formation, key squares, plans, tempo, threat, two bishops
+  - Chapter: White doubles Q and R before playing dxc5
+    - Chapter URL: https://lichess.org/study/6P90HTwf/2Zl8lZqo
+    - Feature: doubles
+    - All found aliases: doubles
+  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+    - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
+    - Feature: doubled
+    - All found aliases: center, doubled, material, passed pawn, passed pawns, planning, retreat, simplifies, simplify, threatening
+  - Chapter: Colle, Edgar - Alekhine, Alexander
+    - Chapter URL: https://lichess.org/study/6P90HTwf/fgGgMOU2
+    - Feature: doubled pawns, doubles
+    - All found aliases: combination, developed, doubled pawns, doubles, good bishop, isolani, material, overworked, pin, retreats, threatening
+  - Chapter: Colle, Edgar - Alekhine, Alexander
+    - Chapter URL: https://lichess.org/study/6P90HTwf/fgGgMOU2
+    - Feature: doubled pawns, doubles
+    - All found aliases: combination, developed, doubled pawns, doubles, good bishop, isolani, material, overworked, pin, retreats, threatening
+  - Chapter: Kashdan, Isaac - Steiner, Herman
+    - Chapter URL: https://lichess.org/study/6P90HTwf/FxXyrdZs
+    - Feature: doubles
+    - All found aliases: blockading, doubles, majority, passed, passed pawn, passed pawns, pins, plan, restricts, tempo, threatened, threatening, zugzwang
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: G-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ve7e5YYi
+    - Feature: doubled pawns
+    - All found aliases: advanced pawn chain, chain, doubled pawns, trapped piece
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Feature: doubled pawns
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: L-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ACnC3zO1
+    - Feature: doubled pawns
+    - All found aliases: calculation, doubled pawns
+  - Chapter: R-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Mab8k8jY
+    - Feature: doubled pawns
+    - All found aliases: doubled pawns, isolated pawn, passed pawn, pawn structure, weak squares
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Feature: doubled pawns
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: 2PKk: Doubled Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/XNHv25kY
+    - Feature: doubled pawns
+    - All found aliases: doubled pawns
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Feature: doubled
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: G-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ve7e5YYi
+    - Feature: doubled pawns
+    - All found aliases: advanced pawn chain, chain, doubled pawns, trapped piece
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Feature: doubled pawns
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: L-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ACnC3zO1
+    - Feature: doubled pawns
+    - All found aliases: calculation, doubled pawns
+  - Chapter: R-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Mab8k8jY
+    - Feature: doubled pawns
+    - All found aliases: doubled pawns, isolated pawn, passed pawn, pawn structure, weak squares
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Feature: doubled pawns
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: 2PKk: Doubled Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/XNHv25kY
+    - Feature: doubled pawns
+    - All found aliases: doubled pawns
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: G-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ve7e5YYi
+    - Feature: doubled pawns
+    - All found aliases: advanced pawn chain, chain, doubled pawns, trapped piece
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Feature: doubled pawns
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: L-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ACnC3zO1
+    - Feature: doubled pawns
+    - All found aliases: calculation, doubled pawns
+  - Chapter: R-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Mab8k8jY
+    - Feature: doubled pawns
+    - All found aliases: doubled pawns, isolated pawn, passed pawn, pawn structure, weak squares
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Feature: doubled pawns
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: 2PKk: Doubled Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/XNHv25kY
+    - Feature: doubled pawns
+    - All found aliases: doubled pawns
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Feature: doubled
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Feature: doubling
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+
+
+## Concept: Epaulette Mate
+
+Aliases: epaulette mate, epaulette mate i, epaulette mate ii
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Named Mate: epaulette mate
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Named Mate: epaulette mate
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+
+
+## Concept: Five Principles of Chess
+
+Aliases: five principles, five principles of chess
+
+Appears In:
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: five principles
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: five principles
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: five principles
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: five principles
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: five principles
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+
+## Concept: Fork
+
+Aliases: fork, fork trick, forkable, forked, forking, forks
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 2
+    - Chapter URL: https://lichess.org/study/pEF9QCic/5Lb60MIz
+    - Tactical Motif: fork
+    - All found aliases: center, developing, discovered check, fork, king safety, pawn structure, plan, pressure, threaten, threatening
+  - Chapter: Annotate 4
+    - Chapter URL: https://lichess.org/study/pEF9QCic/r2lDGzev
+    - Tactical Motif: forking
+    - All found aliases: center, discovered check, forking, initiative, pinned, pinning, removing the defender, retreat, threatening
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/pEF9QCic/umydfvUv
+    - Tactical Motif: fork
+    - All found aliases: active pieces, battery, fork, material, mobile, mobility, pawn storm, pin, pinned, pinning, plan, plans, qualitative pawn majority, remove the defender, threat
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: Annotate 4
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/kfCNFauQ
+    - Tactical Motif: forking
+    - All found aliases: forking, pinned, retreat
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Alekhine's Sting I
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/PnAIpNvR
+    - Tactical Motif: fork
+    - All found aliases: fork, material, sacrifice
+  - Chapter: Kingside Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/dh1EXD5H
+    - Tactical Motif: fork
+    - All found aliases: fork, monster, retreat, sacrifice, threatening
+  - Chapter: Two Bishops
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/lpuvWfIr
+    - Tactical Motif: fork
+    - All found aliases: fork, simplifying, two bishops
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Tactical Motif: fork
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Tactical Motif: fork
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 9: Attempted Fix
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/TqC9ROoL
+    - Tactical Motif: fork
+    - All found aliases: fork, pin
+  - Chapter: Time Trouble I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/12IYsL9F
+    - Tactical Motif: forking
+    - All found aliases: calculation, candidate moves, forking, pressure
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Orientation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/mHKJVcyj
+    - Tactical Motif: forks
+    - All found aliases: calculation, forks, imbalances, initiative, king safety, lucena position, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: Orientation Example
+    - Chapter URL: https://lichess.org/study/1O0UELn6/s81l1Xs5
+    - Tactical Motif: fork
+    - All found aliases: center, fork, imbalances, initiative, king safety, material, pawn structure, plans, pressure, space, threatening, threats
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Tactical Motif: fork
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Planning V: Be Flexible
+    - Chapter URL: https://lichess.org/study/1O0UELn6/efkxhMhp
+    - Tactical Motif: fork
+    - All found aliases: center, fork, pinned, plan, plans, threat, threatening, threats, undermine, undermining
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Tactical Motif: fork
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: RYCW Problem 13
+    - Chapter URL: https://lichess.org/study/49AuOOCo/LPG1Ewwz
+    - Tactical Motif: fork
+    - All found aliases: backward move, backward moves, discovered attack, fork, good bishop, pinning, plan, space, tactical pattern
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
+    - Tactical Motif: forks
+    - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Tactical Motif: fork
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Black plays ...Nc6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/dT6pFbaJ
+    - Tactical Motif: fork
+    - All found aliases: compensation, fork, formation, isolani, pawn formation, pawn structure, pawn structures, plans, retreats, threatening
+  - Chapter: Black plays ...Nbd7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/SDgxfVCK
+    - Tactical Motif: fork
+    - All found aliases: bishop pair, center, develops, fork, isolani, minority, pawn formation, pin, planned
+  - Chapter: Traps and Pitfalls
+    - Chapter URL: https://lichess.org/study/6P90HTwf/KzeKN5NS
+    - Tactical Motif: fork
+    - All found aliases: fork, isolani, threatening
+  - Chapter: Salwe, Georg - Alapin, Simon
+    - Chapter URL: https://lichess.org/study/6P90HTwf/TSQw6fzo
+    - Tactical Motif: fork
+    - All found aliases: center, fork, majority, mobility, passed pawns, pins, threatening
+  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+    - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
+    - Tactical Motif: fork
+    - All found aliases: center, closes, fork, mating net, plan, sacrifices, tension, threatening
+  - Chapter: Colle, Edgar - Euwe, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/YtNn4KhH
+    - Tactical Motif: fork
+    - All found aliases: center, combination, fork, formation, good bishop, pawn formation, pin, pinning, plans, retreat, threatening
+  - Chapter: Colle, Edgar - Tarrasch, Siegbert
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
+    - Tactical Motif: fork, forking
+    - All found aliases: blockaded, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
+  - Chapter: Colle, Edgar - Tarrasch, Siegbert
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
+    - Tactical Motif: fork, forking
+    - All found aliases: blockaded, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
+  - Chapter: Riumin, Nikolay Nikolaevich - Poliak, Abram Borisovich
+    - Chapter URL: https://lichess.org/study/6P90HTwf/BLZNdAIS
+    - Tactical Motif: fork
+    - All found aliases: fork, material, threatening
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Tactical Motif: fork
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Flohr, Salo - Walter, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8owQ6QBm
+    - Tactical Motif: fork
+    - All found aliases: center, combination, fork, passed, passed pawn, pinned, sacrifice, threatening
+  - Chapter: Black plays ...Nbd7 and ...Be7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/VsLs8V3T
+    - Tactical Motif: fork
+    - All found aliases: center, develops, fork, isolani, minority, pawn formation, pin, planned
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Tactical Motif: fork
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKbk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hVreNGAe
+    - Tactical Motif: fork
+    - All found aliases: fork, material, pin, skewer, threatening
+  - Chapter: QKnk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/6ZTGzoXh
+    - Tactical Motif: fork
+    - All found aliases: centralized, fork, material, pins, threatening
+  - Chapter: QKrk: Use the Fork
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/MmEN1MjV
+    - Tactical Motif: fork
+    - All found aliases: fork, simplified
+  - Chapter: QKrk: Setup the Fork I
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/doNHTgtr
+    - Tactical Motif: fork
+    - All found aliases: fork
+  - Chapter: QKrk: Setup the Fork II
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BtqvAEox
+    - Tactical Motif: fork, forking
+    - All found aliases: fork, forking
+  - Chapter: QKrk: Setup the Fork II
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BtqvAEox
+    - Tactical Motif: fork, forking
+    - All found aliases: fork, forking
+  - Chapter: QKrk: Setup the Fork III
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/kNSpgN0Q
+    - Tactical Motif: fork
+    - All found aliases: fork
+  - Chapter: QKrk: Setup the Fork IV
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/zFJ9I7jr
+    - Tactical Motif: fork
+    - All found aliases: fork
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: fork, forking, forks
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: fork, forking, forks
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: fork, forking, forks
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Tactical Motif: fork
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKbk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hVreNGAe
+    - Tactical Motif: fork
+    - All found aliases: fork, material, pin, skewer, threatening
+  - Chapter: QKnk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/6ZTGzoXh
+    - Tactical Motif: fork
+    - All found aliases: centralized, fork, material, pins, threatening
+  - Chapter: QKrk: Use the Fork
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/MmEN1MjV
+    - Tactical Motif: fork
+    - All found aliases: fork, simplified
+  - Chapter: QKrk: Setup the Fork I
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/doNHTgtr
+    - Tactical Motif: fork
+    - All found aliases: fork
+  - Chapter: QKrk: Setup the Fork II
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BtqvAEox
+    - Tactical Motif: fork, forking
+    - All found aliases: fork, forking
+  - Chapter: QKrk: Setup the Fork II
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BtqvAEox
+    - Tactical Motif: fork, forking
+    - All found aliases: fork, forking
+  - Chapter: QKrk: Setup the Fork III
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/kNSpgN0Q
+    - Tactical Motif: fork
+    - All found aliases: fork
+  - Chapter: QKrk: Setup the Fork IV
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/zFJ9I7jr
+    - Tactical Motif: fork
+    - All found aliases: fork
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: fork, forking, forks
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: fork, forking, forks
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: fork, forking, forks
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Tactical Motif: fork
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKbk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hVreNGAe
+    - Tactical Motif: fork
+    - All found aliases: fork, material, pin, skewer, threatening
+  - Chapter: QKnk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/6ZTGzoXh
+    - Tactical Motif: fork
+    - All found aliases: centralized, fork, material, pins, threatening
+  - Chapter: QKrk: Use the Fork
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/MmEN1MjV
+    - Tactical Motif: fork
+    - All found aliases: fork, simplified
+  - Chapter: QKrk: Setup the Fork I
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/doNHTgtr
+    - Tactical Motif: fork
+    - All found aliases: fork
+  - Chapter: QKrk: Setup the Fork II
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BtqvAEox
+    - Tactical Motif: fork, forking
+    - All found aliases: fork, forking
+  - Chapter: QKrk: Setup the Fork II
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BtqvAEox
+    - Tactical Motif: fork, forking
+    - All found aliases: fork, forking
+  - Chapter: QKrk: Setup the Fork III
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/kNSpgN0Q
+    - Tactical Motif: fork
+    - All found aliases: fork
+  - Chapter: QKrk: Setup the Fork IV
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/zFJ9I7jr
+    - Tactical Motif: fork
+    - All found aliases: fork
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: fork, forking, forks
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: fork, forking, forks
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: fork, forking, forks
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Tactical Motif: fork
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 9: Attempted Fix
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/TqC9ROoL
+    - Tactical Motif: fork
+    - All found aliases: fork, pin
+  - Chapter: Time Trouble I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/12IYsL9F
+    - Tactical Motif: forking
+    - All found aliases: calculation, candidate moves, forking, pressure
+
+
+## Concept: Fortress
+
+Aliases: build a fortress, fortress
+
+Appears In:
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Fortresses in Bishop-Up Endgames I
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/Iapo3m0Q
+    - Found: fortress
+    - All found aliases: fortress, material
+  - Chapter: Fortresses in Bishop-Up Endgames V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/2n8RKkVR
+    - Found: fortress
+    - All found aliases: fortress, sacrifices
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Colle, Edgar - Tarrasch, Siegbert
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
+    - Found: fortress
+    - All found aliases: blockaded, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
+  - Chapter: Havasi, Kornel - Monticelli, Mario
+    - Chapter URL: https://lichess.org/study/6P90HTwf/S8hLLj6k
+    - Found: fortress
+    - All found aliases: combination, fortress, material, overloaded, threat, threatening, two bishops
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Fortresses in Bishop-Up Endgames I
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/Iapo3m0Q
+    - Found: fortress
+    - All found aliases: fortress, material
+  - Chapter: Fortresses in Bishop-Up Endgames V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/2n8RKkVR
+    - Found: fortress
+    - All found aliases: fortress, sacrifices
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Fortresses in Bishop-Up Endgames I
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/Iapo3m0Q
+    - Found: fortress
+    - All found aliases: fortress, material
+  - Chapter: Fortresses in Bishop-Up Endgames V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/2n8RKkVR
+    - Found: fortress
+    - All found aliases: fortress, sacrifices
+
+
+## Concept: Hypermodern Chess
+
+Aliases: hypermodern, hypermodern chess
+
+Appears In:
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Double Finachettoes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/DrwAR6qc
+    - Found: hypermodern
+    - All found aliases: center, hypermodern, key squares, maneuver, pawn structure, pinned, plan, plans, retreat
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: hypermodern
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: A hypermodern defense: Queen's Indian Defense
+    - Chapter URL: https://lichess.org/study/6P90HTwf/5Wtj9dEE
+    - Found: hypermodern
+    - All found aliases: formation, hypermodern
+
+
+## Concept: Interference
+
+Aliases: interfere, interfered, interference, interference sacrifice, interferes, interfering
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Improving Visualization  III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/FMmFcWfE
+    - Tactical Motif: interference
+    - All found aliases: interference, mating net, threatening
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Tactical Motif: interfere
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: KRk I : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/iya2zz3C
+    - Tactical Motif: interfere, interfering
+    - All found aliases: combination, interfere, interfering, opposition, restricting, space, waiting move
+  - Chapter: KRk I : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/iya2zz3C
+    - Tactical Motif: interfere, interfering
+    - All found aliases: combination, interfere, interfering, opposition, restricting, space, waiting move
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: PRKrk: 4th Rank Rule VI: Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/EZgkmghf
+    - Tactical Motif: interfering
+    - All found aliases: interfering
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: PRKrk: 4th Rank Rule VI: Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/EZgkmghf
+    - Tactical Motif: interfering
+    - All found aliases: interfering
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: PRKrk: 4th Rank Rule VI: Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/EZgkmghf
+    - Tactical Motif: interfering
+    - All found aliases: interfering
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Improving Visualization  III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/FMmFcWfE
+    - Tactical Motif: interference
+    - All found aliases: interference, mating net, threatening
+
+
+## Concept: Intermediate Move
+
+Aliases: in-between move, intermediate move, intermezzo, zwischenschach, zwischenzug
+
+Appears In:
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Queenside, Kingside, and Middle
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/WusJPjSu
+    - Tactical Motif: zwischenzug
+    - All found aliases: clearance, compensation, decoy, material, mobility, pin, pinned, sacrifice, zwischenzug
+  - Chapter: Superior Majority
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/9Cb11DuC
+    - Tactical Motif: zwischenzug
+    - All found aliases: center, passed pawns, zwischenzug
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Tactical Motif: zwischenzug
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Tactical Motif: zwischenzug
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Tactical Motif: zwischenzug
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+
+
+## Concept: Isolated Pawn
+
+Aliases: isolani, isolate, isolated, isolated pawn, isolated pawns, isolates
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Feature: isolated
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Feature: isolani, isolated
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Feature: isolani, isolated
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Feature: isolani
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Alekhine's Sting II
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/ppNu9nSz
+    - Feature: isolani
+    - All found aliases: calculate, gain a tempo, isolani, material, pinned, two bishops
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Feature: isolani, isolated
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Feature: isolani, isolated
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Feature: isolani
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Feature: isolated
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #31
+    - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
+    - Feature: isolated
+    - All found aliases: candidate, chain, initiative, isolated, material, pawn chain, plan, plans, retreat, sacrifice, threat
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Feature: isolated pawn, isolated pawns
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Feature: isolated pawn, isolated pawns
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Feature: isolani, isolated
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Feature: isolani, isolated
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Feature: isolani
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+
+- Study: An Opening Book for the Colle
+  - Study URL: https://lichess.org/study/wKvZqliN
+  - Chapter: Main Line
+    - Chapter URL: https://lichess.org/study/wKvZqliN/eCfwuZ3P
+    - Feature: isolani
+    - All found aliases: isolani, plan
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Feature: isolated pawns
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
+    - Feature: isolates
+    - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Feature: isolani, isolated
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Feature: isolani, isolated
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Colle System
+    - Chapter URL: https://lichess.org/study/6P90HTwf/siJNECaL
+    - Feature: isolated pawn
+    - All found aliases: formation, isolated pawn, pawn structures, simplified
+  - Chapter: Where is the Black Queen Knight?
+    - Chapter URL: https://lichess.org/study/6P90HTwf/cNmFOfP9
+    - Feature: isolani
+    - All found aliases: classical school, formation, isolani, plan, retreat
+  - Chapter: Black plays ...Nc6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/dT6pFbaJ
+    - Feature: isolani
+    - All found aliases: compensation, fork, formation, isolani, pawn formation, pawn structure, pawn structures, plans, retreats, threatening
+  - Chapter: Black plays ...Nbd7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/SDgxfVCK
+    - Feature: isolani
+    - All found aliases: bishop pair, center, develops, fork, isolani, minority, pawn formation, pin, planned
+  - Chapter: Traps and Pitfalls
+    - Chapter URL: https://lichess.org/study/6P90HTwf/KzeKN5NS
+    - Feature: isolani
+    - All found aliases: fork, isolani, threatening
+  - Chapter: White sacrifices a pawn to avoid an isolani
+    - Chapter URL: https://lichess.org/study/6P90HTwf/pyPIXm42
+    - Feature: isolani
+    - All found aliases: isolani, sacrifices
+  - Chapter: Isolani with Knight on c6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/MWkeY3Wx
+    - Feature: isolani
+    - All found aliases: isolani
+  - Chapter: Isoani without Knight on c6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/Ic8kfg2a
+    - Feature: isolani
+    - All found aliases: isolani
+  - Chapter: Isonali without Queen on c7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/p60Fj4OH
+    - Feature: isolani
+    - All found aliases: isolani
+  - Chapter: Schwietzer, George J - Shrader, Eugene Wesley
+    - Chapter URL: https://lichess.org/study/6P90HTwf/bnjCvU7E
+    - Feature: isolani
+    - All found aliases: blockaded, discovered check, isolani, outpost, overworked, pressure, threatening
+  - Chapter: Tennenwurzel, Edward - Capablanca, Jose Raul
+    - Chapter URL: https://lichess.org/study/6P90HTwf/oAKtfvrp
+    - Feature: isolani
+    - All found aliases: compensation, isolani, majority, passed pawn, sacrificing, threatening, two bishops
+  - Chapter: Colle, Edgar - Loman, Rudolf
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qeBoOo52
+    - Feature: isolani
+    - All found aliases: blockade, discovered attack, isolani, tempi
+  - Chapter: Colle, Edgar - Tarrasch, Siegbert
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
+    - Feature: isolani
+    - All found aliases: blockaded, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
+  - Chapter: Colle, Edgar - Bogoljubow, Efim
+    - Chapter URL: https://lichess.org/study/6P90HTwf/W96cSISA
+    - Feature: isolani
+    - All found aliases: combination, isolani, pinning, planned, sacrifices, skewer
+  - Chapter: Colle, Edgar - Bogoljubow, Efim
+    - Chapter URL: https://lichess.org/study/6P90HTwf/RxRlaQXM
+    - Feature: isolani
+    - All found aliases: bishop pair, initiative, isolani, majority, tempi, tempo, threatening, two bishops
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Feature: isolani
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Colle, Edgar - Alekhine, Alexander
+    - Chapter URL: https://lichess.org/study/6P90HTwf/fgGgMOU2
+    - Feature: isolani
+    - All found aliases: combination, developed, doubled pawns, doubles, good bishop, isolani, material, overworked, pin, retreats, threatening
+  - Chapter: Colle, Edgar - Michell, Reginald Pryce
+    - Chapter URL: https://lichess.org/study/6P90HTwf/omQHTftl
+    - Feature: isolated, isolated pawn
+    - All found aliases: center, isolated, isolated pawn, majority, restricts, retreats, threatening
+  - Chapter: Colle, Edgar - Michell, Reginald Pryce
+    - Chapter URL: https://lichess.org/study/6P90HTwf/omQHTftl
+    - Feature: isolated, isolated pawn
+    - All found aliases: center, isolated, isolated pawn, majority, restricts, retreats, threatening
+  - Chapter: Alekhine, Alexander - Flohr, Salo
+    - Chapter URL: https://lichess.org/study/6P90HTwf/m8jmj0a2
+    - Feature: isolani
+    - All found aliases: combination, develop, double attack, isolani, material, sacrificing, threat, threats, two bishops
+  - Chapter: Piazzini, Luis Roberto - Da Silva Rocha, Adhemar
+    - Chapter URL: https://lichess.org/study/6P90HTwf/mfGxnoIF
+    - Feature: isolani
+    - All found aliases: isolani, threatening
+  - Chapter: Lascano, J. - Bahamonde, Antonio
+    - Chapter URL: https://lichess.org/study/6P90HTwf/pRBqdJqu
+    - Feature: isolani
+    - All found aliases: battery, isolani, pin, plan, sacrifices, threatening
+  - Chapter: Koltanowski, George - Feigins, Movsas
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8LiCSujP
+    - Feature: isolani
+    - All found aliases: isolani, passed pawns, two bishops
+  - Chapter: Landau, Salo - Book, Eero
+    - Chapter URL: https://lichess.org/study/6P90HTwf/BuMhjSSl
+    - Feature: isolani
+    - All found aliases: compensation, isolani, threatening, threats
+  - Chapter: Black plays ...Nbd7 and ...Be7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/VsLs8V3T
+    - Feature: isolani
+    - All found aliases: center, develops, fork, isolani, minority, pawn formation, pin, planned
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: C-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/gEb5KC1p
+    - Feature: isolated pawn
+    - All found aliases: cramped position, isolated pawn, pawn islands, pawn structure, qualitative pawn majority
+  - Chapter: D-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/NfBJbap3
+    - Feature: isolated pawn
+    - All found aliases: isolated pawn, passed pawn
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Feature: isolani, isolated pawn
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Feature: isolani, isolated pawn
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: R-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Mab8k8jY
+    - Feature: isolated pawn
+    - All found aliases: doubled pawns, isolated pawn, passed pawn, pawn structure, weak squares
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Feature: isolated pawns
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: C-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/gEb5KC1p
+    - Feature: isolated pawn
+    - All found aliases: cramped position, isolated pawn, pawn islands, pawn structure, qualitative pawn majority
+  - Chapter: D-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/NfBJbap3
+    - Feature: isolated pawn
+    - All found aliases: isolated pawn, passed pawn
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Feature: isolani, isolated pawn
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Feature: isolani, isolated pawn
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: R-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Mab8k8jY
+    - Feature: isolated pawn
+    - All found aliases: doubled pawns, isolated pawn, passed pawn, pawn structure, weak squares
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: C-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/gEb5KC1p
+    - Feature: isolated pawn
+    - All found aliases: cramped position, isolated pawn, pawn islands, pawn structure, qualitative pawn majority
+  - Chapter: D-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/NfBJbap3
+    - Feature: isolated pawn
+    - All found aliases: isolated pawn, passed pawn
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Feature: isolani, isolated pawn
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Feature: isolani, isolated pawn
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: R-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Mab8k8jY
+    - Feature: isolated pawn
+    - All found aliases: doubled pawns, isolated pawn, passed pawn, pawn structure, weak squares
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Feature: isolani
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+
+
+## Concept: Key Square
+
+Aliases: key square, key squares
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/pEF9QCic/O3FEVxks
+    - Found: key squares
+    - All found aliases: compensation, develop, developed, develops, discovered attack, discovering, key squares, material, pawn formation, plan, sacrifice, sacrificed, sacrifices, threatening, threats
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Double Finachettoes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/DrwAR6qc
+    - Found: key squares
+    - All found aliases: center, hypermodern, key squares, maneuver, pawn structure, pinned, plan, plans, retreat
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: No Calculation Required I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/9tQb9KCp
+    - Found: key squares
+    - All found aliases: calculate, calculating, calculation, corresponding squares, key squares, opposition, rules of thumb
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Anti-Colle
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J6JKnaKB
+    - Found: key squares
+    - All found aliases: center, classical school, develop, doubled pawns, formation, key squares, plans, tempo, threat, two bishops
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Understanding Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/DDRPLs3J
+    - Found: key squares
+    - All found aliases: corresponding squares, key squares, opposition, outflank, outflanking
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: key squares
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: PKk: Key Squares I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dfqKtA5X
+    - Found: key square, key squares
+    - All found aliases: key square, key squares, plan
+  - Chapter: PKk: Key Squares I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dfqKtA5X
+    - Found: key square, key squares
+    - All found aliases: key square, key squares, plan
+  - Chapter: PKk: King on the 6th I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/SJPzzjfe
+    - Found: key square, key squares
+    - All found aliases: key square, key squares
+  - Chapter: PKk: King on the 6th I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/SJPzzjfe
+    - Found: key square, key squares
+    - All found aliases: key square, key squares
+  - Chapter: PKk: King on the 6th II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/cP4R17N8
+    - Found: key square
+    - All found aliases: key square
+  - Chapter: PKk: King on the 6th III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Gs8iqw2l
+    - Found: key square, key squares
+    - All found aliases: key square, key squares
+  - Chapter: PKk: King on the 6th III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Gs8iqw2l
+    - Found: key square, key squares
+    - All found aliases: key square, key squares
+  - Chapter: PKk: King in Front (not 6th) I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Pk2tN1G8
+    - Found: key squares
+    - All found aliases: corresponding squares, key squares
+  - Chapter: PKk: King in Front (not 6th) II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/DmzxUKzc
+    - Found: key square, key squares
+    - All found aliases: key square, key squares, maneuver, threatening
+  - Chapter: PKk: King in Front (not 6th) II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/DmzxUKzc
+    - Found: key square, key squares
+    - All found aliases: key square, key squares, maneuver, threatening
+  - Chapter: PKk: Corresponding Squares Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/IAwpwISl
+    - Found: key square
+    - All found aliases: corresponding squares, key square
+  - Chapter: PKk: Corresponding Squares Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kw3jYAmK
+    - Found: key square
+    - All found aliases: classical school, corresponding squares, key square, opposition, take the opposition
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: key square, key squares
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: key square, key squares
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: 2PKk: Connected Passed Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kiSKha3k
+    - Found: key square
+    - All found aliases: key square, passed pawns, planned, restrict
+  - Chapter: 2PKk: Disconnected Passed Pawns II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/FY990H0f
+    - Found: key square
+    - All found aliases: corresponding squares, key square, passed pawns, threatening
+  - Chapter: PKpk: Outflanking I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/aOehG0jV
+    - Found: key squares
+    - All found aliases: key squares, outflanking
+  - Chapter: PKpk: Outflanking II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OpHcr9vA
+    - Found: key square, key squares
+    - All found aliases: corresponding squares, key square, key squares, opposition, outflanking
+  - Chapter: PKpk: Outflanking II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OpHcr9vA
+    - Found: key square, key squares
+    - All found aliases: corresponding squares, key square, key squares, opposition, outflanking
+  - Chapter: Outside Passed Pawn III: One Pawn Kills Two
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/TRkyKzXI
+    - Found: key square
+    - All found aliases: key square, passed pawn, passer, pawn majority
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: key square
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: Triangulation I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OEP1d5e4
+    - Found: key square
+    - All found aliases: corresponding squares, key square, maneuver, outflanking, triangulate
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: key square
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+  - Chapter: PKpk: Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/doe6mc9v
+    - Found: key square, key squares
+    - All found aliases: corresponding squares, key square, key squares, retreat
+  - Chapter: PKpk: Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/doe6mc9v
+    - Found: key square, key squares
+    - All found aliases: corresponding squares, key square, key squares, retreat
+  - Chapter: King Destinations and Paths III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/9CivWxXK
+    - Found: key square
+    - All found aliases: key square, planned
+  - Chapter: King Destinations and Paths V
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/GAT5rTlD
+    - Found: key square
+    - All found aliases: key square
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Understanding Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/DDRPLs3J
+    - Found: key squares
+    - All found aliases: corresponding squares, key squares, opposition, outflank, outflanking
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: key squares
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: PKk: Key Squares I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dfqKtA5X
+    - Found: key square, key squares
+    - All found aliases: key square, key squares, plan
+  - Chapter: PKk: Key Squares I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dfqKtA5X
+    - Found: key square, key squares
+    - All found aliases: key square, key squares, plan
+  - Chapter: PKk: King on the 6th I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/SJPzzjfe
+    - Found: key square, key squares
+    - All found aliases: key square, key squares
+  - Chapter: PKk: King on the 6th I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/SJPzzjfe
+    - Found: key square, key squares
+    - All found aliases: key square, key squares
+  - Chapter: PKk: King on the 6th II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/cP4R17N8
+    - Found: key square
+    - All found aliases: key square
+  - Chapter: PKk: King on the 6th III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Gs8iqw2l
+    - Found: key square, key squares
+    - All found aliases: key square, key squares
+  - Chapter: PKk: King on the 6th III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Gs8iqw2l
+    - Found: key square, key squares
+    - All found aliases: key square, key squares
+  - Chapter: PKk: King in Front (not 6th) I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Pk2tN1G8
+    - Found: key squares
+    - All found aliases: corresponding squares, key squares
+  - Chapter: PKk: King in Front (not 6th) II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/DmzxUKzc
+    - Found: key square, key squares
+    - All found aliases: key square, key squares, maneuver, threatening
+  - Chapter: PKk: King in Front (not 6th) II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/DmzxUKzc
+    - Found: key square, key squares
+    - All found aliases: key square, key squares, maneuver, threatening
+  - Chapter: PKk: Corresponding Squares Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/IAwpwISl
+    - Found: key square
+    - All found aliases: corresponding squares, key square
+  - Chapter: PKk: Corresponding Squares Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kw3jYAmK
+    - Found: key square
+    - All found aliases: classical school, corresponding squares, key square, opposition, take the opposition
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: key square, key squares
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: key square, key squares
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: 2PKk: Connected Passed Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kiSKha3k
+    - Found: key square
+    - All found aliases: key square, passed pawns, planned, restrict
+  - Chapter: 2PKk: Disconnected Passed Pawns II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/FY990H0f
+    - Found: key square
+    - All found aliases: corresponding squares, key square, passed pawns, threatening
+  - Chapter: PKpk: Outflanking I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/aOehG0jV
+    - Found: key squares
+    - All found aliases: key squares, outflanking
+  - Chapter: PKpk: Outflanking II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OpHcr9vA
+    - Found: key square, key squares
+    - All found aliases: corresponding squares, key square, key squares, opposition, outflanking
+  - Chapter: PKpk: Outflanking II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OpHcr9vA
+    - Found: key square, key squares
+    - All found aliases: corresponding squares, key square, key squares, opposition, outflanking
+  - Chapter: Outside Passed Pawn III: One Pawn Kills Two
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/TRkyKzXI
+    - Found: key square
+    - All found aliases: key square, passed pawn, passer, pawn majority
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: key square
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: Triangulation I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OEP1d5e4
+    - Found: key square
+    - All found aliases: corresponding squares, key square, maneuver, outflanking, triangulate
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: key square
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+  - Chapter: PKpk: Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/doe6mc9v
+    - Found: key square, key squares
+    - All found aliases: corresponding squares, key square, key squares, retreat
+  - Chapter: PKpk: Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/doe6mc9v
+    - Found: key square, key squares
+    - All found aliases: corresponding squares, key square, key squares, retreat
+  - Chapter: King Destinations and Paths III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/9CivWxXK
+    - Found: key square
+    - All found aliases: key square, planned
+  - Chapter: King Destinations and Paths V
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/GAT5rTlD
+    - Found: key square
+    - All found aliases: key square
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Understanding Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/DDRPLs3J
+    - Found: key squares
+    - All found aliases: corresponding squares, key squares, opposition, outflank, outflanking
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: key squares
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: PKk: Key Squares I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dfqKtA5X
+    - Found: key square, key squares
+    - All found aliases: key square, key squares, plan
+  - Chapter: PKk: Key Squares I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dfqKtA5X
+    - Found: key square, key squares
+    - All found aliases: key square, key squares, plan
+  - Chapter: PKk: King on the 6th I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/SJPzzjfe
+    - Found: key square, key squares
+    - All found aliases: key square, key squares
+  - Chapter: PKk: King on the 6th I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/SJPzzjfe
+    - Found: key square, key squares
+    - All found aliases: key square, key squares
+  - Chapter: PKk: King on the 6th II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/cP4R17N8
+    - Found: key square
+    - All found aliases: key square
+  - Chapter: PKk: King on the 6th III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Gs8iqw2l
+    - Found: key square, key squares
+    - All found aliases: key square, key squares
+  - Chapter: PKk: King on the 6th III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Gs8iqw2l
+    - Found: key square, key squares
+    - All found aliases: key square, key squares
+  - Chapter: PKk: King in Front (not 6th) I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Pk2tN1G8
+    - Found: key squares
+    - All found aliases: corresponding squares, key squares
+  - Chapter: PKk: King in Front (not 6th) II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/DmzxUKzc
+    - Found: key square, key squares
+    - All found aliases: key square, key squares, maneuver, threatening
+  - Chapter: PKk: King in Front (not 6th) II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/DmzxUKzc
+    - Found: key square, key squares
+    - All found aliases: key square, key squares, maneuver, threatening
+  - Chapter: PKk: Corresponding Squares Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/IAwpwISl
+    - Found: key square
+    - All found aliases: corresponding squares, key square
+  - Chapter: PKk: Corresponding Squares Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kw3jYAmK
+    - Found: key square
+    - All found aliases: classical school, corresponding squares, key square, opposition, take the opposition
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: key square, key squares
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: key square, key squares
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: 2PKk: Connected Passed Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kiSKha3k
+    - Found: key square
+    - All found aliases: key square, passed pawns, planned, restrict
+  - Chapter: 2PKk: Disconnected Passed Pawns II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/FY990H0f
+    - Found: key square
+    - All found aliases: corresponding squares, key square, passed pawns, threatening
+  - Chapter: PKpk: Outflanking I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/aOehG0jV
+    - Found: key squares
+    - All found aliases: key squares, outflanking
+  - Chapter: PKpk: Outflanking II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OpHcr9vA
+    - Found: key square, key squares
+    - All found aliases: corresponding squares, key square, key squares, opposition, outflanking
+  - Chapter: PKpk: Outflanking II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OpHcr9vA
+    - Found: key square, key squares
+    - All found aliases: corresponding squares, key square, key squares, opposition, outflanking
+  - Chapter: Outside Passed Pawn III: One Pawn Kills Two
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/TRkyKzXI
+    - Found: key square
+    - All found aliases: key square, passed pawn, passer, pawn majority
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: key square
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: Triangulation I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OEP1d5e4
+    - Found: key square
+    - All found aliases: corresponding squares, key square, maneuver, outflanking, triangulate
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: key square
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+  - Chapter: PKpk: Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/doe6mc9v
+    - Found: key square, key squares
+    - All found aliases: corresponding squares, key square, key squares, retreat
+  - Chapter: PKpk: Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/doe6mc9v
+    - Found: key square, key squares
+    - All found aliases: corresponding squares, key square, key squares, retreat
+  - Chapter: King Destinations and Paths III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/9CivWxXK
+    - Found: key square
+    - All found aliases: key square, planned
+  - Chapter: King Destinations and Paths V
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/GAT5rTlD
+    - Found: key square
+    - All found aliases: key square
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: No Calculation Required I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/9tQb9KCp
+    - Found: key squares
+    - All found aliases: calculate, calculating, calculation, corresponding squares, key squares, opposition, rules of thumb
+
+
+## Concept: King Activity
+
+Aliases: active king, king activity
+
+Appears In:
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKpk: Trebuchet
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/xjiu2dZB
+    - Found: active king
+    - All found aliases: active king, trebuchet
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKpk: Trebuchet
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/xjiu2dZB
+    - Found: active king
+    - All found aliases: active king, trebuchet
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKpk: Trebuchet
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/xjiu2dZB
+    - Found: active king
+    - All found aliases: active king, trebuchet
+
+
+## Concept: King Safety
+
+Aliases: king safety, safe king
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 2
+    - Chapter URL: https://lichess.org/study/pEF9QCic/5Lb60MIz
+    - Found: king safety
+    - All found aliases: center, developing, discovered check, fork, king safety, pawn structure, plan, pressure, threaten, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: The Blind Spot  (Blumenfeld's Rule)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/O4Pnrloy
+    - Found: king safety
+    - All found aliases: backward moves, calculations, king safety, material
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Orientation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/mHKJVcyj
+    - Found: king safety
+    - All found aliases: calculation, forks, imbalances, initiative, king safety, lucena position, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: Orientation Example
+    - Chapter URL: https://lichess.org/study/1O0UELn6/s81l1Xs5
+    - Found: king safety
+    - All found aliases: center, fork, imbalances, initiative, king safety, material, pawn structure, plans, pressure, space, threatening, threats
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: Orientation to a position
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Qv1Qxa9v
+    - Found: king safety
+    - All found aliases: calculation, imbalances, initiative, king safety, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: king safety
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Found: king safety
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Found: safe king
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: king safety
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Found: king safety
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: king safety
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: king safety
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: Interlude II: Sufficient Mating Material
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/djCU63zy
+    - Found: king safety
+    - All found aliases: king safety, two bishops
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: king safety
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: king safety
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: Interlude II: Sufficient Mating Material
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/djCU63zy
+    - Found: king safety
+    - All found aliases: king safety, two bishops
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: Interlude II: Sufficient Mating Material
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/djCU63zy
+    - Found: king safety
+    - All found aliases: king safety, two bishops
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: The Blind Spot  (Blumenfeld's Rule)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/O4Pnrloy
+    - Found: king safety
+    - All found aliases: backward moves, calculations, king safety, material
+
+
+## Concept: Legal's Mate
+
+Aliases: legal's mate, legal's mate i, legal's mate ii, legal's mate iii
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Named Mate: legal's mate
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Named Mate: legal's mate
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+
+
+## Concept: Loose Piece
+
+Aliases: loose piece, loose pieces
+
+Appears In:
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: A Benoni Passer
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/826AY7WG
+    - Tactical Motif: loose pieces
+    - All found aliases: blockading, decoying, loose pieces, passed pawn, tempo
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Tactical Motif: loose pieces
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Tactical Motif: loose pieces
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+
+
+## Concept: Lucena Position
+
+Aliases: lucena position
+
+Appears In:
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Orientation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/mHKJVcyj
+    - Found: lucena position
+    - All found aliases: calculation, forks, imbalances, initiative, king safety, lucena position, pawn structure, pawn structures, plan, plans, space, threats
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/oVVQDoqt
+    - Found: lucena position
+    - All found aliases: lucena position, plans
+  - Chapter: The Lucena Position
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/P4BaGzUF
+    - Found: lucena position
+    - All found aliases: lucena position, skewer
+  - Chapter: PRKrk: 5th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Tj3LPuLq
+    - Found: lucena position
+    - All found aliases: center, lucena position, restrict, space, threatening
+  - Chapter: PRKrk: 4th Rank Rule III: Black King on the Long Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/qmu1dV0B
+    - Found: lucena position
+    - All found aliases: lucena position
+  - Chapter: PRKrk: 4th Rank Rule V: Knight Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/YGl4hKP2
+    - Found: lucena position
+    - All found aliases: lucena position
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1cFPLD12
+    - Found: lucena position
+    - All found aliases: king cut off, lucena position, retreat
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/oVVQDoqt
+    - Found: lucena position
+    - All found aliases: lucena position, plans
+  - Chapter: The Lucena Position
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/P4BaGzUF
+    - Found: lucena position
+    - All found aliases: lucena position, skewer
+  - Chapter: PRKrk: 5th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Tj3LPuLq
+    - Found: lucena position
+    - All found aliases: center, lucena position, restrict, space, threatening
+  - Chapter: PRKrk: 4th Rank Rule III: Black King on the Long Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/qmu1dV0B
+    - Found: lucena position
+    - All found aliases: lucena position
+  - Chapter: PRKrk: 4th Rank Rule V: Knight Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/YGl4hKP2
+    - Found: lucena position
+    - All found aliases: lucena position
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1cFPLD12
+    - Found: lucena position
+    - All found aliases: king cut off, lucena position, retreat
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/oVVQDoqt
+    - Found: lucena position
+    - All found aliases: lucena position, plans
+  - Chapter: The Lucena Position
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/P4BaGzUF
+    - Found: lucena position
+    - All found aliases: lucena position, skewer
+  - Chapter: PRKrk: 5th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Tj3LPuLq
+    - Found: lucena position
+    - All found aliases: center, lucena position, restrict, space, threatening
+  - Chapter: PRKrk: 4th Rank Rule III: Black King on the Long Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/qmu1dV0B
+    - Found: lucena position
+    - All found aliases: lucena position
+  - Chapter: PRKrk: 4th Rank Rule V: Knight Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/YGl4hKP2
+    - Found: lucena position
+    - All found aliases: lucena position
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1cFPLD12
+    - Found: lucena position
+    - All found aliases: king cut off, lucena position, retreat
+
+
+## Concept: Maneuvering
+
+Aliases: maneuver, maneuvered, maneuvering, maneuvers
+
+Appears In:
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Smile
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/nyBSiZJ0
+    - Found: maneuver
+    - All found aliases: maneuver, threatening
+  - Chapter: Double Finachettoes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/DrwAR6qc
+    - Found: maneuver
+    - All found aliases: center, hypermodern, key squares, maneuver, pawn structure, pinned, plan, plans, retreat
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/xbeAVC8Y
+    - Found: maneuver
+    - All found aliases: calculations, candidate, gain a tempo, maneuver, retreats, sacrifices
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #37
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Wnnf3YyJ
+    - Found: maneuver
+    - All found aliases: bad bishop, center, chain, closed, imbalances, maneuver, pawn chain, pawn chains, pawn formation, pawn structure, pinned, plan, plans, retreat, space
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Elementary Tactics
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/BUmPkrE3
+    - Found: maneuvers
+    - All found aliases: maneuvers
+  - Chapter: The Endgame
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Vooa3887
+    - Found: maneuver
+    - All found aliases: maneuver, opposition, take the opposition
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General IV
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/lgXSLE20
+    - Found: maneuver, maneuvering
+    - All found aliases: center, maneuver, maneuvering
+  - Chapter: 2PBKbk: Opposite Color Bishops General IV
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/lgXSLE20
+    - Found: maneuver, maneuvering
+    - All found aliases: center, maneuver, maneuvering
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: King in Front (not 6th) II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/DmzxUKzc
+    - Found: maneuver
+    - All found aliases: key square, key squares, maneuver, threatening
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: maneuver
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: 2PKpk: Outflanking X; Triangulation
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/6iv4aIgp
+    - Found: maneuver
+    - All found aliases: maneuver, outflanking, retreat, triangulation, waiting move
+  - Chapter: Triangulation I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OEP1d5e4
+    - Found: maneuver
+    - All found aliases: corresponding squares, key square, maneuver, outflanking, triangulate
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: NBKk: Driving the King to the Corner
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/z2luMOdm
+    - Found: maneuvers
+    - All found aliases: combination, maneuvers
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: QKpk: 7th Rank Bishop Pawn General III
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/uPK0qSfv
+    - Found: maneuver
+    - All found aliases: maneuver
+  - Chapter: QKpk: 7th Rank Rook Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/kd0J8OSV
+    - Found: maneuvers
+    - All found aliases: blockade, discovered check, lose a tempo, maneuvers, mating net
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Elementary Tactics
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/BUmPkrE3
+    - Found: maneuvers
+    - All found aliases: maneuvers
+  - Chapter: The Endgame
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Vooa3887
+    - Found: maneuver
+    - All found aliases: maneuver, opposition, take the opposition
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General IV
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/lgXSLE20
+    - Found: maneuver, maneuvering
+    - All found aliases: center, maneuver, maneuvering
+  - Chapter: 2PBKbk: Opposite Color Bishops General IV
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/lgXSLE20
+    - Found: maneuver, maneuvering
+    - All found aliases: center, maneuver, maneuvering
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: King in Front (not 6th) II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/DmzxUKzc
+    - Found: maneuver
+    - All found aliases: key square, key squares, maneuver, threatening
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: maneuver
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: 2PKpk: Outflanking X; Triangulation
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/6iv4aIgp
+    - Found: maneuver
+    - All found aliases: maneuver, outflanking, retreat, triangulation, waiting move
+  - Chapter: Triangulation I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OEP1d5e4
+    - Found: maneuver
+    - All found aliases: corresponding squares, key square, maneuver, outflanking, triangulate
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: NBKk: Driving the King to the Corner
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/z2luMOdm
+    - Found: maneuvers
+    - All found aliases: combination, maneuvers
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: QKpk: 7th Rank Bishop Pawn General III
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/uPK0qSfv
+    - Found: maneuver
+    - All found aliases: maneuver
+  - Chapter: QKpk: 7th Rank Rook Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/kd0J8OSV
+    - Found: maneuvers
+    - All found aliases: blockade, discovered check, lose a tempo, maneuvers, mating net
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General IV
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/lgXSLE20
+    - Found: maneuver, maneuvering
+    - All found aliases: center, maneuver, maneuvering
+  - Chapter: 2PBKbk: Opposite Color Bishops General IV
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/lgXSLE20
+    - Found: maneuver, maneuvering
+    - All found aliases: center, maneuver, maneuvering
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: King in Front (not 6th) II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/DmzxUKzc
+    - Found: maneuver
+    - All found aliases: key square, key squares, maneuver, threatening
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: maneuver
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: 2PKpk: Outflanking X; Triangulation
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/6iv4aIgp
+    - Found: maneuver
+    - All found aliases: maneuver, outflanking, retreat, triangulation, waiting move
+  - Chapter: Triangulation I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OEP1d5e4
+    - Found: maneuver
+    - All found aliases: corresponding squares, key square, maneuver, outflanking, triangulate
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: NBKk: Driving the King to the Corner
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/z2luMOdm
+    - Found: maneuvers
+    - All found aliases: combination, maneuvers
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: QKpk: 7th Rank Bishop Pawn General III
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/uPK0qSfv
+    - Found: maneuver
+    - All found aliases: maneuver
+  - Chapter: QKpk: 7th Rank Rook Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/kd0J8OSV
+    - Found: maneuvers
+    - All found aliases: blockade, discovered check, lose a tempo, maneuvers, mating net
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/xbeAVC8Y
+    - Found: maneuver
+    - All found aliases: calculations, candidate, gain a tempo, maneuver, retreats, sacrifices
+
+
+## Concept: Material
+
+Aliases: material, material imbalance, minor piece imbalance
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: The Annotator comments on the Immortal Game
+    - Chapter URL: https://lichess.org/study/pEF9QCic/7uiI9P9K
+    - Found: material
+    - All found aliases: developed, material, plan, sacrifice, sacrificed
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Found: material
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/pEF9QCic/O3FEVxks
+    - Found: material
+    - All found aliases: compensation, develop, developed, develops, discovered attack, discovering, key squares, material, pawn formation, plan, sacrifice, sacrificed, sacrifices, threatening, threats
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/pEF9QCic/umydfvUv
+    - Found: material
+    - All found aliases: active pieces, battery, fork, material, mobile, mobility, pawn storm, pin, pinned, pinning, plan, plans, qualitative pawn majority, remove the defender, threat
+  - Chapter: Annotate 8
+    - Chapter URL: https://lichess.org/study/pEF9QCic/mWPKMZ1W
+    - Found: material
+    - All found aliases: calculating, develop, developed, initiative, material, plan, seize the initiative, threat, threats
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Found: material
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Found: material
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+  - Chapter: Annotate 15
+    - Chapter URL: https://lichess.org/study/pEF9QCic/xpogdCvR
+    - Found: material
+    - All found aliases: bad bishop, center, counterplay, develop, discovered check, majority, material, pinned, plan, restrict, threatening
+  - Chapter: Annotate 16
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oOYrqEZF
+    - Found: material
+    - All found aliases: bad bishop, bishop pair, center, compensation, discovery, doubled pawns, material, mating net, pin, pins, plan, sacrifice, two bishops
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: The Annotator comments on the Immortal Game
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/6RDPlV0m
+    - Found: material
+    - All found aliases: developed, material, plan, sacrifice, sacrificed
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/uI2sp5Mb
+    - Found: material
+    - All found aliases: discovering, material, pawn formation, plan, sacrifice, sacrifices, threats
+  - Chapter: Annotate 8
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/sEhdogzW
+    - Found: material
+    - All found aliases: material, plan, threat, threats
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/EMqESjJp
+    - Found: material
+    - All found aliases: material
+  - Chapter: Alekhine's Sting I
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/PnAIpNvR
+    - Found: material
+    - All found aliases: fork, material, sacrifice
+  - Chapter: Alekhine's Sting II
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/ppNu9nSz
+    - Found: material
+    - All found aliases: calculate, gain a tempo, isolani, material, pinned, two bishops
+  - Chapter: Queenside, Kingside, and Middle
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/WusJPjSu
+    - Found: material
+    - All found aliases: clearance, compensation, decoy, material, mobility, pin, pinned, sacrifice, zwischenzug
+  - Chapter: Black: \"What, me worry?\
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/n3ikXUxW
+    - Found: material
+    - All found aliases: calculate, material, pinned, sacrifice, threatened, threatening
+  - Chapter: Queenside Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/s2zJpwHc
+    - Found: material
+    - All found aliases: calculate, material, sacrifice, sacrifices, threat, threatening
+  - Chapter: King in the Center Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/yG4ujqAW
+    - Found: material
+    - All found aliases: calculate, material, retreat, threatened, threatening
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Found: material
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: material
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: How Many Moves Can You Calculate Ahead? II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/lgTEA2Ui
+    - Found: material
+    - All found aliases: calculate, candidate, candidate moves, candidates, material, pin, threatening
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Found: material
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: material
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: material
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: The Blind Spot  (Blumenfeld's Rule)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/O4Pnrloy
+    - Found: material
+    - All found aliases: backward moves, calculations, king safety, material
+  - Chapter: Kotov on the Creative Process of Calculation
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/HwKUJ5Zq
+    - Found: material
+    - All found aliases: calculate, candidates, material, plan, quiet move, quiet moves, threatening
+  - Chapter: Exercise 7: Attempted Fix: Stage I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/oOuXbXDX
+    - Found: material
+    - All found aliases: material, overworked
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: material
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: material
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: To Analyze or Not to Analyze I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0EMZaI7T
+    - Found: material
+    - All found aliases: calculate, material
+
+- Study: Advanced: Curriculum
+  - Study URL: https://lichess.org/study/VHcKZ37M
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/ix21n4Vk
+    - Found: material
+    - All found aliases: calculate, calculation, combinations, material, pawn structure, pawn structures, structures
+  - Chapter: Prerequisites
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/ApVDBKPh
+    - Found: material
+    - All found aliases: material
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/4TFpQNtd
+    - Found: material
+    - All found aliases: calculation, material, pawn structures, structure
+  - Chapter: The Endgame
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/grdSrVqs
+    - Found: material
+    - All found aliases: corresponding squares, decoy, material
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Orientation Example
+    - Chapter URL: https://lichess.org/study/1O0UELn6/s81l1Xs5
+    - Found: material
+    - All found aliases: center, fork, imbalances, initiative, king safety, material, pawn structure, plans, pressure, space, threatening, threats
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: material
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Planning IV: Natural Moves May Not Be Good Enough
+    - Chapter URL: https://lichess.org/study/1O0UELn6/rDY9RpZ6
+    - Found: material
+    - All found aliases: backward pawn, center, constricted, initiative, material, mobility, passed pawn, plan, pressure, restricted, sacrificing, threats
+  - Chapter: Positional Judgement II: Open Lines
+    - Chapter URL: https://lichess.org/study/1O0UELn6/4M5Wq8VQ
+    - Found: material
+    - All found aliases: calculation, calculations, initiative, material, pawn structure, pressure, weak pawns
+  - Chapter: Positional Judgement III: Open Lines: Example I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/2DrdjkKg
+    - Found: material
+    - All found aliases: center, doubled, doubled pawns, doubling, material, plan, tempi, tempo, threatened
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/R1NKBrG6
+    - Found: material
+    - All found aliases: backward pawn, material, pressure, threatening
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: material
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #31
+    - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
+    - Found: material
+    - All found aliases: candidate, chain, initiative, isolated, material, pawn chain, plan, plans, retreat, sacrifice, threat
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Found: material
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: material
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Found: material
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+  - Chapter: TLG #145
+    - Chapter URL: https://lichess.org/study/49AuOOCo/gs829rtA
+    - Found: material
+    - All found aliases: calculation, material, minority, pawn structure, pawn structures, pawn weaknesses, plan, plans, sacrifices, simplification, space, structure, tempi, threatening, two bishops
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Found: material
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: material
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: Progress so far. Next steps.
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/8oCbsR2I
+    - Found: material
+    - All found aliases: calculation, candidate moves, material, plan, restrict
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: material
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: material
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: References I [A-M]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/xEKJ6WbA
+    - Found: material
+    - All found aliases: calculate, candidate, center, classical school, material, pawn structures, structures
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Found: material
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+  - Chapter: Beginner Course Tests
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/5YsMUD3v
+    - Found: material
+    - All found aliases: material
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Fortresses in Bishop-Up Endgames I
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/Iapo3m0Q
+    - Found: material
+    - All found aliases: fortress, material
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
+    - Found: material
+    - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : Fritz 12
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/lpccdIjY
+    - Found: material
+    - All found aliases: material
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: material
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Colle, Edgar - Tarrasch, Siegbert
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
+    - Found: material
+    - All found aliases: blockaded, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
+  - Chapter: Riumin, Nikolay Nikolaevich - Poliak, Abram Borisovich
+    - Chapter URL: https://lichess.org/study/6P90HTwf/BLZNdAIS
+    - Found: material
+    - All found aliases: fork, material, threatening
+  - Chapter: Havasi, Kornel - Monticelli, Mario
+    - Chapter URL: https://lichess.org/study/6P90HTwf/S8hLLj6k
+    - Found: material
+    - All found aliases: combination, fortress, material, overloaded, threat, threatening, two bishops
+  - Chapter: Colle, Edgard - Capablanca, Jose Raul
+    - Chapter URL: https://lichess.org/study/6P90HTwf/41wL1Xtn
+    - Found: material
+    - All found aliases: material, mobility, overloaded, restricts, threatening
+  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+    - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
+    - Found: material
+    - All found aliases: center, doubled, material, passed pawn, passed pawns, planning, retreat, simplifies, simplify, threatening
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Found: material
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Colle, Edgar - Alekhine, Alexander
+    - Chapter URL: https://lichess.org/study/6P90HTwf/fgGgMOU2
+    - Found: material
+    - All found aliases: combination, developed, doubled pawns, doubles, good bishop, isolani, material, overworked, pin, retreats, threatening
+  - Chapter: Maroczy, Geza - Weenink, Henri Gerard
+    - Chapter URL: https://lichess.org/study/6P90HTwf/KVdD1arO
+    - Found: material
+    - All found aliases: material, threatening
+  - Chapter: Alekhine, Alexander - Flohr, Salo
+    - Chapter URL: https://lichess.org/study/6P90HTwf/m8jmj0a2
+    - Found: material
+    - All found aliases: combination, develop, double attack, isolani, material, sacrificing, threat, threats, two bishops
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/vMmllPNw/Iy7ACzLV
+    - Found: material
+    - All found aliases: material, pinning, threatening
+  - Chapter: Endgames by Learning Order
+    - Chapter URL: https://lichess.org/study/vMmllPNw/FtRwHSfN
+    - Found: material
+    - All found aliases: material
+  - Chapter: Piece Versus Pawns
+    - Chapter URL: https://lichess.org/study/vMmllPNw/Bj5AzTls
+    - Found: material
+    - All found aliases: material
+  - Chapter: Piece And Pawn Versus Lone King
+    - Chapter URL: https://lichess.org/study/vMmllPNw/eeWCCEKt
+    - Found: material
+    - All found aliases: material, plan, waiting moves
+  - Chapter: Bishop And Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/Ptfr8swd
+    - Found: material
+    - All found aliases: material
+  - Chapter: Rook And Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/KAw43OGz
+    - Found: material
+    - All found aliases: material
+  - Chapter: General Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/OmVrYn7K
+    - Found: material
+    - All found aliases: blockade, material, passed pawns
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: material
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: material
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/8iGonU8A
+    - Found: material
+    - All found aliases: material, two bishops
+  - Chapter: 2QKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/38fY8axp
+    - Found: material
+    - All found aliases: material
+  - Chapter: Interlude I:Failure to Mate
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/ddcd4s9s
+    - Found: material
+    - All found aliases: material, plan, planned, plans, trade pieces
+  - Chapter: QKbk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hVreNGAe
+    - Found: material
+    - All found aliases: fork, material, pin, skewer, threatening
+  - Chapter: QKnk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/6ZTGzoXh
+    - Found: material
+    - All found aliases: centralized, fork, material, pins, threatening
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: XKpk: Blockade
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/sSNr4WNu
+    - Found: material
+    - All found aliases: material
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: material
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: Progress so far. Next steps.
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/8oCbsR2I
+    - Found: material
+    - All found aliases: calculation, candidate moves, material, plan, restrict
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: material
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: material
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: References I [A-M]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/xEKJ6WbA
+    - Found: material
+    - All found aliases: calculate, candidate, center, classical school, material, pawn structures, structures
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Found: material
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+  - Chapter: Beginner Course Tests
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/5YsMUD3v
+    - Found: material
+    - All found aliases: material
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Fortresses in Bishop-Up Endgames I
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/Iapo3m0Q
+    - Found: material
+    - All found aliases: fortress, material
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/vMmllPNw/Iy7ACzLV
+    - Found: material
+    - All found aliases: material, pinning, threatening
+  - Chapter: Endgames by Learning Order
+    - Chapter URL: https://lichess.org/study/vMmllPNw/FtRwHSfN
+    - Found: material
+    - All found aliases: material
+  - Chapter: Piece Versus Pawns
+    - Chapter URL: https://lichess.org/study/vMmllPNw/Bj5AzTls
+    - Found: material
+    - All found aliases: material
+  - Chapter: Piece And Pawn Versus Lone King
+    - Chapter URL: https://lichess.org/study/vMmllPNw/eeWCCEKt
+    - Found: material
+    - All found aliases: material, plan, waiting moves
+  - Chapter: Bishop And Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/Ptfr8swd
+    - Found: material
+    - All found aliases: material
+  - Chapter: Rook And Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/KAw43OGz
+    - Found: material
+    - All found aliases: material
+  - Chapter: General Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/OmVrYn7K
+    - Found: material
+    - All found aliases: blockade, material, passed pawns
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: material
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: material
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/8iGonU8A
+    - Found: material
+    - All found aliases: material, two bishops
+  - Chapter: 2QKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/38fY8axp
+    - Found: material
+    - All found aliases: material
+  - Chapter: Interlude I:Failure to Mate
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/ddcd4s9s
+    - Found: material
+    - All found aliases: material, plan, planned, plans, trade pieces
+  - Chapter: QKbk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hVreNGAe
+    - Found: material
+    - All found aliases: fork, material, pin, skewer, threatening
+  - Chapter: QKnk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/6ZTGzoXh
+    - Found: material
+    - All found aliases: centralized, fork, material, pins, threatening
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: XKpk: Blockade
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/sSNr4WNu
+    - Found: material
+    - All found aliases: material
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Fortresses in Bishop-Up Endgames I
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/Iapo3m0Q
+    - Found: material
+    - All found aliases: fortress, material
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/vMmllPNw/Iy7ACzLV
+    - Found: material
+    - All found aliases: material, pinning, threatening
+  - Chapter: Endgames by Learning Order
+    - Chapter URL: https://lichess.org/study/vMmllPNw/FtRwHSfN
+    - Found: material
+    - All found aliases: material
+  - Chapter: Piece Versus Pawns
+    - Chapter URL: https://lichess.org/study/vMmllPNw/Bj5AzTls
+    - Found: material
+    - All found aliases: material
+  - Chapter: Piece And Pawn Versus Lone King
+    - Chapter URL: https://lichess.org/study/vMmllPNw/eeWCCEKt
+    - Found: material
+    - All found aliases: material, plan, waiting moves
+  - Chapter: Bishop And Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/Ptfr8swd
+    - Found: material
+    - All found aliases: material
+  - Chapter: Rook And Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/KAw43OGz
+    - Found: material
+    - All found aliases: material
+  - Chapter: General Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/OmVrYn7K
+    - Found: material
+    - All found aliases: blockade, material, passed pawns
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: material
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: material
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/8iGonU8A
+    - Found: material
+    - All found aliases: material, two bishops
+  - Chapter: 2QKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/38fY8axp
+    - Found: material
+    - All found aliases: material
+  - Chapter: Interlude I:Failure to Mate
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/ddcd4s9s
+    - Found: material
+    - All found aliases: material, plan, planned, plans, trade pieces
+  - Chapter: QKbk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hVreNGAe
+    - Found: material
+    - All found aliases: fork, material, pin, skewer, threatening
+  - Chapter: QKnk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/6ZTGzoXh
+    - Found: material
+    - All found aliases: centralized, fork, material, pins, threatening
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: XKpk: Blockade
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/sSNr4WNu
+    - Found: material
+    - All found aliases: material
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: How Many Moves Can You Calculate Ahead? II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/lgTEA2Ui
+    - Found: material
+    - All found aliases: calculate, candidate, candidate moves, candidates, material, pin, threatening
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Found: material
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: material
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: material
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: The Blind Spot  (Blumenfeld's Rule)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/O4Pnrloy
+    - Found: material
+    - All found aliases: backward moves, calculations, king safety, material
+  - Chapter: Kotov on the Creative Process of Calculation
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/HwKUJ5Zq
+    - Found: material
+    - All found aliases: calculate, candidates, material, plan, quiet move, quiet moves, threatening
+  - Chapter: Exercise 7: Attempted Fix: Stage I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/oOuXbXDX
+    - Found: material
+    - All found aliases: material, overworked
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: material
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: material
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: To Analyze or Not to Analyze I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0EMZaI7T
+    - Found: material
+    - All found aliases: calculate, material
+
+
+## Concept: Mating Net
+
+Aliases: mating net
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 16
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oOYrqEZF
+    - Tactical Motif: mating net
+    - All found aliases: bad bishop, bishop pair, center, compensation, discovery, doubled pawns, material, mating net, pin, pins, plan, sacrifice, two bishops
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Tactical Motif: mating net
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Improving Visualization  II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/tWxtJPjH
+    - Tactical Motif: mating net
+    - All found aliases: calculate, mating net, pinning
+  - Chapter: Improving Visualization  III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/FMmFcWfE
+    - Tactical Motif: mating net
+    - All found aliases: interference, mating net, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Tactical Motif: mating net
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+    - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
+    - Tactical Motif: mating net
+    - All found aliases: center, closes, fork, mating net, plan, sacrifices, tension, threatening
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: QKpk: 7th Rank Bishop Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/E3yRkKZt
+    - Tactical Motif: mating net
+    - All found aliases: block the pawn, mating net, pinning, sacrifice
+  - Chapter: QKpk: 7th Rank Bishop Pawn General II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ZghFnAcr
+    - Tactical Motif: mating net
+    - All found aliases: mating net
+  - Chapter: QKpk: 7th Rank Bishop Pawn General IV
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/rfinAchk
+    - Tactical Motif: mating net
+    - All found aliases: mating net
+  - Chapter: QKpk: 7th Rank Rook Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/kd0J8OSV
+    - Tactical Motif: mating net
+    - All found aliases: blockade, discovered check, lose a tempo, maneuvers, mating net
+  - Chapter: QKpk: 7th Rank Rook Pawn General III
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/rjtQ5t5l
+    - Tactical Motif: mating net
+    - All found aliases: mating net, restrict
+  - Chapter: QKpk: 7th Rank Rook Pawn General III
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/W3upxvUg
+    - Tactical Motif: mating net
+    - All found aliases: mating net
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: QKpk: 7th Rank Bishop Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/E3yRkKZt
+    - Tactical Motif: mating net
+    - All found aliases: block the pawn, mating net, pinning, sacrifice
+  - Chapter: QKpk: 7th Rank Bishop Pawn General II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ZghFnAcr
+    - Tactical Motif: mating net
+    - All found aliases: mating net
+  - Chapter: QKpk: 7th Rank Bishop Pawn General IV
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/rfinAchk
+    - Tactical Motif: mating net
+    - All found aliases: mating net
+  - Chapter: QKpk: 7th Rank Rook Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/kd0J8OSV
+    - Tactical Motif: mating net
+    - All found aliases: blockade, discovered check, lose a tempo, maneuvers, mating net
+  - Chapter: QKpk: 7th Rank Rook Pawn General III
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/rjtQ5t5l
+    - Tactical Motif: mating net
+    - All found aliases: mating net, restrict
+  - Chapter: QKpk: 7th Rank Rook Pawn General III
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/W3upxvUg
+    - Tactical Motif: mating net
+    - All found aliases: mating net
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: QKpk: 7th Rank Bishop Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/E3yRkKZt
+    - Tactical Motif: mating net
+    - All found aliases: block the pawn, mating net, pinning, sacrifice
+  - Chapter: QKpk: 7th Rank Bishop Pawn General II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ZghFnAcr
+    - Tactical Motif: mating net
+    - All found aliases: mating net
+  - Chapter: QKpk: 7th Rank Bishop Pawn General IV
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/rfinAchk
+    - Tactical Motif: mating net
+    - All found aliases: mating net
+  - Chapter: QKpk: 7th Rank Rook Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/kd0J8OSV
+    - Tactical Motif: mating net
+    - All found aliases: blockade, discovered check, lose a tempo, maneuvers, mating net
+  - Chapter: QKpk: 7th Rank Rook Pawn General III
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/rjtQ5t5l
+    - Tactical Motif: mating net
+    - All found aliases: mating net, restrict
+  - Chapter: QKpk: 7th Rank Rook Pawn General III
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/W3upxvUg
+    - Tactical Motif: mating net
+    - All found aliases: mating net
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Tactical Motif: mating net
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Improving Visualization  II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/tWxtJPjH
+    - Tactical Motif: mating net
+    - All found aliases: calculate, mating net, pinning
+  - Chapter: Improving Visualization  III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/FMmFcWfE
+    - Tactical Motif: mating net
+    - All found aliases: interference, mating net, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Tactical Motif: mating net
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+
+
+## Concept: Monster Pawn
+
+Aliases: monster
+
+Appears In:
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Kingside Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/dh1EXD5H
+    - Feature: monster
+    - All found aliases: fork, monster, retreat, sacrifice, threatening
+
+
+## Concept: Named Pawn Feature
+
+Aliases: named pawn feature, pawn feature, pawn features
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Feature: pawn feature
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/oZQjQEdx
+    - Feature: pawn feature
+    - All found aliases: develop, pawn feature, pawn structure, plan, plans, tempo, threat
+  - Chapter: Make Up Your Own Questions and Analysis
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/dBGqleQ1
+    - Feature: pawn features
+    - All found aliases: pawn features
+
+
+## Concept: Named Tactical Pattern
+
+Aliases: named tactical pattern, tactical motif, tactical pattern
+
+Appears In:
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Tactical Motif: tactical motif
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Tactical Motif: tactical pattern
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW Problem 13
+    - Chapter URL: https://lichess.org/study/49AuOOCo/LPG1Ewwz
+    - Tactical Motif: tactical pattern
+    - All found aliases: backward move, backward moves, discovered attack, fork, good bishop, pinning, plan, space, tactical pattern
+
+
+## Concept: Open Position
+
+Aliases: open position, open positions
+
+Appears In:
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: open position
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #30 - How the position occurred
+    - Chapter URL: https://lichess.org/study/49AuOOCo/74h033UV
+    - Found: open position
+    - All found aliases: closed, majority, open position, plan, tempo, two bishops
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: open position
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+
+## Concept: Opera Mate
+
+Aliases: opera mate
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Named Mate: opera mate
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Named Mate: opera mate
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+
+
+## Concept: Opposition
+
+Aliases: opposition, take the opposition
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: No Calculation Required I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/9tQb9KCp
+    - Found: opposition
+    - All found aliases: calculate, calculating, calculation, corresponding squares, key squares, opposition, rules of thumb
+  - Chapter: Learning to Calculate Variations: Training Method III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/WBFaCSKB
+    - Found: opposition
+    - All found aliases: opposition, pawn structure
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: The Endgame
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Vooa3887
+    - Found: opposition, take the opposition
+    - All found aliases: maneuver, opposition, take the opposition
+  - Chapter: The Endgame
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Vooa3887
+    - Found: opposition, take the opposition
+    - All found aliases: maneuver, opposition, take the opposition
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: KRk I : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/iya2zz3C
+    - Found: opposition
+    - All found aliases: combination, interfere, interfering, opposition, restricting, space, waiting move
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Understanding Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/DDRPLs3J
+    - Found: opposition
+    - All found aliases: corresponding squares, key squares, opposition, outflank, outflanking
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: opposition
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: PKk: Rank Matters I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VfKnAxsO
+    - Found: opposition
+    - All found aliases: blockading, corresponding squares, opposition
+  - Chapter: PKk: Corresponding Squares Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kw3jYAmK
+    - Found: opposition, take the opposition
+    - All found aliases: classical school, corresponding squares, key square, opposition, take the opposition
+  - Chapter: PKk: Corresponding Squares Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kw3jYAmK
+    - Found: opposition, take the opposition
+    - All found aliases: classical school, corresponding squares, key square, opposition, take the opposition
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: opposition
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: The Natural Oppositional Field
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/HcxBAC4U
+    - Found: opposition
+    - All found aliases: corresponding squares, opposition, restrict
+  - Chapter: PKk: Corresponding Square Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/7wvZCDxU
+    - Found: opposition, take the opposition
+    - All found aliases: corresponding squares, opposition, take the opposition
+  - Chapter: PKk: Corresponding Square Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/7wvZCDxU
+    - Found: opposition, take the opposition
+    - All found aliases: corresponding squares, opposition, take the opposition
+  - Chapter: PKpk: Outflanking II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OpHcr9vA
+    - Found: opposition
+    - All found aliases: corresponding squares, key square, key squares, opposition, outflanking
+  - Chapter: PKpk: Outflanking III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/sKwmQZBi
+    - Found: opposition
+    - All found aliases: corresponding squares, opposition, outflank, threatening
+  - Chapter: 2PKpk: Outflanking IV
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/BOzGF0ft
+    - Found: opposition
+    - All found aliases: opposition, outflank
+  - Chapter: 2PKpk: Outflanking V
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Q42Mk0my
+    - Found: opposition
+    - All found aliases: opposition, outflank, outflanking
+  - Chapter: 2PKpk: Outflanking VII
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/NCuMXii0
+    - Found: opposition
+    - All found aliases: corresponding squares, opposition, sacrifice
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: opposition
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: RKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BXBY9U1j
+    - Found: opposition, take the opposition
+    - All found aliases: center, opposition, retreats, take the opposition, waiting move
+  - Chapter: RKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BXBY9U1j
+    - Found: opposition, take the opposition
+    - All found aliases: center, opposition, retreats, take the opposition, waiting move
+  - Chapter: RKk: The Really Long Method
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/FRxbMQln
+    - Found: opposition, take the opposition
+    - All found aliases: opposition, take the opposition, waiting move
+  - Chapter: RKk: The Really Long Method
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/FRxbMQln
+    - Found: opposition, take the opposition
+    - All found aliases: opposition, take the opposition, waiting move
+  - Chapter: 2BKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/bfRicqOu
+    - Found: opposition
+    - All found aliases: opposition, restricts, waiting move
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Found: opposition
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: The Endgame
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Vooa3887
+    - Found: opposition, take the opposition
+    - All found aliases: maneuver, opposition, take the opposition
+  - Chapter: The Endgame
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Vooa3887
+    - Found: opposition, take the opposition
+    - All found aliases: maneuver, opposition, take the opposition
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Understanding Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/DDRPLs3J
+    - Found: opposition
+    - All found aliases: corresponding squares, key squares, opposition, outflank, outflanking
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: opposition
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: PKk: Rank Matters I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VfKnAxsO
+    - Found: opposition
+    - All found aliases: blockading, corresponding squares, opposition
+  - Chapter: PKk: Corresponding Squares Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kw3jYAmK
+    - Found: opposition, take the opposition
+    - All found aliases: classical school, corresponding squares, key square, opposition, take the opposition
+  - Chapter: PKk: Corresponding Squares Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kw3jYAmK
+    - Found: opposition, take the opposition
+    - All found aliases: classical school, corresponding squares, key square, opposition, take the opposition
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: opposition
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: The Natural Oppositional Field
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/HcxBAC4U
+    - Found: opposition
+    - All found aliases: corresponding squares, opposition, restrict
+  - Chapter: PKk: Corresponding Square Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/7wvZCDxU
+    - Found: opposition, take the opposition
+    - All found aliases: corresponding squares, opposition, take the opposition
+  - Chapter: PKk: Corresponding Square Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/7wvZCDxU
+    - Found: opposition, take the opposition
+    - All found aliases: corresponding squares, opposition, take the opposition
+  - Chapter: PKpk: Outflanking II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OpHcr9vA
+    - Found: opposition
+    - All found aliases: corresponding squares, key square, key squares, opposition, outflanking
+  - Chapter: PKpk: Outflanking III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/sKwmQZBi
+    - Found: opposition
+    - All found aliases: corresponding squares, opposition, outflank, threatening
+  - Chapter: 2PKpk: Outflanking IV
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/BOzGF0ft
+    - Found: opposition
+    - All found aliases: opposition, outflank
+  - Chapter: 2PKpk: Outflanking V
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Q42Mk0my
+    - Found: opposition
+    - All found aliases: opposition, outflank, outflanking
+  - Chapter: 2PKpk: Outflanking VII
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/NCuMXii0
+    - Found: opposition
+    - All found aliases: corresponding squares, opposition, sacrifice
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: opposition
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: RKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BXBY9U1j
+    - Found: opposition, take the opposition
+    - All found aliases: center, opposition, retreats, take the opposition, waiting move
+  - Chapter: RKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BXBY9U1j
+    - Found: opposition, take the opposition
+    - All found aliases: center, opposition, retreats, take the opposition, waiting move
+  - Chapter: RKk: The Really Long Method
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/FRxbMQln
+    - Found: opposition, take the opposition
+    - All found aliases: opposition, take the opposition, waiting move
+  - Chapter: RKk: The Really Long Method
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/FRxbMQln
+    - Found: opposition, take the opposition
+    - All found aliases: opposition, take the opposition, waiting move
+  - Chapter: 2BKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/bfRicqOu
+    - Found: opposition
+    - All found aliases: opposition, restricts, waiting move
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Found: opposition
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Understanding Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/DDRPLs3J
+    - Found: opposition
+    - All found aliases: corresponding squares, key squares, opposition, outflank, outflanking
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: opposition
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: PKk: Rank Matters I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VfKnAxsO
+    - Found: opposition
+    - All found aliases: blockading, corresponding squares, opposition
+  - Chapter: PKk: Corresponding Squares Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kw3jYAmK
+    - Found: opposition, take the opposition
+    - All found aliases: classical school, corresponding squares, key square, opposition, take the opposition
+  - Chapter: PKk: Corresponding Squares Application II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kw3jYAmK
+    - Found: opposition, take the opposition
+    - All found aliases: classical school, corresponding squares, key square, opposition, take the opposition
+  - Chapter: PKk: Why Opposition Analysis Sometimes Fails
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/fv08Kws0
+    - Found: opposition
+    - All found aliases: calculate, corresponding squares, key square, key squares, maneuver, opposition
+  - Chapter: The Natural Oppositional Field
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/HcxBAC4U
+    - Found: opposition
+    - All found aliases: corresponding squares, opposition, restrict
+  - Chapter: PKk: Corresponding Square Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/7wvZCDxU
+    - Found: opposition, take the opposition
+    - All found aliases: corresponding squares, opposition, take the opposition
+  - Chapter: PKk: Corresponding Square Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/7wvZCDxU
+    - Found: opposition, take the opposition
+    - All found aliases: corresponding squares, opposition, take the opposition
+  - Chapter: PKpk: Outflanking II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OpHcr9vA
+    - Found: opposition
+    - All found aliases: corresponding squares, key square, key squares, opposition, outflanking
+  - Chapter: PKpk: Outflanking III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/sKwmQZBi
+    - Found: opposition
+    - All found aliases: corresponding squares, opposition, outflank, threatening
+  - Chapter: 2PKpk: Outflanking IV
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/BOzGF0ft
+    - Found: opposition
+    - All found aliases: opposition, outflank
+  - Chapter: 2PKpk: Outflanking V
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Q42Mk0my
+    - Found: opposition
+    - All found aliases: opposition, outflank, outflanking
+  - Chapter: 2PKpk: Outflanking VII
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/NCuMXii0
+    - Found: opposition
+    - All found aliases: corresponding squares, opposition, sacrifice
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: opposition
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: RKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BXBY9U1j
+    - Found: opposition, take the opposition
+    - All found aliases: center, opposition, retreats, take the opposition, waiting move
+  - Chapter: RKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BXBY9U1j
+    - Found: opposition, take the opposition
+    - All found aliases: center, opposition, retreats, take the opposition, waiting move
+  - Chapter: RKk: The Really Long Method
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/FRxbMQln
+    - Found: opposition, take the opposition
+    - All found aliases: opposition, take the opposition, waiting move
+  - Chapter: RKk: The Really Long Method
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/FRxbMQln
+    - Found: opposition, take the opposition
+    - All found aliases: opposition, take the opposition, waiting move
+  - Chapter: 2BKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/bfRicqOu
+    - Found: opposition
+    - All found aliases: opposition, restricts, waiting move
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Found: opposition
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: No Calculation Required I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/9tQb9KCp
+    - Found: opposition
+    - All found aliases: calculate, calculating, calculation, corresponding squares, key squares, opposition, rules of thumb
+  - Chapter: Learning to Calculate Variations: Training Method III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/WBFaCSKB
+    - Found: opposition
+    - All found aliases: opposition, pawn structure
+
+
+## Concept: Outflanking
+
+Aliases: outflank, outflanked, outflanking, outflanks
+
+Appears In:
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Fortresses in Bishop-Up Endgames IV
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/5pnNUqPo
+    - Found: outflanked
+    - All found aliases: outflanked
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Understanding Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/DDRPLs3J
+    - Found: outflank, outflanking
+    - All found aliases: corresponding squares, key squares, opposition, outflank, outflanking
+  - Chapter: Understanding Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/DDRPLs3J
+    - Found: outflank, outflanking
+    - All found aliases: corresponding squares, key squares, opposition, outflank, outflanking
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: outflanking
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: PKpk: Outflanking I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/aOehG0jV
+    - Found: outflanking
+    - All found aliases: key squares, outflanking
+  - Chapter: PKpk: Outflanking II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OpHcr9vA
+    - Found: outflanking
+    - All found aliases: corresponding squares, key square, key squares, opposition, outflanking
+  - Chapter: PKpk: Outflanking III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/sKwmQZBi
+    - Found: outflank
+    - All found aliases: corresponding squares, opposition, outflank, threatening
+  - Chapter: 2PKpk: Outflanking IV
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/BOzGF0ft
+    - Found: outflank
+    - All found aliases: opposition, outflank
+  - Chapter: 2PKpk: Outflanking V
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Q42Mk0my
+    - Found: outflank, outflanking
+    - All found aliases: opposition, outflank, outflanking
+  - Chapter: 2PKpk: Outflanking V
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Q42Mk0my
+    - Found: outflank, outflanking
+    - All found aliases: opposition, outflank, outflanking
+  - Chapter: 2PKpk: Outflanking VI
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/rFKZvCqz
+    - Found: outflanking
+    - All found aliases: outflanking
+  - Chapter: 2PKpk: Outflanking VIII
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/bcY3ABWY
+    - Found: outflanking
+    - All found aliases: outflanking
+  - Chapter: 2PKpk: Outflanking IX
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/3cozl5yJ
+    - Found: outflank
+    - All found aliases: corresponding squares, outflank
+  - Chapter: 2PKpk: Outflanking X; Triangulation
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/6iv4aIgp
+    - Found: outflanking
+    - All found aliases: maneuver, outflanking, retreat, triangulation, waiting move
+  - Chapter: Triangulation I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OEP1d5e4
+    - Found: outflanking
+    - All found aliases: corresponding squares, key square, maneuver, outflanking, triangulate
+  - Chapter: PKpk: Races I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/uBN5nzbc
+    - Found: outflanking
+    - All found aliases: corresponding squares, outflanking, skewers, triangulation
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Fortresses in Bishop-Up Endgames IV
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/5pnNUqPo
+    - Found: outflanked
+    - All found aliases: outflanked
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Understanding Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/DDRPLs3J
+    - Found: outflank, outflanking
+    - All found aliases: corresponding squares, key squares, opposition, outflank, outflanking
+  - Chapter: Understanding Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/DDRPLs3J
+    - Found: outflank, outflanking
+    - All found aliases: corresponding squares, key squares, opposition, outflank, outflanking
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: outflanking
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: PKpk: Outflanking I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/aOehG0jV
+    - Found: outflanking
+    - All found aliases: key squares, outflanking
+  - Chapter: PKpk: Outflanking II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OpHcr9vA
+    - Found: outflanking
+    - All found aliases: corresponding squares, key square, key squares, opposition, outflanking
+  - Chapter: PKpk: Outflanking III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/sKwmQZBi
+    - Found: outflank
+    - All found aliases: corresponding squares, opposition, outflank, threatening
+  - Chapter: 2PKpk: Outflanking IV
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/BOzGF0ft
+    - Found: outflank
+    - All found aliases: opposition, outflank
+  - Chapter: 2PKpk: Outflanking V
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Q42Mk0my
+    - Found: outflank, outflanking
+    - All found aliases: opposition, outflank, outflanking
+  - Chapter: 2PKpk: Outflanking V
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Q42Mk0my
+    - Found: outflank, outflanking
+    - All found aliases: opposition, outflank, outflanking
+  - Chapter: 2PKpk: Outflanking VI
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/rFKZvCqz
+    - Found: outflanking
+    - All found aliases: outflanking
+  - Chapter: 2PKpk: Outflanking VIII
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/bcY3ABWY
+    - Found: outflanking
+    - All found aliases: outflanking
+  - Chapter: 2PKpk: Outflanking IX
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/3cozl5yJ
+    - Found: outflank
+    - All found aliases: corresponding squares, outflank
+  - Chapter: 2PKpk: Outflanking X; Triangulation
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/6iv4aIgp
+    - Found: outflanking
+    - All found aliases: maneuver, outflanking, retreat, triangulation, waiting move
+  - Chapter: Triangulation I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OEP1d5e4
+    - Found: outflanking
+    - All found aliases: corresponding squares, key square, maneuver, outflanking, triangulate
+  - Chapter: PKpk: Races I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/uBN5nzbc
+    - Found: outflanking
+    - All found aliases: corresponding squares, outflanking, skewers, triangulation
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Fortresses in Bishop-Up Endgames IV
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/5pnNUqPo
+    - Found: outflanked
+    - All found aliases: outflanked
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Understanding Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/DDRPLs3J
+    - Found: outflank, outflanking
+    - All found aliases: corresponding squares, key squares, opposition, outflank, outflanking
+  - Chapter: Understanding Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/DDRPLs3J
+    - Found: outflank, outflanking
+    - All found aliases: corresponding squares, key squares, opposition, outflank, outflanking
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: outflanking
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: PKpk: Outflanking I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/aOehG0jV
+    - Found: outflanking
+    - All found aliases: key squares, outflanking
+  - Chapter: PKpk: Outflanking II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OpHcr9vA
+    - Found: outflanking
+    - All found aliases: corresponding squares, key square, key squares, opposition, outflanking
+  - Chapter: PKpk: Outflanking III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/sKwmQZBi
+    - Found: outflank
+    - All found aliases: corresponding squares, opposition, outflank, threatening
+  - Chapter: 2PKpk: Outflanking IV
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/BOzGF0ft
+    - Found: outflank
+    - All found aliases: opposition, outflank
+  - Chapter: 2PKpk: Outflanking V
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Q42Mk0my
+    - Found: outflank, outflanking
+    - All found aliases: opposition, outflank, outflanking
+  - Chapter: 2PKpk: Outflanking V
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Q42Mk0my
+    - Found: outflank, outflanking
+    - All found aliases: opposition, outflank, outflanking
+  - Chapter: 2PKpk: Outflanking VI
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/rFKZvCqz
+    - Found: outflanking
+    - All found aliases: outflanking
+  - Chapter: 2PKpk: Outflanking VIII
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/bcY3ABWY
+    - Found: outflanking
+    - All found aliases: outflanking
+  - Chapter: 2PKpk: Outflanking IX
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/3cozl5yJ
+    - Found: outflank
+    - All found aliases: corresponding squares, outflank
+  - Chapter: 2PKpk: Outflanking X; Triangulation
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/6iv4aIgp
+    - Found: outflanking
+    - All found aliases: maneuver, outflanking, retreat, triangulation, waiting move
+  - Chapter: Triangulation I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OEP1d5e4
+    - Found: outflanking
+    - All found aliases: corresponding squares, key square, maneuver, outflanking, triangulate
+  - Chapter: PKpk: Races I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/uBN5nzbc
+    - Found: outflanking
+    - All found aliases: corresponding squares, outflanking, skewers, triangulation
+
+
+## Concept: Outpost
+
+Aliases: knight outpost, knight outposts, outpost, outpost square, outpost station, outposts
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Feature: outpost
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Feature: outpost
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Awkward Piece Placement
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2bs65ZwO
+    - Feature: outpost
+    - All found aliases: center, chain, closed, outpost, pawn chain, pawn formation, plan, plans, pressure, retreat, threatening
+  - Chapter: Two Knights
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/dMJjHeKM
+    - Feature: outpost
+    - All found aliases: minority, outpost, plan, plans, weak pawns
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Feature: outpost
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Feature: outpost
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Feature: outpost
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/WSL5QMD1
+    - Feature: outpost, outposts
+    - All found aliases: bad bishop, center, counterplay, cramp, doubled, good bishop, outpost, outposts, plan, pressure, waiting move, weak squares
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/WSL5QMD1
+    - Feature: outpost, outposts
+    - All found aliases: bad bishop, center, counterplay, cramp, doubled, good bishop, outpost, outposts, plan, pressure, waiting move, weak squares
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Feature: outpost
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Feature: outpost
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Feature: outpost
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Feature: outpost
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Schwietzer, George J - Shrader, Eugene Wesley
+    - Chapter URL: https://lichess.org/study/6P90HTwf/bnjCvU7E
+    - Feature: outpost
+    - All found aliases: blockaded, discovered check, isolani, outpost, overworked, pressure, threatening
+  - Chapter: Colle, Edgar - Tarrasch, Siegbert
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
+    - Feature: outpost
+    - All found aliases: blockaded, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Feature: outpost
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: B-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/CqR8xSGt
+    - Feature: outpost
+    - All found aliases: center, outpost, planning, qualitative pawn majority
+  - Chapter: F-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ug9ArLz2
+    - Feature: outpost
+    - All found aliases: formation, outpost, trapped piece
+  - Chapter: H-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/P4BNopnu
+    - Feature: outpost
+    - All found aliases: outpost, pawn structure, trapped piece
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Feature: outpost
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: P-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/MPoJTaHc
+    - Feature: outpost
+    - All found aliases: center, outpost, passed pawn, pawn structure, planning
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: B-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/CqR8xSGt
+    - Feature: outpost
+    - All found aliases: center, outpost, planning, qualitative pawn majority
+  - Chapter: F-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ug9ArLz2
+    - Feature: outpost
+    - All found aliases: formation, outpost, trapped piece
+  - Chapter: H-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/P4BNopnu
+    - Feature: outpost
+    - All found aliases: outpost, pawn structure, trapped piece
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Feature: outpost
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: P-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/MPoJTaHc
+    - Feature: outpost
+    - All found aliases: center, outpost, passed pawn, pawn structure, planning
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: B-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/CqR8xSGt
+    - Feature: outpost
+    - All found aliases: center, outpost, planning, qualitative pawn majority
+  - Chapter: F-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ug9ArLz2
+    - Feature: outpost
+    - All found aliases: formation, outpost, trapped piece
+  - Chapter: H-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/P4BNopnu
+    - Feature: outpost
+    - All found aliases: outpost, pawn structure, trapped piece
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Feature: outpost
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: P-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/MPoJTaHc
+    - Feature: outpost
+    - All found aliases: center, outpost, passed pawn, pawn structure, planning
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Feature: outpost
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Overloading
+
+Aliases: overload, overloaded, overloading, overloads, overworked
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Tactical Motif: overworked
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 7: Handling Flawed Exercises
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/VlmZtn0Y
+    - Tactical Motif: overworked
+    - All found aliases: discovered attack, overworked, threatening
+  - Chapter: Exercise 7: Attempted Fix: Stage I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/oOuXbXDX
+    - Tactical Motif: overworked
+    - All found aliases: material, overworked
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Tactical Motif: overloaded, overworked
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Tactical Motif: overloaded, overworked
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Schwietzer, George J - Shrader, Eugene Wesley
+    - Chapter URL: https://lichess.org/study/6P90HTwf/bnjCvU7E
+    - Tactical Motif: overworked
+    - All found aliases: blockaded, discovered check, isolani, outpost, overworked, pressure, threatening
+  - Chapter: Colle, Edgar - Tarrasch, Siegbert
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
+    - Tactical Motif: overloaded
+    - All found aliases: blockaded, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
+  - Chapter: Havasi, Kornel - Monticelli, Mario
+    - Chapter URL: https://lichess.org/study/6P90HTwf/S8hLLj6k
+    - Tactical Motif: overloaded
+    - All found aliases: combination, fortress, material, overloaded, threat, threatening, two bishops
+  - Chapter: Colle, Edgard - Capablanca, Jose Raul
+    - Chapter URL: https://lichess.org/study/6P90HTwf/41wL1Xtn
+    - Tactical Motif: overloaded
+    - All found aliases: material, mobility, overloaded, restricts, threatening
+  - Chapter: Colle, Edgar - Alekhine, Alexander
+    - Chapter URL: https://lichess.org/study/6P90HTwf/fgGgMOU2
+    - Tactical Motif: overworked
+    - All found aliases: combination, developed, doubled pawns, doubles, good bishop, isolani, material, overworked, pin, retreats, threatening
+  - Chapter: Riumin, Nikolay Nikolaevich - Budo, A.
+    - Chapter URL: https://lichess.org/study/6P90HTwf/f64CA29q
+    - Tactical Motif: overworked
+    - All found aliases: overworked, sacrifices, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Tactical Motif: overworked
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 7: Handling Flawed Exercises
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/VlmZtn0Y
+    - Tactical Motif: overworked
+    - All found aliases: discovered attack, overworked, threatening
+  - Chapter: Exercise 7: Attempted Fix: Stage I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/oOuXbXDX
+    - Tactical Motif: overworked
+    - All found aliases: material, overworked
+
+
+## Concept: Passed Pawn
+
+Aliases: passed, passed pawn, passed pawns, passer, passers, pawn passed
+
+Appears In:
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: A Benoni Passer
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/826AY7WG
+    - Feature: passed pawn
+    - All found aliases: blockading, decoying, loose pieces, passed pawn, tempo
+  - Chapter: Superior Majority
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/9Cb11DuC
+    - Feature: passed pawns
+    - All found aliases: center, passed pawns, zwischenzug
+  - Chapter: What blockade?
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/wyahzSRJ
+    - Feature: passed pawn
+    - All found aliases: blockade, passed pawn, planning
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Feature: passed, passed pawn
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Feature: passed, passed pawn
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 8 (Unexpected Move)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ALCC0Zua
+    - Feature: passed pawns
+    - All found aliases: calculated, candidate, passed pawns, sacrifice
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Feature: passed
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Feature: passed pawn
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Feature: passed pawns
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Feature: passed pawn
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+  - Chapter: Planning IV: Natural Moves May Not Be Good Enough
+    - Chapter URL: https://lichess.org/study/1O0UELn6/rDY9RpZ6
+    - Feature: passed pawn
+    - All found aliases: backward pawn, center, constricted, initiative, material, mobility, passed pawn, plan, pressure, restricted, sacrificing, threats
+  - Chapter: Positional Judgement VI: Position of the Pieces I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/IZWd8NUo
+    - Feature: passed pawns
+    - All found aliases: bishop pair, doubled, passed pawns, pawn islands, pawn structure, two bishops, zugzwang
+  - Chapter: Positional Judgement VI: Position of the Pieces III
+    - Chapter URL: https://lichess.org/study/1O0UELn6/Vi1pHIHN
+    - Feature: passed pawn
+    - All found aliases: control the center, counterplay, passed pawn, sacrifice
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Feature: passed pawn, passer
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Feature: passed pawn, passer
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Feature: passer
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Feature: passed pawn
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Feature: passed pawns
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: DecodeChess Example
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Abo3o0KY
+    - Feature: passed
+    - All found aliases: passed, pinned, plan, planned, plans, space, threat, threatening, threats
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Salwe, Georg - Alapin, Simon
+    - Chapter URL: https://lichess.org/study/6P90HTwf/TSQw6fzo
+    - Feature: passed pawns
+    - All found aliases: center, fork, majority, mobility, passed pawns, pins, threatening
+  - Chapter: Jaffe, Charles - Roething, Otto
+    - Chapter URL: https://lichess.org/study/6P90HTwf/G3CxNgbl
+    - Feature: passed pawns
+    - All found aliases: center, passed pawns, threaten, threatening
+  - Chapter: Tennenwurzel, Edward - Capablanca, Jose Raul
+    - Chapter URL: https://lichess.org/study/6P90HTwf/oAKtfvrp
+    - Feature: passed pawn
+    - All found aliases: compensation, isolani, majority, passed pawn, sacrificing, threatening, two bishops
+  - Chapter: Colle, Edgar - Tarrasch, Siegbert
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
+    - Feature: passed
+    - All found aliases: blockaded, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
+  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+    - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
+    - Feature: passed pawn, passed pawns
+    - All found aliases: center, doubled, material, passed pawn, passed pawns, planning, retreat, simplifies, simplify, threatening
+  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+    - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
+    - Feature: passed pawn, passed pawns
+    - All found aliases: center, doubled, material, passed pawn, passed pawns, planning, retreat, simplifies, simplify, threatening
+  - Chapter: Colle, Edgar - Rubinstein, Akiba
+    - Chapter URL: https://lichess.org/study/6P90HTwf/ezohuCNS
+    - Feature: passed pawn, passed pawns
+    - All found aliases: calculated, center, passed pawn, passed pawns, threatening
+  - Chapter: Colle, Edgar - Rubinstein, Akiba
+    - Chapter URL: https://lichess.org/study/6P90HTwf/ezohuCNS
+    - Feature: passed pawn, passed pawns
+    - All found aliases: calculated, center, passed pawn, passed pawns, threatening
+  - Chapter: Flohr, Salo - Walter, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8owQ6QBm
+    - Feature: passed, passed pawn
+    - All found aliases: center, combination, fork, passed, passed pawn, pinned, sacrifice, threatening
+  - Chapter: Flohr, Salo - Walter, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8owQ6QBm
+    - Feature: passed, passed pawn
+    - All found aliases: center, combination, fork, passed, passed pawn, pinned, sacrifice, threatening
+  - Chapter: Kashdan, Isaac - Steiner, Herman
+    - Chapter URL: https://lichess.org/study/6P90HTwf/FxXyrdZs
+    - Feature: passed, passed pawn, passed pawns
+    - All found aliases: blockading, doubles, majority, passed, passed pawn, passed pawns, pins, plan, restricts, tempo, threatened, threatening, zugzwang
+  - Chapter: Kashdan, Isaac - Steiner, Herman
+    - Chapter URL: https://lichess.org/study/6P90HTwf/FxXyrdZs
+    - Feature: passed, passed pawn, passed pawns
+    - All found aliases: blockading, doubles, majority, passed, passed pawn, passed pawns, pins, plan, restricts, tempo, threatened, threatening, zugzwang
+  - Chapter: Kashdan, Isaac - Steiner, Herman
+    - Chapter URL: https://lichess.org/study/6P90HTwf/FxXyrdZs
+    - Feature: passed, passed pawn, passed pawns
+    - All found aliases: blockading, doubles, majority, passed, passed pawn, passed pawns, pins, plan, restricts, tempo, threatened, threatening, zugzwang
+  - Chapter: Koltanowski, George - Feigins, Movsas
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8LiCSujP
+    - Feature: passed pawns
+    - All found aliases: isolani, passed pawns, two bishops
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Feature: passed, passed pawns
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Feature: passed, passed pawns
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: General Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/OmVrYn7K
+    - Feature: passed pawns
+    - All found aliases: blockade, material, passed pawns
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: D-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/NfBJbap3
+    - Feature: passed pawn
+    - All found aliases: isolated pawn, passed pawn
+  - Chapter: P-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/MPoJTaHc
+    - Feature: passed pawn
+    - All found aliases: center, outpost, passed pawn, pawn structure, planning
+  - Chapter: R-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Mab8k8jY
+    - Feature: passed pawn
+    - All found aliases: doubled pawns, isolated pawn, passed pawn, pawn structure, weak squares
+  - Chapter: U-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/cMCM1BxT
+    - Feature: passed pawn
+    - All found aliases: active pieces, backward pawn, compensation, passed pawn
+  - Chapter: V-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/VM8pDtMA
+    - Feature: passed pawn
+    - All found aliases: blockaded, passed pawn
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Feature: passed pawn
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: 2PKk: Connected Passed Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kiSKha3k
+    - Feature: passed pawns
+    - All found aliases: key square, passed pawns, planned, restrict
+  - Chapter: 2PKk: Disconnected Passed Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/odYbNCmj
+    - Feature: passed pawns
+    - All found aliases: passed pawns
+  - Chapter: 2PKk: Disconnected Passed Pawns II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/FY990H0f
+    - Feature: passed pawns
+    - All found aliases: corresponding squares, key square, passed pawns, threatening
+  - Chapter: Outside Passed Pawn I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/HloGkgAH
+    - Feature: passed pawn
+    - All found aliases: passed pawn
+  - Chapter: Outside Passed Pawn II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ENicrTzU
+    - Feature: passed pawn, passed pawns
+    - All found aliases: blockade, create a weakness, passed pawn, passed pawns, zugzwang
+  - Chapter: Outside Passed Pawn II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ENicrTzU
+    - Feature: passed pawn, passed pawns
+    - All found aliases: blockade, create a weakness, passed pawn, passed pawns, zugzwang
+  - Chapter: Outside Passed Pawn III: One Pawn Kills Two
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/TRkyKzXI
+    - Feature: passed pawn, passer
+    - All found aliases: key square, passed pawn, passer, pawn majority
+  - Chapter: Outside Passed Pawn III: One Pawn Kills Two
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/TRkyKzXI
+    - Feature: passed pawn, passer
+    - All found aliases: key square, passed pawn, passer, pawn majority
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Feature: passed, passed pawn, passer
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Feature: passed, passed pawn, passer
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Feature: passed, passed pawn, passer
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: Tactical Pushes I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/yxkzQIfx
+    - Feature: passed pawn
+    - All found aliases: passed pawn
+  - Chapter: Triangulation II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Z3utcP6U
+    - Feature: passed pawn
+    - All found aliases: passed pawn, plan, retreat, threatening, triangulation
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: RKpk: Not Both on 4th
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/t6WAuxGu
+    - Feature: passed pawns
+    - All found aliases: candidate, passed pawns, sacrifice
+  - Chapter: RKpk: A Critical Position I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/DylnijrX
+    - Feature: passed pawns
+    - All found aliases: passed pawns, tempo
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Philidor Draw
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/YsbmiZHr
+    - Feature: passed pawn
+    - All found aliases: passed pawn, simplifies, threatening, threats
+  - Chapter: Rook and Two Connected Pawns versus Rook
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Qssm0UBL
+    - Feature: passed pawns
+    - All found aliases: blockades, passed pawns, pinning, plan
+  - Chapter: RPKrk: Rook in Front of its 7th Rank Pawn - Defense I: File
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/SJTzAmJf
+    - Feature: passed pawn
+    - All found aliases: passed pawn, rule of thumb, threats
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Feature: passed, passed pawns
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Feature: passed, passed pawns
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: General Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/OmVrYn7K
+    - Feature: passed pawns
+    - All found aliases: blockade, material, passed pawns
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: D-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/NfBJbap3
+    - Feature: passed pawn
+    - All found aliases: isolated pawn, passed pawn
+  - Chapter: P-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/MPoJTaHc
+    - Feature: passed pawn
+    - All found aliases: center, outpost, passed pawn, pawn structure, planning
+  - Chapter: R-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Mab8k8jY
+    - Feature: passed pawn
+    - All found aliases: doubled pawns, isolated pawn, passed pawn, pawn structure, weak squares
+  - Chapter: U-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/cMCM1BxT
+    - Feature: passed pawn
+    - All found aliases: active pieces, backward pawn, compensation, passed pawn
+  - Chapter: V-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/VM8pDtMA
+    - Feature: passed pawn
+    - All found aliases: blockaded, passed pawn
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Feature: passed pawn
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: 2PKk: Connected Passed Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kiSKha3k
+    - Feature: passed pawns
+    - All found aliases: key square, passed pawns, planned, restrict
+  - Chapter: 2PKk: Disconnected Passed Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/odYbNCmj
+    - Feature: passed pawns
+    - All found aliases: passed pawns
+  - Chapter: 2PKk: Disconnected Passed Pawns II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/FY990H0f
+    - Feature: passed pawns
+    - All found aliases: corresponding squares, key square, passed pawns, threatening
+  - Chapter: Outside Passed Pawn I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/HloGkgAH
+    - Feature: passed pawn
+    - All found aliases: passed pawn
+  - Chapter: Outside Passed Pawn II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ENicrTzU
+    - Feature: passed pawn, passed pawns
+    - All found aliases: blockade, create a weakness, passed pawn, passed pawns, zugzwang
+  - Chapter: Outside Passed Pawn II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ENicrTzU
+    - Feature: passed pawn, passed pawns
+    - All found aliases: blockade, create a weakness, passed pawn, passed pawns, zugzwang
+  - Chapter: Outside Passed Pawn III: One Pawn Kills Two
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/TRkyKzXI
+    - Feature: passed pawn, passer
+    - All found aliases: key square, passed pawn, passer, pawn majority
+  - Chapter: Outside Passed Pawn III: One Pawn Kills Two
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/TRkyKzXI
+    - Feature: passed pawn, passer
+    - All found aliases: key square, passed pawn, passer, pawn majority
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Feature: passed, passed pawn, passer
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Feature: passed, passed pawn, passer
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Feature: passed, passed pawn, passer
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: Tactical Pushes I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/yxkzQIfx
+    - Feature: passed pawn
+    - All found aliases: passed pawn
+  - Chapter: Triangulation II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Z3utcP6U
+    - Feature: passed pawn
+    - All found aliases: passed pawn, plan, retreat, threatening, triangulation
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: RKpk: Not Both on 4th
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/t6WAuxGu
+    - Feature: passed pawns
+    - All found aliases: candidate, passed pawns, sacrifice
+  - Chapter: RKpk: A Critical Position I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/DylnijrX
+    - Feature: passed pawns
+    - All found aliases: passed pawns, tempo
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Philidor Draw
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/YsbmiZHr
+    - Feature: passed pawn
+    - All found aliases: passed pawn, simplifies, threatening, threats
+  - Chapter: Rook and Two Connected Pawns versus Rook
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Qssm0UBL
+    - Feature: passed pawns
+    - All found aliases: blockades, passed pawns, pinning, plan
+  - Chapter: RPKrk: Rook in Front of its 7th Rank Pawn - Defense I: File
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/SJTzAmJf
+    - Feature: passed pawn
+    - All found aliases: passed pawn, rule of thumb, threats
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Feature: passed, passed pawns
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Feature: passed, passed pawns
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: General Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/OmVrYn7K
+    - Feature: passed pawns
+    - All found aliases: blockade, material, passed pawns
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: D-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/NfBJbap3
+    - Feature: passed pawn
+    - All found aliases: isolated pawn, passed pawn
+  - Chapter: P-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/MPoJTaHc
+    - Feature: passed pawn
+    - All found aliases: center, outpost, passed pawn, pawn structure, planning
+  - Chapter: R-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Mab8k8jY
+    - Feature: passed pawn
+    - All found aliases: doubled pawns, isolated pawn, passed pawn, pawn structure, weak squares
+  - Chapter: U-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/cMCM1BxT
+    - Feature: passed pawn
+    - All found aliases: active pieces, backward pawn, compensation, passed pawn
+  - Chapter: V-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/VM8pDtMA
+    - Feature: passed pawn
+    - All found aliases: blockaded, passed pawn
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Feature: passed pawn
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: 2PKk: Connected Passed Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kiSKha3k
+    - Feature: passed pawns
+    - All found aliases: key square, passed pawns, planned, restrict
+  - Chapter: 2PKk: Disconnected Passed Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/odYbNCmj
+    - Feature: passed pawns
+    - All found aliases: passed pawns
+  - Chapter: 2PKk: Disconnected Passed Pawns II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/FY990H0f
+    - Feature: passed pawns
+    - All found aliases: corresponding squares, key square, passed pawns, threatening
+  - Chapter: Outside Passed Pawn I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/HloGkgAH
+    - Feature: passed pawn
+    - All found aliases: passed pawn
+  - Chapter: Outside Passed Pawn II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ENicrTzU
+    - Feature: passed pawn, passed pawns
+    - All found aliases: blockade, create a weakness, passed pawn, passed pawns, zugzwang
+  - Chapter: Outside Passed Pawn II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ENicrTzU
+    - Feature: passed pawn, passed pawns
+    - All found aliases: blockade, create a weakness, passed pawn, passed pawns, zugzwang
+  - Chapter: Outside Passed Pawn III: One Pawn Kills Two
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/TRkyKzXI
+    - Feature: passed pawn, passer
+    - All found aliases: key square, passed pawn, passer, pawn majority
+  - Chapter: Outside Passed Pawn III: One Pawn Kills Two
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/TRkyKzXI
+    - Feature: passed pawn, passer
+    - All found aliases: key square, passed pawn, passer, pawn majority
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Feature: passed, passed pawn, passer
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Feature: passed, passed pawn, passer
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Feature: passed, passed pawn, passer
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: Tactical Pushes I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/yxkzQIfx
+    - Feature: passed pawn
+    - All found aliases: passed pawn
+  - Chapter: Triangulation II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Z3utcP6U
+    - Feature: passed pawn
+    - All found aliases: passed pawn, plan, retreat, threatening, triangulation
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: RKpk: Not Both on 4th
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/t6WAuxGu
+    - Feature: passed pawns
+    - All found aliases: candidate, passed pawns, sacrifice
+  - Chapter: RKpk: A Critical Position I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/DylnijrX
+    - Feature: passed pawns
+    - All found aliases: passed pawns, tempo
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Philidor Draw
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/YsbmiZHr
+    - Feature: passed pawn
+    - All found aliases: passed pawn, simplifies, threatening, threats
+  - Chapter: Rook and Two Connected Pawns versus Rook
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Qssm0UBL
+    - Feature: passed pawns
+    - All found aliases: blockades, passed pawns, pinning, plan
+  - Chapter: RPKrk: Rook in Front of its 7th Rank Pawn - Defense I: File
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/SJTzAmJf
+    - Feature: passed pawn
+    - All found aliases: passed pawn, rule of thumb, threats
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Feature: passed, passed pawn
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Feature: passed, passed pawn
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 8 (Unexpected Move)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ALCC0Zua
+    - Feature: passed pawns
+    - All found aliases: calculated, candidate, passed pawns, sacrifice
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Feature: passed
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Feature: passed pawn
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Pawn Break
+
+Aliases: break the structure, break with pawns, pawn break, pawn breaks
+
+Appears In:
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #40
+    - Chapter URL: https://lichess.org/study/49AuOOCo/kyt1auLh
+    - Found: pawn break
+    - All found aliases: calculate, candidates, center, classical pawn, pawn break, plan, planning, retreat, space, threatening
+
+
+## Concept: Pawn Chain
+
+Aliases: advanced pawn chain, chain, chains, pawn chain, pawn chains
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Feature: pawn chain
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Awkward Piece Placement
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2bs65ZwO
+    - Feature: chain, pawn chain
+    - All found aliases: center, chain, closed, outpost, pawn chain, pawn formation, plan, plans, pressure, retreat, threatening
+  - Chapter: Awkward Piece Placement
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2bs65ZwO
+    - Feature: chain, pawn chain
+    - All found aliases: center, chain, closed, outpost, pawn chain, pawn formation, plan, plans, pressure, retreat, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Feature: pawn chain
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Feature: advanced pawn chain, chain, pawn chain
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Feature: advanced pawn chain, chain, pawn chain
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Feature: advanced pawn chain, chain, pawn chain
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Feature: chain, pawn chain
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Feature: chain, pawn chain
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #31
+    - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
+    - Feature: chain, pawn chain
+    - All found aliases: candidate, chain, initiative, isolated, material, pawn chain, plan, plans, retreat, sacrifice, threat
+  - Chapter: RYCW #31
+    - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
+    - Feature: chain, pawn chain
+    - All found aliases: candidate, chain, initiative, isolated, material, pawn chain, plan, plans, retreat, sacrifice, threat
+  - Chapter: RYCW #37
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Wnnf3YyJ
+    - Feature: chain, pawn chain, pawn chains
+    - All found aliases: bad bishop, center, chain, closed, imbalances, maneuver, pawn chain, pawn chains, pawn formation, pawn structure, pinned, plan, plans, retreat, space
+  - Chapter: RYCW #37
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Wnnf3YyJ
+    - Feature: chain, pawn chain, pawn chains
+    - All found aliases: bad bishop, center, chain, closed, imbalances, maneuver, pawn chain, pawn chains, pawn formation, pawn structure, pinned, plan, plans, retreat, space
+  - Chapter: RYCW #37
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Wnnf3YyJ
+    - Feature: chain, pawn chain, pawn chains
+    - All found aliases: bad bishop, center, chain, closed, imbalances, maneuver, pawn chain, pawn chains, pawn formation, pawn structure, pinned, plan, plans, retreat, space
+  - Chapter: RYCW #38
+    - Chapter URL: https://lichess.org/study/49AuOOCo/b3Iv75Uh
+    - Feature: pawn chain
+    - All found aliases: center, closed, closed position, pawn chain, pawn formation, pawn structure, plan, plans
+  - Chapter: RYCW #41
+    - Chapter URL: https://lichess.org/study/49AuOOCo/DX2OIF6M
+    - Feature: pawn chains
+    - All found aliases: center, closed, formation, pawn chains, pawn structure, pawn structures, space, tension
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/ZsDpi5OZ
+    - Feature: chain
+    - All found aliases: blockade, center, chain, retreat
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: A hypermodern defense: East Indian Defense
+    - Chapter URL: https://lichess.org/study/6P90HTwf/XffXT7IM
+    - Feature: pawn chain
+    - All found aliases: center, formation, pawn chain, planned
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: G-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ve7e5YYi
+    - Feature: advanced pawn chain, chain
+    - All found aliases: advanced pawn chain, chain, doubled pawns, trapped piece
+  - Chapter: G-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ve7e5YYi
+    - Feature: advanced pawn chain, chain
+    - All found aliases: advanced pawn chain, chain, doubled pawns, trapped piece
+  - Chapter: O-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/kwoWYbYb
+    - Feature: advanced pawn chain
+    - All found aliases: advanced pawn chain
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/ZsDpi5OZ
+    - Feature: chain
+    - All found aliases: blockade, center, chain, retreat
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: G-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ve7e5YYi
+    - Feature: advanced pawn chain, chain
+    - All found aliases: advanced pawn chain, chain, doubled pawns, trapped piece
+  - Chapter: G-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ve7e5YYi
+    - Feature: advanced pawn chain, chain
+    - All found aliases: advanced pawn chain, chain, doubled pawns, trapped piece
+  - Chapter: O-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/kwoWYbYb
+    - Feature: advanced pawn chain
+    - All found aliases: advanced pawn chain
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/ZsDpi5OZ
+    - Feature: chain
+    - All found aliases: blockade, center, chain, retreat
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: G-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ve7e5YYi
+    - Feature: advanced pawn chain, chain
+    - All found aliases: advanced pawn chain, chain, doubled pawns, trapped piece
+  - Chapter: G-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ve7e5YYi
+    - Feature: advanced pawn chain, chain
+    - All found aliases: advanced pawn chain, chain, doubled pawns, trapped piece
+  - Chapter: O-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/kwoWYbYb
+    - Feature: advanced pawn chain
+    - All found aliases: advanced pawn chain
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Feature: pawn chain
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Pawn Islands
+
+Aliases: pawn island, pawn islands
+
+Appears In:
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Positional Judgement VI: Position of the Pieces I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/IZWd8NUo
+    - Feature: pawn islands
+    - All found aliases: bishop pair, doubled, passed pawns, pawn islands, pawn structure, two bishops, zugzwang
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Feature: pawn islands
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: C-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/gEb5KC1p
+    - Feature: pawn islands
+    - All found aliases: cramped position, isolated pawn, pawn islands, pawn structure, qualitative pawn majority
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: C-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/gEb5KC1p
+    - Feature: pawn islands
+    - All found aliases: cramped position, isolated pawn, pawn islands, pawn structure, qualitative pawn majority
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: C-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/gEb5KC1p
+    - Feature: pawn islands
+    - All found aliases: cramped position, isolated pawn, pawn islands, pawn structure, qualitative pawn majority
+
+
+## Concept: Pawn Majority
+
+Aliases: majority, pawn majority, qualitative majority, qualitative pawn majority
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/pEF9QCic/umydfvUv
+    - Feature: qualitative pawn majority
+    - All found aliases: active pieces, battery, fork, material, mobile, mobility, pawn storm, pin, pinned, pinning, plan, plans, qualitative pawn majority, remove the defender, threat
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/pEF9QCic/XuYJQwWp
+    - Feature: majority
+    - All found aliases: center, discovered check, initiative, majority, minority, pawn structures, plan, plans, restrict, retreat, structure, tempo, threat, threaten, threatening
+  - Chapter: Annotate 15
+    - Chapter URL: https://lichess.org/study/pEF9QCic/xpogdCvR
+    - Feature: majority
+    - All found aliases: bad bishop, center, counterplay, develop, discovered check, majority, material, pinned, plan, restrict, threatening
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/OE8IjSqO
+    - Feature: qualitative pawn majority
+    - All found aliases: battery, mobile, pinned, plan, plans, qualitative pawn majority, threat
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Feature: majority
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Feature: majority
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #30 - How the position occurred
+    - Chapter URL: https://lichess.org/study/49AuOOCo/74h033UV
+    - Feature: majority
+    - All found aliases: closed, majority, open position, plan, tempo, two bishops
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Feature: majority, qualitative pawn majority
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Feature: majority, qualitative pawn majority
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Another Easy Draw
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/xxL0wyVF
+    - Feature: majority
+    - All found aliases: dominating, majority, plan, threatening
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Salwe, Georg - Alapin, Simon
+    - Chapter URL: https://lichess.org/study/6P90HTwf/TSQw6fzo
+    - Feature: majority
+    - All found aliases: center, fork, majority, mobility, passed pawns, pins, threatening
+  - Chapter: Tennenwurzel, Edward - Capablanca, Jose Raul
+    - Chapter URL: https://lichess.org/study/6P90HTwf/oAKtfvrp
+    - Feature: majority
+    - All found aliases: compensation, isolani, majority, passed pawn, sacrificing, threatening, two bishops
+  - Chapter: Colle, Edgar - Bogoljubow, Efim
+    - Chapter URL: https://lichess.org/study/6P90HTwf/RxRlaQXM
+    - Feature: majority
+    - All found aliases: bishop pair, initiative, isolani, majority, tempi, tempo, threatening, two bishops
+  - Chapter: Colle, Edgar - Michell, Reginald Pryce
+    - Chapter URL: https://lichess.org/study/6P90HTwf/omQHTftl
+    - Feature: majority
+    - All found aliases: center, isolated, isolated pawn, majority, restricts, retreats, threatening
+  - Chapter: Kashdan, Isaac - Steiner, Herman
+    - Chapter URL: https://lichess.org/study/6P90HTwf/FxXyrdZs
+    - Feature: majority
+    - All found aliases: blockading, doubles, majority, passed, passed pawn, passed pawns, pins, plan, restricts, tempo, threatened, threatening, zugzwang
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: B-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/CqR8xSGt
+    - Feature: qualitative pawn majority
+    - All found aliases: center, outpost, planning, qualitative pawn majority
+  - Chapter: C-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/gEb5KC1p
+    - Feature: qualitative pawn majority
+    - All found aliases: cramped position, isolated pawn, pawn islands, pawn structure, qualitative pawn majority
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Feature: qualitative pawn majority
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: M-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/JUVvSdBk
+    - Feature: pawn majority, qualitative pawn majority
+    - All found aliases: center, pawn majority, qualitative pawn majority
+  - Chapter: M-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/JUVvSdBk
+    - Feature: pawn majority, qualitative pawn majority
+    - All found aliases: center, pawn majority, qualitative pawn majority
+  - Chapter: Y-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/t9LK7OvW
+    - Feature: majority, qualitative pawn majority
+    - All found aliases: majority, qualitative pawn majority
+  - Chapter: Y-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/t9LK7OvW
+    - Feature: majority, qualitative pawn majority
+    - All found aliases: majority, qualitative pawn majority
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Outside Passed Pawn III: One Pawn Kills Two
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/TRkyKzXI
+    - Feature: pawn majority
+    - All found aliases: key square, passed pawn, passer, pawn majority
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Feature: majority
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Another Easy Draw
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/xxL0wyVF
+    - Feature: majority
+    - All found aliases: dominating, majority, plan, threatening
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: B-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/CqR8xSGt
+    - Feature: qualitative pawn majority
+    - All found aliases: center, outpost, planning, qualitative pawn majority
+  - Chapter: C-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/gEb5KC1p
+    - Feature: qualitative pawn majority
+    - All found aliases: cramped position, isolated pawn, pawn islands, pawn structure, qualitative pawn majority
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Feature: qualitative pawn majority
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: M-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/JUVvSdBk
+    - Feature: pawn majority, qualitative pawn majority
+    - All found aliases: center, pawn majority, qualitative pawn majority
+  - Chapter: M-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/JUVvSdBk
+    - Feature: pawn majority, qualitative pawn majority
+    - All found aliases: center, pawn majority, qualitative pawn majority
+  - Chapter: Y-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/t9LK7OvW
+    - Feature: majority, qualitative pawn majority
+    - All found aliases: majority, qualitative pawn majority
+  - Chapter: Y-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/t9LK7OvW
+    - Feature: majority, qualitative pawn majority
+    - All found aliases: majority, qualitative pawn majority
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Outside Passed Pawn III: One Pawn Kills Two
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/TRkyKzXI
+    - Feature: pawn majority
+    - All found aliases: key square, passed pawn, passer, pawn majority
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Feature: majority
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Another Easy Draw
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/xxL0wyVF
+    - Feature: majority
+    - All found aliases: dominating, majority, plan, threatening
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: B-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/CqR8xSGt
+    - Feature: qualitative pawn majority
+    - All found aliases: center, outpost, planning, qualitative pawn majority
+  - Chapter: C-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/gEb5KC1p
+    - Feature: qualitative pawn majority
+    - All found aliases: cramped position, isolated pawn, pawn islands, pawn structure, qualitative pawn majority
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Feature: qualitative pawn majority
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: M-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/JUVvSdBk
+    - Feature: pawn majority, qualitative pawn majority
+    - All found aliases: center, pawn majority, qualitative pawn majority
+  - Chapter: M-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/JUVvSdBk
+    - Feature: pawn majority, qualitative pawn majority
+    - All found aliases: center, pawn majority, qualitative pawn majority
+  - Chapter: Y-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/t9LK7OvW
+    - Feature: majority, qualitative pawn majority
+    - All found aliases: majority, qualitative pawn majority
+  - Chapter: Y-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/t9LK7OvW
+    - Feature: majority, qualitative pawn majority
+    - All found aliases: majority, qualitative pawn majority
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Outside Passed Pawn III: One Pawn Kills Two
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/TRkyKzXI
+    - Feature: pawn majority
+    - All found aliases: key square, passed pawn, passer, pawn majority
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Feature: majority
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+
+
+## Concept: Pawn Minority
+
+Aliases: minority, pawn minority
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/pEF9QCic/XuYJQwWp
+    - Feature: minority
+    - All found aliases: center, discovered check, initiative, majority, minority, pawn structures, plan, plans, restrict, retreat, structure, tempo, threat, threaten, threatening
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Two Knights
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/dMJjHeKM
+    - Feature: minority
+    - All found aliases: minority, outpost, plan, plans, weak pawns
+  - Chapter: Imobilizing a Target
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2fOaUtrd
+    - Feature: minority
+    - All found aliases: bad bishop, blockading, minority, pawn structure, pawn structures, plans, silman's imbalances
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Feature: minority
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #32, #33
+    - Chapter URL: https://lichess.org/study/49AuOOCo/jtT7DsE2
+    - Feature: minority
+    - All found aliases: calculate, center, counterplay, formation, minority, pawn structure, pawn structures, pins, plan, plans, pressure, structure
+  - Chapter: RYCW #43
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wlt10gdE
+    - Feature: minority
+    - All found aliases: bishop pair, minority, pawn formation, pawn structures, plan, space
+  - Chapter: TLG #145
+    - Chapter URL: https://lichess.org/study/49AuOOCo/gs829rtA
+    - Feature: minority
+    - All found aliases: calculation, material, minority, pawn structure, pawn structures, pawn weaknesses, plan, plans, sacrifices, simplification, space, structure, tempi, threatening, two bishops
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Feature: minority
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Black plays ...Nbd7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/SDgxfVCK
+    - Feature: minority
+    - All found aliases: bishop pair, center, develops, fork, isolani, minority, pawn formation, pin, planned
+  - Chapter: Black plays ...Nbd7 and ...Be7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/VsLs8V3T
+    - Feature: minority
+    - All found aliases: center, develops, fork, isolani, minority, pawn formation, pin, planned
+
+
+## Concept: Pawn Storm
+
+Aliases: pawn storm, pawn storms
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/pEF9QCic/umydfvUv
+    - Found: pawn storm
+    - All found aliases: active pieces, battery, fork, material, mobile, mobility, pawn storm, pin, pinned, pinning, plan, plans, qualitative pawn majority, remove the defender, threat
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: pawn storm
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: pawn storm
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+
+
+## Concept: Pawn Structure
+
+Aliases: formation, formations, pawn formation, pawn formations, pawn structure, pawn structures, structure, structures
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/pEF9QCic/LSqGUiSP
+    - Found: pawn structure, pawn structures
+    - All found aliases: candidate moves, pawn structure, pawn structures, silman's imbalances
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/pEF9QCic/LSqGUiSP
+    - Found: pawn structure, pawn structures
+    - All found aliases: candidate moves, pawn structure, pawn structures, silman's imbalances
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Found: pawn structure
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 2
+    - Chapter URL: https://lichess.org/study/pEF9QCic/5Lb60MIz
+    - Found: pawn structure
+    - All found aliases: center, developing, discovered check, fork, king safety, pawn structure, plan, pressure, threaten, threatening
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/pEF9QCic/O3FEVxks
+    - Found: pawn formation
+    - All found aliases: compensation, develop, developed, develops, discovered attack, discovering, key squares, material, pawn formation, plan, sacrifice, sacrificed, sacrifices, threatening, threats
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: pawn structure, pawn structures
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: pawn structure, pawn structures
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/pEF9QCic/XuYJQwWp
+    - Found: pawn structures, structure
+    - All found aliases: center, discovered check, initiative, majority, minority, pawn structures, plan, plans, restrict, retreat, structure, tempo, threat, threaten, threatening
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/pEF9QCic/XuYJQwWp
+    - Found: pawn structures, structure
+    - All found aliases: center, discovered check, initiative, majority, minority, pawn structures, plan, plans, restrict, retreat, structure, tempo, threat, threaten, threatening
+  - Chapter: Annotate 13
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oSar8sm6
+    - Found: pawn formation
+    - All found aliases: center, classical center, combination, discovered check, pawn formation, pinned, retreat, threatened
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/P1sL2kbN
+    - Found: pawn structure, pawn structures
+    - All found aliases: candidate moves, pawn structure, pawn structures, silman's imbalances
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/P1sL2kbN
+    - Found: pawn structure, pawn structures
+    - All found aliases: candidate moves, pawn structure, pawn structures, silman's imbalances
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/uI2sp5Mb
+    - Found: pawn formation
+    - All found aliases: discovering, material, pawn formation, plan, sacrifice, sacrifices, threats
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/oZQjQEdx
+    - Found: pawn structure
+    - All found aliases: develop, pawn feature, pawn structure, plan, plans, tempo, threat
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/jiDhU5wL
+    - Found: pawn structures
+    - All found aliases: pawn structures, plan, plans, threat, threatening
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Awkward Piece Placement
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2bs65ZwO
+    - Found: pawn formation
+    - All found aliases: center, chain, closed, outpost, pawn chain, pawn formation, plan, plans, pressure, retreat, threatening
+  - Chapter: Double Finachettoes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/DrwAR6qc
+    - Found: pawn structure
+    - All found aliases: center, hypermodern, key squares, maneuver, pawn structure, pinned, plan, plans, retreat
+  - Chapter: Imobilizing a Target
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2fOaUtrd
+    - Found: pawn structure, pawn structures
+    - All found aliases: bad bishop, blockading, minority, pawn structure, pawn structures, plans, silman's imbalances
+  - Chapter: Imobilizing a Target
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2fOaUtrd
+    - Found: pawn structure, pawn structures
+    - All found aliases: bad bishop, blockading, minority, pawn structure, pawn structures, plans, silman's imbalances
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: formation, pawn structure, pawn structures
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: formation, pawn structure, pawn structures
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: formation, pawn structure, pawn structures
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Found: pawn structures
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Learning to Calculate Variations: Training Method III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/WBFaCSKB
+    - Found: pawn structure
+    - All found aliases: opposition, pawn structure
+
+- Study: Advanced: Curriculum
+  - Study URL: https://lichess.org/study/VHcKZ37M
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/ix21n4Vk
+    - Found: pawn structure, pawn structures, structures
+    - All found aliases: calculate, calculation, combinations, material, pawn structure, pawn structures, structures
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/ix21n4Vk
+    - Found: pawn structure, pawn structures, structures
+    - All found aliases: calculate, calculation, combinations, material, pawn structure, pawn structures, structures
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/ix21n4Vk
+    - Found: pawn structure, pawn structures, structures
+    - All found aliases: calculate, calculation, combinations, material, pawn structure, pawn structures, structures
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/4TFpQNtd
+    - Found: pawn structures, structure
+    - All found aliases: calculation, material, pawn structures, structure
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/4TFpQNtd
+    - Found: pawn structures, structure
+    - All found aliases: calculation, material, pawn structures, structure
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/T0plr9Dv
+    - Found: pawn structure, pawn structures
+    - All found aliases: calculating, candidate moves, pawn structure, pawn structures, planning, simplified
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/T0plr9Dv
+    - Found: pawn structure, pawn structures
+    - All found aliases: calculating, candidate moves, pawn structure, pawn structures, planning, simplified
+  - Chapter: Orientation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/mHKJVcyj
+    - Found: pawn structure, pawn structures
+    - All found aliases: calculation, forks, imbalances, initiative, king safety, lucena position, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: Orientation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/mHKJVcyj
+    - Found: pawn structure, pawn structures
+    - All found aliases: calculation, forks, imbalances, initiative, king safety, lucena position, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: Orientation Example
+    - Chapter URL: https://lichess.org/study/1O0UELn6/s81l1Xs5
+    - Found: pawn structure
+    - All found aliases: center, fork, imbalances, initiative, king safety, material, pawn structure, plans, pressure, space, threatening, threats
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Found: pawn formation
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+  - Chapter: Planning III: Piece Placement
+    - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
+    - Found: pawn formation
+    - All found aliases: center, developing, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+  - Chapter: Planning VI: Pawn Structures
+    - Chapter URL: https://lichess.org/study/1O0UELn6/L5R84drq
+    - Found: formations, pawn formation, pawn structure, pawn structures, structures
+    - All found aliases: center, closed, formations, mobile, pawn formation, pawn structure, pawn structures, planning, plans, structures, tension
+  - Chapter: Planning VI: Pawn Structures
+    - Chapter URL: https://lichess.org/study/1O0UELn6/L5R84drq
+    - Found: formations, pawn formation, pawn structure, pawn structures, structures
+    - All found aliases: center, closed, formations, mobile, pawn formation, pawn structure, pawn structures, planning, plans, structures, tension
+  - Chapter: Planning VI: Pawn Structures
+    - Chapter URL: https://lichess.org/study/1O0UELn6/L5R84drq
+    - Found: formations, pawn formation, pawn structure, pawn structures, structures
+    - All found aliases: center, closed, formations, mobile, pawn formation, pawn structure, pawn structures, planning, plans, structures, tension
+  - Chapter: Planning VI: Pawn Structures
+    - Chapter URL: https://lichess.org/study/1O0UELn6/L5R84drq
+    - Found: formations, pawn formation, pawn structure, pawn structures, structures
+    - All found aliases: center, closed, formations, mobile, pawn formation, pawn structure, pawn structures, planning, plans, structures, tension
+  - Chapter: Planning VI: Pawn Structures
+    - Chapter URL: https://lichess.org/study/1O0UELn6/L5R84drq
+    - Found: formations, pawn formation, pawn structure, pawn structures, structures
+    - All found aliases: center, closed, formations, mobile, pawn formation, pawn structure, pawn structures, planning, plans, structures, tension
+  - Chapter: Positional Judgement I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/1jCcl5st
+    - Found: pawn structure, pawn structures
+    - All found aliases: calculation, center, imbalances, pawn structure, pawn structures, space
+  - Chapter: Positional Judgement I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/1jCcl5st
+    - Found: pawn structure, pawn structures
+    - All found aliases: calculation, center, imbalances, pawn structure, pawn structures, space
+  - Chapter: Positional Judgement II: Open Lines
+    - Chapter URL: https://lichess.org/study/1O0UELn6/4M5Wq8VQ
+    - Found: pawn structure
+    - All found aliases: calculation, calculations, initiative, material, pawn structure, pressure, weak pawns
+  - Chapter: Positional Judgement VI: Position of the Pieces I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/IZWd8NUo
+    - Found: pawn structure
+    - All found aliases: bishop pair, doubled, passed pawns, pawn islands, pawn structure, two bishops, zugzwang
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JmlHUiuP
+    - Found: pawn structure
+    - All found aliases: calculate, candidate, center, pawn structure
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: pawn formation, pawn structure, pawn structures
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: pawn formation, pawn structure, pawn structures
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: pawn formation, pawn structure, pawn structures
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: Orientation to a position
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Qv1Qxa9v
+    - Found: pawn structure, pawn structures
+    - All found aliases: calculation, imbalances, initiative, king safety, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: Orientation to a position
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Qv1Qxa9v
+    - Found: pawn structure, pawn structures
+    - All found aliases: calculation, imbalances, initiative, king safety, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: pawn structure, pawn structures
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: pawn structure, pawn structures
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: pawn formation
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #32, #33
+    - Chapter URL: https://lichess.org/study/49AuOOCo/jtT7DsE2
+    - Found: formation, pawn structure, pawn structures, structure
+    - All found aliases: calculate, center, counterplay, formation, minority, pawn structure, pawn structures, pins, plan, plans, pressure, structure
+  - Chapter: RYCW #32, #33
+    - Chapter URL: https://lichess.org/study/49AuOOCo/jtT7DsE2
+    - Found: formation, pawn structure, pawn structures, structure
+    - All found aliases: calculate, center, counterplay, formation, minority, pawn structure, pawn structures, pins, plan, plans, pressure, structure
+  - Chapter: RYCW #32, #33
+    - Chapter URL: https://lichess.org/study/49AuOOCo/jtT7DsE2
+    - Found: formation, pawn structure, pawn structures, structure
+    - All found aliases: calculate, center, counterplay, formation, minority, pawn structure, pawn structures, pins, plan, plans, pressure, structure
+  - Chapter: RYCW #32, #33
+    - Chapter URL: https://lichess.org/study/49AuOOCo/jtT7DsE2
+    - Found: formation, pawn structure, pawn structures, structure
+    - All found aliases: calculate, center, counterplay, formation, minority, pawn structure, pawn structures, pins, plan, plans, pressure, structure
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Found: pawn structure
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #37
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Wnnf3YyJ
+    - Found: pawn formation, pawn structure
+    - All found aliases: bad bishop, center, chain, closed, imbalances, maneuver, pawn chain, pawn chains, pawn formation, pawn structure, pinned, plan, plans, retreat, space
+  - Chapter: RYCW #37
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Wnnf3YyJ
+    - Found: pawn formation, pawn structure
+    - All found aliases: bad bishop, center, chain, closed, imbalances, maneuver, pawn chain, pawn chains, pawn formation, pawn structure, pinned, plan, plans, retreat, space
+  - Chapter: RYCW #38
+    - Chapter URL: https://lichess.org/study/49AuOOCo/b3Iv75Uh
+    - Found: pawn formation, pawn structure
+    - All found aliases: center, closed, closed position, pawn chain, pawn formation, pawn structure, plan, plans
+  - Chapter: RYCW #38
+    - Chapter URL: https://lichess.org/study/49AuOOCo/b3Iv75Uh
+    - Found: pawn formation, pawn structure
+    - All found aliases: center, closed, closed position, pawn chain, pawn formation, pawn structure, plan, plans
+  - Chapter: RYCW #41
+    - Chapter URL: https://lichess.org/study/49AuOOCo/DX2OIF6M
+    - Found: formation, pawn structure, pawn structures
+    - All found aliases: center, closed, formation, pawn chains, pawn structure, pawn structures, space, tension
+  - Chapter: RYCW #41
+    - Chapter URL: https://lichess.org/study/49AuOOCo/DX2OIF6M
+    - Found: formation, pawn structure, pawn structures
+    - All found aliases: center, closed, formation, pawn chains, pawn structure, pawn structures, space, tension
+  - Chapter: RYCW #41
+    - Chapter URL: https://lichess.org/study/49AuOOCo/DX2OIF6M
+    - Found: formation, pawn structure, pawn structures
+    - All found aliases: center, closed, formation, pawn chains, pawn structure, pawn structures, space, tension
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: pawn structure
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: RYCW #43
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wlt10gdE
+    - Found: pawn formation, pawn structures
+    - All found aliases: bishop pair, minority, pawn formation, pawn structures, plan, space
+  - Chapter: RYCW #43
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wlt10gdE
+    - Found: pawn formation, pawn structures
+    - All found aliases: bishop pair, minority, pawn formation, pawn structures, plan, space
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Found: formation
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+  - Chapter: TLG #145
+    - Chapter URL: https://lichess.org/study/49AuOOCo/gs829rtA
+    - Found: pawn structure, pawn structures, structure
+    - All found aliases: calculation, material, minority, pawn structure, pawn structures, pawn weaknesses, plan, plans, sacrifices, simplification, space, structure, tempi, threatening, two bishops
+  - Chapter: TLG #145
+    - Chapter URL: https://lichess.org/study/49AuOOCo/gs829rtA
+    - Found: pawn structure, pawn structures, structure
+    - All found aliases: calculation, material, minority, pawn structure, pawn structures, pawn weaknesses, plan, plans, sacrifices, simplification, space, structure, tempi, threatening, two bishops
+  - Chapter: TLG #145
+    - Chapter URL: https://lichess.org/study/49AuOOCo/gs829rtA
+    - Found: pawn structure, pawn structures, structure
+    - All found aliases: calculation, material, minority, pawn structure, pawn structures, pawn weaknesses, plan, plans, sacrifices, simplification, space, structure, tempi, threatening, two bishops
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Found: formation, pawn structure, pawn structures
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Found: formation, pawn structure, pawn structures
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Found: formation, pawn structure, pawn structures
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: pawn structure
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: pawn structure
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: pawn structure
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: References I [A-M]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/xEKJ6WbA
+    - Found: pawn structures, structures
+    - All found aliases: calculate, candidate, center, classical school, material, pawn structures, structures
+  - Chapter: References I [A-M]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/xEKJ6WbA
+    - Found: pawn structures, structures
+    - All found aliases: calculate, candidate, center, classical school, material, pawn structures, structures
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Found: pawn structure, pawn structures
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Found: pawn structure, pawn structures
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Colle System
+    - Chapter URL: https://lichess.org/study/6P90HTwf/siJNECaL
+    - Found: formation, pawn structures
+    - All found aliases: formation, isolated pawn, pawn structures, simplified
+  - Chapter: Colle System
+    - Chapter URL: https://lichess.org/study/6P90HTwf/siJNECaL
+    - Found: formation, pawn structures
+    - All found aliases: formation, isolated pawn, pawn structures, simplified
+  - Chapter: Where is the Black Queen Knight?
+    - Chapter URL: https://lichess.org/study/6P90HTwf/cNmFOfP9
+    - Found: formation
+    - All found aliases: classical school, formation, isolani, plan, retreat
+  - Chapter: Black plays ...Nc6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/dT6pFbaJ
+    - Found: formation, pawn formation, pawn structure, pawn structures
+    - All found aliases: compensation, fork, formation, isolani, pawn formation, pawn structure, pawn structures, plans, retreats, threatening
+  - Chapter: Black plays ...Nc6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/dT6pFbaJ
+    - Found: formation, pawn formation, pawn structure, pawn structures
+    - All found aliases: compensation, fork, formation, isolani, pawn formation, pawn structure, pawn structures, plans, retreats, threatening
+  - Chapter: Black plays ...Nc6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/dT6pFbaJ
+    - Found: formation, pawn formation, pawn structure, pawn structures
+    - All found aliases: compensation, fork, formation, isolani, pawn formation, pawn structure, pawn structures, plans, retreats, threatening
+  - Chapter: Black plays ...Nc6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/dT6pFbaJ
+    - Found: formation, pawn formation, pawn structure, pawn structures
+    - All found aliases: compensation, fork, formation, isolani, pawn formation, pawn structure, pawn structures, plans, retreats, threatening
+  - Chapter: Black plays ...Nbd7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/SDgxfVCK
+    - Found: pawn formation
+    - All found aliases: bishop pair, center, develops, fork, isolani, minority, pawn formation, pin, planned
+  - Chapter: Black blocks his c-pawn with ...Nc6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/fR4LbCi6
+    - Found: formation
+    - All found aliases: formation, initiative, pin, threatening
+  - Chapter: Anti-Colle
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J6JKnaKB
+    - Found: formation
+    - All found aliases: center, classical school, develop, doubled pawns, formation, key squares, plans, tempo, threat, two bishops
+  - Chapter: A hypermodern defense: Queen's Indian Defense
+    - Chapter URL: https://lichess.org/study/6P90HTwf/5Wtj9dEE
+    - Found: formation
+    - All found aliases: formation, hypermodern
+  - Chapter: A hypermodern defense: East Indian Defense
+    - Chapter URL: https://lichess.org/study/6P90HTwf/XffXT7IM
+    - Found: formation
+    - All found aliases: center, formation, pawn chain, planned
+  - Chapter: Colle, Edgar - Euwe, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/YtNn4KhH
+    - Found: formation, pawn formation
+    - All found aliases: center, combination, fork, formation, good bishop, pawn formation, pin, pinning, plans, retreat, threatening
+  - Chapter: Colle, Edgar - Euwe, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/YtNn4KhH
+    - Found: formation, pawn formation
+    - All found aliases: center, combination, fork, formation, good bishop, pawn formation, pin, pinning, plans, retreat, threatening
+  - Chapter: Black plays ...Nbd7 and ...Be7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/VsLs8V3T
+    - Found: pawn formation
+    - All found aliases: center, develops, fork, isolani, minority, pawn formation, pin, planned
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: A-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/4ozfcRBL
+    - Found: pawn structure
+    - All found aliases: pawn structure
+  - Chapter: C-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/gEb5KC1p
+    - Found: pawn structure
+    - All found aliases: cramped position, isolated pawn, pawn islands, pawn structure, qualitative pawn majority
+  - Chapter: F-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ug9ArLz2
+    - Found: formation
+    - All found aliases: formation, outpost, trapped piece
+  - Chapter: H-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/P4BNopnu
+    - Found: pawn structure
+    - All found aliases: outpost, pawn structure, trapped piece
+  - Chapter: J-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/JdRMItq5
+    - Found: pawn structure
+    - All found aliases: pawn structure
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Found: formation, pawn structure
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Found: formation, pawn structure
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: N-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ALf1N5Hm
+    - Found: pawn structure
+    - All found aliases: calculate, calculation, center, pawn structure
+  - Chapter: P-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/MPoJTaHc
+    - Found: pawn structure
+    - All found aliases: center, outpost, passed pawn, pawn structure, planning
+  - Chapter: R-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Mab8k8jY
+    - Found: pawn structure
+    - All found aliases: doubled pawns, isolated pawn, passed pawn, pawn structure, weak squares
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: pawn structure
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: pawn structure
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: pawn structure
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: References I [A-M]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/xEKJ6WbA
+    - Found: pawn structures, structures
+    - All found aliases: calculate, candidate, center, classical school, material, pawn structures, structures
+  - Chapter: References I [A-M]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/xEKJ6WbA
+    - Found: pawn structures, structures
+    - All found aliases: calculate, candidate, center, classical school, material, pawn structures, structures
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Found: pawn structure, pawn structures
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Found: pawn structure, pawn structures
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: A-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/4ozfcRBL
+    - Found: pawn structure
+    - All found aliases: pawn structure
+  - Chapter: C-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/gEb5KC1p
+    - Found: pawn structure
+    - All found aliases: cramped position, isolated pawn, pawn islands, pawn structure, qualitative pawn majority
+  - Chapter: F-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ug9ArLz2
+    - Found: formation
+    - All found aliases: formation, outpost, trapped piece
+  - Chapter: H-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/P4BNopnu
+    - Found: pawn structure
+    - All found aliases: outpost, pawn structure, trapped piece
+  - Chapter: J-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/JdRMItq5
+    - Found: pawn structure
+    - All found aliases: pawn structure
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Found: formation, pawn structure
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Found: formation, pawn structure
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: N-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ALf1N5Hm
+    - Found: pawn structure
+    - All found aliases: calculate, calculation, center, pawn structure
+  - Chapter: P-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/MPoJTaHc
+    - Found: pawn structure
+    - All found aliases: center, outpost, passed pawn, pawn structure, planning
+  - Chapter: R-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Mab8k8jY
+    - Found: pawn structure
+    - All found aliases: doubled pawns, isolated pawn, passed pawn, pawn structure, weak squares
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: A-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/4ozfcRBL
+    - Found: pawn structure
+    - All found aliases: pawn structure
+  - Chapter: C-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/gEb5KC1p
+    - Found: pawn structure
+    - All found aliases: cramped position, isolated pawn, pawn islands, pawn structure, qualitative pawn majority
+  - Chapter: F-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ug9ArLz2
+    - Found: formation
+    - All found aliases: formation, outpost, trapped piece
+  - Chapter: H-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/P4BNopnu
+    - Found: pawn structure
+    - All found aliases: outpost, pawn structure, trapped piece
+  - Chapter: J-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/JdRMItq5
+    - Found: pawn structure
+    - All found aliases: pawn structure
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Found: formation, pawn structure
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: K-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Wcn9C2Vd
+    - Found: formation, pawn structure
+    - All found aliases: doubled pawns, formation, isolani, isolated pawn, outpost, pawn structure, qualitative pawn majority
+  - Chapter: N-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ALf1N5Hm
+    - Found: pawn structure
+    - All found aliases: calculate, calculation, center, pawn structure
+  - Chapter: P-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/MPoJTaHc
+    - Found: pawn structure
+    - All found aliases: center, outpost, passed pawn, pawn structure, planning
+  - Chapter: R-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Mab8k8jY
+    - Found: pawn structure
+    - All found aliases: doubled pawns, isolated pawn, passed pawn, pawn structure, weak squares
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Found: pawn structures
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Learning to Calculate Variations: Training Method III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/WBFaCSKB
+    - Found: pawn structure
+    - All found aliases: opposition, pawn structure
+
+
+## Concept: Pawn Tension
+
+Aliases: pawn tension, tension, tensions
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Feature: tension
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Planning III: Piece Placement
+    - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
+    - Feature: tension
+    - All found aliases: center, developing, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+  - Chapter: Planning VI: Pawn Structures
+    - Chapter URL: https://lichess.org/study/1O0UELn6/L5R84drq
+    - Feature: tension
+    - All found aliases: center, closed, formations, mobile, pawn formation, pawn structure, pawn structures, planning, plans, structures, tension
+  - Chapter: Positional Judgement IV: Open Lines: Example II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/RHyLds3Y
+    - Feature: tension
+    - All found aliases: center, mobile, mobilize, pin, pinned, plan, sacrificing, tension, threatening
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Feature: tension
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Feature: tension
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: RYCW #41
+    - Chapter URL: https://lichess.org/study/49AuOOCo/DX2OIF6M
+    - Feature: tension
+    - All found aliases: center, closed, formation, pawn chains, pawn structure, pawn structures, space, tension
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Feature: tension
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+    - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
+    - Feature: tension
+    - All found aliases: center, closes, fork, mating net, plan, sacrifices, tension, threatening
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Feature: tension
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+
+
+## Concept: Pawn Weakness
+
+Aliases: pawn weakness, pawn weaknesses, weak pawn, weak pawns
+
+Appears In:
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Two Knights
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/dMJjHeKM
+    - Feature: weak pawns
+    - All found aliases: minority, outpost, plan, plans, weak pawns
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Positional Judgement II: Open Lines
+    - Chapter URL: https://lichess.org/study/1O0UELn6/4M5Wq8VQ
+    - Feature: weak pawns
+    - All found aliases: calculation, calculations, initiative, material, pawn structure, pressure, weak pawns
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Feature: pawn weaknesses, weak pawn
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Feature: pawn weaknesses, weak pawn
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Feature: pawn weaknesses
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: TLG #145
+    - Chapter URL: https://lichess.org/study/49AuOOCo/gs829rtA
+    - Feature: pawn weaknesses
+    - All found aliases: calculation, material, minority, pawn structure, pawn structures, pawn weaknesses, plan, plans, sacrifices, simplification, space, structure, tempi, threatening, two bishops
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Feature: pawn weaknesses
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+
+
+## Concept: Perpetual Check (Positional Context)
+
+Aliases: perpetual, perpetual draw
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Kotov's Three Factors for Calculation Success
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/twwzRVRz
+    - Found: perpetual
+    - All found aliases: calculation, candidate, perpetual, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Kotov's Three Factors for Calculation Success
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/twwzRVRz
+    - Found: perpetual
+    - All found aliases: calculation, candidate, perpetual, threatening
+
+
+## Concept: Piece Activity
+
+Aliases: active piece, active pieces, inactive piece, inactive pieces, mobile, mobility, mobilize, mobilized, mobilizes, piece activity, restrict, restricted, restricting, restricts
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Found: mobility
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/pEF9QCic/umydfvUv
+    - Found: active pieces, mobile, mobility
+    - All found aliases: active pieces, battery, fork, material, mobile, mobility, pawn storm, pin, pinned, pinning, plan, plans, qualitative pawn majority, remove the defender, threat
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/pEF9QCic/umydfvUv
+    - Found: active pieces, mobile, mobility
+    - All found aliases: active pieces, battery, fork, material, mobile, mobility, pawn storm, pin, pinned, pinning, plan, plans, qualitative pawn majority, remove the defender, threat
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/pEF9QCic/umydfvUv
+    - Found: active pieces, mobile, mobility
+    - All found aliases: active pieces, battery, fork, material, mobile, mobility, pawn storm, pin, pinned, pinning, plan, plans, qualitative pawn majority, remove the defender, threat
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: mobility
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/pEF9QCic/XuYJQwWp
+    - Found: restrict
+    - All found aliases: center, discovered check, initiative, majority, minority, pawn structures, plan, plans, restrict, retreat, structure, tempo, threat, threaten, threatening
+  - Chapter: Annotate 11
+    - Chapter URL: https://lichess.org/study/pEF9QCic/680zAJGQ
+    - Found: mobilized
+    - All found aliases: center, mobilized, threats
+  - Chapter: Annotate 15
+    - Chapter URL: https://lichess.org/study/pEF9QCic/xpogdCvR
+    - Found: restrict
+    - All found aliases: bad bishop, center, counterplay, develop, discovered check, majority, material, pinned, plan, restrict, threatening
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/OE8IjSqO
+    - Found: mobile
+    - All found aliases: battery, mobile, pinned, plan, plans, qualitative pawn majority, threat
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Queenside, Kingside, and Middle
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/WusJPjSu
+    - Found: mobility
+    - All found aliases: clearance, compensation, decoy, material, mobility, pin, pinned, sacrifice, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Found: mobility
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: mobility
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: mobility, restricts
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: mobility, restricts
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: restricts
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 6
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PrvAJZHP
+    - Found: restricting
+    - All found aliases: calculate, calculations, candidate, candidates, planned, restricting
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: restricting
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: active pieces
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Planning III: Piece Placement
+    - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
+    - Found: restrict
+    - All found aliases: center, developing, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+  - Chapter: Planning IV: Natural Moves May Not Be Good Enough
+    - Chapter URL: https://lichess.org/study/1O0UELn6/rDY9RpZ6
+    - Found: mobility, restricted
+    - All found aliases: backward pawn, center, constricted, initiative, material, mobility, passed pawn, plan, pressure, restricted, sacrificing, threats
+  - Chapter: Planning IV: Natural Moves May Not Be Good Enough
+    - Chapter URL: https://lichess.org/study/1O0UELn6/rDY9RpZ6
+    - Found: mobility, restricted
+    - All found aliases: backward pawn, center, constricted, initiative, material, mobility, passed pawn, plan, pressure, restricted, sacrificing, threats
+  - Chapter: Planning VI: Pawn Structures
+    - Chapter URL: https://lichess.org/study/1O0UELn6/L5R84drq
+    - Found: mobile
+    - All found aliases: center, closed, formations, mobile, pawn formation, pawn structure, pawn structures, planning, plans, structures, tension
+  - Chapter: Positional Judgement IV: Open Lines: Example II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/RHyLds3Y
+    - Found: mobile, mobilize
+    - All found aliases: center, mobile, mobilize, pin, pinned, plan, sacrificing, tension, threatening
+  - Chapter: Positional Judgement IV: Open Lines: Example II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/RHyLds3Y
+    - Found: mobile, mobilize
+    - All found aliases: center, mobile, mobilize, pin, pinned, plan, sacrificing, tension, threatening
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: mobility, mobilize
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: mobility, mobilize
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Found: active pieces, mobility
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Found: active pieces, mobility
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: restricting
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: mobility, restrict
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: mobility, restrict
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: Progress so far. Next steps.
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/8oCbsR2I
+    - Found: restrict
+    - All found aliases: calculation, candidate moves, material, plan, restrict
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: mobility
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: mobility
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: KRk I : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/iya2zz3C
+    - Found: restricting
+    - All found aliases: combination, interfere, interfering, opposition, restricting, space, waiting move
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Salwe, Georg - Alapin, Simon
+    - Chapter URL: https://lichess.org/study/6P90HTwf/TSQw6fzo
+    - Found: mobility
+    - All found aliases: center, fork, majority, mobility, passed pawns, pins, threatening
+  - Chapter: Colle, Edgard - Capablanca, Jose Raul
+    - Chapter URL: https://lichess.org/study/6P90HTwf/41wL1Xtn
+    - Found: mobility, restricts
+    - All found aliases: material, mobility, overloaded, restricts, threatening
+  - Chapter: Colle, Edgard - Capablanca, Jose Raul
+    - Chapter URL: https://lichess.org/study/6P90HTwf/41wL1Xtn
+    - Found: mobility, restricts
+    - All found aliases: material, mobility, overloaded, restricts, threatening
+  - Chapter: Colle, Edgar - Michell, Reginald Pryce
+    - Chapter URL: https://lichess.org/study/6P90HTwf/omQHTftl
+    - Found: restricts
+    - All found aliases: center, isolated, isolated pawn, majority, restricts, retreats, threatening
+  - Chapter: Kashdan, Isaac - Steiner, Herman
+    - Chapter URL: https://lichess.org/study/6P90HTwf/FxXyrdZs
+    - Found: restricts
+    - All found aliases: blockading, doubles, majority, passed, passed pawn, passed pawns, pins, plan, restricts, tempo, threatened, threatening, zugzwang
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Non Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/P6AbZXKZ
+    - Found: restricts
+    - All found aliases: double attack, pinned, restricts, threat
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: U-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/cMCM1BxT
+    - Found: active pieces
+    - All found aliases: active pieces, backward pawn, compensation, passed pawn
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: The Natural Oppositional Field
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/HcxBAC4U
+    - Found: restrict
+    - All found aliases: corresponding squares, opposition, restrict
+  - Chapter: 2PKk: Connected Passed Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kiSKha3k
+    - Found: restrict
+    - All found aliases: key square, passed pawns, planned, restrict
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: restricted
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: King Destinations and Paths II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/0ODoh8bO
+    - Found: restricts
+    - All found aliases: corresponding squares, plan, restricts
+  - Chapter: PKpk: Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/nbcA5cI3
+    - Found: restricted, restricting, restricts
+    - All found aliases: corresponding squares, restricted, restricting, restricts
+  - Chapter: PKpk: Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/nbcA5cI3
+    - Found: restricted, restricting, restricts
+    - All found aliases: corresponding squares, restricted, restricting, restricts
+  - Chapter: PKpk: Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/nbcA5cI3
+    - Found: restricted, restricting, restricts
+    - All found aliases: corresponding squares, restricted, restricting, restricts
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Found: restrict, restricts
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Found: restrict, restricts
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+
+- Study: King and Pawn Endgames II
+  - Study URL: https://lichess.org/study/J4xrM4nV
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/J4xrM4nV/JGBzKpeZ
+    - Found: restrict
+    - All found aliases: restrict, skewer
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/J4xrM4nV/V2ZfOQYF
+    - Found: restrict
+    - All found aliases: calculation, plan, restrict, tempo, threatening
+  - Chapter: Exercise 5
+    - Chapter URL: https://lichess.org/study/J4xrM4nV/fXJNJnSX
+    - Found: restricting
+    - All found aliases: restricting
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Found: restrict
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: 2BKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/bfRicqOu
+    - Found: restricts
+    - All found aliases: opposition, restricts, waiting move
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: QKpk: 7th Rank Rook Pawn General III
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/rjtQ5t5l
+    - Found: restrict
+    - All found aliases: mating net, restrict
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Found: restrict
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: PRKrk: 5th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Tj3LPuLq
+    - Found: restrict
+    - All found aliases: center, lucena position, restrict, space, threatening
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: mobility, restrict
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: mobility, restrict
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: Progress so far. Next steps.
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/8oCbsR2I
+    - Found: restrict
+    - All found aliases: calculation, candidate moves, material, plan, restrict
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: mobility
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: mobility
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Non Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/P6AbZXKZ
+    - Found: restricts
+    - All found aliases: double attack, pinned, restricts, threat
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: U-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/cMCM1BxT
+    - Found: active pieces
+    - All found aliases: active pieces, backward pawn, compensation, passed pawn
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: The Natural Oppositional Field
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/HcxBAC4U
+    - Found: restrict
+    - All found aliases: corresponding squares, opposition, restrict
+  - Chapter: 2PKk: Connected Passed Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kiSKha3k
+    - Found: restrict
+    - All found aliases: key square, passed pawns, planned, restrict
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: restricted
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: King Destinations and Paths II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/0ODoh8bO
+    - Found: restricts
+    - All found aliases: corresponding squares, plan, restricts
+  - Chapter: PKpk: Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/nbcA5cI3
+    - Found: restricted, restricting, restricts
+    - All found aliases: corresponding squares, restricted, restricting, restricts
+  - Chapter: PKpk: Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/nbcA5cI3
+    - Found: restricted, restricting, restricts
+    - All found aliases: corresponding squares, restricted, restricting, restricts
+  - Chapter: PKpk: Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/nbcA5cI3
+    - Found: restricted, restricting, restricts
+    - All found aliases: corresponding squares, restricted, restricting, restricts
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Found: restrict, restricts
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Found: restrict, restricts
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Found: restrict
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: 2BKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/bfRicqOu
+    - Found: restricts
+    - All found aliases: opposition, restricts, waiting move
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: QKpk: 7th Rank Rook Pawn General III
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/rjtQ5t5l
+    - Found: restrict
+    - All found aliases: mating net, restrict
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Found: restrict
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: PRKrk: 5th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Tj3LPuLq
+    - Found: restrict
+    - All found aliases: center, lucena position, restrict, space, threatening
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Non Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/P6AbZXKZ
+    - Found: restricts
+    - All found aliases: double attack, pinned, restricts, threat
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: U-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/cMCM1BxT
+    - Found: active pieces
+    - All found aliases: active pieces, backward pawn, compensation, passed pawn
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: The Natural Oppositional Field
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/HcxBAC4U
+    - Found: restrict
+    - All found aliases: corresponding squares, opposition, restrict
+  - Chapter: 2PKk: Connected Passed Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kiSKha3k
+    - Found: restrict
+    - All found aliases: key square, passed pawns, planned, restrict
+  - Chapter: Outside Passed Pawn IV: Putting It Together
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Wjv0RE8W
+    - Found: restricted
+    - All found aliases: blockade, blockading, candidate, key square, majority, material, passed, passed pawn, passer, restricted
+  - Chapter: King Destinations and Paths II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/0ODoh8bO
+    - Found: restricts
+    - All found aliases: corresponding squares, plan, restricts
+  - Chapter: PKpk: Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/nbcA5cI3
+    - Found: restricted, restricting, restricts
+    - All found aliases: corresponding squares, restricted, restricting, restricts
+  - Chapter: PKpk: Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/nbcA5cI3
+    - Found: restricted, restricting, restricts
+    - All found aliases: corresponding squares, restricted, restricting, restricts
+  - Chapter: PKpk: Application III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/nbcA5cI3
+    - Found: restricted, restricting, restricts
+    - All found aliases: corresponding squares, restricted, restricting, restricts
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Found: restrict, restricts
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Found: restrict, restricts
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Found: restrict
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: 2BKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/bfRicqOu
+    - Found: restricts
+    - All found aliases: opposition, restricts, waiting move
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: QKpk: 7th Rank Rook Pawn General III
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/rjtQ5t5l
+    - Found: restrict
+    - All found aliases: mating net, restrict
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Found: restrict
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: PRKrk: 5th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Tj3LPuLq
+    - Found: restrict
+    - All found aliases: center, lucena position, restrict, space, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Found: mobility
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: mobility
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: mobility, restricts
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: mobility, restricts
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: restricts
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 6
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PrvAJZHP
+    - Found: restricting
+    - All found aliases: calculate, calculations, candidate, candidates, planned, restricting
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: restricting
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: active pieces
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Piece Trade
+
+Aliases: piece trade, trade pieces, traded pieces
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: trade pieces
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: Interlude I:Failure to Mate
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/ddcd4s9s
+    - Found: trade pieces
+    - All found aliases: material, plan, planned, plans, trade pieces
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: Interlude I:Failure to Mate
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/ddcd4s9s
+    - Found: trade pieces
+    - All found aliases: material, plan, planned, plans, trade pieces
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: Interlude I:Failure to Mate
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/ddcd4s9s
+    - Found: trade pieces
+    - All found aliases: material, plan, planned, plans, trade pieces
+
+
+## Concept: Piece Trapped
+
+Aliases: piece trapped, pieces trapped, trapped piece, trapped pieces
+
+Appears In:
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: F-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ug9ArLz2
+    - Tactical Motif: trapped piece
+    - All found aliases: formation, outpost, trapped piece
+  - Chapter: G-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ve7e5YYi
+    - Tactical Motif: trapped piece
+    - All found aliases: advanced pawn chain, chain, doubled pawns, trapped piece
+  - Chapter: H-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/P4BNopnu
+    - Tactical Motif: trapped piece
+    - All found aliases: outpost, pawn structure, trapped piece
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: F-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ug9ArLz2
+    - Tactical Motif: trapped piece
+    - All found aliases: formation, outpost, trapped piece
+  - Chapter: G-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ve7e5YYi
+    - Tactical Motif: trapped piece
+    - All found aliases: advanced pawn chain, chain, doubled pawns, trapped piece
+  - Chapter: H-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/P4BNopnu
+    - Tactical Motif: trapped piece
+    - All found aliases: outpost, pawn structure, trapped piece
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: F-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ug9ArLz2
+    - Tactical Motif: trapped piece
+    - All found aliases: formation, outpost, trapped piece
+  - Chapter: G-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/ve7e5YYi
+    - Tactical Motif: trapped piece
+    - All found aliases: advanced pawn chain, chain, doubled pawns, trapped piece
+  - Chapter: H-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/P4BNopnu
+    - Tactical Motif: trapped piece
+    - All found aliases: outpost, pawn structure, trapped piece
+
+
+## Concept: Pin
+
+Aliases: pin, pinned, pinning, pins
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Tactical Motif: pin, pinning, pins
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Tactical Motif: pin, pinning, pins
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Tactical Motif: pin, pinning, pins
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 4
+    - Chapter URL: https://lichess.org/study/pEF9QCic/r2lDGzev
+    - Tactical Motif: pinned, pinning
+    - All found aliases: center, discovered check, forking, initiative, pinned, pinning, removing the defender, retreat, threatening
+  - Chapter: Annotate 4
+    - Chapter URL: https://lichess.org/study/pEF9QCic/r2lDGzev
+    - Tactical Motif: pinned, pinning
+    - All found aliases: center, discovered check, forking, initiative, pinned, pinning, removing the defender, retreat, threatening
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/pEF9QCic/umydfvUv
+    - Tactical Motif: pin, pinned, pinning
+    - All found aliases: active pieces, battery, fork, material, mobile, mobility, pawn storm, pin, pinned, pinning, plan, plans, qualitative pawn majority, remove the defender, threat
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/pEF9QCic/umydfvUv
+    - Tactical Motif: pin, pinned, pinning
+    - All found aliases: active pieces, battery, fork, material, mobile, mobility, pawn storm, pin, pinned, pinning, plan, plans, qualitative pawn majority, remove the defender, threat
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/pEF9QCic/umydfvUv
+    - Tactical Motif: pin, pinned, pinning
+    - All found aliases: active pieces, battery, fork, material, mobile, mobility, pawn storm, pin, pinned, pinning, plan, plans, qualitative pawn majority, remove the defender, threat
+  - Chapter: Annotate 7
+    - Chapter URL: https://lichess.org/study/pEF9QCic/m8rZVb9h
+    - Tactical Motif: pin, pinned
+    - All found aliases: center, clearance, compensation, develop, double attacks, initiative, pin, pinned, sacrifice, threatening, threats
+  - Chapter: Annotate 7
+    - Chapter URL: https://lichess.org/study/pEF9QCic/m8rZVb9h
+    - Tactical Motif: pin, pinned
+    - All found aliases: center, clearance, compensation, develop, double attacks, initiative, pin, pinned, sacrifice, threatening, threats
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Tactical Motif: pin, pinned, pinning, pins
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Tactical Motif: pin, pinned, pinning, pins
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Tactical Motif: pin, pinned, pinning, pins
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Tactical Motif: pin, pinned, pinning, pins
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+  - Chapter: Annotate 13
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oSar8sm6
+    - Tactical Motif: pinned
+    - All found aliases: center, classical center, combination, discovered check, pawn formation, pinned, retreat, threatened
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Tactical Motif: pin
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+  - Chapter: Annotate 15
+    - Chapter URL: https://lichess.org/study/pEF9QCic/xpogdCvR
+    - Tactical Motif: pinned
+    - All found aliases: bad bishop, center, counterplay, develop, discovered check, majority, material, pinned, plan, restrict, threatening
+  - Chapter: Annotate 16
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oOYrqEZF
+    - Tactical Motif: pin, pins
+    - All found aliases: bad bishop, bishop pair, center, compensation, discovery, doubled pawns, material, mating net, pin, pins, plan, sacrifice, two bishops
+  - Chapter: Annotate 16
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oOYrqEZF
+    - Tactical Motif: pin, pins
+    - All found aliases: bad bishop, bishop pair, center, compensation, discovery, doubled pawns, material, mating net, pin, pins, plan, sacrifice, two bishops
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/nIoPxDql
+    - Tactical Motif: pin
+    - All found aliases: compensation, doubled, pin, plan, planned, plans, threat, threatening, threats
+  - Chapter: Annotate 4
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/kfCNFauQ
+    - Tactical Motif: pinned
+    - All found aliases: forking, pinned, retreat
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/OE8IjSqO
+    - Tactical Motif: pinned
+    - All found aliases: battery, mobile, pinned, plan, plans, qualitative pawn majority, threat
+  - Chapter: Annotate 7
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/emj96wNP
+    - Tactical Motif: pin, pinned
+    - All found aliases: double attacks, pin, pinned
+  - Chapter: Annotate 7
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/emj96wNP
+    - Tactical Motif: pin, pinned
+    - All found aliases: double attacks, pin, pinned
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Alekhine's Sting II
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/ppNu9nSz
+    - Tactical Motif: pinned
+    - All found aliases: calculate, gain a tempo, isolani, material, pinned, two bishops
+  - Chapter: Double Finachettoes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/DrwAR6qc
+    - Tactical Motif: pinned
+    - All found aliases: center, hypermodern, key squares, maneuver, pawn structure, pinned, plan, plans, retreat
+  - Chapter: Queenside, Kingside, and Middle
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/WusJPjSu
+    - Tactical Motif: pin, pinned
+    - All found aliases: clearance, compensation, decoy, material, mobility, pin, pinned, sacrifice, zwischenzug
+  - Chapter: Queenside, Kingside, and Middle
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/WusJPjSu
+    - Tactical Motif: pin, pinned
+    - All found aliases: clearance, compensation, decoy, material, mobility, pin, pinned, sacrifice, zwischenzug
+  - Chapter: Black: \"What, me worry?\
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/n3ikXUxW
+    - Tactical Motif: pinned
+    - All found aliases: calculate, material, pinned, sacrifice, threatened, threatening
+  - Chapter: Black \"What, me worry?\"; again
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/SszEToEr
+    - Tactical Motif: pinned
+    - All found aliases: calculate, pinned, sacrifice
+  - Chapter: White: \"What, me worry?\
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/kt1wIbrY
+    - Tactical Motif: pin
+    - All found aliases: calculate, center, discovered check, pin, sacrifice, threat, threatening
+  - Chapter: A Bad Plan Is Better Than No Plan
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
+    - Tactical Motif: pin
+    - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, pin, plan, sacrifice, threat, threatening, weak square
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Tactical Motif: pin, pinned, pinning
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Tactical Motif: pin, pinned, pinning
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Tactical Motif: pin, pinned, pinning
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Tactical Motif: pin, pinned, pinning
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Tactical Motif: pin, pinned, pinning
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Tactical Motif: pin, pinned, pinning
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: How Many Moves Can You Calculate Ahead? II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/lgTEA2Ui
+    - Tactical Motif: pin
+    - All found aliases: calculate, candidate, candidate moves, candidates, material, pin, threatening
+  - Chapter: Improving Visualization  I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/cmdp53WN
+    - Tactical Motif: pinning
+    - All found aliases: pinning
+  - Chapter: Improving Visualization  II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/tWxtJPjH
+    - Tactical Motif: pinning
+    - All found aliases: calculate, mating net, pinning
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Tactical Motif: pinned
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Exercise 9: Attempted Fix
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/TqC9ROoL
+    - Tactical Motif: pin
+    - All found aliases: fork, pin
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Tactical Motif: pin
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 15
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/BgC8bw52
+    - Tactical Motif: pin
+    - All found aliases: candidate, candidates, deflecting, double attack, pin
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Tactical Motif: pinned, pins
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Tactical Motif: pinned, pins
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Tactical Motif: pin
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Tactical Motif: pin
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+  - Chapter: Planning V: Be Flexible
+    - Chapter URL: https://lichess.org/study/1O0UELn6/efkxhMhp
+    - Tactical Motif: pinned
+    - All found aliases: center, fork, pinned, plan, plans, threat, threatening, threats, undermine, undermining
+  - Chapter: Positional Judgement IV: Open Lines: Example II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/RHyLds3Y
+    - Tactical Motif: pin, pinned
+    - All found aliases: center, mobile, mobilize, pin, pinned, plan, sacrificing, tension, threatening
+  - Chapter: Positional Judgement IV: Open Lines: Example II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/RHyLds3Y
+    - Tactical Motif: pin, pinned
+    - All found aliases: center, mobile, mobilize, pin, pinned, plan, sacrificing, tension, threatening
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Tactical Motif: pin, pinned
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Tactical Motif: pin, pinned
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #29 - How the position occurred
+    - Chapter URL: https://lichess.org/study/49AuOOCo/oyfIpu0v
+    - Tactical Motif: pin
+    - All found aliases: center, closed, discovered attack, pin, plans, tempi
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Tactical Motif: pin, pinned, pinning
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Tactical Motif: pin, pinned, pinning
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Tactical Motif: pin, pinned, pinning
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: RYCW #32, #33
+    - Chapter URL: https://lichess.org/study/49AuOOCo/jtT7DsE2
+    - Tactical Motif: pins
+    - All found aliases: calculate, center, counterplay, formation, minority, pawn structure, pawn structures, pins, plan, plans, pressure, structure
+  - Chapter: RYCW #37
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Wnnf3YyJ
+    - Tactical Motif: pinned
+    - All found aliases: bad bishop, center, chain, closed, imbalances, maneuver, pawn chain, pawn chains, pawn formation, pawn structure, pinned, plan, plans, retreat, space
+  - Chapter: RYCW #39
+    - Chapter URL: https://lichess.org/study/49AuOOCo/9r0zd2RI
+    - Tactical Motif: pin
+    - All found aliases: center, pin
+  - Chapter: RYCW Problem 13
+    - Chapter URL: https://lichess.org/study/49AuOOCo/LPG1Ewwz
+    - Tactical Motif: pinning
+    - All found aliases: backward move, backward moves, discovered attack, fork, good bishop, pinning, plan, space, tactical pattern
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Tactical Motif: pinned
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Tactical Motif: pinned
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Tactical Motif: pinned
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+
+- Study: An Opening Book for the Colle
+  - Study URL: https://lichess.org/study/wKvZqliN
+  - Chapter: Alternatives to 5...Nc6
+    - Chapter URL: https://lichess.org/study/wKvZqliN/rJepGP4B
+    - Tactical Motif: pin
+    - All found aliases: pin
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
+    - Tactical Motif: pin
+    - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Tactical Motif: pinned
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+  - Chapter: DecodeChess Example
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Abo3o0KY
+    - Tactical Motif: pinned
+    - All found aliases: passed, pinned, plan, planned, plans, space, threat, threatening, threats
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Black plays ...Nbd7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/SDgxfVCK
+    - Tactical Motif: pin
+    - All found aliases: bishop pair, center, develops, fork, isolani, minority, pawn formation, pin, planned
+  - Chapter: Black blocks his c-pawn with ...Nc6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/fR4LbCi6
+    - Tactical Motif: pin
+    - All found aliases: formation, initiative, pin, threatening
+  - Chapter: B1: Re1 when Nd7/Bd6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/Fpx0BIdc
+    - Tactical Motif: pin
+    - All found aliases: pin
+  - Chapter: Salwe, Georg - Alapin, Simon
+    - Chapter URL: https://lichess.org/study/6P90HTwf/TSQw6fzo
+    - Tactical Motif: pins
+    - All found aliases: center, fork, majority, mobility, passed pawns, pins, threatening
+  - Chapter: Alekhine, Alexander  - Koehnlein, Friedrich
+    - Chapter URL: https://lichess.org/study/6P90HTwf/blyRVQCr
+    - Tactical Motif: pin
+    - All found aliases: center, combination, developed, pin, sacrifice
+  - Chapter: Colle, Edgar - Euwe, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/YtNn4KhH
+    - Tactical Motif: pin, pinning
+    - All found aliases: center, combination, fork, formation, good bishop, pawn formation, pin, pinning, plans, retreat, threatening
+  - Chapter: Colle, Edgar - Euwe, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/YtNn4KhH
+    - Tactical Motif: pin, pinning
+    - All found aliases: center, combination, fork, formation, good bishop, pawn formation, pin, pinning, plans, retreat, threatening
+  - Chapter: Colle, Edgar - Tarrasch, Siegbert
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
+    - Tactical Motif: pin, pins
+    - All found aliases: blockaded, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
+  - Chapter: Colle, Edgar - Tarrasch, Siegbert
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
+    - Tactical Motif: pin, pins
+    - All found aliases: blockaded, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
+  - Chapter: Colle, Edgar - Bogoljubow, Efim
+    - Chapter URL: https://lichess.org/study/6P90HTwf/W96cSISA
+    - Tactical Motif: pinning
+    - All found aliases: combination, isolani, pinning, planned, sacrifices, skewer
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Tactical Motif: pin, pinning
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Tactical Motif: pin, pinning
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Colle, Edgar - Alekhine, Alexander
+    - Chapter URL: https://lichess.org/study/6P90HTwf/fgGgMOU2
+    - Tactical Motif: pin
+    - All found aliases: combination, developed, doubled pawns, doubles, good bishop, isolani, material, overworked, pin, retreats, threatening
+  - Chapter: Flohr, Salo - Walter, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8owQ6QBm
+    - Tactical Motif: pinned
+    - All found aliases: center, combination, fork, passed, passed pawn, pinned, sacrifice, threatening
+  - Chapter: Kashdan, Isaac - Steiner, Herman
+    - Chapter URL: https://lichess.org/study/6P90HTwf/FxXyrdZs
+    - Tactical Motif: pins
+    - All found aliases: blockading, doubles, majority, passed, passed pawn, passed pawns, pins, plan, restricts, tempo, threatened, threatening, zugzwang
+  - Chapter: Lascano, J. - Bahamonde, Antonio
+    - Chapter URL: https://lichess.org/study/6P90HTwf/pRBqdJqu
+    - Tactical Motif: pin
+    - All found aliases: battery, isolani, pin, plan, sacrifices, threatening
+  - Chapter: Black plays ...Nbd7 and ...Be7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/VsLs8V3T
+    - Tactical Motif: pin
+    - All found aliases: center, develops, fork, isolani, minority, pawn formation, pin, planned
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/vMmllPNw/Iy7ACzLV
+    - Tactical Motif: pinning
+    - All found aliases: material, pinning, threatening
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Tactical Motif: pinned
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: Non Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/P6AbZXKZ
+    - Tactical Motif: pinned
+    - All found aliases: double attack, pinned, restricts, threat
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Excercise 1
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ojJTMpHF
+    - Tactical Motif: pinning
+    - All found aliases: pinning
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKbk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hVreNGAe
+    - Tactical Motif: pin
+    - All found aliases: fork, material, pin, skewer, threatening
+  - Chapter: QKnk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/6ZTGzoXh
+    - Tactical Motif: pins
+    - All found aliases: centralized, fork, material, pins, threatening
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Tactical Motif: pin
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: QKrk: Pin and Skewer Example
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/2NjbOtZp
+    - Tactical Motif: pin, pinned
+    - All found aliases: pin, pinned, skewer
+  - Chapter: QKrk: Pin and Skewer Example
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/2NjbOtZp
+    - Tactical Motif: pin, pinned
+    - All found aliases: pin, pinned, skewer
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: QKpk: Pawn on 7th
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/i5TIQjxU
+    - Tactical Motif: pinning
+    - All found aliases: pinning
+  - Chapter: QKpk: Bishop Pawn on 7th II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/QLrVdq1Q
+    - Tactical Motif: pinned
+    - All found aliases: pinned, threatening
+  - Chapter: QKpk: 7th Rank Bishop Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/E3yRkKZt
+    - Tactical Motif: pinning
+    - All found aliases: block the pawn, mating net, pinning, sacrifice
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Rook and Two Connected Pawns versus Rook
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Qssm0UBL
+    - Tactical Motif: pinning
+    - All found aliases: blockades, passed pawns, pinning, plan
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/vMmllPNw/Iy7ACzLV
+    - Tactical Motif: pinning
+    - All found aliases: material, pinning, threatening
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Tactical Motif: pinned
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: Non Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/P6AbZXKZ
+    - Tactical Motif: pinned
+    - All found aliases: double attack, pinned, restricts, threat
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Excercise 1
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ojJTMpHF
+    - Tactical Motif: pinning
+    - All found aliases: pinning
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKbk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hVreNGAe
+    - Tactical Motif: pin
+    - All found aliases: fork, material, pin, skewer, threatening
+  - Chapter: QKnk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/6ZTGzoXh
+    - Tactical Motif: pins
+    - All found aliases: centralized, fork, material, pins, threatening
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Tactical Motif: pin
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: QKrk: Pin and Skewer Example
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/2NjbOtZp
+    - Tactical Motif: pin, pinned
+    - All found aliases: pin, pinned, skewer
+  - Chapter: QKrk: Pin and Skewer Example
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/2NjbOtZp
+    - Tactical Motif: pin, pinned
+    - All found aliases: pin, pinned, skewer
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: QKpk: Pawn on 7th
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/i5TIQjxU
+    - Tactical Motif: pinning
+    - All found aliases: pinning
+  - Chapter: QKpk: Bishop Pawn on 7th II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/QLrVdq1Q
+    - Tactical Motif: pinned
+    - All found aliases: pinned, threatening
+  - Chapter: QKpk: 7th Rank Bishop Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/E3yRkKZt
+    - Tactical Motif: pinning
+    - All found aliases: block the pawn, mating net, pinning, sacrifice
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Rook and Two Connected Pawns versus Rook
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Qssm0UBL
+    - Tactical Motif: pinning
+    - All found aliases: blockades, passed pawns, pinning, plan
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/vMmllPNw/Iy7ACzLV
+    - Tactical Motif: pinning
+    - All found aliases: material, pinning, threatening
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Tactical Motif: pinned
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: Non Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/P6AbZXKZ
+    - Tactical Motif: pinned
+    - All found aliases: double attack, pinned, restricts, threat
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Excercise 1
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ojJTMpHF
+    - Tactical Motif: pinning
+    - All found aliases: pinning
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKbk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hVreNGAe
+    - Tactical Motif: pin
+    - All found aliases: fork, material, pin, skewer, threatening
+  - Chapter: QKnk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/6ZTGzoXh
+    - Tactical Motif: pins
+    - All found aliases: centralized, fork, material, pins, threatening
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Tactical Motif: pin
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: QKrk: Pin and Skewer Example
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/2NjbOtZp
+    - Tactical Motif: pin, pinned
+    - All found aliases: pin, pinned, skewer
+  - Chapter: QKrk: Pin and Skewer Example
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/2NjbOtZp
+    - Tactical Motif: pin, pinned
+    - All found aliases: pin, pinned, skewer
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: QKpk: Pawn on 7th
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/i5TIQjxU
+    - Tactical Motif: pinning
+    - All found aliases: pinning
+  - Chapter: QKpk: Bishop Pawn on 7th II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/QLrVdq1Q
+    - Tactical Motif: pinned
+    - All found aliases: pinned, threatening
+  - Chapter: QKpk: 7th Rank Bishop Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/E3yRkKZt
+    - Tactical Motif: pinning
+    - All found aliases: block the pawn, mating net, pinning, sacrifice
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Rook and Two Connected Pawns versus Rook
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Qssm0UBL
+    - Tactical Motif: pinning
+    - All found aliases: blockades, passed pawns, pinning, plan
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: How Many Moves Can You Calculate Ahead? II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/lgTEA2Ui
+    - Tactical Motif: pin
+    - All found aliases: calculate, candidate, candidate moves, candidates, material, pin, threatening
+  - Chapter: Improving Visualization  I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/cmdp53WN
+    - Tactical Motif: pinning
+    - All found aliases: pinning
+  - Chapter: Improving Visualization  II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/tWxtJPjH
+    - Tactical Motif: pinning
+    - All found aliases: calculate, mating net, pinning
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Tactical Motif: pinned
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Exercise 9: Attempted Fix
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/TqC9ROoL
+    - Tactical Motif: pin
+    - All found aliases: fork, pin
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Tactical Motif: pin
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 15
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/BgC8bw52
+    - Tactical Motif: pin
+    - All found aliases: candidate, candidates, deflecting, double attack, pin
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Tactical Motif: pinned, pins
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Tactical Motif: pinned, pins
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Tactical Motif: pin
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Plan vs Move Distinction
+
+Aliases: plan, plan vs move, planned, planning, plans, plans vs moves
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: The Annotator comments on the Immortal Game
+    - Chapter URL: https://lichess.org/study/pEF9QCic/7uiI9P9K
+    - Found: plan
+    - All found aliases: developed, material, plan, sacrifice, sacrificed
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Found: plan, planned
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Found: plan, planned
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 2
+    - Chapter URL: https://lichess.org/study/pEF9QCic/5Lb60MIz
+    - Found: plan
+    - All found aliases: center, developing, discovered check, fork, king safety, pawn structure, plan, pressure, threaten, threatening
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/pEF9QCic/O3FEVxks
+    - Found: plan
+    - All found aliases: compensation, develop, developed, develops, discovered attack, discovering, key squares, material, pawn formation, plan, sacrifice, sacrificed, sacrifices, threatening, threats
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/pEF9QCic/umydfvUv
+    - Found: plan, plans
+    - All found aliases: active pieces, battery, fork, material, mobile, mobility, pawn storm, pin, pinned, pinning, plan, plans, qualitative pawn majority, remove the defender, threat
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/pEF9QCic/umydfvUv
+    - Found: plan, plans
+    - All found aliases: active pieces, battery, fork, material, mobile, mobility, pawn storm, pin, pinned, pinning, plan, plans, qualitative pawn majority, remove the defender, threat
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: plan, plans
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: plan, plans
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 8
+    - Chapter URL: https://lichess.org/study/pEF9QCic/mWPKMZ1W
+    - Found: plan
+    - All found aliases: calculating, develop, developed, initiative, material, plan, seize the initiative, threat, threats
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Found: plan, plans
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Found: plan, plans
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/pEF9QCic/XuYJQwWp
+    - Found: plan, plans
+    - All found aliases: center, discovered check, initiative, majority, minority, pawn structures, plan, plans, restrict, retreat, structure, tempo, threat, threaten, threatening
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/pEF9QCic/XuYJQwWp
+    - Found: plan, plans
+    - All found aliases: center, discovered check, initiative, majority, minority, pawn structures, plan, plans, restrict, retreat, structure, tempo, threat, threaten, threatening
+  - Chapter: Annotate 12
+    - Chapter URL: https://lichess.org/study/pEF9QCic/fGNoUJN0
+    - Found: plan
+    - All found aliases: center, combination, compensation, developing, plan, threatening
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Found: plans
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+  - Chapter: Annotate 15
+    - Chapter URL: https://lichess.org/study/pEF9QCic/xpogdCvR
+    - Found: plan
+    - All found aliases: bad bishop, center, counterplay, develop, discovered check, majority, material, pinned, plan, restrict, threatening
+  - Chapter: Annotate 16
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oOYrqEZF
+    - Found: plan
+    - All found aliases: bad bishop, bishop pair, center, compensation, discovery, doubled pawns, material, mating net, pin, pins, plan, sacrifice, two bishops
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: The Annotator comments on the Immortal Game
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/6RDPlV0m
+    - Found: plan
+    - All found aliases: developed, material, plan, sacrifice, sacrificed
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/nIoPxDql
+    - Found: plan, planned, plans
+    - All found aliases: compensation, doubled, pin, plan, planned, plans, threat, threatening, threats
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/nIoPxDql
+    - Found: plan, planned, plans
+    - All found aliases: compensation, doubled, pin, plan, planned, plans, threat, threatening, threats
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/nIoPxDql
+    - Found: plan, planned, plans
+    - All found aliases: compensation, doubled, pin, plan, planned, plans, threat, threatening, threats
+  - Chapter: Annotate 2
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/ogTeN8nY
+    - Found: plan
+    - All found aliases: plan, threaten, threatening
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/uI2sp5Mb
+    - Found: plan
+    - All found aliases: discovering, material, pawn formation, plan, sacrifice, sacrifices, threats
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/OE8IjSqO
+    - Found: plan, plans
+    - All found aliases: battery, mobile, pinned, plan, plans, qualitative pawn majority, threat
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/OE8IjSqO
+    - Found: plan, plans
+    - All found aliases: battery, mobile, pinned, plan, plans, qualitative pawn majority, threat
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/oZQjQEdx
+    - Found: plan, plans
+    - All found aliases: develop, pawn feature, pawn structure, plan, plans, tempo, threat
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/oZQjQEdx
+    - Found: plan, plans
+    - All found aliases: develop, pawn feature, pawn structure, plan, plans, tempo, threat
+  - Chapter: Annotate 8
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/sEhdogzW
+    - Found: plan
+    - All found aliases: material, plan, threat, threats
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/o59gT8ZH
+    - Found: plans
+    - All found aliases: calculate, double attack, plans, threat, threatening
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/jiDhU5wL
+    - Found: plan, plans
+    - All found aliases: pawn structures, plan, plans, threat, threatening
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/jiDhU5wL
+    - Found: plan, plans
+    - All found aliases: pawn structures, plan, plans, threat, threatening
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Awkward Piece Placement
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2bs65ZwO
+    - Found: plan, plans
+    - All found aliases: center, chain, closed, outpost, pawn chain, pawn formation, plan, plans, pressure, retreat, threatening
+  - Chapter: Awkward Piece Placement
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2bs65ZwO
+    - Found: plan, plans
+    - All found aliases: center, chain, closed, outpost, pawn chain, pawn formation, plan, plans, pressure, retreat, threatening
+  - Chapter: Double Finachettoes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/DrwAR6qc
+    - Found: plan, plans
+    - All found aliases: center, hypermodern, key squares, maneuver, pawn structure, pinned, plan, plans, retreat
+  - Chapter: Double Finachettoes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/DrwAR6qc
+    - Found: plan, plans
+    - All found aliases: center, hypermodern, key squares, maneuver, pawn structure, pinned, plan, plans, retreat
+  - Chapter: What blockade?
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/wyahzSRJ
+    - Found: planning
+    - All found aliases: blockade, passed pawn, planning
+  - Chapter: Two Knights
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/dMJjHeKM
+    - Found: plan, plans
+    - All found aliases: minority, outpost, plan, plans, weak pawns
+  - Chapter: Two Knights
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/dMJjHeKM
+    - Found: plan, plans
+    - All found aliases: minority, outpost, plan, plans, weak pawns
+  - Chapter: Imobilizing a Target
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2fOaUtrd
+    - Found: plans
+    - All found aliases: bad bishop, blockading, minority, pawn structure, pawn structures, plans, silman's imbalances
+  - Chapter: Planless Play
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/iAHjTLPE
+    - Found: plan
+    - All found aliases: center, classical pawn, cramped position, plan, sacrificed, threatening
+  - Chapter: A Bad Plan Is Better Than No Plan
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
+    - Found: plan
+    - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, pin, plan, sacrifice, threat, threatening, weak square
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Found: plan, planning, plans
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Found: plan, planning, plans
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Found: plan, planning, plans
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: plan, planned, planning, plans
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: plan, planned, planning, plans
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: plan, planned, planning, plans
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: plan, planned, planning, plans
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: plan
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: plan, planned
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: plan, planned
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Conditioned Reflexes
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/06goIxWm
+    - Found: plans
+    - All found aliases: plans
+  - Chapter: Unanticipated Check
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/x2AnQ4Xy
+    - Found: plan
+    - All found aliases: plan, threatening
+  - Chapter: Exercise 6
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PrvAJZHP
+    - Found: planned
+    - All found aliases: calculate, calculations, candidate, candidates, planned, restricting
+  - Chapter: Kotov on the Creative Process of Calculation
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/HwKUJ5Zq
+    - Found: plan
+    - All found aliases: calculate, candidates, material, plan, quiet move, quiet moves, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: plan
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: planned
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Found: plan
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: plan, plans
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: plan, plans
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Curriculum
+  - Study URL: https://lichess.org/study/VHcKZ37M
+  - Chapter: Move Selection: Planning and Calculating
+    - Chapter URL: https://lichess.org/study/VHcKZ37M/FZbm4pWi
+    - Found: plan
+    - All found aliases: calculate, plan
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/T0plr9Dv
+    - Found: planning
+    - All found aliases: calculating, candidate moves, pawn structure, pawn structures, planning, simplified
+  - Chapter: Orientation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/mHKJVcyj
+    - Found: plan, plans
+    - All found aliases: calculation, forks, imbalances, initiative, king safety, lucena position, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: Orientation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/mHKJVcyj
+    - Found: plan, plans
+    - All found aliases: calculation, forks, imbalances, initiative, king safety, lucena position, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: Orientation Example
+    - Chapter URL: https://lichess.org/study/1O0UELn6/s81l1Xs5
+    - Found: plans
+    - All found aliases: center, fork, imbalances, initiative, king safety, material, pawn structure, plans, pressure, space, threatening, threats
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: plan, plans
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: plan, plans
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Found: plan, planning, plans
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Found: plan, planning, plans
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Found: plan, planning, plans
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+  - Chapter: Planning II: Start Planning Soon
+    - Chapter URL: https://lichess.org/study/1O0UELn6/nzxfZej2
+    - Found: plan, plans
+    - All found aliases: develops, plan, plans
+  - Chapter: Planning II: Start Planning Soon
+    - Chapter URL: https://lichess.org/study/1O0UELn6/nzxfZej2
+    - Found: plan, plans
+    - All found aliases: develops, plan, plans
+  - Chapter: Planning III: Piece Placement
+    - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
+    - Found: plan, planning
+    - All found aliases: center, developing, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+  - Chapter: Planning III: Piece Placement
+    - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
+    - Found: plan, planning
+    - All found aliases: center, developing, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+  - Chapter: Planning IV: Natural Moves May Not Be Good Enough
+    - Chapter URL: https://lichess.org/study/1O0UELn6/rDY9RpZ6
+    - Found: plan
+    - All found aliases: backward pawn, center, constricted, initiative, material, mobility, passed pawn, plan, pressure, restricted, sacrificing, threats
+  - Chapter: Planning V: Be Flexible
+    - Chapter URL: https://lichess.org/study/1O0UELn6/efkxhMhp
+    - Found: plan, plans
+    - All found aliases: center, fork, pinned, plan, plans, threat, threatening, threats, undermine, undermining
+  - Chapter: Planning V: Be Flexible
+    - Chapter URL: https://lichess.org/study/1O0UELn6/efkxhMhp
+    - Found: plan, plans
+    - All found aliases: center, fork, pinned, plan, plans, threat, threatening, threats, undermine, undermining
+  - Chapter: Planning VI: Pawn Structures
+    - Chapter URL: https://lichess.org/study/1O0UELn6/L5R84drq
+    - Found: planning, plans
+    - All found aliases: center, closed, formations, mobile, pawn formation, pawn structure, pawn structures, planning, plans, structures, tension
+  - Chapter: Planning VI: Pawn Structures
+    - Chapter URL: https://lichess.org/study/1O0UELn6/L5R84drq
+    - Found: planning, plans
+    - All found aliases: center, closed, formations, mobile, pawn formation, pawn structure, pawn structures, planning, plans, structures, tension
+  - Chapter: Positional Judgement III: Open Lines: Example I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/2DrdjkKg
+    - Found: plan
+    - All found aliases: center, doubled, doubled pawns, doubling, material, plan, tempi, tempo, threatened
+  - Chapter: Positional Judgement IV: Open Lines: Example II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/RHyLds3Y
+    - Found: plan
+    - All found aliases: center, mobile, mobilize, pin, pinned, plan, sacrificing, tension, threatening
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/WSL5QMD1
+    - Found: plan
+    - All found aliases: bad bishop, center, counterplay, cramp, doubled, good bishop, outpost, outposts, plan, pressure, waiting move, weak squares
+  - Chapter: Positional Judgement VI: Position of the Pieces II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/GOyufLml
+    - Found: plan
+    - All found aliases: plan, pressure, sacrificed, threatening
+
+- Study: Advanced: Table of Contents
+  - Study URL: https://lichess.org/study/RI1x6Hxb
+  - Chapter: TOC
+    - Chapter URL: https://lichess.org/study/RI1x6Hxb/OjX0rahM
+    - Found: planning
+    - All found aliases: calculating, planning
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: plans
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: Orientation to a position
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Qv1Qxa9v
+    - Found: plan, plans
+    - All found aliases: calculation, imbalances, initiative, king safety, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: Orientation to a position
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Qv1Qxa9v
+    - Found: plan, plans
+    - All found aliases: calculation, imbalances, initiative, king safety, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: plan, plans
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: plan, plans
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #29   - What would TLG say
+    - Chapter URL: https://lichess.org/study/49AuOOCo/QGGnwKgX
+    - Found: plan
+    - All found aliases: center, closed, counter-attacking, plan, pressure
+  - Chapter: RYCW #29 - How the position occurred
+    - Chapter URL: https://lichess.org/study/49AuOOCo/oyfIpu0v
+    - Found: plans
+    - All found aliases: center, closed, discovered attack, pin, plans, tempi
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: plan, planning
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: plan, planning
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #30 - How the position occurred
+    - Chapter URL: https://lichess.org/study/49AuOOCo/74h033UV
+    - Found: plan
+    - All found aliases: closed, majority, open position, plan, tempo, two bishops
+  - Chapter: RYCW #31
+    - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
+    - Found: plan, plans
+    - All found aliases: candidate, chain, initiative, isolated, material, pawn chain, plan, plans, retreat, sacrifice, threat
+  - Chapter: RYCW #31
+    - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
+    - Found: plan, plans
+    - All found aliases: candidate, chain, initiative, isolated, material, pawn chain, plan, plans, retreat, sacrifice, threat
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Found: plan
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: RYCW #32, #33
+    - Chapter URL: https://lichess.org/study/49AuOOCo/jtT7DsE2
+    - Found: plan, plans
+    - All found aliases: calculate, center, counterplay, formation, minority, pawn structure, pawn structures, pins, plan, plans, pressure, structure
+  - Chapter: RYCW #32, #33
+    - Chapter URL: https://lichess.org/study/49AuOOCo/jtT7DsE2
+    - Found: plan, plans
+    - All found aliases: calculate, center, counterplay, formation, minority, pawn structure, pawn structures, pins, plan, plans, pressure, structure
+  - Chapter: RYCW #36
+    - Chapter URL: https://lichess.org/study/49AuOOCo/udNTzK0j
+    - Found: plan
+    - All found aliases: calculate, center, plan, threatening, two bishops
+  - Chapter: RYCW #37
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Wnnf3YyJ
+    - Found: plan, plans
+    - All found aliases: bad bishop, center, chain, closed, imbalances, maneuver, pawn chain, pawn chains, pawn formation, pawn structure, pinned, plan, plans, retreat, space
+  - Chapter: RYCW #37
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Wnnf3YyJ
+    - Found: plan, plans
+    - All found aliases: bad bishop, center, chain, closed, imbalances, maneuver, pawn chain, pawn chains, pawn formation, pawn structure, pinned, plan, plans, retreat, space
+  - Chapter: RYCW #38
+    - Chapter URL: https://lichess.org/study/49AuOOCo/b3Iv75Uh
+    - Found: plan, plans
+    - All found aliases: center, closed, closed position, pawn chain, pawn formation, pawn structure, plan, plans
+  - Chapter: RYCW #38
+    - Chapter URL: https://lichess.org/study/49AuOOCo/b3Iv75Uh
+    - Found: plan, plans
+    - All found aliases: center, closed, closed position, pawn chain, pawn formation, pawn structure, plan, plans
+  - Chapter: RYCW #40
+    - Chapter URL: https://lichess.org/study/49AuOOCo/kyt1auLh
+    - Found: plan, planning
+    - All found aliases: calculate, candidates, center, classical pawn, pawn break, plan, planning, retreat, space, threatening
+  - Chapter: RYCW #40
+    - Chapter URL: https://lichess.org/study/49AuOOCo/kyt1auLh
+    - Found: plan, planning
+    - All found aliases: calculate, candidates, center, classical pawn, pawn break, plan, planning, retreat, space, threatening
+  - Chapter: RYCW Problem 13
+    - Chapter URL: https://lichess.org/study/49AuOOCo/LPG1Ewwz
+    - Found: plan
+    - All found aliases: backward move, backward moves, discovered attack, fork, good bishop, pinning, plan, space, tactical pattern
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: plan, planned, plans
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: plan, planned, plans
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: plan, planned, plans
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: RYCW #43
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wlt10gdE
+    - Found: plan
+    - All found aliases: bishop pair, minority, pawn formation, pawn structures, plan, space
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Found: plan, plans
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Found: plan, plans
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+  - Chapter: TLG #145
+    - Chapter URL: https://lichess.org/study/49AuOOCo/gs829rtA
+    - Found: plan, plans
+    - All found aliases: calculation, material, minority, pawn structure, pawn structures, pawn weaknesses, plan, plans, sacrifices, simplification, space, structure, tempi, threatening, two bishops
+  - Chapter: TLG #145
+    - Chapter URL: https://lichess.org/study/49AuOOCo/gs829rtA
+    - Found: plan, plans
+    - All found aliases: calculation, material, minority, pawn structure, pawn structures, pawn weaknesses, plan, plans, sacrifices, simplification, space, structure, tempi, threatening, two bishops
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Found: plan, planning, plans
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Found: plan, planning, plans
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Found: plan, planning, plans
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+
+- Study: An Opening Book for the Colle
+  - Study URL: https://lichess.org/study/wKvZqliN
+  - Chapter: Main Line
+    - Chapter URL: https://lichess.org/study/wKvZqliN/eCfwuZ3P
+    - Found: plan
+    - All found aliases: isolani, plan
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: The Touch-move Rule
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/i5Xi6F2o
+    - Found: plan
+    - All found aliases: developed, plan
+  - Chapter: Progress so far. Next steps.
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/8oCbsR2I
+    - Found: plan
+    - All found aliases: calculation, candidate moves, material, plan, restrict
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: plans
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Another Easy Draw
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/xxL0wyVF
+    - Found: plan
+    - All found aliases: dominating, majority, plan, threatening
+  - Chapter: 2PBKbk: Opposite Color Bishops General II
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/lwbQ7wrF
+    - Found: plan
+    - All found aliases: blockade, plan
+  - Chapter: 2PBKbk: Opposite Color Bishops General XII
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/wxRf2R9i
+    - Found: plan
+    - All found aliases: blockade, plan
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
+    - Found: plans
+    - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: plan, planning, plans
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: plan, planning, plans
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: plan, planning, plans
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+  - Chapter: DecodeChess Example
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Abo3o0KY
+    - Found: plan, planned, plans
+    - All found aliases: passed, pinned, plan, planned, plans, space, threat, threatening, threats
+  - Chapter: DecodeChess Example
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Abo3o0KY
+    - Found: plan, planned, plans
+    - All found aliases: passed, pinned, plan, planned, plans, space, threat, threatening, threats
+  - Chapter: DecodeChess Example
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Abo3o0KY
+    - Found: plan, planned, plans
+    - All found aliases: passed, pinned, plan, planned, plans, space, threat, threatening, threats
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Where is the Black Queen Knight?
+    - Chapter URL: https://lichess.org/study/6P90HTwf/cNmFOfP9
+    - Found: plan
+    - All found aliases: classical school, formation, isolani, plan, retreat
+  - Chapter: Black plays ...Nc6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/dT6pFbaJ
+    - Found: plans
+    - All found aliases: compensation, fork, formation, isolani, pawn formation, pawn structure, pawn structures, plans, retreats, threatening
+  - Chapter: Black plays ...Nbd7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/SDgxfVCK
+    - Found: planned
+    - All found aliases: bishop pair, center, develops, fork, isolani, minority, pawn formation, pin, planned
+  - Chapter: Anti-Colle
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J6JKnaKB
+    - Found: plans
+    - All found aliases: center, classical school, develop, doubled pawns, formation, key squares, plans, tempo, threat, two bishops
+  - Chapter: A hypermodern defense: East Indian Defense
+    - Chapter URL: https://lichess.org/study/6P90HTwf/XffXT7IM
+    - Found: planned
+    - All found aliases: center, formation, pawn chain, planned
+  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+    - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
+    - Found: plan
+    - All found aliases: center, closes, fork, mating net, plan, sacrifices, tension, threatening
+  - Chapter: Colle, Edgar - Euwe, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/YtNn4KhH
+    - Found: plans
+    - All found aliases: center, combination, fork, formation, good bishop, pawn formation, pin, pinning, plans, retreat, threatening
+  - Chapter: Colle, Edgar - Bogoljubow, Efim
+    - Chapter URL: https://lichess.org/study/6P90HTwf/W96cSISA
+    - Found: planned
+    - All found aliases: combination, isolani, pinning, planned, sacrifices, skewer
+  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+    - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
+    - Found: planning
+    - All found aliases: center, doubled, material, passed pawn, passed pawns, planning, retreat, simplifies, simplify, threatening
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Found: plan, planning, plans
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Found: plan, planning, plans
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Found: plan, planning, plans
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Kashdan, Isaac - Steiner, Herman
+    - Chapter URL: https://lichess.org/study/6P90HTwf/FxXyrdZs
+    - Found: plan
+    - All found aliases: blockading, doubles, majority, passed, passed pawn, passed pawns, pins, plan, restricts, tempo, threatened, threatening, zugzwang
+  - Chapter: Lascano, J. - Bahamonde, Antonio
+    - Chapter URL: https://lichess.org/study/6P90HTwf/pRBqdJqu
+    - Found: plan
+    - All found aliases: battery, isolani, pin, plan, sacrifices, threatening
+  - Chapter: Black plays ...Nbd7 and ...Be7
+    - Chapter URL: https://lichess.org/study/6P90HTwf/VsLs8V3T
+    - Found: planned
+    - All found aliases: center, develops, fork, isolani, minority, pawn formation, pin, planned
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Piece And Pawn Versus Lone King
+    - Chapter URL: https://lichess.org/study/vMmllPNw/eeWCCEKt
+    - Found: plan
+    - All found aliases: material, plan, waiting moves
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: B-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/CqR8xSGt
+    - Found: planning
+    - All found aliases: center, outpost, planning, qualitative pawn majority
+  - Chapter: P-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/MPoJTaHc
+    - Found: planning
+    - All found aliases: center, outpost, passed pawn, pawn structure, planning
+  - Chapter: S-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/nkFCfbme
+    - Found: planning
+    - All found aliases: backward pawn, center, planning
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: Key Squares I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dfqKtA5X
+    - Found: plan
+    - All found aliases: key square, key squares, plan
+  - Chapter: 2PKk: Connected Passed Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kiSKha3k
+    - Found: planned
+    - All found aliases: key square, passed pawns, planned, restrict
+  - Chapter: Triangulation II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Z3utcP6U
+    - Found: plan
+    - All found aliases: passed pawn, plan, retreat, threatening, triangulation
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: plan, planned, plans
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: plan, planned, plans
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: plan, planned, plans
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+  - Chapter: King Destinations and Paths II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/0ODoh8bO
+    - Found: plan
+    - All found aliases: corresponding squares, plan, restricts
+  - Chapter: King Destinations and Paths III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/9CivWxXK
+    - Found: planned
+    - All found aliases: key square, planned
+  - Chapter: King Destinations and Paths IV
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/wGWb6XRa
+    - Found: planned
+    - All found aliases: planned, threat
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Found: plan
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+
+- Study: King and Pawn Endgames II
+  - Study URL: https://lichess.org/study/J4xrM4nV
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/J4xrM4nV/V2ZfOQYF
+    - Found: plan
+    - All found aliases: calculation, plan, restrict, tempo, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: Interlude I:Failure to Mate
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/ddcd4s9s
+    - Found: plan, planned, plans
+    - All found aliases: material, plan, planned, plans, trade pieces
+  - Chapter: Interlude I:Failure to Mate
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/ddcd4s9s
+    - Found: plan, planned, plans
+    - All found aliases: material, plan, planned, plans, trade pieces
+  - Chapter: Interlude I:Failure to Mate
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/ddcd4s9s
+    - Found: plan, planned, plans
+    - All found aliases: material, plan, planned, plans, trade pieces
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/IeD0gcDN
+    - Found: plan
+    - All found aliases: plan
+  - Chapter: QKpk: General Pawn Not Advanced
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/jSxeGM6o
+    - Found: plan
+    - All found aliases: plan
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/oVVQDoqt
+    - Found: plans
+    - All found aliases: lucena position, plans
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Found: plan
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: Rook and Two Connected Pawns versus Rook
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Qssm0UBL
+    - Found: plan
+    - All found aliases: blockades, passed pawns, pinning, plan
+  - Chapter: Rook On the 7th Rank
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Rf1A1wrt
+    - Found: plan
+    - All found aliases: plan, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Found: plan
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: The Touch-move Rule
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/i5Xi6F2o
+    - Found: plan
+    - All found aliases: developed, plan
+  - Chapter: Progress so far. Next steps.
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/8oCbsR2I
+    - Found: plan
+    - All found aliases: calculation, candidate moves, material, plan, restrict
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: plans
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Another Easy Draw
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/xxL0wyVF
+    - Found: plan
+    - All found aliases: dominating, majority, plan, threatening
+  - Chapter: 2PBKbk: Opposite Color Bishops General II
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/lwbQ7wrF
+    - Found: plan
+    - All found aliases: blockade, plan
+  - Chapter: 2PBKbk: Opposite Color Bishops General XII
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/wxRf2R9i
+    - Found: plan
+    - All found aliases: blockade, plan
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Piece And Pawn Versus Lone King
+    - Chapter URL: https://lichess.org/study/vMmllPNw/eeWCCEKt
+    - Found: plan
+    - All found aliases: material, plan, waiting moves
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: B-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/CqR8xSGt
+    - Found: planning
+    - All found aliases: center, outpost, planning, qualitative pawn majority
+  - Chapter: P-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/MPoJTaHc
+    - Found: planning
+    - All found aliases: center, outpost, passed pawn, pawn structure, planning
+  - Chapter: S-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/nkFCfbme
+    - Found: planning
+    - All found aliases: backward pawn, center, planning
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: Key Squares I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dfqKtA5X
+    - Found: plan
+    - All found aliases: key square, key squares, plan
+  - Chapter: 2PKk: Connected Passed Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kiSKha3k
+    - Found: planned
+    - All found aliases: key square, passed pawns, planned, restrict
+  - Chapter: Triangulation II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Z3utcP6U
+    - Found: plan
+    - All found aliases: passed pawn, plan, retreat, threatening, triangulation
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: plan, planned, plans
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: plan, planned, plans
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: plan, planned, plans
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+  - Chapter: King Destinations and Paths II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/0ODoh8bO
+    - Found: plan
+    - All found aliases: corresponding squares, plan, restricts
+  - Chapter: King Destinations and Paths III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/9CivWxXK
+    - Found: planned
+    - All found aliases: key square, planned
+  - Chapter: King Destinations and Paths IV
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/wGWb6XRa
+    - Found: planned
+    - All found aliases: planned, threat
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Found: plan
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: Interlude I:Failure to Mate
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/ddcd4s9s
+    - Found: plan, planned, plans
+    - All found aliases: material, plan, planned, plans, trade pieces
+  - Chapter: Interlude I:Failure to Mate
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/ddcd4s9s
+    - Found: plan, planned, plans
+    - All found aliases: material, plan, planned, plans, trade pieces
+  - Chapter: Interlude I:Failure to Mate
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/ddcd4s9s
+    - Found: plan, planned, plans
+    - All found aliases: material, plan, planned, plans, trade pieces
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/IeD0gcDN
+    - Found: plan
+    - All found aliases: plan
+  - Chapter: QKpk: General Pawn Not Advanced
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/jSxeGM6o
+    - Found: plan
+    - All found aliases: plan
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/oVVQDoqt
+    - Found: plans
+    - All found aliases: lucena position, plans
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Found: plan
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: Rook and Two Connected Pawns versus Rook
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Qssm0UBL
+    - Found: plan
+    - All found aliases: blockades, passed pawns, pinning, plan
+  - Chapter: Rook On the 7th Rank
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Rf1A1wrt
+    - Found: plan
+    - All found aliases: plan, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Found: plan
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Another Easy Draw
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/xxL0wyVF
+    - Found: plan
+    - All found aliases: dominating, majority, plan, threatening
+  - Chapter: 2PBKbk: Opposite Color Bishops General II
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/lwbQ7wrF
+    - Found: plan
+    - All found aliases: blockade, plan
+  - Chapter: 2PBKbk: Opposite Color Bishops General XII
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/wxRf2R9i
+    - Found: plan
+    - All found aliases: blockade, plan
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Piece And Pawn Versus Lone King
+    - Chapter URL: https://lichess.org/study/vMmllPNw/eeWCCEKt
+    - Found: plan
+    - All found aliases: material, plan, waiting moves
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: B-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/CqR8xSGt
+    - Found: planning
+    - All found aliases: center, outpost, planning, qualitative pawn majority
+  - Chapter: P-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/MPoJTaHc
+    - Found: planning
+    - All found aliases: center, outpost, passed pawn, pawn structure, planning
+  - Chapter: S-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/nkFCfbme
+    - Found: planning
+    - All found aliases: backward pawn, center, planning
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: Key Squares I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dfqKtA5X
+    - Found: plan
+    - All found aliases: key square, key squares, plan
+  - Chapter: 2PKk: Connected Passed Pawns I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/kiSKha3k
+    - Found: planned
+    - All found aliases: key square, passed pawns, planned, restrict
+  - Chapter: Triangulation II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Z3utcP6U
+    - Found: plan
+    - All found aliases: passed pawn, plan, retreat, threatening, triangulation
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: plan, planned, plans
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: plan, planned, plans
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+  - Chapter: PKpk: Application I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/dzOLBdry
+    - Found: plan, planned, plans
+    - All found aliases: calculate, corresponding squares, key square, material, opposition, plan, planned, plans
+  - Chapter: King Destinations and Paths II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/0ODoh8bO
+    - Found: plan
+    - All found aliases: corresponding squares, plan, restricts
+  - Chapter: King Destinations and Paths III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/9CivWxXK
+    - Found: planned
+    - All found aliases: key square, planned
+  - Chapter: King Destinations and Paths IV
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/wGWb6XRa
+    - Found: planned
+    - All found aliases: planned, threat
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Found: plan
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: Interlude I:Failure to Mate
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/ddcd4s9s
+    - Found: plan, planned, plans
+    - All found aliases: material, plan, planned, plans, trade pieces
+  - Chapter: Interlude I:Failure to Mate
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/ddcd4s9s
+    - Found: plan, planned, plans
+    - All found aliases: material, plan, planned, plans, trade pieces
+  - Chapter: Interlude I:Failure to Mate
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/ddcd4s9s
+    - Found: plan, planned, plans
+    - All found aliases: material, plan, planned, plans, trade pieces
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/IeD0gcDN
+    - Found: plan
+    - All found aliases: plan
+  - Chapter: QKpk: General Pawn Not Advanced
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/jSxeGM6o
+    - Found: plan
+    - All found aliases: plan
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/oVVQDoqt
+    - Found: plans
+    - All found aliases: lucena position, plans
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Found: plan
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: Rook and Two Connected Pawns versus Rook
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Qssm0UBL
+    - Found: plan
+    - All found aliases: blockades, passed pawns, pinning, plan
+  - Chapter: Rook On the 7th Rank
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Rf1A1wrt
+    - Found: plan
+    - All found aliases: plan, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Found: plan
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: plan
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: plan, planned
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: plan, planned
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Conditioned Reflexes
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/06goIxWm
+    - Found: plans
+    - All found aliases: plans
+  - Chapter: Unanticipated Check
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/x2AnQ4Xy
+    - Found: plan
+    - All found aliases: plan, threatening
+  - Chapter: Exercise 6
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/PrvAJZHP
+    - Found: planned
+    - All found aliases: calculate, calculations, candidate, candidates, planned, restricting
+  - Chapter: Kotov on the Creative Process of Calculation
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/HwKUJ5Zq
+    - Found: plan
+    - All found aliases: calculate, candidates, material, plan, quiet move, quiet moves, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: plan
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: planned
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Found: plan
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: plan, plans
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: plan, plans
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Poison Pawn
+
+Aliases: poison, poison pawn, poisoned pawn
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: poison
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: poison
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+
+
+## Concept: Quiet Move
+
+Aliases: quiet move, quiet moves
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Kotov on the Creative Process of Calculation
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/HwKUJ5Zq
+    - Found: quiet move, quiet moves
+    - All found aliases: calculate, candidates, material, plan, quiet move, quiet moves, threatening
+  - Chapter: Kotov on the Creative Process of Calculation
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/HwKUJ5Zq
+    - Found: quiet move, quiet moves
+    - All found aliases: calculate, candidates, material, plan, quiet move, quiet moves, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Kotov on the Creative Process of Calculation
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/HwKUJ5Zq
+    - Found: quiet move, quiet moves
+    - All found aliases: calculate, candidates, material, plan, quiet move, quiet moves, threatening
+  - Chapter: Kotov on the Creative Process of Calculation
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/HwKUJ5Zq
+    - Found: quiet move, quiet moves
+    - All found aliases: calculate, candidates, material, plan, quiet move, quiet moves, threatening
+
+
+## Concept: Removing the Defender
+
+Aliases: defender removed, defenders removed, remove the defender, remove the defenders, remove the guard, removing the defender
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 4
+    - Chapter URL: https://lichess.org/study/pEF9QCic/r2lDGzev
+    - Tactical Motif: removing the defender
+    - All found aliases: center, discovered check, forking, initiative, pinned, pinning, removing the defender, retreat, threatening
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/pEF9QCic/umydfvUv
+    - Tactical Motif: remove the defender
+    - All found aliases: active pieces, battery, fork, material, mobile, mobility, pawn storm, pin, pinned, pinning, plan, plans, qualitative pawn majority, remove the defender, threat
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Tactical Motif: remove the defender
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Tactical Motif: remove the defender
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Tactical Motif: removing the defender
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Tactical Motif: remove the defender
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Tactical Motif: remove the defender
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+
+
+## Concept: Rules-of-Thumb Play
+
+Aliases: rule of thumb, rules of thumb, rules-of-thumb play
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: rules of thumb
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/qbqePrWd
+    - Found: rules of thumb
+    - All found aliases: calculate, calculating, calculation, candidate moves, rules of thumb
+  - Chapter: No Calculation Required I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/9tQb9KCp
+    - Found: rules of thumb
+    - All found aliases: calculate, calculating, calculation, corresponding squares, key squares, opposition, rules of thumb
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: rule of thumb, rules of thumb
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: rule of thumb, rules of thumb
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: rules of thumb
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General I
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/mJKU8zsb
+    - Found: rule of thumb
+    - All found aliases: blockade, rule of thumb, sacrificing
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: RPKrk: Rook in Front of its 7th Rank Pawn - Defense I: File
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/SJTzAmJf
+    - Found: rule of thumb
+    - All found aliases: passed pawn, rule of thumb, threats
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General I
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/mJKU8zsb
+    - Found: rule of thumb
+    - All found aliases: blockade, rule of thumb, sacrificing
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: RPKrk: Rook in Front of its 7th Rank Pawn - Defense I: File
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/SJTzAmJf
+    - Found: rule of thumb
+    - All found aliases: passed pawn, rule of thumb, threats
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General I
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/mJKU8zsb
+    - Found: rule of thumb
+    - All found aliases: blockade, rule of thumb, sacrificing
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: RPKrk: Rook in Front of its 7th Rank Pawn - Defense I: File
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/SJTzAmJf
+    - Found: rule of thumb
+    - All found aliases: passed pawn, rule of thumb, threats
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/qbqePrWd
+    - Found: rules of thumb
+    - All found aliases: calculate, calculating, calculation, candidate moves, rules of thumb
+  - Chapter: No Calculation Required I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/9tQb9KCp
+    - Found: rules of thumb
+    - All found aliases: calculate, calculating, calculation, corresponding squares, key squares, opposition, rules of thumb
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: rule of thumb, rules of thumb
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: rule of thumb, rules of thumb
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Sacrifice
+
+Aliases: positional sacrifice, sacrifice, sacrificed, sacrifices, sacrificing, strategic sacrifice, strategic sacrifices
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: The Annotator comments on the Immortal Game
+    - Chapter URL: https://lichess.org/study/pEF9QCic/7uiI9P9K
+    - Tactical Motif: sacrifice, sacrificed
+    - All found aliases: developed, material, plan, sacrifice, sacrificed
+  - Chapter: The Annotator comments on the Immortal Game
+    - Chapter URL: https://lichess.org/study/pEF9QCic/7uiI9P9K
+    - Tactical Motif: sacrifice, sacrificed
+    - All found aliases: developed, material, plan, sacrifice, sacrificed
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Tactical Motif: sacrifice, sacrificed
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Tactical Motif: sacrifice, sacrificed
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/pEF9QCic/O3FEVxks
+    - Tactical Motif: sacrifice, sacrificed, sacrifices
+    - All found aliases: compensation, develop, developed, develops, discovered attack, discovering, key squares, material, pawn formation, plan, sacrifice, sacrificed, sacrifices, threatening, threats
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/pEF9QCic/O3FEVxks
+    - Tactical Motif: sacrifice, sacrificed, sacrifices
+    - All found aliases: compensation, develop, developed, develops, discovered attack, discovering, key squares, material, pawn formation, plan, sacrifice, sacrificed, sacrifices, threatening, threats
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/pEF9QCic/O3FEVxks
+    - Tactical Motif: sacrifice, sacrificed, sacrifices
+    - All found aliases: compensation, develop, developed, develops, discovered attack, discovering, key squares, material, pawn formation, plan, sacrifice, sacrificed, sacrifices, threatening, threats
+  - Chapter: Annotate 7
+    - Chapter URL: https://lichess.org/study/pEF9QCic/m8rZVb9h
+    - Tactical Motif: sacrifice
+    - All found aliases: center, clearance, compensation, develop, double attacks, initiative, pin, pinned, sacrifice, threatening, threats
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Tactical Motif: sacrifice, sacrificed, sacrifices
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Tactical Motif: sacrifice, sacrificed, sacrifices
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Tactical Motif: sacrifice, sacrificed, sacrifices
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+  - Chapter: Annotate 16
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oOYrqEZF
+    - Tactical Motif: sacrifice
+    - All found aliases: bad bishop, bishop pair, center, compensation, discovery, doubled pawns, material, mating net, pin, pins, plan, sacrifice, two bishops
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: The Annotator comments on the Immortal Game
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/6RDPlV0m
+    - Tactical Motif: sacrifice, sacrificed
+    - All found aliases: developed, material, plan, sacrifice, sacrificed
+  - Chapter: The Annotator comments on the Immortal Game
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/6RDPlV0m
+    - Tactical Motif: sacrifice, sacrificed
+    - All found aliases: developed, material, plan, sacrifice, sacrificed
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/uI2sp5Mb
+    - Tactical Motif: sacrifice, sacrifices
+    - All found aliases: discovering, material, pawn formation, plan, sacrifice, sacrifices, threats
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/uI2sp5Mb
+    - Tactical Motif: sacrifice, sacrifices
+    - All found aliases: discovering, material, pawn formation, plan, sacrifice, sacrifices, threats
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Alekhine's Sting I
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/PnAIpNvR
+    - Tactical Motif: sacrifice
+    - All found aliases: fork, material, sacrifice
+  - Chapter: Queenside, Kingside, and Middle
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/WusJPjSu
+    - Tactical Motif: sacrifice
+    - All found aliases: clearance, compensation, decoy, material, mobility, pin, pinned, sacrifice, zwischenzug
+  - Chapter: Kingside Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/dh1EXD5H
+    - Tactical Motif: sacrifice
+    - All found aliases: fork, monster, retreat, sacrifice, threatening
+  - Chapter: Black: \"What, me worry?\
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/n3ikXUxW
+    - Tactical Motif: sacrifice
+    - All found aliases: calculate, material, pinned, sacrifice, threatened, threatening
+  - Chapter: Black \"What, me worry?\"; again
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/SszEToEr
+    - Tactical Motif: sacrifice
+    - All found aliases: calculate, pinned, sacrifice
+  - Chapter: White: \"What, me worry?\
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/kt1wIbrY
+    - Tactical Motif: sacrifice
+    - All found aliases: calculate, center, discovered check, pin, sacrifice, threat, threatening
+  - Chapter: Queenside Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/s2zJpwHc
+    - Tactical Motif: sacrifice, sacrifices
+    - All found aliases: calculate, material, sacrifice, sacrifices, threat, threatening
+  - Chapter: Queenside Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/s2zJpwHc
+    - Tactical Motif: sacrifice, sacrifices
+    - All found aliases: calculate, material, sacrifice, sacrifices, threat, threatening
+  - Chapter: Planless Play
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/iAHjTLPE
+    - Tactical Motif: sacrificed
+    - All found aliases: center, classical pawn, cramped position, plan, sacrificed, threatening
+  - Chapter: A Bad Plan Is Better Than No Plan
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
+    - Tactical Motif: sacrifice
+    - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, pin, plan, sacrifice, threat, threatening, weak square
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Tactical Motif: sacrifice
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/8MWN0xFK
+    - Tactical Motif: sacrifices
+    - All found aliases: calculate, calculation, candidate, combinations, sacrifices
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Tactical Motif: sacrifice, sacrifices, sacrificing
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Tactical Motif: sacrifice, sacrifices, sacrificing
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Tactical Motif: sacrifice, sacrifices, sacrificing
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Straight-line Calculation? That depends. III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/R4VpMNSt
+    - Tactical Motif: sacrifice
+    - All found aliases: calculation, sacrifice, threatening
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Tactical Motif: sacrifice
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/xbeAVC8Y
+    - Tactical Motif: sacrifices
+    - All found aliases: calculations, candidate, gain a tempo, maneuver, retreats, sacrifices
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Tactical Motif: sacrifice
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Tactical Motif: sacrifice, sacrifices
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Tactical Motif: sacrifice, sacrifices
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Disappearance of the Barrier
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Ro4yI37U
+    - Tactical Motif: sacrifice
+    - All found aliases: sacrifice
+  - Chapter: Overlooking a Counter-sacrifice
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/00fU1dUB
+    - Tactical Motif: sacrifice
+    - All found aliases: sacrifice, threat
+  - Chapter: Exercise 8 (Unexpected Move)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ALCC0Zua
+    - Tactical Motif: sacrifice
+    - All found aliases: calculated, candidate, passed pawns, sacrifice
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Tactical Motif: sacrifice, sacrifices
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Tactical Motif: sacrifice, sacrifices
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Tactical Motif: sacrifice
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Tactical Motif: sacrificing
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Planning IV: Natural Moves May Not Be Good Enough
+    - Chapter URL: https://lichess.org/study/1O0UELn6/rDY9RpZ6
+    - Tactical Motif: sacrificing
+    - All found aliases: backward pawn, center, constricted, initiative, material, mobility, passed pawn, plan, pressure, restricted, sacrificing, threats
+  - Chapter: Positional Judgement IV: Open Lines: Example II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/RHyLds3Y
+    - Tactical Motif: sacrificing
+    - All found aliases: center, mobile, mobilize, pin, pinned, plan, sacrificing, tension, threatening
+  - Chapter: Positional Judgement VI: Position of the Pieces II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/GOyufLml
+    - Tactical Motif: sacrificed
+    - All found aliases: plan, pressure, sacrificed, threatening
+  - Chapter: Positional Judgement VI: Position of the Pieces III
+    - Chapter URL: https://lichess.org/study/1O0UELn6/Vi1pHIHN
+    - Tactical Motif: sacrifice
+    - All found aliases: control the center, counterplay, passed pawn, sacrifice
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #31
+    - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
+    - Tactical Motif: sacrifice
+    - All found aliases: candidate, chain, initiative, isolated, material, pawn chain, plan, plans, retreat, sacrifice, threat
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Tactical Motif: sacrifice
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Tactical Motif: sacrifice, sacrificed, sacrificing
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Tactical Motif: sacrifice, sacrificed, sacrificing
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Tactical Motif: sacrifice, sacrificed, sacrificing
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: TLG #145
+    - Chapter URL: https://lichess.org/study/49AuOOCo/gs829rtA
+    - Tactical Motif: sacrifices
+    - All found aliases: calculation, material, minority, pawn structure, pawn structures, pawn weaknesses, plan, plans, sacrifices, simplification, space, structure, tempi, threatening, two bishops
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Tactical Motif: sacrifices
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General I
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/mJKU8zsb
+    - Tactical Motif: sacrificing
+    - All found aliases: blockade, rule of thumb, sacrificing
+  - Chapter: Fortresses in Bishop-Up Endgames II
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/apZK1lCT
+    - Tactical Motif: sacrifice
+    - All found aliases: sacrifice, triangulated
+  - Chapter: Fortresses in Bishop-Up Endgames V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/2n8RKkVR
+    - Tactical Motif: sacrifices
+    - All found aliases: fortress, sacrifices
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Tactical Motif: sacrifice, sacrificed
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Tactical Motif: sacrifice, sacrificed
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: White sacrifices a pawn to avoid an isolani
+    - Chapter URL: https://lichess.org/study/6P90HTwf/pyPIXm42
+    - Tactical Motif: sacrifices
+    - All found aliases: isolani, sacrifices
+  - Chapter: Alekhine, Alexander  - Koehnlein, Friedrich
+    - Chapter URL: https://lichess.org/study/6P90HTwf/blyRVQCr
+    - Tactical Motif: sacrifice
+    - All found aliases: center, combination, developed, pin, sacrifice
+  - Chapter: Tennenwurzel, Edward - Capablanca, Jose Raul
+    - Chapter URL: https://lichess.org/study/6P90HTwf/oAKtfvrp
+    - Tactical Motif: sacrificing
+    - All found aliases: compensation, isolani, majority, passed pawn, sacrificing, threatening, two bishops
+  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+    - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
+    - Tactical Motif: sacrifices
+    - All found aliases: center, closes, fork, mating net, plan, sacrifices, tension, threatening
+  - Chapter: Capablanca, Jose Raul - Bray, T.
+    - Chapter URL: https://lichess.org/study/6P90HTwf/1KimMEEX
+    - Tactical Motif: sacrifice
+    - All found aliases: sacrifice, smothered mate, threatening
+  - Chapter: Colle, Edgar - Bogoljubow, Efim
+    - Chapter URL: https://lichess.org/study/6P90HTwf/W96cSISA
+    - Tactical Motif: sacrifices
+    - All found aliases: combination, isolani, pinning, planned, sacrifices, skewer
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Tactical Motif: sacrifice
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Colle, Edgar - O'Hanlon, John James
+    - Chapter URL: https://lichess.org/study/6P90HTwf/CGy4flIt
+    - Tactical Motif: sacrifice, sacrifices
+    - All found aliases: center, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Colle, Edgar - O'Hanlon, John James
+    - Chapter URL: https://lichess.org/study/6P90HTwf/CGy4flIt
+    - Tactical Motif: sacrifice, sacrifices
+    - All found aliases: center, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Cristia, Jose Maria - Lynch, Julio
+    - Chapter URL: https://lichess.org/study/6P90HTwf/sF9MUmJ1
+    - Tactical Motif: sacrificing
+    - All found aliases: center, sacrificing, threatening
+  - Chapter: Riumin, Nikolay Nikolaevich - Budo, A.
+    - Chapter URL: https://lichess.org/study/6P90HTwf/f64CA29q
+    - Tactical Motif: sacrifices
+    - All found aliases: overworked, sacrifices, threatening
+  - Chapter: Flohr, Salo - Walter, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8owQ6QBm
+    - Tactical Motif: sacrifice
+    - All found aliases: center, combination, fork, passed, passed pawn, pinned, sacrifice, threatening
+  - Chapter: Alekhine, Alexander - Flohr, Salo
+    - Chapter URL: https://lichess.org/study/6P90HTwf/m8jmj0a2
+    - Tactical Motif: sacrificing
+    - All found aliases: combination, develop, double attack, isolani, material, sacrificing, threat, threats, two bishops
+  - Chapter: Lascano, J. - Bahamonde, Antonio
+    - Chapter URL: https://lichess.org/study/6P90HTwf/pRBqdJqu
+    - Tactical Motif: sacrifices
+    - All found aliases: battery, isolani, pin, plan, sacrifices, threatening
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: 2PKk: Connected Passed Pawns II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/BvATFSEy
+    - Tactical Motif: sacrifices
+    - All found aliases: sacrifices
+  - Chapter: 2PKpk: Outflanking VII
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/NCuMXii0
+    - Tactical Motif: sacrifice
+    - All found aliases: corresponding squares, opposition, sacrifice
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: RKpk: Not Both on 4th
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/t6WAuxGu
+    - Tactical Motif: sacrifice
+    - All found aliases: candidate, passed pawns, sacrifice
+  - Chapter: QKpk: 7th Rank Bishop Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/E3yRkKZt
+    - Tactical Motif: sacrifice
+    - All found aliases: block the pawn, mating net, pinning, sacrifice
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: sacrifice, sacrificing
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: sacrifice, sacrificing
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Tactical Motif: sacrifice
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Tactical Motif: sacrifices
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General I
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/mJKU8zsb
+    - Tactical Motif: sacrificing
+    - All found aliases: blockade, rule of thumb, sacrificing
+  - Chapter: Fortresses in Bishop-Up Endgames II
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/apZK1lCT
+    - Tactical Motif: sacrifice
+    - All found aliases: sacrifice, triangulated
+  - Chapter: Fortresses in Bishop-Up Endgames V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/2n8RKkVR
+    - Tactical Motif: sacrifices
+    - All found aliases: fortress, sacrifices
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: 2PKk: Connected Passed Pawns II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/BvATFSEy
+    - Tactical Motif: sacrifices
+    - All found aliases: sacrifices
+  - Chapter: 2PKpk: Outflanking VII
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/NCuMXii0
+    - Tactical Motif: sacrifice
+    - All found aliases: corresponding squares, opposition, sacrifice
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: RKpk: Not Both on 4th
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/t6WAuxGu
+    - Tactical Motif: sacrifice
+    - All found aliases: candidate, passed pawns, sacrifice
+  - Chapter: QKpk: 7th Rank Bishop Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/E3yRkKZt
+    - Tactical Motif: sacrifice
+    - All found aliases: block the pawn, mating net, pinning, sacrifice
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: sacrifice, sacrificing
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: sacrifice, sacrificing
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Tactical Motif: sacrifice
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: 2PBKbk: Opposite Color Bishops General I
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/mJKU8zsb
+    - Tactical Motif: sacrificing
+    - All found aliases: blockade, rule of thumb, sacrificing
+  - Chapter: Fortresses in Bishop-Up Endgames II
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/apZK1lCT
+    - Tactical Motif: sacrifice
+    - All found aliases: sacrifice, triangulated
+  - Chapter: Fortresses in Bishop-Up Endgames V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/2n8RKkVR
+    - Tactical Motif: sacrifices
+    - All found aliases: fortress, sacrifices
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: 2PKk: Connected Passed Pawns II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/BvATFSEy
+    - Tactical Motif: sacrifices
+    - All found aliases: sacrifices
+  - Chapter: 2PKpk: Outflanking VII
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/NCuMXii0
+    - Tactical Motif: sacrifice
+    - All found aliases: corresponding squares, opposition, sacrifice
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: RKpk: Not Both on 4th
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/t6WAuxGu
+    - Tactical Motif: sacrifice
+    - All found aliases: candidate, passed pawns, sacrifice
+  - Chapter: QKpk: 7th Rank Bishop Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/E3yRkKZt
+    - Tactical Motif: sacrifice
+    - All found aliases: block the pawn, mating net, pinning, sacrifice
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: sacrifice, sacrificing
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: sacrifice, sacrificing
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Tactical Motif: sacrifice
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/8MWN0xFK
+    - Tactical Motif: sacrifices
+    - All found aliases: calculate, calculation, candidate, combinations, sacrifices
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Tactical Motif: sacrifice, sacrifices, sacrificing
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Tactical Motif: sacrifice, sacrifices, sacrificing
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Straight-line Calculation? That depends. I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/hLWdwwCp
+    - Tactical Motif: sacrifice, sacrifices, sacrificing
+    - All found aliases: calculate, calculating, calculation, material, mobility, sacrifice, sacrifices, sacrificing
+  - Chapter: Straight-line Calculation? That depends. III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/R4VpMNSt
+    - Tactical Motif: sacrifice
+    - All found aliases: calculation, sacrifice, threatening
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Tactical Motif: sacrifice
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/xbeAVC8Y
+    - Tactical Motif: sacrifices
+    - All found aliases: calculations, candidate, gain a tempo, maneuver, retreats, sacrifices
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Tactical Motif: sacrifice
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Tactical Motif: sacrifice, sacrifices
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Tactical Motif: sacrifice, sacrifices
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Disappearance of the Barrier
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Ro4yI37U
+    - Tactical Motif: sacrifice
+    - All found aliases: sacrifice
+  - Chapter: Overlooking a Counter-sacrifice
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/00fU1dUB
+    - Tactical Motif: sacrifice
+    - All found aliases: sacrifice, threat
+  - Chapter: Exercise 8 (Unexpected Move)
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/ALCC0Zua
+    - Tactical Motif: sacrifice
+    - All found aliases: calculated, candidate, passed pawns, sacrifice
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Tactical Motif: sacrifice, sacrifices
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Tactical Motif: sacrifice, sacrifices
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Tactical Motif: sacrifice
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Tactical Motif: sacrificing
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+
+
+## Concept: Silman's Imbalances
+
+Aliases: imbalances, silman imbalance, silman imbalances, silman's imbalances, silman's theory, silmans imbalances
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/pEF9QCic/LSqGUiSP
+    - Found: silman's imbalances
+    - All found aliases: candidate moves, pawn structure, pawn structures, silman's imbalances
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: silman's imbalances
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/P1sL2kbN
+    - Found: silman's imbalances
+    - All found aliases: candidate moves, pawn structure, pawn structures, silman's imbalances
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Imobilizing a Target
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2fOaUtrd
+    - Found: silman's imbalances
+    - All found aliases: bad bishop, blockading, minority, pawn structure, pawn structures, plans, silman's imbalances
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Orientation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/mHKJVcyj
+    - Found: imbalances
+    - All found aliases: calculation, forks, imbalances, initiative, king safety, lucena position, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: Orientation Example
+    - Chapter URL: https://lichess.org/study/1O0UELn6/s81l1Xs5
+    - Found: imbalances
+    - All found aliases: center, fork, imbalances, initiative, king safety, material, pawn structure, plans, pressure, space, threatening, threats
+  - Chapter: Planning III: Piece Placement
+    - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
+    - Found: imbalances
+    - All found aliases: center, developing, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+  - Chapter: Positional Judgement I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/1jCcl5st
+    - Found: imbalances
+    - All found aliases: calculation, center, imbalances, pawn structure, pawn structures, space
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: imbalances
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: Orientation to a position
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Qv1Qxa9v
+    - Found: imbalances
+    - All found aliases: calculation, imbalances, initiative, king safety, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: imbalances
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Found: imbalances
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #37
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Wnnf3YyJ
+    - Found: imbalances
+    - All found aliases: bad bishop, center, chain, closed, imbalances, maneuver, pawn chain, pawn chains, pawn formation, pawn structure, pinned, plan, plans, retreat, space
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: imbalances
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: imbalances, silman imbalance
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: imbalances, silman imbalance
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Found: silman imbalance
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: imbalances, silman imbalance
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: imbalances, silman imbalance
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: References II [N-Z]
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/OKK1rB2f
+    - Found: silman imbalance
+    - All found aliases: calculation, combinations, isolated pawns, material, pawn structure, pawn structures, sacrifices, silman imbalance
+
+
+## Concept: Simplification
+
+Aliases: simplification, simplified, simplifies, simplify, simplifying
+
+Appears In:
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Two Bishops
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/lpuvWfIr
+    - Found: simplifying
+    - All found aliases: fork, simplifying, two bishops
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: simplify, simplifying
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: simplify, simplifying
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: simplified
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: simplifies
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: How Many Candidate Moves to Examine?
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/JaG8vtZj
+    - Found: simplification
+    - All found aliases: calculated, calculation, candidate moves, candidates, simplification, threat
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/T0plr9Dv
+    - Found: simplified
+    - All found aliases: calculating, candidate moves, pawn structure, pawn structures, planning, simplified
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: simplify
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Found: simplify
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+  - Chapter: TLG #145
+    - Chapter URL: https://lichess.org/study/49AuOOCo/gs829rtA
+    - Found: simplification
+    - All found aliases: calculation, material, minority, pawn structure, pawn structures, pawn weaknesses, plan, plans, sacrifices, simplification, space, structure, tempi, threatening, two bishops
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Colle System
+    - Chapter URL: https://lichess.org/study/6P90HTwf/siJNECaL
+    - Found: simplified
+    - All found aliases: formation, isolated pawn, pawn structures, simplified
+  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+    - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
+    - Found: simplifies, simplify
+    - All found aliases: center, doubled, material, passed pawn, passed pawns, planning, retreat, simplifies, simplify, threatening
+  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+    - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
+    - Found: simplifies, simplify
+    - All found aliases: center, doubled, material, passed pawn, passed pawns, planning, retreat, simplifies, simplify, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKrk: Use the Fork
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/MmEN1MjV
+    - Found: simplified
+    - All found aliases: fork, simplified
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Philidor Draw
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/YsbmiZHr
+    - Found: simplifies
+    - All found aliases: passed pawn, simplifies, threatening, threats
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKrk: Use the Fork
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/MmEN1MjV
+    - Found: simplified
+    - All found aliases: fork, simplified
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Philidor Draw
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/YsbmiZHr
+    - Found: simplifies
+    - All found aliases: passed pawn, simplifies, threatening, threats
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKrk: Use the Fork
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/MmEN1MjV
+    - Found: simplified
+    - All found aliases: fork, simplified
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Philidor Draw
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/YsbmiZHr
+    - Found: simplifies
+    - All found aliases: passed pawn, simplifies, threatening, threats
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: simplified
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: simplifies
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: How Many Candidate Moves to Examine?
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/JaG8vtZj
+    - Found: simplification
+    - All found aliases: calculated, calculation, candidate moves, candidates, simplification, threat
+
+
+## Concept: Skewer
+
+Aliases: skewer, skewered, skewering, skewers
+
+Appears In:
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Tactical Motif: skewer
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
+    - Tactical Motif: skewers
+    - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Colle, Edgar - Tarrasch, Siegbert
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
+    - Tactical Motif: skewer
+    - All found aliases: blockaded, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
+  - Chapter: Colle, Edgar - Bogoljubow, Efim
+    - Chapter URL: https://lichess.org/study/6P90HTwf/W96cSISA
+    - Tactical Motif: skewer
+    - All found aliases: combination, isolani, pinning, planned, sacrifices, skewer
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKpk: Races I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/uBN5nzbc
+    - Tactical Motif: skewers
+    - All found aliases: corresponding squares, outflanking, skewers, triangulation
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Tactical Motif: skewer
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+
+- Study: King and Pawn Endgames II
+  - Study URL: https://lichess.org/study/J4xrM4nV
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/J4xrM4nV/Y9vfnXTQ
+    - Tactical Motif: skewer, skewering
+    - All found aliases: blockade, skewer, skewering, threatening
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/J4xrM4nV/Y9vfnXTQ
+    - Tactical Motif: skewer, skewering
+    - All found aliases: blockade, skewer, skewering, threatening
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/J4xrM4nV/JGBzKpeZ
+    - Tactical Motif: skewer
+    - All found aliases: restrict, skewer
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKbk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hVreNGAe
+    - Tactical Motif: skewer
+    - All found aliases: fork, material, pin, skewer, threatening
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Tactical Motif: skewer
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: QKrk: Pin and Skewer Example
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/2NjbOtZp
+    - Tactical Motif: skewer
+    - All found aliases: pin, pinned, skewer
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Lucena Position
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/P4BaGzUF
+    - Tactical Motif: skewer
+    - All found aliases: lucena position, skewer
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: skewer, skewering
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: skewer, skewering
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: RPKrk: Rook in Front of its 7th Rank Pawn I - Skewer
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/GzJwgKzt
+    - Tactical Motif: skewer
+    - All found aliases: skewer
+  - Chapter: R2PKrk: Rook in Front of its 7th Rank Pawn - Decoy
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/OgvPw3wT
+    - Tactical Motif: skewer, skewers
+    - All found aliases: decoy, skewer, skewers
+  - Chapter: R2PKrk: Rook in Front of its 7th Rank Pawn - Decoy
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/OgvPw3wT
+    - Tactical Motif: skewer, skewers
+    - All found aliases: decoy, skewer, skewers
+  - Chapter: Not a Rook Pawn - Use the King
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/9KYVREz4
+    - Tactical Motif: skewer
+    - All found aliases: skewer, threatening
+  - Chapter: PRKrk: 5th Rank Rule II
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/8wij5RTG
+    - Tactical Motif: skewering
+    - All found aliases: skewering, threatening
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Tactical Motif: skewer
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKpk: Races I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/uBN5nzbc
+    - Tactical Motif: skewers
+    - All found aliases: corresponding squares, outflanking, skewers, triangulation
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Tactical Motif: skewer
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKbk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hVreNGAe
+    - Tactical Motif: skewer
+    - All found aliases: fork, material, pin, skewer, threatening
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Tactical Motif: skewer
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: QKrk: Pin and Skewer Example
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/2NjbOtZp
+    - Tactical Motif: skewer
+    - All found aliases: pin, pinned, skewer
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Lucena Position
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/P4BaGzUF
+    - Tactical Motif: skewer
+    - All found aliases: lucena position, skewer
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: skewer, skewering
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: skewer, skewering
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: RPKrk: Rook in Front of its 7th Rank Pawn I - Skewer
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/GzJwgKzt
+    - Tactical Motif: skewer
+    - All found aliases: skewer
+  - Chapter: R2PKrk: Rook in Front of its 7th Rank Pawn - Decoy
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/OgvPw3wT
+    - Tactical Motif: skewer, skewers
+    - All found aliases: decoy, skewer, skewers
+  - Chapter: R2PKrk: Rook in Front of its 7th Rank Pawn - Decoy
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/OgvPw3wT
+    - Tactical Motif: skewer, skewers
+    - All found aliases: decoy, skewer, skewers
+  - Chapter: Not a Rook Pawn - Use the King
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/9KYVREz4
+    - Tactical Motif: skewer
+    - All found aliases: skewer, threatening
+  - Chapter: PRKrk: 5th Rank Rule II
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/8wij5RTG
+    - Tactical Motif: skewering
+    - All found aliases: skewering, threatening
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Tactical Motif: skewer
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKpk: Races I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/uBN5nzbc
+    - Tactical Motif: skewers
+    - All found aliases: corresponding squares, outflanking, skewers, triangulation
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Tactical Motif: skewer
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKbk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hVreNGAe
+    - Tactical Motif: skewer
+    - All found aliases: fork, material, pin, skewer, threatening
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Tactical Motif: skewer
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: QKrk: Pin and Skewer Example
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/2NjbOtZp
+    - Tactical Motif: skewer
+    - All found aliases: pin, pinned, skewer
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Lucena Position
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/P4BaGzUF
+    - Tactical Motif: skewer
+    - All found aliases: lucena position, skewer
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: skewer, skewering
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Tactical Motif: skewer, skewering
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: RPKrk: Rook in Front of its 7th Rank Pawn I - Skewer
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/GzJwgKzt
+    - Tactical Motif: skewer
+    - All found aliases: skewer
+  - Chapter: R2PKrk: Rook in Front of its 7th Rank Pawn - Decoy
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/OgvPw3wT
+    - Tactical Motif: skewer, skewers
+    - All found aliases: decoy, skewer, skewers
+  - Chapter: R2PKrk: Rook in Front of its 7th Rank Pawn - Decoy
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/OgvPw3wT
+    - Tactical Motif: skewer, skewers
+    - All found aliases: decoy, skewer, skewers
+  - Chapter: Not a Rook Pawn - Use the King
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/9KYVREz4
+    - Tactical Motif: skewer
+    - All found aliases: skewer, threatening
+  - Chapter: PRKrk: 5th Rank Rule II
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/8wij5RTG
+    - Tactical Motif: skewering
+    - All found aliases: skewering, threatening
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Tactical Motif: skewer
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+
+
+## Concept: Smothered Mate
+
+Aliases: smothered mate, smothered mate of damiano, smothered mate of lucena
+
+Appears In:
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Capablanca, Jose Raul - Bray, T.
+    - Chapter URL: https://lichess.org/study/6P90HTwf/1KimMEEX
+    - Named Mate: smothered mate
+    - All found aliases: sacrifice, smothered mate, threatening
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: NKpk: Rare Exception
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ZalOsN7S
+    - Named Mate: smothered mate
+    - All found aliases: smothered mate
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: NKpk: Rare Exception
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ZalOsN7S
+    - Named Mate: smothered mate
+    - All found aliases: smothered mate
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: NKpk: Rare Exception
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ZalOsN7S
+    - Named Mate: smothered mate
+    - All found aliases: smothered mate
+
+
+## Concept: Space
+
+Aliases: constrict, constricted, constricting, constricts, cramp, cramped, cramped position, cramped position, cramps, gain space, reduce space, space, space advantage, space advantage, space gained, space reduced
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Found: cramp
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Planless Play
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/iAHjTLPE
+    - Found: cramped position
+    - All found aliases: center, classical pawn, cramped position, plan, sacrificed, threatening
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: cramped, cramps
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: cramped, cramps
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: space
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Orientation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/mHKJVcyj
+    - Found: space
+    - All found aliases: calculation, forks, imbalances, initiative, king safety, lucena position, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: Orientation Example
+    - Chapter URL: https://lichess.org/study/1O0UELn6/s81l1Xs5
+    - Found: space
+    - All found aliases: center, fork, imbalances, initiative, king safety, material, pawn structure, plans, pressure, space, threatening, threats
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: space
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Found: cramped
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+  - Chapter: Planning IV: Natural Moves May Not Be Good Enough
+    - Chapter URL: https://lichess.org/study/1O0UELn6/rDY9RpZ6
+    - Found: constricted
+    - All found aliases: backward pawn, center, constricted, initiative, material, mobility, passed pawn, plan, pressure, restricted, sacrificing, threats
+  - Chapter: Positional Judgement I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/1jCcl5st
+    - Found: space
+    - All found aliases: calculation, center, imbalances, pawn structure, pawn structures, space
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/WSL5QMD1
+    - Found: cramp
+    - All found aliases: bad bishop, center, counterplay, cramp, doubled, good bishop, outpost, outposts, plan, pressure, waiting move, weak squares
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: space
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: Orientation to a position
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Qv1Qxa9v
+    - Found: space
+    - All found aliases: calculation, imbalances, initiative, king safety, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: space
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Found: space
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Found: space
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #37
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Wnnf3YyJ
+    - Found: space
+    - All found aliases: bad bishop, center, chain, closed, imbalances, maneuver, pawn chain, pawn chains, pawn formation, pawn structure, pinned, plan, plans, retreat, space
+  - Chapter: RYCW #40
+    - Chapter URL: https://lichess.org/study/49AuOOCo/kyt1auLh
+    - Found: space
+    - All found aliases: calculate, candidates, center, classical pawn, pawn break, plan, planning, retreat, space, threatening
+  - Chapter: RYCW #41
+    - Chapter URL: https://lichess.org/study/49AuOOCo/DX2OIF6M
+    - Found: space
+    - All found aliases: center, closed, formation, pawn chains, pawn structure, pawn structures, space, tension
+  - Chapter: RYCW Problem 13
+    - Chapter URL: https://lichess.org/study/49AuOOCo/LPG1Ewwz
+    - Found: space
+    - All found aliases: backward move, backward moves, discovered attack, fork, good bishop, pinning, plan, space, tactical pattern
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: cramped, space
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: cramped, space
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: RYCW #43
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wlt10gdE
+    - Found: space
+    - All found aliases: bishop pair, minority, pawn formation, pawn structures, plan, space
+  - Chapter: TLG #145
+    - Chapter URL: https://lichess.org/study/49AuOOCo/gs829rtA
+    - Found: space
+    - All found aliases: calculation, material, minority, pawn structure, pawn structures, pawn weaknesses, plan, plans, sacrifices, simplification, space, structure, tempi, threatening, two bishops
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Found: space
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: space
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: space
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: gain space, space
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: gain space, space
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: KRk I : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/iya2zz3C
+    - Found: space
+    - All found aliases: combination, interfere, interfering, opposition, restricting, space, waiting move
+  - Chapter: DecodeChess Example
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Abo3o0KY
+    - Found: space
+    - All found aliases: passed, pinned, plan, planned, plans, space, threat, threatening, threats
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: C-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/gEb5KC1p
+    - Found: cramped position
+    - All found aliases: cramped position, isolated pawn, pawn islands, pawn structure, qualitative pawn majority
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: PRKrk: 5th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Tj3LPuLq
+    - Found: space
+    - All found aliases: center, lucena position, restrict, space, threatening
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Course Objectives
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/RZcaax2Q
+    - Found: space
+    - All found aliases: calculation, develop, king safety, material, mobility, pawn structure, restrict, space
+  - Chapter: The Opening
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/Uqc80K7A
+    - Found: space
+    - All found aliases: accumulate small advantages, center, classical school, developed, five principles, king safety, material, mobility, pawn structure, small advantages, space
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: gain space, space
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: gain space, space
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: C-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/gEb5KC1p
+    - Found: cramped position
+    - All found aliases: cramped position, isolated pawn, pawn islands, pawn structure, qualitative pawn majority
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: PRKrk: 5th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Tj3LPuLq
+    - Found: space
+    - All found aliases: center, lucena position, restrict, space, threatening
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: C-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/gEb5KC1p
+    - Found: cramped position
+    - All found aliases: cramped position, isolated pawn, pawn islands, pawn structure, qualitative pawn majority
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: PRKrk: 5th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Tj3LPuLq
+    - Found: space
+    - All found aliases: center, lucena position, restrict, space, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: space
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+
+
+## Concept: Static vs Dynamic Advantage
+
+Aliases: dynamic advantage, initiative, pressure, pressured, pressures, pressuring, seize the initiative, static advantage, transfer the initiative, transfers the initiative
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Found: pressure
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 2
+    - Chapter URL: https://lichess.org/study/pEF9QCic/5Lb60MIz
+    - Found: pressure
+    - All found aliases: center, developing, discovered check, fork, king safety, pawn structure, plan, pressure, threaten, threatening
+  - Chapter: Annotate 4
+    - Chapter URL: https://lichess.org/study/pEF9QCic/r2lDGzev
+    - Found: initiative
+    - All found aliases: center, discovered check, forking, initiative, pinned, pinning, removing the defender, retreat, threatening
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: initiative
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 7
+    - Chapter URL: https://lichess.org/study/pEF9QCic/m8rZVb9h
+    - Found: initiative
+    - All found aliases: center, clearance, compensation, develop, double attacks, initiative, pin, pinned, sacrifice, threatening, threats
+  - Chapter: Annotate 8
+    - Chapter URL: https://lichess.org/study/pEF9QCic/mWPKMZ1W
+    - Found: initiative, seize the initiative
+    - All found aliases: calculating, develop, developed, initiative, material, plan, seize the initiative, threat, threats
+  - Chapter: Annotate 8
+    - Chapter URL: https://lichess.org/study/pEF9QCic/mWPKMZ1W
+    - Found: initiative, seize the initiative
+    - All found aliases: calculating, develop, developed, initiative, material, plan, seize the initiative, threat, threats
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Found: initiative
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/pEF9QCic/XuYJQwWp
+    - Found: initiative
+    - All found aliases: center, discovered check, initiative, majority, minority, pawn structures, plan, plans, restrict, retreat, structure, tempo, threat, threaten, threatening
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Awkward Piece Placement
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2bs65ZwO
+    - Found: pressure
+    - All found aliases: center, chain, closed, outpost, pawn chain, pawn formation, plan, plans, pressure, retreat, threatening
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Found: pressure
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: pressure
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: pressure
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Time Trouble I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/12IYsL9F
+    - Found: pressure
+    - All found aliases: calculation, candidate moves, forking, pressure
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Orientation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/mHKJVcyj
+    - Found: initiative
+    - All found aliases: calculation, forks, imbalances, initiative, king safety, lucena position, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: Orientation Example
+    - Chapter URL: https://lichess.org/study/1O0UELn6/s81l1Xs5
+    - Found: initiative, pressure
+    - All found aliases: center, fork, imbalances, initiative, king safety, material, pawn structure, plans, pressure, space, threatening, threats
+  - Chapter: Orientation Example
+    - Chapter URL: https://lichess.org/study/1O0UELn6/s81l1Xs5
+    - Found: initiative, pressure
+    - All found aliases: center, fork, imbalances, initiative, king safety, material, pawn structure, plans, pressure, space, threatening, threats
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: pressure
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Planning IV: Natural Moves May Not Be Good Enough
+    - Chapter URL: https://lichess.org/study/1O0UELn6/rDY9RpZ6
+    - Found: initiative, pressure
+    - All found aliases: backward pawn, center, constricted, initiative, material, mobility, passed pawn, plan, pressure, restricted, sacrificing, threats
+  - Chapter: Planning IV: Natural Moves May Not Be Good Enough
+    - Chapter URL: https://lichess.org/study/1O0UELn6/rDY9RpZ6
+    - Found: initiative, pressure
+    - All found aliases: backward pawn, center, constricted, initiative, material, mobility, passed pawn, plan, pressure, restricted, sacrificing, threats
+  - Chapter: Positional Judgement II: Open Lines
+    - Chapter URL: https://lichess.org/study/1O0UELn6/4M5Wq8VQ
+    - Found: initiative, pressure
+    - All found aliases: calculation, calculations, initiative, material, pawn structure, pressure, weak pawns
+  - Chapter: Positional Judgement II: Open Lines
+    - Chapter URL: https://lichess.org/study/1O0UELn6/4M5Wq8VQ
+    - Found: initiative, pressure
+    - All found aliases: calculation, calculations, initiative, material, pawn structure, pressure, weak pawns
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/WSL5QMD1
+    - Found: pressure
+    - All found aliases: bad bishop, center, counterplay, cramp, doubled, good bishop, outpost, outposts, plan, pressure, waiting move, weak squares
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/R1NKBrG6
+    - Found: pressure
+    - All found aliases: backward pawn, material, pressure, threatening
+  - Chapter: Positional Judgement VI: Position of the Pieces II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/GOyufLml
+    - Found: pressure
+    - All found aliases: plan, pressure, sacrificed, threatening
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: initiative
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: Orientation to a position
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Qv1Qxa9v
+    - Found: initiative
+    - All found aliases: calculation, imbalances, initiative, king safety, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: initiative
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #29   - What would TLG say
+    - Chapter URL: https://lichess.org/study/49AuOOCo/QGGnwKgX
+    - Found: pressure
+    - All found aliases: center, closed, counter-attacking, plan, pressure
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: initiative
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #31
+    - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
+    - Found: initiative
+    - All found aliases: candidate, chain, initiative, isolated, material, pawn chain, plan, plans, retreat, sacrifice, threat
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Found: pressure
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: RYCW #32, #33
+    - Chapter URL: https://lichess.org/study/49AuOOCo/jtT7DsE2
+    - Found: pressure
+    - All found aliases: calculate, center, counterplay, formation, minority, pawn structure, pawn structures, pins, plan, plans, pressure, structure
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Found: initiative
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Found: initiative
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Found: initiative, pressure
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Found: initiative, pressure
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: initiative
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
+    - Found: initiative, pressure
+    - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
+    - Found: initiative, pressure
+    - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: pressure
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Black blocks his c-pawn with ...Nc6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/fR4LbCi6
+    - Found: initiative
+    - All found aliases: formation, initiative, pin, threatening
+  - Chapter: Schwietzer, George J - Shrader, Eugene Wesley
+    - Chapter URL: https://lichess.org/study/6P90HTwf/bnjCvU7E
+    - Found: pressure
+    - All found aliases: blockaded, discovered check, isolani, outpost, overworked, pressure, threatening
+  - Chapter: Colle, Edgar - Bogoljubow, Efim
+    - Chapter URL: https://lichess.org/study/6P90HTwf/RxRlaQXM
+    - Found: initiative
+    - All found aliases: bishop pair, initiative, isolani, majority, tempi, tempo, threatening, two bishops
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Found: pressure
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Colle, Edgar - O'Hanlon, John James
+    - Chapter URL: https://lichess.org/study/6P90HTwf/CGy4flIt
+    - Found: pressure
+    - All found aliases: center, pressure, sacrifice, sacrifices, threat, threatening
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: initiative
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: pressure
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Time Trouble I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/12IYsL9F
+    - Found: pressure
+    - All found aliases: calculation, candidate moves, forking, pressure
+
+
+## Concept: Strategic Base of the Chess Game
+
+Aliases: strategic base, strategic base of the chess game
+
+Appears In:
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Found: strategic base
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+
+
+## Concept: Tarrasch vs Nimzowitsch Center Debate
+
+Aliases: center debate, feud between tarrasch and nimzowitsch, nimzowitsch center, tarrasch and nimzowitsch, tarrasch center, tarrasch nimzowitsch debate, tarrasch vs nimzowitsch
+
+Appears In:
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: feud between tarrasch and nimzowitsch, tarrasch and nimzowitsch
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: feud between tarrasch and nimzowitsch, tarrasch and nimzowitsch
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+
+## Concept: Tempo
+
+Aliases: gain a tempo, lose a tempo, tempi, tempo, tempo gained
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: tempo
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/pEF9QCic/XuYJQwWp
+    - Found: tempo
+    - All found aliases: center, discovered check, initiative, majority, minority, pawn structures, plan, plans, restrict, retreat, structure, tempo, threat, threaten, threatening
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Found: tempi
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/oZQjQEdx
+    - Found: tempo
+    - All found aliases: develop, pawn feature, pawn structure, plan, plans, tempo, threat
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Alekhine's Sting II
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/ppNu9nSz
+    - Found: gain a tempo
+    - All found aliases: calculate, gain a tempo, isolani, material, pinned, two bishops
+  - Chapter: A Benoni Passer
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/826AY7WG
+    - Found: tempo
+    - All found aliases: blockading, decoying, loose pieces, passed pawn, tempo
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: tempi, tempo
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: tempi, tempo
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/xbeAVC8Y
+    - Found: gain a tempo
+    - All found aliases: calculations, candidate, gain a tempo, maneuver, retreats, sacrifices
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: tempo
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Planning I: Introduction
+    - Chapter URL: https://lichess.org/study/1O0UELn6/5QlETP34
+    - Found: tempo
+    - All found aliases: center, cramped, developed, developing, minority, outpost, passed pawn, pawn formation, pin, plan, planning, plans, retreat, retreats, skewer, tempo
+  - Chapter: Positional Judgement III: Open Lines: Example I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/2DrdjkKg
+    - Found: tempi, tempo
+    - All found aliases: center, doubled, doubled pawns, doubling, material, plan, tempi, tempo, threatened
+  - Chapter: Positional Judgement III: Open Lines: Example I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/2DrdjkKg
+    - Found: tempi, tempo
+    - All found aliases: center, doubled, doubled pawns, doubling, material, plan, tempi, tempo, threatened
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: tempi
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: RYCW #29 - How the position occurred
+    - Chapter URL: https://lichess.org/study/49AuOOCo/oyfIpu0v
+    - Found: tempi
+    - All found aliases: center, closed, discovered attack, pin, plans, tempi
+  - Chapter: RYCW #30 - How the position occurred
+    - Chapter URL: https://lichess.org/study/49AuOOCo/74h033UV
+    - Found: tempo
+    - All found aliases: closed, majority, open position, plan, tempo, two bishops
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: tempo
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: TLG #145
+    - Chapter URL: https://lichess.org/study/49AuOOCo/gs829rtA
+    - Found: tempi
+    - All found aliases: calculation, material, minority, pawn structure, pawn structures, pawn weaknesses, plan, plans, sacrifices, simplification, space, structure, tempi, threatening, two bishops
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Found: tempo
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Anti-Colle
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J6JKnaKB
+    - Found: tempo
+    - All found aliases: center, classical school, develop, doubled pawns, formation, key squares, plans, tempo, threat, two bishops
+  - Chapter: Colle, Edgar - Loman, Rudolf
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qeBoOo52
+    - Found: tempi
+    - All found aliases: blockade, discovered attack, isolani, tempi
+  - Chapter: Colle, Edgar - Tarrasch, Siegbert
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
+    - Found: tempi
+    - All found aliases: blockaded, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
+  - Chapter: Colle, Edgar - Bogoljubow, Efim
+    - Chapter URL: https://lichess.org/study/6P90HTwf/RxRlaQXM
+    - Found: tempi, tempo
+    - All found aliases: bishop pair, initiative, isolani, majority, tempi, tempo, threatening, two bishops
+  - Chapter: Colle, Edgar - Bogoljubow, Efim
+    - Chapter URL: https://lichess.org/study/6P90HTwf/RxRlaQXM
+    - Found: tempi, tempo
+    - All found aliases: bishop pair, initiative, isolani, majority, tempi, tempo, threatening, two bishops
+  - Chapter: Colle, Edgar - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8wjjmuef
+    - Found: tempo
+    - All found aliases: blockade, tempo, threatening
+  - Chapter: Kashdan, Isaac - Steiner, Herman
+    - Chapter URL: https://lichess.org/study/6P90HTwf/FxXyrdZs
+    - Found: tempo
+    - All found aliases: blockading, doubles, majority, passed, passed pawn, passed pawns, pins, plan, restricts, tempo, threatened, threatening, zugzwang
+
+- Study: King and Pawn Endgames II
+  - Study URL: https://lichess.org/study/J4xrM4nV
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/J4xrM4nV/V2ZfOQYF
+    - Found: tempo
+    - All found aliases: calculation, plan, restrict, tempo, threatening
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: NKpk: White King Not Close II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ANvEeosd
+    - Found: tempo
+    - All found aliases: blockade, blockading, tempo, threatening
+  - Chapter: RKpk: A Critical Position I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/DylnijrX
+    - Found: tempo
+    - All found aliases: passed pawns, tempo
+  - Chapter: RKpk: Rook and King Behind I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/orTurByF
+    - Found: lose a tempo
+    - All found aliases: lose a tempo
+  - Chapter: QKpk: 7th Rank Rook Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/kd0J8OSV
+    - Found: lose a tempo
+    - All found aliases: blockade, discovered check, lose a tempo, maneuvers, mating net
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Rook Not On the 7th
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/5e01bW90
+    - Found: tempo
+    - All found aliases: tempo
+  - Chapter: RPKrk: Rook Defending Its 7th Rank Pawn from the Rank I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/q8XQEuJ4
+    - Found: tempo
+    - All found aliases: tempo
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Found: tempo
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Found: tempo
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+  - Chapter: PRKrk: 4th Rank Rule VII: Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/cZ2dbFpx
+    - Found: tempo
+    - All found aliases: king cut off, tempo
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: NKpk: White King Not Close II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ANvEeosd
+    - Found: tempo
+    - All found aliases: blockade, blockading, tempo, threatening
+  - Chapter: RKpk: A Critical Position I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/DylnijrX
+    - Found: tempo
+    - All found aliases: passed pawns, tempo
+  - Chapter: RKpk: Rook and King Behind I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/orTurByF
+    - Found: lose a tempo
+    - All found aliases: lose a tempo
+  - Chapter: QKpk: 7th Rank Rook Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/kd0J8OSV
+    - Found: lose a tempo
+    - All found aliases: blockade, discovered check, lose a tempo, maneuvers, mating net
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Rook Not On the 7th
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/5e01bW90
+    - Found: tempo
+    - All found aliases: tempo
+  - Chapter: RPKrk: Rook Defending Its 7th Rank Pawn from the Rank I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/q8XQEuJ4
+    - Found: tempo
+    - All found aliases: tempo
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Found: tempo
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Found: tempo
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+  - Chapter: PRKrk: 4th Rank Rule VII: Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/cZ2dbFpx
+    - Found: tempo
+    - All found aliases: king cut off, tempo
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: NKpk: White King Not Close II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ANvEeosd
+    - Found: tempo
+    - All found aliases: blockade, blockading, tempo, threatening
+  - Chapter: RKpk: A Critical Position I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/DylnijrX
+    - Found: tempo
+    - All found aliases: passed pawns, tempo
+  - Chapter: RKpk: Rook and King Behind I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/orTurByF
+    - Found: lose a tempo
+    - All found aliases: lose a tempo
+  - Chapter: QKpk: 7th Rank Rook Pawn General I
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/kd0J8OSV
+    - Found: lose a tempo
+    - All found aliases: blockade, discovered check, lose a tempo, maneuvers, mating net
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Rook Not On the 7th
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/5e01bW90
+    - Found: tempo
+    - All found aliases: tempo
+  - Chapter: RPKrk: Rook Defending Its 7th Rank Pawn from the Rank I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/q8XQEuJ4
+    - Found: tempo
+    - All found aliases: tempo
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Found: tempo
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Found: tempo
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+  - Chapter: PRKrk: 4th Rank Rule VII: Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/cZ2dbFpx
+    - Found: tempo
+    - All found aliases: king cut off, tempo
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 1
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/xbeAVC8Y
+    - Found: gain a tempo
+    - All found aliases: calculations, candidate, gain a tempo, maneuver, retreats, sacrifices
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: tempo
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+
+
+## Concept: Threat
+
+Aliases: threat, threaten, threatened, threatening, threats
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Found: threat, threatening, threats
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Found: threat, threatening, threats
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/pEF9QCic/DE72zLTB
+    - Found: threat, threatening, threats
+    - All found aliases: bishop pair, break the pin, center, compensation, develop, double attack, doubled, isolated, material, mobility, outpost, pawn chain, pawn structure, pin, pinning, pins, plan, planned, pressure, retreat, retreats, sacrifice, sacrificed, threat, threatening, threats
+  - Chapter: Annotate 2
+    - Chapter URL: https://lichess.org/study/pEF9QCic/5Lb60MIz
+    - Found: threaten, threatening
+    - All found aliases: center, developing, discovered check, fork, king safety, pawn structure, plan, pressure, threaten, threatening
+  - Chapter: Annotate 2
+    - Chapter URL: https://lichess.org/study/pEF9QCic/5Lb60MIz
+    - Found: threaten, threatening
+    - All found aliases: center, developing, discovered check, fork, king safety, pawn structure, plan, pressure, threaten, threatening
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/pEF9QCic/O3FEVxks
+    - Found: threatening, threats
+    - All found aliases: compensation, develop, developed, develops, discovered attack, discovering, key squares, material, pawn formation, plan, sacrifice, sacrificed, sacrifices, threatening, threats
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/pEF9QCic/O3FEVxks
+    - Found: threatening, threats
+    - All found aliases: compensation, develop, developed, develops, discovered attack, discovering, key squares, material, pawn formation, plan, sacrifice, sacrificed, sacrifices, threatening, threats
+  - Chapter: Annotate 4
+    - Chapter URL: https://lichess.org/study/pEF9QCic/r2lDGzev
+    - Found: threatening
+    - All found aliases: center, discovered check, forking, initiative, pinned, pinning, removing the defender, retreat, threatening
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/pEF9QCic/umydfvUv
+    - Found: threat
+    - All found aliases: active pieces, battery, fork, material, mobile, mobility, pawn storm, pin, pinned, pinning, plan, plans, qualitative pawn majority, remove the defender, threat
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: threat, threatening
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Z76dYrws
+    - Found: threat, threatening
+    - All found aliases: bad bishop, center, develop, developed, good bishop, initiative, isolani, isolated, mobility, pawn feature, pawn structure, pawn structures, plan, plans, rules of thumb, silman's imbalances, tempo, tension, threat, threatening, trade pieces
+  - Chapter: Annotate 7
+    - Chapter URL: https://lichess.org/study/pEF9QCic/m8rZVb9h
+    - Found: threatening, threats
+    - All found aliases: center, clearance, compensation, develop, double attacks, initiative, pin, pinned, sacrifice, threatening, threats
+  - Chapter: Annotate 7
+    - Chapter URL: https://lichess.org/study/pEF9QCic/m8rZVb9h
+    - Found: threatening, threats
+    - All found aliases: center, clearance, compensation, develop, double attacks, initiative, pin, pinned, sacrifice, threatening, threats
+  - Chapter: Annotate 8
+    - Chapter URL: https://lichess.org/study/pEF9QCic/mWPKMZ1W
+    - Found: threat, threats
+    - All found aliases: calculating, develop, developed, initiative, material, plan, seize the initiative, threat, threats
+  - Chapter: Annotate 8
+    - Chapter URL: https://lichess.org/study/pEF9QCic/mWPKMZ1W
+    - Found: threat, threats
+    - All found aliases: calculating, develop, developed, initiative, material, plan, seize the initiative, threat, threats
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Found: threat, threatening
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Found: threat, threatening
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/pEF9QCic/XuYJQwWp
+    - Found: threat, threaten, threatening
+    - All found aliases: center, discovered check, initiative, majority, minority, pawn structures, plan, plans, restrict, retreat, structure, tempo, threat, threaten, threatening
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/pEF9QCic/XuYJQwWp
+    - Found: threat, threaten, threatening
+    - All found aliases: center, discovered check, initiative, majority, minority, pawn structures, plan, plans, restrict, retreat, structure, tempo, threat, threaten, threatening
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/pEF9QCic/XuYJQwWp
+    - Found: threat, threaten, threatening
+    - All found aliases: center, discovered check, initiative, majority, minority, pawn structures, plan, plans, restrict, retreat, structure, tempo, threat, threaten, threatening
+  - Chapter: Annotate 11
+    - Chapter URL: https://lichess.org/study/pEF9QCic/680zAJGQ
+    - Found: threats
+    - All found aliases: center, mobilized, threats
+  - Chapter: Annotate 12
+    - Chapter URL: https://lichess.org/study/pEF9QCic/fGNoUJN0
+    - Found: threatening
+    - All found aliases: center, combination, compensation, developing, plan, threatening
+  - Chapter: Annotate 13
+    - Chapter URL: https://lichess.org/study/pEF9QCic/oSar8sm6
+    - Found: threatened
+    - All found aliases: center, classical center, combination, discovered check, pawn formation, pinned, retreat, threatened
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Found: threatened, threatening, threats
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Found: threatened, threatening, threats
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Found: threatened, threatening, threats
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+  - Chapter: Annotate 15
+    - Chapter URL: https://lichess.org/study/pEF9QCic/xpogdCvR
+    - Found: threatening
+    - All found aliases: bad bishop, center, counterplay, develop, discovered check, majority, material, pinned, plan, restrict, threatening
+
+- Study: Advanced: Annotating Games (Unannotated)
+  - Study URL: https://lichess.org/study/Uw4P5qvl
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/nIoPxDql
+    - Found: threat, threatening, threats
+    - All found aliases: compensation, doubled, pin, plan, planned, plans, threat, threatening, threats
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/nIoPxDql
+    - Found: threat, threatening, threats
+    - All found aliases: compensation, doubled, pin, plan, planned, plans, threat, threatening, threats
+  - Chapter: Annotate 1
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/nIoPxDql
+    - Found: threat, threatening, threats
+    - All found aliases: compensation, doubled, pin, plan, planned, plans, threat, threatening, threats
+  - Chapter: Annotate 2
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/ogTeN8nY
+    - Found: threaten, threatening
+    - All found aliases: plan, threaten, threatening
+  - Chapter: Annotate 2
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/ogTeN8nY
+    - Found: threaten, threatening
+    - All found aliases: plan, threaten, threatening
+  - Chapter: Annotate 3
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/uI2sp5Mb
+    - Found: threats
+    - All found aliases: discovering, material, pawn formation, plan, sacrifice, sacrifices, threats
+  - Chapter: Annotate 5
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/OE8IjSqO
+    - Found: threat
+    - All found aliases: battery, mobile, pinned, plan, plans, qualitative pawn majority, threat
+  - Chapter: Annotate 6
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/oZQjQEdx
+    - Found: threat
+    - All found aliases: develop, pawn feature, pawn structure, plan, plans, tempo, threat
+  - Chapter: Annotate 8
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/sEhdogzW
+    - Found: threat, threats
+    - All found aliases: material, plan, threat, threats
+  - Chapter: Annotate 8
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/sEhdogzW
+    - Found: threat, threats
+    - All found aliases: material, plan, threat, threats
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/o59gT8ZH
+    - Found: threat, threatening
+    - All found aliases: calculate, double attack, plans, threat, threatening
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/o59gT8ZH
+    - Found: threat, threatening
+    - All found aliases: calculate, double attack, plans, threat, threatening
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/jiDhU5wL
+    - Found: threat, threatening
+    - All found aliases: pawn structures, plan, plans, threat, threatening
+  - Chapter: Annotate 10
+    - Chapter URL: https://lichess.org/study/Uw4P5qvl/jiDhU5wL
+    - Found: threat, threatening
+    - All found aliases: pawn structures, plan, plans, threat, threatening
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: Awkward Piece Placement
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/2bs65ZwO
+    - Found: threatening
+    - All found aliases: center, chain, closed, outpost, pawn chain, pawn formation, plan, plans, pressure, retreat, threatening
+  - Chapter: Smile
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/nyBSiZJ0
+    - Found: threatening
+    - All found aliases: maneuver, threatening
+  - Chapter: Kingside Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/dh1EXD5H
+    - Found: threatening
+    - All found aliases: fork, monster, retreat, sacrifice, threatening
+  - Chapter: Black: \"What, me worry?\
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/n3ikXUxW
+    - Found: threatened, threatening
+    - All found aliases: calculate, material, pinned, sacrifice, threatened, threatening
+  - Chapter: Black: \"What, me worry?\
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/n3ikXUxW
+    - Found: threatened, threatening
+    - All found aliases: calculate, material, pinned, sacrifice, threatened, threatening
+  - Chapter: White: \"What, me worry?\
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/kt1wIbrY
+    - Found: threat, threatening
+    - All found aliases: calculate, center, discovered check, pin, sacrifice, threat, threatening
+  - Chapter: White: \"What, me worry?\
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/kt1wIbrY
+    - Found: threat, threatening
+    - All found aliases: calculate, center, discovered check, pin, sacrifice, threat, threatening
+  - Chapter: Queenside Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/s2zJpwHc
+    - Found: threat, threatening
+    - All found aliases: calculate, material, sacrifice, sacrifices, threat, threatening
+  - Chapter: Queenside Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/s2zJpwHc
+    - Found: threat, threatening
+    - All found aliases: calculate, material, sacrifice, sacrifices, threat, threatening
+  - Chapter: King in the Center Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/yG4ujqAW
+    - Found: threatened, threatening
+    - All found aliases: calculate, material, retreat, threatened, threatening
+  - Chapter: King in the Center Attack
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/yG4ujqAW
+    - Found: threatened, threatening
+    - All found aliases: calculate, material, retreat, threatened, threatening
+  - Chapter: Planless Play
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/iAHjTLPE
+    - Found: threatening
+    - All found aliases: center, classical pawn, cramped position, plan, sacrificed, threatening
+  - Chapter: A Bad Plan Is Better Than No Plan
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
+    - Found: threat, threatening
+    - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, pin, plan, sacrifice, threat, threatening, weak square
+  - Chapter: A Bad Plan Is Better Than No Plan
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
+    - Found: threat, threatening
+    - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, pin, plan, sacrifice, threat, threatening, weak square
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Found: threat, threatening
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Przepiorka - Prokes
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
+    - Found: threat, threatening
+    - All found aliases: calculate, center, develop, developing, fork, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: threat, threatening
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+  - Chapter: Tarrasch - Mieses
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
+    - Found: threat, threatening
+    - All found aliases: bad bishop, bishop pair, calculate, calculating, candidate, candidate moves, candidates, center, combination, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, feud between tarrasch and nimzowitsch, formation, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, retreats, simplify, simplifying, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishops, zwischenzug
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: How Many Moves Can You Calculate Ahead? II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/lgTEA2Ui
+    - Found: threatening
+    - All found aliases: calculate, candidate, candidate moves, candidates, material, pin, threatening
+  - Chapter: Straight-line Calculation? That depends. II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/r3InPnvF
+    - Found: threatening
+    - All found aliases: calculated, calculation, threatening
+  - Chapter: Straight-line Calculation? That depends. III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/R4VpMNSt
+    - Found: threatening
+    - All found aliases: calculation, sacrifice, threatening
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: threatening, threats
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: threatening, threats
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: threatening
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: threatening
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Found: threatening
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Overlooking a Counter-sacrifice
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/00fU1dUB
+    - Found: threat
+    - All found aliases: sacrifice, threat
+  - Chapter: Unanticipated Check
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/x2AnQ4Xy
+    - Found: threatening
+    - All found aliases: plan, threatening
+  - Chapter: Improving Visualization  III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/FMmFcWfE
+    - Found: threatening
+    - All found aliases: interference, mating net, threatening
+  - Chapter: How Many Candidate Moves to Examine?
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/JaG8vtZj
+    - Found: threat
+    - All found aliases: calculated, calculation, candidate moves, candidates, simplification, threat
+  - Chapter: Kotov's Three Factors for Calculation Success
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/twwzRVRz
+    - Found: threatening
+    - All found aliases: calculation, candidate, perpetual, threatening
+  - Chapter: Kotov on the Creative Process of Calculation
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/HwKUJ5Zq
+    - Found: threatening
+    - All found aliases: calculate, candidates, material, plan, quiet move, quiet moves, threatening
+  - Chapter: Exercise 7: Handling Flawed Exercises
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/VlmZtn0Y
+    - Found: threatening
+    - All found aliases: discovered attack, overworked, threatening
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Found: threatening
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: threat, threatening
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: threat, threatening
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 16
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bSFwHEaa
+    - Found: threatening
+    - All found aliases: candidate, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: threat, threatening
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: threat, threatening
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Found: threat, threatening
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Found: threat, threatening
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: threat, threatening, threats
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: threat, threatening, threats
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: threat, threatening, threats
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Orientation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/mHKJVcyj
+    - Found: threats
+    - All found aliases: calculation, forks, imbalances, initiative, king safety, lucena position, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: Orientation Example
+    - Chapter URL: https://lichess.org/study/1O0UELn6/s81l1Xs5
+    - Found: threatening, threats
+    - All found aliases: center, fork, imbalances, initiative, king safety, material, pawn structure, plans, pressure, space, threatening, threats
+  - Chapter: Orientation Example
+    - Chapter URL: https://lichess.org/study/1O0UELn6/s81l1Xs5
+    - Found: threatening, threats
+    - All found aliases: center, fork, imbalances, initiative, king safety, material, pawn structure, plans, pressure, space, threatening, threats
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Calculation
+    - Chapter URL: https://lichess.org/study/1O0UELn6/fh6EmDl6
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: calculate, calculates, calculating, calculation, candidate, candidate moves, candidates, center, double attack, fork, material, overloaded, overworked, passed pawns, plan, plans, pressure, removing the defender, rules of thumb, space, threat, threatened, threatening, threats, zwischenzug
+  - Chapter: Planning IV: Natural Moves May Not Be Good Enough
+    - Chapter URL: https://lichess.org/study/1O0UELn6/rDY9RpZ6
+    - Found: threats
+    - All found aliases: backward pawn, center, constricted, initiative, material, mobility, passed pawn, plan, pressure, restricted, sacrificing, threats
+  - Chapter: Planning V: Be Flexible
+    - Chapter URL: https://lichess.org/study/1O0UELn6/efkxhMhp
+    - Found: threat, threatening, threats
+    - All found aliases: center, fork, pinned, plan, plans, threat, threatening, threats, undermine, undermining
+  - Chapter: Planning V: Be Flexible
+    - Chapter URL: https://lichess.org/study/1O0UELn6/efkxhMhp
+    - Found: threat, threatening, threats
+    - All found aliases: center, fork, pinned, plan, plans, threat, threatening, threats, undermine, undermining
+  - Chapter: Planning V: Be Flexible
+    - Chapter URL: https://lichess.org/study/1O0UELn6/efkxhMhp
+    - Found: threat, threatening, threats
+    - All found aliases: center, fork, pinned, plan, plans, threat, threatening, threats, undermine, undermining
+  - Chapter: Positional Judgement III: Open Lines: Example I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/2DrdjkKg
+    - Found: threatened
+    - All found aliases: center, doubled, doubled pawns, doubling, material, plan, tempi, tempo, threatened
+  - Chapter: Positional Judgement IV: Open Lines: Example II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/RHyLds3Y
+    - Found: threatening
+    - All found aliases: center, mobile, mobilize, pin, pinned, plan, sacrificing, tension, threatening
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/R1NKBrG6
+    - Found: threatening
+    - All found aliases: backward pawn, material, pressure, threatening
+  - Chapter: Positional Judgement VI: Position of the Pieces II
+    - Chapter URL: https://lichess.org/study/1O0UELn6/GOyufLml
+    - Found: threatening
+    - All found aliases: plan, pressure, sacrificed, threatening
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: French: Normal Variation: Take, Defend, Push, or what
+    - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
+    - Found: threatening
+    - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, space, tempi, tension, threatening, two bishops
+  - Chapter: Orientation to a position
+    - Chapter URL: https://lichess.org/study/49AuOOCo/Qv1Qxa9v
+    - Found: threats
+    - All found aliases: calculation, imbalances, initiative, king safety, pawn structure, pawn structures, plan, plans, space, threats
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: threatening, threats
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #29  - Application of Orientation List
+    - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
+    - Found: threatening, threats
+    - All found aliases: calculate, candidates, chain, closed, develops, doubling, initiative, isolated, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, simplify, small advantage, space, tactical pattern, threatening, threats, two bishops
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: threatened, threatening
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #30
+    - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
+    - Found: threatened, threatening
+    - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, doubled, imbalances, initiative, interfere, majority, material, open position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
+  - Chapter: RYCW #31
+    - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
+    - Found: threat
+    - All found aliases: candidate, chain, initiative, isolated, material, pawn chain, plan, plans, retreat, sacrifice, threat
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Found: threat, threatening
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+    - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
+    - Found: threat, threatening
+    - All found aliases: break the pin, center, closed, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, sacrifice, space, tension, threat, threatening
+  - Chapter: RYCW #34
+    - Chapter URL: https://lichess.org/study/49AuOOCo/PbLdR8Bt
+    - Found: threat
+    - All found aliases: calculate, calculating, candidate, center, developed, threat
+  - Chapter: RYCW #35
+    - Chapter URL: https://lichess.org/study/49AuOOCo/d56V0gON
+    - Found: threatening
+    - All found aliases: active pieces, backward pawn, center, central control, compensation, develop, imbalances, initiative, isolated pawn, isolated pawns, majority, material, mobility, outpost, pawn islands, pawn structure, pawn weaknesses, qualitative pawn majority, sacrifice, sacrificed, sacrificing, safe king, space, strategic base, threatening, two bishops, weak pawn
+  - Chapter: RYCW #36
+    - Chapter URL: https://lichess.org/study/49AuOOCo/udNTzK0j
+    - Found: threatening
+    - All found aliases: calculate, center, plan, threatening, two bishops
+  - Chapter: RYCW #40
+    - Chapter URL: https://lichess.org/study/49AuOOCo/kyt1auLh
+    - Found: threatening
+    - All found aliases: calculate, candidates, center, classical pawn, pawn break, plan, planning, retreat, space, threatening
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: threat, threaten, threatening
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: threat, threaten, threatening
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: threat, threaten, threatening
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Found: threatening, threats
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+  - Chapter: TLG #144
+    - Chapter URL: https://lichess.org/study/49AuOOCo/wDhs2brZ
+    - Found: threatening, threats
+    - All found aliases: bishop vs knight, calculate, calculation, candidate moves, center, compensation, developed, discovered attack, formation, initiative, isolani, isolated, material, outpost, passed pawns, pinned, plan, plans, simplify, threatening, threats
+  - Chapter: TLG #145
+    - Chapter URL: https://lichess.org/study/49AuOOCo/gs829rtA
+    - Found: threatening
+    - All found aliases: calculation, material, minority, pawn structure, pawn structures, pawn weaknesses, plan, plans, sacrifices, simplification, space, structure, tempi, threatening, two bishops
+  - Chapter: TLG #146
+    - Chapter URL: https://lichess.org/study/49AuOOCo/a3UrCdo3
+    - Found: threat
+    - All found aliases: bishop vs knight, formation, initiative, isolani, king safety, material, minority, pawn structure, pawn structures, pawn weaknesses, pinned, plan, planning, plans, pressure, space, tempo, threat
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: threatening, threats
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: threatening, threats
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Another Easy Draw
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/xxL0wyVF
+    - Found: threatening
+    - All found aliases: dominating, majority, plan, threatening
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
+    - Found: threat
+    - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: threat, threatening, threats
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: threat, threatening, threats
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
+    - Found: threat, threatening, threats
+    - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, fork, good bishop, hypermodern, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
+  - Chapter: DecodeChess Example
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Abo3o0KY
+    - Found: threat, threatening, threats
+    - All found aliases: passed, pinned, plan, planned, plans, space, threat, threatening, threats
+  - Chapter: DecodeChess Example
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Abo3o0KY
+    - Found: threat, threatening, threats
+    - All found aliases: passed, pinned, plan, planned, plans, space, threat, threatening, threats
+  - Chapter: DecodeChess Example
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/Abo3o0KY
+    - Found: threat, threatening, threats
+    - All found aliases: passed, pinned, plan, planned, plans, space, threat, threatening, threats
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Black plays ...Nc6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/dT6pFbaJ
+    - Found: threatening
+    - All found aliases: compensation, fork, formation, isolani, pawn formation, pawn structure, pawn structures, plans, retreats, threatening
+  - Chapter: Black blocks his c-pawn with ...Nc6
+    - Chapter URL: https://lichess.org/study/6P90HTwf/fR4LbCi6
+    - Found: threatening
+    - All found aliases: formation, initiative, pin, threatening
+  - Chapter: Traps and Pitfalls
+    - Chapter URL: https://lichess.org/study/6P90HTwf/KzeKN5NS
+    - Found: threatening
+    - All found aliases: fork, isolani, threatening
+  - Chapter: Anti-Colle
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J6JKnaKB
+    - Found: threat
+    - All found aliases: center, classical school, develop, doubled pawns, formation, key squares, plans, tempo, threat, two bishops
+  - Chapter: Schwietzer, George J - Shrader, Eugene Wesley
+    - Chapter URL: https://lichess.org/study/6P90HTwf/bnjCvU7E
+    - Found: threatening
+    - All found aliases: blockaded, discovered check, isolani, outpost, overworked, pressure, threatening
+  - Chapter: Salwe, Georg - Alapin, Simon
+    - Chapter URL: https://lichess.org/study/6P90HTwf/TSQw6fzo
+    - Found: threatening
+    - All found aliases: center, fork, majority, mobility, passed pawns, pins, threatening
+  - Chapter: Jaffe, Charles - Roething, Otto
+    - Chapter URL: https://lichess.org/study/6P90HTwf/G3CxNgbl
+    - Found: threaten, threatening
+    - All found aliases: center, passed pawns, threaten, threatening
+  - Chapter: Jaffe, Charles - Roething, Otto
+    - Chapter URL: https://lichess.org/study/6P90HTwf/G3CxNgbl
+    - Found: threaten, threatening
+    - All found aliases: center, passed pawns, threaten, threatening
+  - Chapter: Tennenwurzel, Edward - Capablanca, Jose Raul
+    - Chapter URL: https://lichess.org/study/6P90HTwf/oAKtfvrp
+    - Found: threatening
+    - All found aliases: compensation, isolani, majority, passed pawn, sacrificing, threatening, two bishops
+  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+    - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
+    - Found: threatening
+    - All found aliases: center, closes, fork, mating net, plan, sacrifices, tension, threatening
+  - Chapter: Capablanca, Jose Raul - Bray, T.
+    - Chapter URL: https://lichess.org/study/6P90HTwf/1KimMEEX
+    - Found: threatening
+    - All found aliases: sacrifice, smothered mate, threatening
+  - Chapter: Colle, Edgar - Euwe, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/YtNn4KhH
+    - Found: threatening
+    - All found aliases: center, combination, fork, formation, good bishop, pawn formation, pin, pinning, plans, retreat, threatening
+  - Chapter: Colle, Edgar - Tarrasch, Siegbert
+    - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
+    - Found: threatening
+    - All found aliases: blockaded, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
+  - Chapter: Colle, Edgar - Bogoljubow, Efim
+    - Chapter URL: https://lichess.org/study/6P90HTwf/RxRlaQXM
+    - Found: threatening
+    - All found aliases: bishop pair, initiative, isolani, majority, tempi, tempo, threatening, two bishops
+  - Chapter: Riumin, Nikolay Nikolaevich - Poliak, Abram Borisovich
+    - Chapter URL: https://lichess.org/study/6P90HTwf/BLZNdAIS
+    - Found: threatening
+    - All found aliases: fork, material, threatening
+  - Chapter: Colle, Edgar - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8wjjmuef
+    - Found: threatening
+    - All found aliases: blockade, tempo, threatening
+  - Chapter: Havasi, Kornel - Monticelli, Mario
+    - Chapter URL: https://lichess.org/study/6P90HTwf/S8hLLj6k
+    - Found: threat, threatening
+    - All found aliases: combination, fortress, material, overloaded, threat, threatening, two bishops
+  - Chapter: Havasi, Kornel - Monticelli, Mario
+    - Chapter URL: https://lichess.org/study/6P90HTwf/S8hLLj6k
+    - Found: threat, threatening
+    - All found aliases: combination, fortress, material, overloaded, threat, threatening, two bishops
+  - Chapter: Colle, Edgard - Capablanca, Jose Raul
+    - Chapter URL: https://lichess.org/study/6P90HTwf/41wL1Xtn
+    - Found: threatening
+    - All found aliases: material, mobility, overloaded, restricts, threatening
+  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+    - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
+    - Found: threatening
+    - All found aliases: center, doubled, material, passed pawn, passed pawns, planning, retreat, simplifies, simplify, threatening
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+    - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: center, develop, developing, double attacks, fork, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
+  - Chapter: Colle, Edgar - O'Hanlon, John James
+    - Chapter URL: https://lichess.org/study/6P90HTwf/CGy4flIt
+    - Found: threat, threatening
+    - All found aliases: center, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Colle, Edgar - O'Hanlon, John James
+    - Chapter URL: https://lichess.org/study/6P90HTwf/CGy4flIt
+    - Found: threat, threatening
+    - All found aliases: center, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Colle, Edgar - Alekhine, Alexander
+    - Chapter URL: https://lichess.org/study/6P90HTwf/fgGgMOU2
+    - Found: threatening
+    - All found aliases: combination, developed, doubled pawns, doubles, good bishop, isolani, material, overworked, pin, retreats, threatening
+  - Chapter: Maroczy, Geza - Weenink, Henri Gerard
+    - Chapter URL: https://lichess.org/study/6P90HTwf/KVdD1arO
+    - Found: threatening
+    - All found aliases: material, threatening
+  - Chapter: Colle, Edgar - Rubinstein, Akiba
+    - Chapter URL: https://lichess.org/study/6P90HTwf/ezohuCNS
+    - Found: threatening
+    - All found aliases: calculated, center, passed pawn, passed pawns, threatening
+  - Chapter: Colle, Edgar - Michell, Reginald Pryce
+    - Chapter URL: https://lichess.org/study/6P90HTwf/omQHTftl
+    - Found: threatening
+    - All found aliases: center, isolated, isolated pawn, majority, restricts, retreats, threatening
+  - Chapter: Cristia, Jose Maria - Lynch, Julio
+    - Chapter URL: https://lichess.org/study/6P90HTwf/sF9MUmJ1
+    - Found: threatening
+    - All found aliases: center, sacrificing, threatening
+  - Chapter: Riumin, Nikolay Nikolaevich - Budo, A.
+    - Chapter URL: https://lichess.org/study/6P90HTwf/f64CA29q
+    - Found: threatening
+    - All found aliases: overworked, sacrifices, threatening
+  - Chapter: Flohr, Salo - Walter, Max
+    - Chapter URL: https://lichess.org/study/6P90HTwf/8owQ6QBm
+    - Found: threatening
+    - All found aliases: center, combination, fork, passed, passed pawn, pinned, sacrifice, threatening
+  - Chapter: Alekhine, Alexander - Flohr, Salo
+    - Chapter URL: https://lichess.org/study/6P90HTwf/m8jmj0a2
+    - Found: threat, threats
+    - All found aliases: combination, develop, double attack, isolani, material, sacrificing, threat, threats, two bishops
+  - Chapter: Alekhine, Alexander - Flohr, Salo
+    - Chapter URL: https://lichess.org/study/6P90HTwf/m8jmj0a2
+    - Found: threat, threats
+    - All found aliases: combination, develop, double attack, isolani, material, sacrificing, threat, threats, two bishops
+  - Chapter: Kashdan, Isaac - Steiner, Herman
+    - Chapter URL: https://lichess.org/study/6P90HTwf/FxXyrdZs
+    - Found: threatened, threatening
+    - All found aliases: blockading, doubles, majority, passed, passed pawn, passed pawns, pins, plan, restricts, tempo, threatened, threatening, zugzwang
+  - Chapter: Kashdan, Isaac - Steiner, Herman
+    - Chapter URL: https://lichess.org/study/6P90HTwf/FxXyrdZs
+    - Found: threatened, threatening
+    - All found aliases: blockading, doubles, majority, passed, passed pawn, passed pawns, pins, plan, restricts, tempo, threatened, threatening, zugzwang
+  - Chapter: Piazzini, Luis Roberto - Da Silva Rocha, Adhemar
+    - Chapter URL: https://lichess.org/study/6P90HTwf/mfGxnoIF
+    - Found: threatening
+    - All found aliases: isolani, threatening
+  - Chapter: Lascano, J. - Bahamonde, Antonio
+    - Chapter URL: https://lichess.org/study/6P90HTwf/pRBqdJqu
+    - Found: threatening
+    - All found aliases: battery, isolani, pin, plan, sacrifices, threatening
+  - Chapter: Landau, Salo - Book, Eero
+    - Chapter URL: https://lichess.org/study/6P90HTwf/BuMhjSSl
+    - Found: threatening, threats
+    - All found aliases: compensation, isolani, threatening, threats
+  - Chapter: Landau, Salo - Book, Eero
+    - Chapter URL: https://lichess.org/study/6P90HTwf/BuMhjSSl
+    - Found: threatening, threats
+    - All found aliases: compensation, isolani, threatening, threats
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/vMmllPNw/Iy7ACzLV
+    - Found: threatening
+    - All found aliases: material, pinning, threatening
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Found: threatening
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: Non Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/P6AbZXKZ
+    - Found: threat
+    - All found aliases: double attack, pinned, restricts, threat
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: King in Front (not 6th) II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/DmzxUKzc
+    - Found: threatening
+    - All found aliases: key square, key squares, maneuver, threatening
+  - Chapter: 2PKk: Disconnected Passed Pawns II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/FY990H0f
+    - Found: threatening
+    - All found aliases: corresponding squares, key square, passed pawns, threatening
+  - Chapter: PKpk: Outflanking III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/sKwmQZBi
+    - Found: threatening
+    - All found aliases: corresponding squares, opposition, outflank, threatening
+  - Chapter: Tactical Pushes III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/vczLjPeD
+    - Found: threatening
+    - All found aliases: threatening
+  - Chapter: Triangulation II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Z3utcP6U
+    - Found: threatening
+    - All found aliases: passed pawn, plan, retreat, threatening, triangulation
+  - Chapter: King Destinations and Paths IV
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/wGWb6XRa
+    - Found: threat
+    - All found aliases: planned, threat
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Found: threaten, threatening
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Found: threaten, threatening
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+
+- Study: King and Pawn Endgames II
+  - Study URL: https://lichess.org/study/J4xrM4nV
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/J4xrM4nV/Y9vfnXTQ
+    - Found: threatening
+    - All found aliases: blockade, skewer, skewering, threatening
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/J4xrM4nV/V2ZfOQYF
+    - Found: threatening
+    - All found aliases: calculation, plan, restrict, tempo, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKbk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hVreNGAe
+    - Found: threatening
+    - All found aliases: fork, material, pin, skewer, threatening
+  - Chapter: QKnk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/6ZTGzoXh
+    - Found: threatening
+    - All found aliases: centralized, fork, material, pins, threatening
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Found: threatening, threats
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Found: threatening, threats
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: NBKk: Why?
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/D5iJKu97
+    - Found: threat
+    - All found aliases: center, threat
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: NKpk: White King Not Close II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ANvEeosd
+    - Found: threatening
+    - All found aliases: blockade, blockading, tempo, threatening
+  - Chapter: QKpk: Bishop Pawn on 7th II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/QLrVdq1Q
+    - Found: threatening
+    - All found aliases: pinned, threatening
+  - Chapter: QKpk: Bishop Pawn on 7th III
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/iJeS3rF1
+    - Found: threatening
+    - All found aliases: threatening
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Found: threatening
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: Philidor Position Missed I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/ZjrlfsOm
+    - Found: threatening
+    - All found aliases: threatening
+  - Chapter: The Philidor Draw
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/YsbmiZHr
+    - Found: threatening, threats
+    - All found aliases: passed pawn, simplifies, threatening, threats
+  - Chapter: The Philidor Draw
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/YsbmiZHr
+    - Found: threatening, threats
+    - All found aliases: passed pawn, simplifies, threatening, threats
+  - Chapter: RPKrk: Rook in Front of its 7th Rank Pawn - Defense I: File
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/SJTzAmJf
+    - Found: threats
+    - All found aliases: passed pawn, rule of thumb, threats
+  - Chapter: Vančura Position I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/MQoh6fVD
+    - Found: threatening
+    - All found aliases: threatening
+  - Chapter: Not a Rook Pawn - Use the King
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/9KYVREz4
+    - Found: threatening
+    - All found aliases: skewer, threatening
+  - Chapter: PRKrk: 5th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Tj3LPuLq
+    - Found: threatening
+    - All found aliases: center, lucena position, restrict, space, threatening
+  - Chapter: PRKrk: 5th Rank Rule II
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/8wij5RTG
+    - Found: threatening
+    - All found aliases: skewering, threatening
+  - Chapter: PRKrk: 4th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/jgO5zJ3T
+    - Found: threatening
+    - All found aliases: center, threatening
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Found: threat, threatening, threats
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Found: threat, threatening, threats
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Found: threat, threatening, threats
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/4Aqnslfl
+    - Found: threatening
+    - All found aliases: threatening
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Found: threatening
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+
+- Study: Beginner: Curriculum <--- START HERE
+  - Study URL: https://lichess.org/study/Ztgx3vJq
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: threatening, threats
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+  - Chapter: Theories on Playing Chess
+    - Chapter URL: https://lichess.org/study/Ztgx3vJq/9mLy1bSq
+    - Found: threatening, threats
+    - All found aliases: calculate, candidate, candidate moves, center, classical school, develop, doubled, five principles, gain space, imbalances, initiative, material, mobility, pawn structure, plans, silman imbalance, space, threatening, threats
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Another Easy Draw
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/xxL0wyVF
+    - Found: threatening
+    - All found aliases: dominating, majority, plan, threatening
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/vMmllPNw/Iy7ACzLV
+    - Found: threatening
+    - All found aliases: material, pinning, threatening
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Found: threatening
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: Non Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/P6AbZXKZ
+    - Found: threat
+    - All found aliases: double attack, pinned, restricts, threat
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: King in Front (not 6th) II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/DmzxUKzc
+    - Found: threatening
+    - All found aliases: key square, key squares, maneuver, threatening
+  - Chapter: 2PKk: Disconnected Passed Pawns II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/FY990H0f
+    - Found: threatening
+    - All found aliases: corresponding squares, key square, passed pawns, threatening
+  - Chapter: PKpk: Outflanking III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/sKwmQZBi
+    - Found: threatening
+    - All found aliases: corresponding squares, opposition, outflank, threatening
+  - Chapter: Tactical Pushes III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/vczLjPeD
+    - Found: threatening
+    - All found aliases: threatening
+  - Chapter: Triangulation II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Z3utcP6U
+    - Found: threatening
+    - All found aliases: passed pawn, plan, retreat, threatening, triangulation
+  - Chapter: King Destinations and Paths IV
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/wGWb6XRa
+    - Found: threat
+    - All found aliases: planned, threat
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Found: threaten, threatening
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Found: threaten, threatening
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKbk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hVreNGAe
+    - Found: threatening
+    - All found aliases: fork, material, pin, skewer, threatening
+  - Chapter: QKnk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/6ZTGzoXh
+    - Found: threatening
+    - All found aliases: centralized, fork, material, pins, threatening
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Found: threatening, threats
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Found: threatening, threats
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: NBKk: Why?
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/D5iJKu97
+    - Found: threat
+    - All found aliases: center, threat
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: NKpk: White King Not Close II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ANvEeosd
+    - Found: threatening
+    - All found aliases: blockade, blockading, tempo, threatening
+  - Chapter: QKpk: Bishop Pawn on 7th II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/QLrVdq1Q
+    - Found: threatening
+    - All found aliases: pinned, threatening
+  - Chapter: QKpk: Bishop Pawn on 7th III
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/iJeS3rF1
+    - Found: threatening
+    - All found aliases: threatening
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Found: threatening
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: Philidor Position Missed I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/ZjrlfsOm
+    - Found: threatening
+    - All found aliases: threatening
+  - Chapter: The Philidor Draw
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/YsbmiZHr
+    - Found: threatening, threats
+    - All found aliases: passed pawn, simplifies, threatening, threats
+  - Chapter: The Philidor Draw
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/YsbmiZHr
+    - Found: threatening, threats
+    - All found aliases: passed pawn, simplifies, threatening, threats
+  - Chapter: RPKrk: Rook in Front of its 7th Rank Pawn - Defense I: File
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/SJTzAmJf
+    - Found: threats
+    - All found aliases: passed pawn, rule of thumb, threats
+  - Chapter: Vančura Position I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/MQoh6fVD
+    - Found: threatening
+    - All found aliases: threatening
+  - Chapter: Not a Rook Pawn - Use the King
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/9KYVREz4
+    - Found: threatening
+    - All found aliases: skewer, threatening
+  - Chapter: PRKrk: 5th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Tj3LPuLq
+    - Found: threatening
+    - All found aliases: center, lucena position, restrict, space, threatening
+  - Chapter: PRKrk: 5th Rank Rule II
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/8wij5RTG
+    - Found: threatening
+    - All found aliases: skewering, threatening
+  - Chapter: PRKrk: 4th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/jgO5zJ3T
+    - Found: threatening
+    - All found aliases: center, threatening
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Found: threat, threatening, threats
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Found: threat, threatening, threats
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Found: threat, threatening, threats
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/4Aqnslfl
+    - Found: threatening
+    - All found aliases: threatening
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Found: threatening
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Another Easy Draw
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/xxL0wyVF
+    - Found: threatening
+    - All found aliases: dominating, majority, plan, threatening
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/vMmllPNw/Iy7ACzLV
+    - Found: threatening
+    - All found aliases: material, pinning, threatening
+  - Chapter: References
+    - Chapter URL: https://lichess.org/study/vMmllPNw/AAQ1gVdn
+    - Found: threatening
+    - All found aliases: candidate, candidate moves, cat and mouse, double attack, fork, passed, passed pawns, pinned, threatening
+  - Chapter: Non Pawn Endgames
+    - Chapter URL: https://lichess.org/study/vMmllPNw/P6AbZXKZ
+    - Found: threat
+    - All found aliases: double attack, pinned, restricts, threat
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: King in Front (not 6th) II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/DmzxUKzc
+    - Found: threatening
+    - All found aliases: key square, key squares, maneuver, threatening
+  - Chapter: 2PKk: Disconnected Passed Pawns II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/FY990H0f
+    - Found: threatening
+    - All found aliases: corresponding squares, key square, passed pawns, threatening
+  - Chapter: PKpk: Outflanking III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/sKwmQZBi
+    - Found: threatening
+    - All found aliases: corresponding squares, opposition, outflank, threatening
+  - Chapter: Tactical Pushes III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/vczLjPeD
+    - Found: threatening
+    - All found aliases: threatening
+  - Chapter: Triangulation II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Z3utcP6U
+    - Found: threatening
+    - All found aliases: passed pawn, plan, retreat, threatening, triangulation
+  - Chapter: King Destinations and Paths IV
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/wGWb6XRa
+    - Found: threat
+    - All found aliases: planned, threat
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Found: threaten, threatening
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+  - Chapter: PKpk: Races III
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/tk5DkJ6Q
+    - Found: threaten, threatening
+    - All found aliases: plan, restrict, restricts, skewer, threaten, threatening
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: QKbk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hVreNGAe
+    - Found: threatening
+    - All found aliases: fork, material, pin, skewer, threatening
+  - Chapter: QKnk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/6ZTGzoXh
+    - Found: threatening
+    - All found aliases: centralized, fork, material, pins, threatening
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Found: threatening, threats
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: QKrk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/17C1tayc
+    - Found: threatening, threats
+    - All found aliases: center, pin, restrict, skewer, threatening, threats
+  - Chapter: NBKk: Why?
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/D5iJKu97
+    - Found: threat
+    - All found aliases: center, threat
+
+- Study: Piece Versus Pawns
+  - Study URL: https://lichess.org/study/8u8uZ7TC
+  - Chapter: NKpk: White King Not Close II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/ANvEeosd
+    - Found: threatening
+    - All found aliases: blockade, blockading, tempo, threatening
+  - Chapter: QKpk: Bishop Pawn on 7th II
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/QLrVdq1Q
+    - Found: threatening
+    - All found aliases: pinned, threatening
+  - Chapter: QKpk: Bishop Pawn on 7th III
+    - Chapter URL: https://lichess.org/study/8u8uZ7TC/iJeS3rF1
+    - Found: threatening
+    - All found aliases: threatening
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: The Rook Pawn
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/IGwQqrLC
+    - Found: threatening
+    - All found aliases: fork, forking, forks, king cut off, plan, restrict, sacrifice, sacrificing, skewer, skewering, threatening
+  - Chapter: Philidor Position Missed I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/ZjrlfsOm
+    - Found: threatening
+    - All found aliases: threatening
+  - Chapter: The Philidor Draw
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/YsbmiZHr
+    - Found: threatening, threats
+    - All found aliases: passed pawn, simplifies, threatening, threats
+  - Chapter: The Philidor Draw
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/YsbmiZHr
+    - Found: threatening, threats
+    - All found aliases: passed pawn, simplifies, threatening, threats
+  - Chapter: RPKrk: Rook in Front of its 7th Rank Pawn - Defense I: File
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/SJTzAmJf
+    - Found: threats
+    - All found aliases: passed pawn, rule of thumb, threats
+  - Chapter: Vančura Position I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/MQoh6fVD
+    - Found: threatening
+    - All found aliases: threatening
+  - Chapter: Not a Rook Pawn - Use the King
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/9KYVREz4
+    - Found: threatening
+    - All found aliases: skewer, threatening
+  - Chapter: PRKrk: 5th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Tj3LPuLq
+    - Found: threatening
+    - All found aliases: center, lucena position, restrict, space, threatening
+  - Chapter: PRKrk: 5th Rank Rule II
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/8wij5RTG
+    - Found: threatening
+    - All found aliases: skewering, threatening
+  - Chapter: PRKrk: 4th Rank Rule I
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/jgO5zJ3T
+    - Found: threatening
+    - All found aliases: center, threatening
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Found: threat, threatening, threats
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Found: threat, threatening, threats
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Found: threat, threatening, threats
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/4Aqnslfl
+    - Found: threatening
+    - All found aliases: threatening
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/1htAuuTp
+    - Found: threatening
+    - All found aliases: opposition, plan, retreat, skewer, tempo, threatening
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: How Many Moves Can You Calculate Ahead? II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/lgTEA2Ui
+    - Found: threatening
+    - All found aliases: calculate, candidate, candidate moves, candidates, material, pin, threatening
+  - Chapter: Straight-line Calculation? That depends. II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/r3InPnvF
+    - Found: threatening
+    - All found aliases: calculated, calculation, threatening
+  - Chapter: Straight-line Calculation? That depends. III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/R4VpMNSt
+    - Found: threatening
+    - All found aliases: calculation, sacrifice, threatening
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: threatening, threats
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Learning to Calculate Variations: Training Method I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/y47z3Yxx
+    - Found: threatening, threats
+    - All found aliases: calculate, calculating, calculation, calculations, candidate, candidate moves, candidates, combination, combinations, develop, loose pieces, material, mobility, overworked, retreat, sacrifice, space, threatening, threats
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: threatening
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: threatening
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+  - Chapter: Exercise 4
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/IfHpjdN6
+    - Found: threatening
+    - All found aliases: calculated, calculating, calculation, calculations, candidate, candidates, fork, mating net, sacrifice, sacrifices, threatening
+  - Chapter: Overlooking a Counter-sacrifice
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/00fU1dUB
+    - Found: threat
+    - All found aliases: sacrifice, threat
+  - Chapter: Unanticipated Check
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/x2AnQ4Xy
+    - Found: threatening
+    - All found aliases: plan, threatening
+  - Chapter: Improving Visualization  III
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/FMmFcWfE
+    - Found: threatening
+    - All found aliases: interference, mating net, threatening
+  - Chapter: How Many Candidate Moves to Examine?
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/JaG8vtZj
+    - Found: threat
+    - All found aliases: calculated, calculation, candidate moves, candidates, simplification, threat
+  - Chapter: Kotov's Three Factors for Calculation Success
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/twwzRVRz
+    - Found: threatening
+    - All found aliases: calculation, candidate, perpetual, threatening
+  - Chapter: Kotov on the Creative Process of Calculation
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/HwKUJ5Zq
+    - Found: threatening
+    - All found aliases: calculate, candidates, material, plan, quiet move, quiet moves, threatening
+  - Chapter: Exercise 7: Handling Flawed Exercises
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/VlmZtn0Y
+    - Found: threatening
+    - All found aliases: discovered attack, overworked, threatening
+  - Chapter: Exercise 9: Another Flawed Exercise
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bsAEcfhB
+    - Found: threatening
+    - All found aliases: calculate, calculation, candidate moves, center, discovered attack, pinned, remove the defender, retreat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: threat, threatening
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 10
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/KuF32xaE
+    - Found: threat, threatening
+    - All found aliases: anastasia, box mate, calculating, calculation, candidate, candidate moves, candidates, doubled, material, passed, pawn storm, pin, pressure, sacrifice, sacrifices, threat, threatening
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 11
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/0wZVWcbH
+    - Found: threat, threatened, threatening, threats
+    - All found aliases: bishop and knight mate, calculate, calculating, calculation, calculations, candidate, candidates, center, combination, legal's mate, material, mating net, plan, restricting, sacrifice, threat, threatened, threatening, threats
+  - Chapter: Exercise 16
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/bSFwHEaa
+    - Found: threatening
+    - All found aliases: candidate, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: threat, threatening
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Learning to Calculate Variations: Training Method II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/NFrF6gN0
+    - Found: threat, threatening
+    - All found aliases: bad bishop, battery, calculating, calculation, center, develop, developing, discovered attack, doubling, good bishop, isolani, opera mate, pinned, pins, planned, poison, sacrificing, tempo, threat, threatening
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Found: threat, threatening
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Training Method II with Non Master Games I
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/kPwd8TPa
+    - Found: threat, threatening
+    - All found aliases: candidate, center, combination, pawn structures, plan, threat, threatening, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: threat, threatening, threats
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: threat, threatening, threats
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+  - Chapter: Training Method II with Non Master Games II
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/Zi3ZjuX2
+    - Found: threat, threatening, threats
+    - All found aliases: active pieces, bad bishop, blockading, calculation, candidates, center, centralizing, closed, combination, develops, discovered attack, outpost, passed pawn, pawn chain, pin, plan, plans, retreat, rule of thumb, rules of thumb, threat, threatening, threats, two bishops
+
+
+## Concept: Trebuchet
+
+Aliases: trebuchet
+
+Appears In:
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: trebuchet
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: PKpk: Trebuchet
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/xjiu2dZB
+    - Found: trebuchet
+    - All found aliases: active king, trebuchet
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: trebuchet
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: PKpk: Trebuchet
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/xjiu2dZB
+    - Found: trebuchet
+    - All found aliases: active king, trebuchet
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: trebuchet
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: PKpk: Trebuchet
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/xjiu2dZB
+    - Found: trebuchet
+    - All found aliases: active king, trebuchet
+
+
+## Concept: Triangulation
+
+Aliases: triangulate, triangulated, triangulating, triangulation
+
+Appears In:
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Fortresses in Bishop-Up Endgames II
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/apZK1lCT
+    - Found: triangulated
+    - All found aliases: sacrifice, triangulated
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: triangulation
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: 2PKpk: Outflanking X; Triangulation
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/6iv4aIgp
+    - Found: triangulation
+    - All found aliases: maneuver, outflanking, retreat, triangulation, waiting move
+  - Chapter: Triangulation I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OEP1d5e4
+    - Found: triangulate
+    - All found aliases: corresponding squares, key square, maneuver, outflanking, triangulate
+  - Chapter: Triangulation II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Z3utcP6U
+    - Found: triangulation
+    - All found aliases: passed pawn, plan, retreat, threatening, triangulation
+  - Chapter: PKpk: Races I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/uBN5nzbc
+    - Found: triangulation
+    - All found aliases: corresponding squares, outflanking, skewers, triangulation
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Fortresses in Bishop-Up Endgames II
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/apZK1lCT
+    - Found: triangulated
+    - All found aliases: sacrifice, triangulated
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: triangulation
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: 2PKpk: Outflanking X; Triangulation
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/6iv4aIgp
+    - Found: triangulation
+    - All found aliases: maneuver, outflanking, retreat, triangulation, waiting move
+  - Chapter: Triangulation I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OEP1d5e4
+    - Found: triangulate
+    - All found aliases: corresponding squares, key square, maneuver, outflanking, triangulate
+  - Chapter: Triangulation II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Z3utcP6U
+    - Found: triangulation
+    - All found aliases: passed pawn, plan, retreat, threatening, triangulation
+  - Chapter: PKpk: Races I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/uBN5nzbc
+    - Found: triangulation
+    - All found aliases: corresponding squares, outflanking, skewers, triangulation
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Fortresses in Bishop-Up Endgames II
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/apZK1lCT
+    - Found: triangulated
+    - All found aliases: sacrifice, triangulated
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/VYY8Gnyk
+    - Found: triangulation
+    - All found aliases: corresponding squares, doubled pawns, key squares, opposition, outflanking, passed pawn, trebuchet, triangulation
+  - Chapter: 2PKpk: Outflanking X; Triangulation
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/6iv4aIgp
+    - Found: triangulation
+    - All found aliases: maneuver, outflanking, retreat, triangulation, waiting move
+  - Chapter: Triangulation I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/OEP1d5e4
+    - Found: triangulate
+    - All found aliases: corresponding squares, key square, maneuver, outflanking, triangulate
+  - Chapter: Triangulation II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/Z3utcP6U
+    - Found: triangulation
+    - All found aliases: passed pawn, plan, retreat, threatening, triangulation
+  - Chapter: PKpk: Races I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/uBN5nzbc
+    - Found: triangulation
+    - All found aliases: corresponding squares, outflanking, skewers, triangulation
+
+
+## Concept: Undermining
+
+Aliases: undermine, undermined, undermines, undermining
+
+Appears In:
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Planning V: Be Flexible
+    - Chapter URL: https://lichess.org/study/1O0UELn6/efkxhMhp
+    - Tactical Motif: undermine, undermining
+    - All found aliases: center, fork, pinned, plan, plans, threat, threatening, threats, undermine, undermining
+  - Chapter: Planning V: Be Flexible
+    - Chapter URL: https://lichess.org/study/1O0UELn6/efkxhMhp
+    - Tactical Motif: undermine, undermining
+    - All found aliases: center, fork, pinned, plan, plans, threat, threatening, threats, undermine, undermining
+
+
+## Concept: Waiting Moves
+
+Aliases: waiting move, waiting moves
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: waiting move
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/WSL5QMD1
+    - Found: waiting move
+    - All found aliases: bad bishop, center, counterplay, cramp, doubled, good bishop, outpost, outposts, plan, pressure, waiting move, weak squares
+
+- Study: Advanced: The Center
+  - Study URL: https://lichess.org/study/49AuOOCo
+  - Chapter: RYCW #42
+    - Chapter URL: https://lichess.org/study/49AuOOCo/JBjJ5wV3
+    - Found: waiting moves
+    - All found aliases: battery, bishop vs knight, calculated, centralized, cramped, developed, doubled, five principles, imbalances, king safety, material, passed pawn, pawn structure, pawn weaknesses, pinned, plan, planned, plans, restricting, space, tempo, threat, threaten, threatening, two bishops, waiting moves
+
+- Study: Chess Annotation By Computer
+  - Study URL: https://lichess.org/study/YWzZVLVO
+  - Chapter: KRk I : jomega
+    - Chapter URL: https://lichess.org/study/YWzZVLVO/iya2zz3C
+    - Found: waiting move
+    - All found aliases: combination, interfere, interfering, opposition, restricting, space, waiting move
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Piece And Pawn Versus Lone King
+    - Chapter URL: https://lichess.org/study/vMmllPNw/eeWCCEKt
+    - Found: waiting moves
+    - All found aliases: material, plan, waiting moves
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: 2PKpk: Outflanking X; Triangulation
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/6iv4aIgp
+    - Found: waiting move
+    - All found aliases: maneuver, outflanking, retreat, triangulation, waiting move
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: RKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BXBY9U1j
+    - Found: waiting move
+    - All found aliases: center, opposition, retreats, take the opposition, waiting move
+  - Chapter: RKk: The Really Long Method
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/FRxbMQln
+    - Found: waiting move
+    - All found aliases: opposition, take the opposition, waiting move
+  - Chapter: 2BKk: Driving the King to the Corner
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hGPzVo3O
+    - Found: waiting move
+    - All found aliases: two bishops, waiting move
+  - Chapter: 2BKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/bfRicqOu
+    - Found: waiting move
+    - All found aliases: opposition, restricts, waiting move
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Piece And Pawn Versus Lone King
+    - Chapter URL: https://lichess.org/study/vMmllPNw/eeWCCEKt
+    - Found: waiting moves
+    - All found aliases: material, plan, waiting moves
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: 2PKpk: Outflanking X; Triangulation
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/6iv4aIgp
+    - Found: waiting move
+    - All found aliases: maneuver, outflanking, retreat, triangulation, waiting move
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: RKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BXBY9U1j
+    - Found: waiting move
+    - All found aliases: center, opposition, retreats, take the opposition, waiting move
+  - Chapter: RKk: The Really Long Method
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/FRxbMQln
+    - Found: waiting move
+    - All found aliases: opposition, take the opposition, waiting move
+  - Chapter: 2BKk: Driving the King to the Corner
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hGPzVo3O
+    - Found: waiting move
+    - All found aliases: two bishops, waiting move
+  - Chapter: 2BKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/bfRicqOu
+    - Found: waiting move
+    - All found aliases: opposition, restricts, waiting move
+
+- Study: Endgames
+  - Study URL: https://lichess.org/study/vMmllPNw
+  - Chapter: Piece And Pawn Versus Lone King
+    - Chapter URL: https://lichess.org/study/vMmllPNw/eeWCCEKt
+    - Found: waiting moves
+    - All found aliases: material, plan, waiting moves
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: 2PKpk: Outflanking X; Triangulation
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/6iv4aIgp
+    - Found: waiting move
+    - All found aliases: maneuver, outflanking, retreat, triangulation, waiting move
+
+- Study: Non Pawn Endgames
+  - Study URL: https://lichess.org/study/DksNR7Bv
+  - Chapter: RKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/BXBY9U1j
+    - Found: waiting move
+    - All found aliases: center, opposition, retreats, take the opposition, waiting move
+  - Chapter: RKk: The Really Long Method
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/FRxbMQln
+    - Found: waiting move
+    - All found aliases: opposition, take the opposition, waiting move
+  - Chapter: 2BKk: Driving the King to the Corner
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/hGPzVo3O
+    - Found: waiting move
+    - All found aliases: two bishops, waiting move
+  - Chapter: 2BKk
+    - Chapter URL: https://lichess.org/study/DksNR7Bv/bfRicqOu
+    - Found: waiting move
+    - All found aliases: opposition, restricts, waiting move
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: waiting move
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+
+
+## Concept: Weak Square
+
+Aliases: weak square, weak squares
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 14
+    - Chapter URL: https://lichess.org/study/pEF9QCic/bZy1zHTh
+    - Feature: weak square
+    - All found aliases: center, classical school, combination, cramp, decoy, deflection, discovered attack, isolani, material, outpost, pin, plans, sacrifice, sacrificed, sacrifices, tempi, threatened, threatening, threats, weak square
+
+- Study: Advanced: Application From Real Games
+  - Study URL: https://lichess.org/study/WLE9ibAW
+  - Chapter: A Bad Plan Is Better Than No Plan
+    - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
+    - Feature: weak square
+    - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, pin, plan, sacrifice, threat, threatening, weak square
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Positional Judgement V: Pawn Structure and Weak Squares I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/WSL5QMD1
+    - Feature: weak squares
+    - All found aliases: bad bishop, center, counterplay, cramp, doubled, good bishop, outpost, outposts, plan, pressure, waiting move, weak squares
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: R-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Mab8k8jY
+    - Feature: weak squares
+    - All found aliases: doubled pawns, isolated pawn, passed pawn, pawn structure, weak squares
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: R-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Mab8k8jY
+    - Feature: weak squares
+    - All found aliases: doubled pawns, isolated pawn, passed pawn, pawn structure, weak squares
+
+- Study: Index of Games for My Courses
+  - Study URL: https://lichess.org/study/ahfHflNX
+  - Chapter: R-
+    - Chapter URL: https://lichess.org/study/ahfHflNX/Mab8k8jY
+    - Feature: weak squares
+    - All found aliases: doubled pawns, isolated pawn, passed pawn, pawn structure, weak squares
+
+
+## Concept: Weakness Creation
+
+Aliases: create a weakness, create weakness, create weaknesses, weakness creation, weaknesses created
+
+Appears In:
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Outside Passed Pawn II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ENicrTzU
+    - Found: create a weakness
+    - All found aliases: blockade, create a weakness, passed pawn, passed pawns, zugzwang
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Outside Passed Pawn II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ENicrTzU
+    - Found: create a weakness
+    - All found aliases: blockade, create a weakness, passed pawn, passed pawns, zugzwang
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: Outside Passed Pawn II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ENicrTzU
+    - Found: create a weakness
+    - All found aliases: blockade, create a weakness, passed pawn, passed pawns, zugzwang
+
+
+## Concept: Windmill
+
+Aliases: windmill
+
+Appears In:
+
+- Study: Advanced: Annotating Games (Annotated)
+  - Study URL: https://lichess.org/study/pEF9QCic
+  - Chapter: Annotate 9
+    - Chapter URL: https://lichess.org/study/pEF9QCic/Wu8l90rU
+    - Tactical Motif: windmill
+    - All found aliases: calculate, center, control the center, develop, double attack, double check, doubled, initiative, material, pin, pinned, pinning, pins, plan, plans, threat, threatening, windmill
+
+
+## Concept: Zugzwang
+
+Aliases: zugzwang
+
+Appears In:
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: zugzwang
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: zugzwang
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+
+- Study: Advanced: Move Selection Process
+  - Study URL: https://lichess.org/study/1O0UELn6
+  - Chapter: Positional Judgement VI: Position of the Pieces I
+    - Chapter URL: https://lichess.org/study/1O0UELn6/IZWd8NUo
+    - Found: zugzwang
+    - All found aliases: bishop pair, doubled, passed pawns, pawn islands, pawn structure, two bishops, zugzwang
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Bishops of Opposite Colors V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/UAxmmsZU
+    - Found: zugzwang
+    - All found aliases: zugzwang
+  - Chapter: 2PBKbk: Opposite Color Bishops General VIII
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/VbeWKhse
+    - Found: zugzwang
+    - All found aliases: retreat, zugzwang
+
+- Study: Colle
+  - Study URL: https://lichess.org/study/6P90HTwf
+  - Chapter: Kashdan, Isaac - Steiner, Herman
+    - Chapter URL: https://lichess.org/study/6P90HTwf/FxXyrdZs
+    - Found: zugzwang
+    - All found aliases: blockading, doubles, majority, passed, passed pawn, passed pawns, pins, plan, restricts, tempo, threatened, threatening, zugzwang
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: Corresponding Squares I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/wH4WXLku
+    - Found: zugzwang
+    - All found aliases: corresponding squares, zugzwang
+  - Chapter: Outside Passed Pawn II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ENicrTzU
+    - Found: zugzwang
+    - All found aliases: blockade, create a weakness, passed pawn, passed pawns, zugzwang
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Rook On the 7th Rank
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Rf1A1wrt
+    - Found: zugzwang
+    - All found aliases: plan, zugzwang
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Found: zugzwang
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Bishops of Opposite Colors V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/UAxmmsZU
+    - Found: zugzwang
+    - All found aliases: zugzwang
+  - Chapter: 2PBKbk: Opposite Color Bishops General VIII
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/VbeWKhse
+    - Found: zugzwang
+    - All found aliases: retreat, zugzwang
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: Corresponding Squares I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/wH4WXLku
+    - Found: zugzwang
+    - All found aliases: corresponding squares, zugzwang
+  - Chapter: Outside Passed Pawn II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ENicrTzU
+    - Found: zugzwang
+    - All found aliases: blockade, create a weakness, passed pawn, passed pawns, zugzwang
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Rook On the 7th Rank
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Rf1A1wrt
+    - Found: zugzwang
+    - All found aliases: plan, zugzwang
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Found: zugzwang
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+
+- Study: Bishop And Pawn Endgames
+  - Study URL: https://lichess.org/study/mp0Ct7Vu
+  - Chapter: Bishops of Opposite Colors V
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/UAxmmsZU
+    - Found: zugzwang
+    - All found aliases: zugzwang
+  - Chapter: 2PBKbk: Opposite Color Bishops General VIII
+    - Chapter URL: https://lichess.org/study/mp0Ct7Vu/VbeWKhse
+    - Found: zugzwang
+    - All found aliases: retreat, zugzwang
+
+- Study: King and Pawn Endgames I
+  - Study URL: https://lichess.org/study/kbSEH1nW
+  - Chapter: PKk: Corresponding Squares I
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/wH4WXLku
+    - Found: zugzwang
+    - All found aliases: corresponding squares, zugzwang
+  - Chapter: Outside Passed Pawn II
+    - Chapter URL: https://lichess.org/study/kbSEH1nW/ENicrTzU
+    - Found: zugzwang
+    - All found aliases: blockade, create a weakness, passed pawn, passed pawns, zugzwang
+
+- Study: Rook And Pawn Endgames
+  - Study URL: https://lichess.org/study/6hU2Z5Xm
+  - Chapter: Rook On the 7th Rank
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/Rf1A1wrt
+    - Found: zugzwang
+    - All found aliases: plan, zugzwang
+  - Chapter: PRKrk: 4th Rank Rule IV: Black King on the Sort Side
+    - Chapter URL: https://lichess.org/study/6hU2Z5Xm/24MX6W18
+    - Found: zugzwang
+    - All found aliases: sacrifice, tempo, threat, threatening, threats, zugzwang
+
+- Study: Advanced: Calculation
+  - Study URL: https://lichess.org/study/ONYKV9a1
+  - Chapter: Exercise 2
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/22wp9vAB
+    - Found: zugzwang
+    - All found aliases: calculating, calculation, candidate, candidates, epaulette mate, material, mobility, plan, remove the defender, restricts, retreat, simplified, threatening, waiting move, zugzwang
+  - Chapter: Exercise 3
+    - Chapter URL: https://lichess.org/study/ONYKV9a1/pLdIJgBO
+    - Found: zugzwang
+    - All found aliases: calculate, calculated, calculating, calculation, calculations, candidate, candidates, counterplay, passed, passed pawn, plan, planned, restricts, retreat, sacrifice, simplifies, threatening, zugzwang
+
+
