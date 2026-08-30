@@ -142,10 +142,10 @@ Definition: The placement of pieces toward the center to maximize their power.
 
 Aliases: centralize, centralized, centralizes, centralizing
 
-### Concept: Classical
+### Concept: Classical School
 Definition: A style emphasizing central occupation, development, and long-term structural principles.
 
-Aliases: classical
+Aliases: classical approach, classical center, classical chess, classical concept, classical dream, classical fashion, classical idea, classical move, classical moves, classical opening, classical or hypermodern, classical pawn, classical response, Classical School, classical school, classical school's, classical sequence, classical style, classical theory, classical way, classically dogmatic
 
 ### Concept: Clearance
 Definition: A tactic that vacates a square or line to enable a stronger follow-up.
