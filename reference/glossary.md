@@ -22,11 +22,6 @@ Definition: A mating pattern attributed to Adolf Anderssen involving coordinated
 
 Aliases: anderssen's mate
 
-### Concept: Annihilation of Defense
-Definition: A tactic that removes or destroys the defensive resources protecting a key square or piece.
-
-Aliases: annihilate the defense, annihilate the defenses, annihilates the defense, annihilates the defenses, annihilating the defense, annihilating the defenses, annihilation of defense
-
 ### Concept: Arabian Mate
 Definition: A classic pattern where a knight and rook deliver mate against a cornered king.
 
@@ -60,7 +55,7 @@ Aliases: balestra mate
 ### Concept: Battery
 Definition: A lineup of two pieces on the same file or diagonal to increase pressure.
 
-Aliases: battery, doubled pieces, doubling pieces, piece battery
+Aliases: alekhine's gun, battery, doubled pieces, doubling pieces, piece battery
 
 ### Concept: Bishop (Active/Inactive)
 Definition: A comparison based on whether a bishop influences key squares and participates effectively in the position.
@@ -70,12 +65,12 @@ Aliases: active bishop, active bishops, inactive bishop, inactive bishops
 ### Concept: Bishop (Good/Bad)
 Definition: A comparison based on whether a bishop is restricted by its own pawns.
 
-Aliases: bad bishop, bad bishops, good bishop, good bishops, hemmed in bishop, hemmed in bishops
+Aliases: bad bishop, bad bishops, good bishop, good bishops, hemmed in bishop, hemmed in bishops, strong bishop
 
 ### Concept: Bishop Pair
 Definition: The advantage of having two bishops, especially in open positions.
 
-Aliases: bishop pair, two bishops
+Aliases: bishop pair, strong bishops, two bishop, two bishops
 
 ### Concept: Bishop and Knight Mate
 Definition: A forced mate using bishop and knight coordination to drive the king to a corner.
@@ -120,7 +115,7 @@ Aliases: break the pin, pin break, pin broken
 ### Concept: Calculation
 Definition: The process of analyzing concrete variations by mentally exploring sequences of moves, evaluating resulting positions, and comparing candidate lines to determine the best continuation.
 
-Aliases: calculate, calculated, calculates, calculating, calculation, calculations
+Aliases: calculate, calculated, calculates, calculating, calculation, calculations, evaluate, evaluation
 
 ### Concept: Candidate Moves
 Definition: A short list of promising moves that a player considers for deeper analysis before making a decision.
@@ -135,7 +130,7 @@ Aliases: cat and mouse, cat-and-mouse, cat-and-mouse technique
 ### Concept: Center Control
 Definition: The ability to influence or occupy central squares to enhance piece activity.
 
-Aliases: center, center control, central control, control the center
+Aliases: center, center control, central control, control the center, controls the center
 
 ### Concept: Centralization
 Definition: The placement of pieces toward the center to maximize their power.
@@ -145,7 +140,7 @@ Aliases: centralize, centralized, centralizes, centralizing
 ### Concept: Classical School
 Definition: A style emphasizing central occupation, development, and long-term structural principles.
 
-Aliases: classical approach, classical center, classical chess, classical concept, classical dream, classical fashion, classical idea, classical move, classical moves, classical opening, classical or hypermodern, classical pawn, classical response, Classical School, classical school, classical school's, classical sequence, classical style, classical theory, classical way, classically dogmatic
+Aliases: Classical School, classical approach, classical center, classical chess, classical concept, classical concepts, classical dream, classical fashion, classical idea, classical ideas, classical move, classical moves, classical opening, classical or hypermodern, classical pawn, classical response, classical school, classical school's, classical sequence, classical style, classical theory, classical way, classically dogmatic
 
 ### Concept: Clearance
 Definition: A tactic that vacates a square or line to enable a stronger follow-up.
@@ -155,12 +150,12 @@ Aliases: clear the line, clear the lines, clearance, clearances, clearing the li
 ### Concept: Closed Position
 Definition: A position where pawn chains restrict piece mobility and favor maneuvering.
 
-Aliases: closed position, closed, closes
+Aliases: closed position, closed, closes the position, closes, closing the position
 
 ### Concept: Color Complex
 Definition: A structural theme involving weaknesses or control on squares of one color.
 
-Aliases: color complex, dark-square complex, light-square complex
+Aliases: color complex, dark-square complex, leucopenia, light-square complex, melanpenia
 
 ### Concept: Combination
 Definition: A forcing sequence of moves, usually involving tactical motifs, that exploits a specific weakness or pattern to achieve a decisive advantage.
@@ -170,7 +165,7 @@ Aliases: combination, combinations, combo
 ### Concept: Compensation
 Definition: Positional or dynamic factors—such as initiative, activity, structure, or long‑term pressure—that offset a material deficit and justify a sacrifice.
 
-Aliases: compensation, dynamic compensation, positional compensation
+Aliases: compensate, compensated, compensates, compensating, compensation, dynamic compensation, positional compensation
 
 ### Concept: Corner Mate
 Definition: A mate delivered when the king is trapped in the corner by coordinated pieces.
@@ -190,12 +185,12 @@ Aliases: corridor mate
 ### Concept: Counterattack
 Definition: An attack launched in response to the opponent’s threats.
 
-Aliases: counter-attacking, counterattack, counterattacked, counterattacks
+Aliases: counter-attack, counter-attacked, counter-attacking, counter-attacks, counterattack, counterattacked, counterattacking, counterattacks
 
 ### Concept: Counterplay
 Definition: Active measures taken to create threats or complications when defending.
 
-Aliases: counterplay, generate counterplay
+Aliases: counter-play, counterplay, generate counterplay
 
 ### Concept: Cozio's Mate
 Definition: A mating pattern attributed to Cozio involving rook and knight coordination.
@@ -210,7 +205,7 @@ Aliases: critical square, critical squares
 ### Concept: Cutting Off the King
 Definition: Restricting the enemy king’s movement, often with a rook or piece.
 
-Aliases: cut off the king, king cut off
+Aliases: cut off the black king, cut off the king, cut off the white king, cuts off the black king, cuts off the king, cuts off the white king, king cut off
 
 ### Concept: Damiano's Mate
 Definition: A mating pattern attributed to Damiano involving bishop and rook coordination.
@@ -235,7 +230,7 @@ Aliases: deflect, deflected, deflecting, deflection, deflects
 ### Concept: Development
 Definition: The process of activating pieces from their initial squares.
 
-Aliases: develop, developed, developing, develops, undeveloping
+Aliases: develop, developed, developing, develops, undevelop, undeveloped, undeveloping, undevelops
 
 ### Concept: Discovered Attack
 Definition: An attack revealed when a piece moves away from a line.
@@ -280,7 +275,7 @@ Aliases: epaulette mate, epaulette mate i, epaulette mate ii
 ### Concept: Exchange Sacrifice
 Definition: Giving up a rook for a minor piece to obtain positional or tactical compensation.
 
-Aliases: exchange sac, exchange sacrifice, sac the exchange
+Aliases: exchange sac, exchange sacrifice, gives up the exchange, giving up the exchange, sac the exchange, sacrificing the exchange
 
 ### Concept: Five Principles of Chess
 Definition: Core guidelines involving king safety, force, mobility/space, time, and pawn structure.
@@ -315,7 +310,7 @@ Aliases: gueridon mate
 ### Concept: Hanging Piece
 Definition: A piece that is undefended and vulnerable to tactics.
 
-Aliases: hanging piece, hanging pieces
+Aliases: from hanging, hanging a, hanging mate, hanging material, hanging piece, hanging pieces, hanging the, is hanging, the hanging, was hanging
 
 ### Concept: Hook Mate
 Definition: A rook and knight mating pattern where the knight forms a hook restricting escape squares.
@@ -330,7 +325,7 @@ Aliases: hypermodern, hypermodern chess
 ### Concept: Improving the Worst-Placed Piece
 Definition: A principle of upgrading the least effective piece.
 
-Aliases: improve the worst piece, improving the worst piece
+Aliases: improve the worst piece, improve the, improved her, improved his, improves black's, improves his, improves the, improves white's, improving her, improving his, improving move, improving moves, improving the worst piece, improving the
 
 ### Concept: Interference
 Definition: A tactic that blocks a defender’s line of communication.
@@ -360,17 +355,17 @@ Aliases: kill box mate
 ### Concept: King Activity
 Definition: The use of the king as an active piece, especially in endgames.
 
-Aliases: active king, king activity
+Aliases: activating the black king, activating the king, activating the white king, active king, king activated, king activity
 
 ### Concept: King Safety
 Definition: The degree to which the king is protected from attack.
 
-Aliases: king safety, safe king
+Aliases: king is safe, king is safely, king is safer, king safety, safe king
 
 ### Concept: Knight (Good/Bad)
 Definition: A comparison based on square access and mobility.
 
-Aliases: bad knight, bad knights, good knight, good knights
+Aliases: bad knight, bad knights, good knight, good knights, knight has no, knight has nowhere
 
 ### Concept: Legal's Mate
 Definition: A mating pattern involving a bishop sacrifice followed by a quick mate.
@@ -380,7 +375,7 @@ Aliases: legal's mate, legal's mate i, legal's mate ii, legal's mate iii
 ### Concept: Liquidation
 Definition: Trading into a simplified position, often to reach a favorable endgame.
 
-Aliases: liquidate, liquidated, liquidates, liquidating
+Aliases: and simplify, black simplify, can simplify, hence simplifying, just simplify, just simplifying, liquidate, liquidated, liquidates, liquidating, now simplify, purposefully simplifying, simplify into, simplify the, simplifying into, simplifying to, to simplify, trade-down, trading-down, well simplify, white simplify
 
 ### Concept: Lolli's Mate
 Definition: A mating pattern attributed to Lolli involving rook and pawn coordination.
@@ -450,7 +445,7 @@ Aliases: tactical pattern, named tactical pattern, tactical motif
 ### Concept: Open Position
 Definition: A position with open lines and high piece mobility.
 
-Aliases: open position, open positions
+Aliases: open position, open positions, open the position, opening lines, opening the position, opening up lines
 
 ### Concept: Opera Mate
 Definition: A famous mating pattern from the Opera Game involving rook and bishop coordination.
@@ -460,7 +455,7 @@ Aliases: opera mate
 ### Concept: Opposition
 Definition: A king‑and‑pawn endgame concept where kings face each other to control key squares.
 
-Aliases: opposition, take the opposition
+Aliases: opposition, take the opposition, taking the opposition
 
 ### Concept: Outflanking
 Definition: A maneuver where the king bypasses the opponent’s defensive front to gain access.
@@ -520,7 +515,7 @@ Aliases: pawn minority, minority
 ### Concept: Pawn Roller
 Definition: A connected pawn advance that gains space or creates a passed pawn.
 
-Aliases: pawn roller
+Aliases: connected passed, pawn roller
 
 ### Concept: Pawn Storm
 Definition: A flank pawn advance aimed at attacking the king.
@@ -555,7 +550,7 @@ Aliases: pawnless advance
 ### Concept: Perpetual Check
 Definition: A sequence of checks that forces a draw.
 
-Aliases: perpetual check
+Aliases: perpetual check, perpetual-check
 
 ### Concept: Perpetual Check (Positional Context)
 Definition: A sequence of checks that forces a draw, considered here in positional contexts rather than tactical classification.
@@ -575,17 +570,17 @@ Aliases: active piece, active pieces, inactive piece, inactive pieces, mobile, m
 ### Concept: Piece Coordination
 Definition: How well pieces work together.
 
-Aliases: piece coordination, coordinate the pieces, coordinated pieces
+Aliases: coordination, coordinate the pieces, coordinated pieces
 
 ### Concept: Piece Trade
 Definition: Exchanging pieces to reach a more favorable position.
 
-Aliases: trade pieces, piece trade, traded pieces
+Aliases: exchange of, exchange on, exchange pieces, exchange rules, exchanged, exchanges, exchanging, not exchange, reasonable exchange, the exchanges, trade, traded, trades, trading
 
 ### Concept: Piece Trapped
 Definition: A tactic where a piece has no safe squares and will be lost.
 
-Aliases: piece trapped, pieces trapped, trapped piece, trapped pieces
+Aliases: bishop trapped, knight trapped, piece trapped, pieces trapped, queen trapped, rook trapped, trapped bishop, trapped knight, trapped piece, trapped pieces, trapped queen, trapped rook
 
 ### Concept: Pillsbury's Mate
 Definition: A mating pattern attributed to Harry Pillsbury involving rook and minor piece coordination.
@@ -595,7 +590,7 @@ Aliases: pillsbury's mate
 ### Concept: Pin
 Definition: A tactic where a piece cannot move without exposing a more valuable piece.
 
-Aliases: pin, pinned, pinning, pins
+Aliases: cross pin, pin, pinned, pinning, pins
 
 ### Concept: Plan vs Move Distinction
 Definition: The difference between long‑term goals and individual moves.
@@ -617,15 +612,15 @@ Definition: Creating a second weakness to overload the defense.
 
 Aliases: two weaknesses, principle of two weaknesses
 
-### Concept: Prophylactic Thinking
-Definition: Anticipating and preventing the opponent’s plans.
-
-Aliases: prophylactic thinking, think prophylactically
-
-### Concept: Prophylaxis
+### Concept: Prophylactic Moves
 Definition: Moves that restrict the opponent’s ideas.
 
-Aliases: prophylaxis, prophylactic, prophylactic move
+Aliases: closing down, prophylactic move, prophylactic moves
+
+### Concept: Prophylaxis
+Definition: Anticipating and preventing the opponent’s plans.
+
+Aliases: prophylaxis
 
 ### Concept: Quiet Move
 Definition: A non‑forcing move that improves the position or sets up tactics.
@@ -635,17 +630,17 @@ Aliases: quiet move, quiet moves
 ### Concept: Redirection
 Definition: A maneuver where a piece changes course to reach a more effective square.
 
-Aliases: re-route, re-routes, redirect, redirected, redirecting, redirection, redirects, reposition, repositions, reroute, reroutes
+Aliases: re-route, re-routes, redirect, redirected, redirecting, redirection, redirects, reposition, repositions, reroute, reroutes, rerouting
 
 ### Concept: Removing the Defender
 Definition: Eliminating a piece that protects a key square or target.
 
-Aliases: remove the defender, removing the defender, remove the defenders, remove the guard, defender removed, defenders removed
+Aliases: defender removed, defenders removed, remove the defender, remove the defenders, remove the guard, removed the defender, removed the guard, removes the defender, removes the defenders, removes the guard, removing the defender, removing the guard
 
 ### Concept: Reserve Tempi
 Definition: Extra waiting moves available in pawn endgames.
 
-Aliases: reserve tempi, reserve tempo, reserves tempi, reserves tempo
+Aliases: move in reserve, reserve pawn move, reserve pawn moves, reserve tempi, reserve tempo, reserves tempi, reserves tempo
 
 ### Concept: Reti's Mate
 Definition: A mating pattern attributed to Richard Réti involving diagonal control and rook support.
@@ -655,17 +650,17 @@ Aliases: reti's mate, réti's mate
 ### Concept: Rook Activity
 Definition: The effectiveness of rooks on open files and ranks.
 
-Aliases: rook activity, active rook, active rooks
+Aliases: activating the rook, active rook, active rooks, rook active, rook activity, rooks active
 
 ### Concept: Rules-of-Thumb Play
 Definition: Using general principles to guide decisions.
 
-Aliases: rules of thumb, rule of thumb, rules-of-thumb play
+Aliases: ROT, principled, principles, rule of thumb, rules of thumb, rules-of-thumb play
 
 ### Concept: Sacrifice
 Definition: Giving material for tactical or positional compensation.
 
-Aliases: sacrifice, sacrificed, sacrifices, sacrificing, strategic sacrifice, strategic sacrifices, positional sacrifice
+Aliases: greek gift sacrifice, greek sacrifice, positional sacrifice, sac, sacrifice, sacrificed, sacrifices, sacrificing, strategic sacrifice, strategic sacrifices
 
 ### Concept: Scholar's Mate
 Definition: A quick mating pattern targeting f7/f2 using queen and bishop coordination.
@@ -715,7 +710,7 @@ Aliases: dynamic advantage, initiative, pressure, pressured, pressures, pressuri
 ### Concept: Strategic Base of the Chess Game
 Definition: Foundational principles that guide long‑term planning.
 
-Aliases: strategic base, strategic base of the chess game
+Aliases: strategic base
 
 ### Concept: Swallow's Tail Mate
 Definition: A mating pattern where two pieces cover escape squares in a swallow-tail formation.
@@ -765,12 +760,12 @@ Aliases: undermine, undermined, undermines, undermining
 ### Concept: Vancura Position
 Definition: A defensive rook‑and‑pawn endgame setup that holds a draw.
 
-Aliases: vancura position
+Aliases: vancura position, vančura position
 
 ### Concept: Vukovic Mate
 Definition: A mating pattern attributed to Vuković involving rook and knight coordination.
 
-Aliases: vukovic mate, vuković mate
+Aliases: vukovic mate, vukovic's mate, vuković mate, vuković's mate
 
 ### Concept: Waiting Moves
 Definition: Moves that maintain the status quo and provoke concessions.
@@ -792,10 +787,10 @@ Definition: A tactical sequence where repeated discovered checks allow multiple 
 
 Aliases: windmill
 
-### Concept: X-Ray Attack
-Definition: An attack that passes through an intervening piece.
+### Concept: X-Ray Attack/Defense
+Definition: An attack/defense that passes through an intervening piece.
 
-Aliases: x-ray attack
+Aliases: x-ray, x-rayed
 
 ### Concept: Zugzwang
 Definition: A position where any move worsens the situation.

@@ -11,19 +11,19 @@ Appears In:
   - Chapter: Elements of chess per CMCA
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Nu1tvZ80
     - Found: accumulation of power, small advantages
-    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, small advantages, space
+    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, principles, small advantages, space
   - Chapter: Elements of chess per CMCA
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Nu1tvZ80
     - Found: accumulation of power, small advantages
-    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, small advantages, space
+    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, principles, small advantages, space
   - Chapter: Elements per game in CMCA: 11-20
     - Chapter URL: https://lichess.org/study/0YKgx0L1/fzZx3VLo
     - Found: accumulation of power, accumulation of tempi
-    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space
+    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space, strong bishop
   - Chapter: Elements per game in CMCA: 11-20
     - Chapter URL: https://lichess.org/study/0YKgx0L1/fzZx3VLo
     - Found: accumulation of power, accumulation of tempi
-    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space
+    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space, strong bishop
 
 
 ## Concept: Backward Move (Retreat)
@@ -37,15 +37,15 @@ Appears In:
   - Chapter: Game 8 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Rohs4vTT
     - Found: retreated
-    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening
+    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening, traded
   - Chapter: Game 13 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/kxusydZ2
     - Found: retreat
-    - All found aliases: center, pawn chain, retreat, sacrifice, sacrifices
+    - All found aliases: center, counter-attack, pawn chain, retreat, sacrifice, sacrifices, trade
   - Chapter: Game 15 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Found: retreats
-    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
   - Chapter: Game 16 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C4Qw8FwA
     - Found: retreat
@@ -54,7 +54,7 @@ Appears In:
 
 ## Concept: Battery
 
-Aliases: battery, doubled pieces, doubling pieces, piece battery
+Aliases: alekhine's gun, battery, doubled pieces, doubling pieces, piece battery
 
 Appears In:
 
@@ -68,7 +68,7 @@ Appears In:
 
 ## Concept: Bishop (Good/Bad)
 
-Aliases: bad bishop, bad bishops, good bishop, good bishops, hemmed in bishop, hemmed in bishops
+Aliases: bad bishop, bad bishops, good bishop, good bishops, hemmed in bishop, hemmed in bishops, strong bishop
 
 Appears In:
 
@@ -77,19 +77,23 @@ Appears In:
   - Chapter: Game 4 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Vw5VpUf5
     - Found: bad bishop
-    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, threaten, threatening
+    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, the hanging, threaten, threatening, trade
   - Chapter: Game 21 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Found: bad bishop
-    - All found aliases: bad bishop, center, dominates, liquidate, plan, planning, pressure, space, threat, threats, undermine
+    - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
   - Chapter: Game 23 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/GKGUU08H
     - Found: good bishop
-    - All found aliases: center, good bishop, majority, plan, pressure, threat, threatening
+    - All found aliases: center, counter-play, exchanged, good bishop, majority, plan, pressure, threat, threatening
   - Chapter: Chess -rules- per CMCA.
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mdTvxL7c
     - Found: good bishops
-    - All found aliases: doubled pawns, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, rules of thumb
+    - All found aliases: doubled pawns, evaluation, exchange rules, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, principles
+  - Chapter: Elements per game in CMCA: 11-20
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/fzZx3VLo
+    - Found: strong bishop
+    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space, strong bishop
   - Chapter: Elements per game in CMCA: 21-25
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C6QxF4v0
     - Found: bad bishop, good bishop
@@ -102,7 +106,7 @@ Appears In:
 
 ## Concept: Bishop Pair
 
-Aliases: bishop pair, two bishops
+Aliases: bishop pair, strong bishops, two bishop, two bishops
 
 Appears In:
 
@@ -111,12 +115,12 @@ Appears In:
   - Chapter: Game 18 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/54jgHTuJ
     - Found: bishop pair
-    - All found aliases: bishop pair, calculate, combination, material, threatening
+    - All found aliases: bishop pair, calculate, combination, exchanging, material, threatening
 
 
 ## Concept: Calculation
 
-Aliases: calculate, calculated, calculates, calculating, calculation, calculations
+Aliases: calculate, calculated, calculates, calculating, calculation, calculations, evaluate, evaluation
 
 Appears In:
 
@@ -125,39 +129,55 @@ Appears In:
   - Chapter: Game 3 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/om6R6NZk
     - Found: calculate, calculated
-    - All found aliases: calculate, calculated, candidate moves, candidates, fork, pin, pins, sacrificed, tactical pattern, threatening
+    - All found aliases: calculate, calculated, candidate moves, candidates, counter-play, exchange pieces, fork, knight has no, pin, pins, sacrificed, tactical pattern, threatening
   - Chapter: Game 3 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/om6R6NZk
     - Found: calculate, calculated
-    - All found aliases: calculate, calculated, candidate moves, candidates, fork, pin, pins, sacrificed, tactical pattern, threatening
+    - All found aliases: calculate, calculated, candidate moves, candidates, counter-play, exchange pieces, fork, knight has no, pin, pins, sacrificed, tactical pattern, threatening
+  - Chapter: Game 5 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/dz5XCr8y
+    - Found: evaluate
+    - All found aliases: candidate moves, candidates, compensation, doubled, evaluate, isolated, pawn structure, pin, pins, principles, tempi, tension, threatening, trade, trading
   - Chapter: Game 7 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/ecDYTHpX
-    - Found: calculate
-    - All found aliases: calculate, center, combination, developing, discovered checks, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
+    - Found: calculate, evaluation
+    - All found aliases: calculate, center, combination, developing, discovered checks, evaluation, king is safer, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
+  - Chapter: Game 7 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/ecDYTHpX
+    - Found: calculate, evaluation
+    - All found aliases: calculate, center, combination, developing, discovered checks, evaluation, king is safer, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
   - Chapter: Game 18 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/54jgHTuJ
     - Found: calculate
-    - All found aliases: bishop pair, calculate, combination, material, threatening
+    - All found aliases: bishop pair, calculate, combination, exchanging, material, threatening
   - Chapter: Game 20 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
     - Found: calculate, calculating, calculation
-    - All found aliases: calculate, calculating, calculation, candidate, center, double attack, forking, material, mobility, outpost, pin, tempi
+    - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
   - Chapter: Game 20 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
     - Found: calculate, calculating, calculation
-    - All found aliases: calculate, calculating, calculation, candidate, center, double attack, forking, material, mobility, outpost, pin, tempi
+    - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
   - Chapter: Game 20 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
     - Found: calculate, calculating, calculation
-    - All found aliases: calculate, calculating, calculation, candidate, center, double attack, forking, material, mobility, outpost, pin, tempi
+    - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
   - Chapter: What is an amateur?
     - Chapter URL: https://lichess.org/study/0YKgx0L1/xHMKngaf
     - Found: calculate
-    - All found aliases: calculate, initiative, rules of thumb
+    - All found aliases: calculate, initiative, principles, rules of thumb
+  - Chapter: Chess -rules- per CMCA.
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/mdTvxL7c
+    - Found: evaluation
+    - All found aliases: doubled pawns, evaluation, exchange rules, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, principles
   - Chapter: Chess analysis per CMCA.
     - Chapter URL: https://lichess.org/study/0YKgx0L1/sqX6IVrU
-    - Found: calculation
-    - All found aliases: calculation, candidate moves, candidates
+    - Found: calculation, evaluate
+    - All found aliases: calculation, candidate moves, candidates, evaluate, exchanges
+  - Chapter: Chess analysis per CMCA.
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/sqX6IVrU
+    - Found: calculation, evaluate
+    - All found aliases: calculation, candidate moves, candidates, evaluate, exchanges
 
 
 ## Concept: Candidate Moves
@@ -171,36 +191,36 @@ Appears In:
   - Chapter: Game 3 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/om6R6NZk
     - Found: candidate moves, candidates
-    - All found aliases: calculate, calculated, candidate moves, candidates, fork, pin, pins, sacrificed, tactical pattern, threatening
+    - All found aliases: calculate, calculated, candidate moves, candidates, counter-play, exchange pieces, fork, knight has no, pin, pins, sacrificed, tactical pattern, threatening
   - Chapter: Game 3 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/om6R6NZk
     - Found: candidate moves, candidates
-    - All found aliases: calculate, calculated, candidate moves, candidates, fork, pin, pins, sacrificed, tactical pattern, threatening
+    - All found aliases: calculate, calculated, candidate moves, candidates, counter-play, exchange pieces, fork, knight has no, pin, pins, sacrificed, tactical pattern, threatening
   - Chapter: Game 5 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/dz5XCr8y
     - Found: candidate moves, candidates
-    - All found aliases: candidate moves, candidates, compensation, doubled, isolated, pawn structure, pin, pins, tempi, tension, threatening
+    - All found aliases: candidate moves, candidates, compensation, doubled, evaluate, isolated, pawn structure, pin, pins, principles, tempi, tension, threatening, trade, trading
   - Chapter: Game 5 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/dz5XCr8y
     - Found: candidate moves, candidates
-    - All found aliases: candidate moves, candidates, compensation, doubled, isolated, pawn structure, pin, pins, tempi, tension, threatening
+    - All found aliases: candidate moves, candidates, compensation, doubled, evaluate, isolated, pawn structure, pin, pins, principles, tempi, tension, threatening, trade, trading
   - Chapter: Game 20 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
     - Found: candidate
-    - All found aliases: calculate, calculating, calculation, candidate, center, double attack, forking, material, mobility, outpost, pin, tempi
+    - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
   - Chapter: Chess analysis per CMCA.
     - Chapter URL: https://lichess.org/study/0YKgx0L1/sqX6IVrU
     - Found: candidate moves, candidates
-    - All found aliases: calculation, candidate moves, candidates
+    - All found aliases: calculation, candidate moves, candidates, evaluate, exchanges
   - Chapter: Chess analysis per CMCA.
     - Chapter URL: https://lichess.org/study/0YKgx0L1/sqX6IVrU
     - Found: candidate moves, candidates
-    - All found aliases: calculation, candidate moves, candidates
+    - All found aliases: calculation, candidate moves, candidates, evaluate, exchanges
 
 
 ## Concept: Center Control
 
-Aliases: center, center control, central control, control the center
+Aliases: center, center control, central control, control the center, controls the center
 
 Appears In:
 
@@ -213,15 +233,15 @@ Appears In:
   - Chapter: Game 4 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Vw5VpUf5
     - Found: center
-    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, threaten, threatening
+    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, the hanging, threaten, threatening, trade
   - Chapter: Game 7 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/ecDYTHpX
     - Found: center
-    - All found aliases: calculate, center, combination, developing, discovered checks, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
+    - All found aliases: calculate, center, combination, developing, discovered checks, evaluation, king is safer, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
   - Chapter: Game 8 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Rohs4vTT
     - Found: center
-    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening
+    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening, traded
   - Chapter: Game 9 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/4ZFG5vrW
     - Found: center
@@ -229,15 +249,15 @@ Appears In:
   - Chapter: Game 10 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mpAyRBgr
     - Found: center
-    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats
+    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats, trade
   - Chapter: Game 11 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/LlHgKeh7
     - Found: center
-    - All found aliases: center, developed, mating net, pawn structure, tempi
+    - All found aliases: center, compensated, developed, mating net, pawn structure, tempi
   - Chapter: Game 13 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/kxusydZ2
     - Found: center
-    - All found aliases: center, pawn chain, retreat, sacrifice, sacrifices
+    - All found aliases: center, counter-attack, pawn chain, retreat, sacrifice, sacrifices, trade
   - Chapter: Game 16 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C4Qw8FwA
     - Found: center
@@ -249,35 +269,35 @@ Appears In:
   - Chapter: Game 20 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
     - Found: center
-    - All found aliases: calculate, calculating, calculation, candidate, center, double attack, forking, material, mobility, outpost, pin, tempi
+    - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
   - Chapter: Game 21 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Found: center
-    - All found aliases: bad bishop, center, dominates, liquidate, plan, planning, pressure, space, threat, threats, undermine
+    - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
   - Chapter: Game 23 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/GKGUU08H
     - Found: center
-    - All found aliases: center, good bishop, majority, plan, pressure, threat, threatening
+    - All found aliases: center, counter-play, exchanged, good bishop, majority, plan, pressure, threat, threatening
   - Chapter: Game 24 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Y8dR0ccX
     - Found: center
-    - All found aliases: center, compensation, deflect, threatening
+    - All found aliases: center, compensation, deflect, exchanging, threatening
   - Chapter: Game 25 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/LqEVSQb9
     - Found: center
-    - All found aliases: center, developing, doubling, passed pawn, plan, threatening, threats, zugzwang
+    - All found aliases: center, developing, doubling, exchanged, exchanges, exchanging, passed pawn, plan, threatening, threats, zugzwang
   - Chapter: Elements of chess per CMCA
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Nu1tvZ80
     - Found: center
-    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, small advantages, space
+    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, principles, small advantages, space
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Found: center
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
   - Chapter: Elements per game in CMCA: 11-20
     - Chapter URL: https://lichess.org/study/0YKgx0L1/fzZx3VLo
     - Found: center
-    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space
+    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space, strong bishop
   - Chapter: Elements per game in CMCA: 21-25
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C6QxF4v0
     - Found: center
@@ -295,11 +315,11 @@ Appears In:
   - Chapter: Game 7 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/ecDYTHpX
     - Tactical Motif: combination
-    - All found aliases: calculate, center, combination, developing, discovered checks, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
+    - All found aliases: calculate, center, combination, developing, discovered checks, evaluation, king is safer, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
   - Chapter: Game 18 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/54jgHTuJ
     - Tactical Motif: combination
-    - All found aliases: bishop pair, calculate, combination, material, threatening
+    - All found aliases: bishop pair, calculate, combination, exchanging, material, threatening
   - Chapter: Strategy, tactics, combination per CMCA
     - Chapter URL: https://lichess.org/study/0YKgx0L1/56J4Byie
     - Tactical Motif: combination
@@ -307,16 +327,16 @@ Appears In:
   - Chapter: Elements of chess per CMCA
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Nu1tvZ80
     - Tactical Motif: combination, combinations
-    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, small advantages, space
+    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, principles, small advantages, space
   - Chapter: Elements of chess per CMCA
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Nu1tvZ80
     - Tactical Motif: combination, combinations
-    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, small advantages, space
+    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, principles, small advantages, space
 
 
 ## Concept: Compensation
 
-Aliases: compensation, dynamic compensation, positional compensation
+Aliases: compensate, compensated, compensates, compensating, compensation, dynamic compensation, positional compensation
 
 Appears In:
 
@@ -325,33 +345,63 @@ Appears In:
   - Chapter: Game 5 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/dz5XCr8y
     - Found: compensation
-    - All found aliases: candidate moves, candidates, compensation, doubled, isolated, pawn structure, pin, pins, tempi, tension, threatening
+    - All found aliases: candidate moves, candidates, compensation, doubled, evaluate, isolated, pawn structure, pin, pins, principles, tempi, tension, threatening, trade, trading
   - Chapter: Game 10 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mpAyRBgr
     - Found: compensation
-    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats
+    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats, trade
+  - Chapter: Game 11 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/LlHgKeh7
+    - Found: compensated
+    - All found aliases: center, compensated, developed, mating net, pawn structure, tempi
+  - Chapter: Game 20 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
+    - Found: compensate
+    - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
   - Chapter: Game 24 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Y8dR0ccX
     - Found: compensation
-    - All found aliases: center, compensation, deflect, threatening
+    - All found aliases: center, compensation, deflect, exchanging, threatening
   - Chapter: Elements per game in CMCA: 11-20
     - Chapter URL: https://lichess.org/study/0YKgx0L1/fzZx3VLo
     - Found: compensation
-    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space
+    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space, strong bishop
 
 
 ## Concept: Counterattack
 
-Aliases: counter-attacking, counterattack, counterattacked, counterattacks
+Aliases: counter-attack, counter-attacked, counter-attacking, counter-attacks, counterattack, counterattacked, counterattacking, counterattacks
 
 Appears In:
 
 - Study: CLONE: Chess Master vs. Chess Amateur: Euwe and Meiden
   - Study URL: https://lichess.org/study/0YKgx0L1
+  - Chapter: Game 13 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/kxusydZ2
+    - Found: counter-attack
+    - All found aliases: center, counter-attack, pawn chain, retreat, sacrifice, sacrifices, trade
   - Chapter: Game 15 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Found: counterattack
-    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+
+
+## Concept: Counterplay
+
+Aliases: counter-play, counterplay, generate counterplay
+
+Appears In:
+
+- Study: CLONE: Chess Master vs. Chess Amateur: Euwe and Meiden
+  - Study URL: https://lichess.org/study/0YKgx0L1
+  - Chapter: Game 3 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/om6R6NZk
+    - Found: counter-play
+    - All found aliases: calculate, calculated, candidate moves, candidates, counter-play, exchange pieces, fork, knight has no, pin, pins, sacrificed, tactical pattern, threatening
+  - Chapter: Game 23 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/GKGUU08H
+    - Found: counter-play
+    - All found aliases: center, counter-play, exchanged, good bishop, majority, plan, pressure, threat, threatening
 
 
 ## Concept: Deflection
@@ -365,16 +415,16 @@ Appears In:
   - Chapter: Game 8 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Rohs4vTT
     - Tactical Motif: deflection
-    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening
+    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening, traded
   - Chapter: Game 24 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Y8dR0ccX
     - Tactical Motif: deflect
-    - All found aliases: center, compensation, deflect, threatening
+    - All found aliases: center, compensation, deflect, exchanging, threatening
 
 
 ## Concept: Development
 
-Aliases: develop, developed, developing, develops, undeveloping
+Aliases: develop, developed, developing, develops, undevelop, undeveloped, undeveloping, undevelops
 
 Appears In:
 
@@ -391,27 +441,27 @@ Appears In:
   - Chapter: Game 7 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/ecDYTHpX
     - Found: developing
-    - All found aliases: calculate, center, combination, developing, discovered checks, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
+    - All found aliases: calculate, center, combination, developing, discovered checks, evaluation, king is safer, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
   - Chapter: Game 8 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Rohs4vTT
     - Found: developed
-    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening
+    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening, traded
   - Chapter: Game 10 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mpAyRBgr
     - Found: develop
-    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats
+    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats, trade
   - Chapter: Game 11 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/LlHgKeh7
     - Found: developed
-    - All found aliases: center, developed, mating net, pawn structure, tempi
+    - All found aliases: center, compensated, developed, mating net, pawn structure, tempi
   - Chapter: Game 15 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Found: developed, develops
-    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
   - Chapter: Game 15 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Found: developed, develops
-    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
   - Chapter: Game 16 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C4Qw8FwA
     - Found: develop, developed, developing
@@ -427,11 +477,11 @@ Appears In:
   - Chapter: Game 25 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/LqEVSQb9
     - Found: developing
-    - All found aliases: center, developing, doubling, passed pawn, plan, threatening, threats, zugzwang
+    - All found aliases: center, developing, doubling, exchanged, exchanges, exchanging, passed pawn, plan, threatening, threats, zugzwang
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Found: developing
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
 
 
 ## Concept: Discovered Attack
@@ -445,11 +495,11 @@ Appears In:
   - Chapter: Game 4 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Vw5VpUf5
     - Tactical Motif: discovered attack
-    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, threaten, threatening
+    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, the hanging, threaten, threatening, trade
   - Chapter: Game 7 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/ecDYTHpX
     - Tactical Motif: discovered checks
-    - All found aliases: calculate, center, combination, developing, discovered checks, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
+    - All found aliases: calculate, center, combination, developing, discovered checks, evaluation, king is safer, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
   - Chapter: Descriptive notation
     - Chapter URL: https://lichess.org/study/0YKgx0L1/IOHsUext
     - Tactical Motif: discovered check
@@ -457,7 +507,7 @@ Appears In:
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Tactical Motif: discovered check
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
 
 
 ## Concept: Domination
@@ -471,11 +521,11 @@ Appears In:
   - Chapter: Game 15 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Found: dominate
-    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
   - Chapter: Game 21 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Found: dominates
-    - All found aliases: bad bishop, center, dominates, liquidate, plan, planning, pressure, space, threat, threats, undermine
+    - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
 
 
 ## Concept: Double Attack
@@ -489,7 +539,7 @@ Appears In:
   - Chapter: Game 4 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Vw5VpUf5
     - Tactical Motif: double attack
-    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, threaten, threatening
+    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, the hanging, threaten, threatening, trade
   - Chapter: Game 6 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/WZeNScKh
     - Tactical Motif: double attack
@@ -497,7 +547,7 @@ Appears In:
   - Chapter: Game 20 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
     - Tactical Motif: double attack
-    - All found aliases: calculate, calculating, calculation, candidate, center, double attack, forking, material, mobility, outpost, pin, tempi
+    - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
 
 
 ## Concept: Double Check
@@ -515,7 +565,7 @@ Appears In:
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Tactical Motif: double check
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
 
 
 ## Concept: Doubled Pawns
@@ -529,23 +579,23 @@ Appears In:
   - Chapter: Game 5 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/dz5XCr8y
     - Feature: doubled
-    - All found aliases: candidate moves, candidates, compensation, doubled, isolated, pawn structure, pin, pins, tempi, tension, threatening
+    - All found aliases: candidate moves, candidates, compensation, doubled, evaluate, isolated, pawn structure, pin, pins, principles, tempi, tension, threatening, trade, trading
   - Chapter: Game 15 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Feature: doubled, doubled pawns
-    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
   - Chapter: Game 15 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Feature: doubled, doubled pawns
-    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
   - Chapter: Game 25 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/LqEVSQb9
     - Feature: doubling
-    - All found aliases: center, developing, doubling, passed pawn, plan, threatening, threats, zugzwang
+    - All found aliases: center, developing, doubling, exchanged, exchanges, exchanging, passed pawn, plan, threatening, threats, zugzwang
   - Chapter: Chess -rules- per CMCA.
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mdTvxL7c
     - Feature: doubled pawns
-    - All found aliases: doubled pawns, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, rules of thumb
+    - All found aliases: doubled pawns, evaluation, exchange rules, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, principles
 
 
 ## Concept: Fool's Mate
@@ -573,19 +623,47 @@ Appears In:
   - Chapter: Game 3 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/om6R6NZk
     - Tactical Motif: fork
-    - All found aliases: calculate, calculated, candidate moves, candidates, fork, pin, pins, sacrificed, tactical pattern, threatening
+    - All found aliases: calculate, calculated, candidate moves, candidates, counter-play, exchange pieces, fork, knight has no, pin, pins, sacrificed, tactical pattern, threatening
   - Chapter: Game 8 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Rohs4vTT
     - Tactical Motif: fork
-    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening
+    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening, traded
   - Chapter: Game 20 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
     - Tactical Motif: forking
-    - All found aliases: calculate, calculating, calculation, candidate, center, double attack, forking, material, mobility, outpost, pin, tempi
+    - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Tactical Motif: fork
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+
+
+## Concept: Hanging Piece
+
+Aliases: from hanging, hanging a, hanging mate, hanging material, hanging piece, hanging pieces, hanging the, is hanging, the hanging, was hanging
+
+Appears In:
+
+- Study: CLONE: Chess Master vs. Chess Amateur: Euwe and Meiden
+  - Study URL: https://lichess.org/study/0YKgx0L1
+  - Chapter: Game 4 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/Vw5VpUf5
+    - Tactical Motif: the hanging
+    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, the hanging, threaten, threatening, trade
+
+
+## Concept: Improving the Worst-Placed Piece
+
+Aliases: improve the, improve the worst piece, improved her, improved his, improves black's, improves his, improves the, improves white's, improving her, improving his, improving move, improving moves, improving the, improving the worst piece
+
+Appears In:
+
+- Study: CLONE: Chess Master vs. Chess Amateur: Euwe and Meiden
+  - Study URL: https://lichess.org/study/0YKgx0L1
+  - Chapter: Game 21 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
+    - Found: improve the
+    - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
 
 
 ## Concept: Intermediate Move
@@ -599,7 +677,7 @@ Appears In:
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Tactical Motif: in-between move
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
 
 
 ## Concept: Isolated Pawn
@@ -613,11 +691,11 @@ Appears In:
   - Chapter: Game 5 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/dz5XCr8y
     - Feature: isolated
-    - All found aliases: candidate moves, candidates, compensation, doubled, isolated, pawn structure, pin, pins, tempi, tension, threatening
+    - All found aliases: candidate moves, candidates, compensation, doubled, evaluate, isolated, pawn structure, pin, pins, principles, tempi, tension, threatening, trade, trading
   - Chapter: Game 15 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Feature: isolated pawns
-    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
   - Chapter: Game 16 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C4Qw8FwA
     - Feature: isolani
@@ -625,16 +703,44 @@ Appears In:
   - Chapter: Chess -rules- per CMCA.
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mdTvxL7c
     - Feature: isolated pawns
-    - All found aliases: doubled pawns, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, rules of thumb
+    - All found aliases: doubled pawns, evaluation, exchange rules, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, principles
   - Chapter: Elements per game in CMCA: 11-20
     - Chapter URL: https://lichess.org/study/0YKgx0L1/fzZx3VLo
     - Feature: isolated pawns
-    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space
+    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space, strong bishop
+
+
+## Concept: King Safety
+
+Aliases: king is safe, king is safely, king is safer, king safety, safe king
+
+Appears In:
+
+- Study: CLONE: Chess Master vs. Chess Amateur: Euwe and Meiden
+  - Study URL: https://lichess.org/study/0YKgx0L1
+  - Chapter: Game 7 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/ecDYTHpX
+    - Found: king is safer
+    - All found aliases: calculate, center, combination, developing, discovered checks, evaluation, king is safer, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
+
+
+## Concept: Knight (Good/Bad)
+
+Aliases: bad knight, bad knights, good knight, good knights, knight has no, knight has nowhere
+
+Appears In:
+
+- Study: CLONE: Chess Master vs. Chess Amateur: Euwe and Meiden
+  - Study URL: https://lichess.org/study/0YKgx0L1
+  - Chapter: Game 3 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/om6R6NZk
+    - Found: knight has no
+    - All found aliases: calculate, calculated, candidate moves, candidates, counter-play, exchange pieces, fork, knight has no, pin, pins, sacrificed, tactical pattern, threatening
 
 
 ## Concept: Liquidation
 
-Aliases: liquidate, liquidated, liquidates, liquidating
+Aliases: and simplify, black simplify, can simplify, hence simplifying, just simplify, just simplifying, liquidate, liquidated, liquidates, liquidating, now simplify, purposefully simplifying, simplify into, simplify the, simplifying into, simplifying to, to simplify, trade-down, trading-down, well simplify, white simplify
 
 Appears In:
 
@@ -643,7 +749,7 @@ Appears In:
   - Chapter: Game 21 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Found: liquidate
-    - All found aliases: bad bishop, center, dominates, liquidate, plan, planning, pressure, space, threat, threats, undermine
+    - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
 
 
 ## Concept: Loose Piece
@@ -657,7 +763,7 @@ Appears In:
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Tactical Motif: loose piece
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
 
 
 ## Concept: Maneuvering
@@ -671,7 +777,7 @@ Appears In:
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Found: maneuvering
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
 
 
 ## Concept: Material
@@ -685,7 +791,7 @@ Appears In:
   - Chapter: Game 4 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Vw5VpUf5
     - Found: material
-    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, threaten, threatening
+    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, the hanging, threaten, threatening, trade
   - Chapter: Game 6 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/WZeNScKh
     - Found: material
@@ -693,11 +799,11 @@ Appears In:
   - Chapter: Game 7 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/ecDYTHpX
     - Found: material
-    - All found aliases: calculate, center, combination, developing, discovered checks, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
+    - All found aliases: calculate, center, combination, developing, discovered checks, evaluation, king is safer, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
   - Chapter: Game 10 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mpAyRBgr
     - Found: material
-    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats
+    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats, trade
   - Chapter: Game 16 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C4Qw8FwA
     - Found: material
@@ -705,19 +811,19 @@ Appears In:
   - Chapter: Game 18 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/54jgHTuJ
     - Found: material
-    - All found aliases: bishop pair, calculate, combination, material, threatening
+    - All found aliases: bishop pair, calculate, combination, exchanging, material, threatening
   - Chapter: Game 20 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
     - Found: material
-    - All found aliases: calculate, calculating, calculation, candidate, center, double attack, forking, material, mobility, outpost, pin, tempi
+    - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Found: material
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
   - Chapter: Elements per game in CMCA: 11-20
     - Chapter URL: https://lichess.org/study/0YKgx0L1/fzZx3VLo
     - Found: material
-    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space
+    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space, strong bishop
 
 
 ## Concept: Mating Net
@@ -735,15 +841,15 @@ Appears In:
   - Chapter: Game 7 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/ecDYTHpX
     - Tactical Motif: mating net
-    - All found aliases: calculate, center, combination, developing, discovered checks, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
+    - All found aliases: calculate, center, combination, developing, discovered checks, evaluation, king is safer, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
   - Chapter: Game 11 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/LlHgKeh7
     - Tactical Motif: mating net
-    - All found aliases: center, developed, mating net, pawn structure, tempi
+    - All found aliases: center, compensated, developed, mating net, pawn structure, tempi
   - Chapter: Game 15 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Tactical Motif: mating net
-    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
   - Chapter: Game 16 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C4Qw8FwA
     - Tactical Motif: mating net
@@ -765,7 +871,7 @@ Appears In:
   - Chapter: Chess -rules- per CMCA.
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mdTvxL7c
     - Feature: pawn features
-    - All found aliases: doubled pawns, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, rules of thumb
+    - All found aliases: doubled pawns, evaluation, exchange rules, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, principles
 
 
 ## Concept: Named Tactical Pattern
@@ -779,12 +885,30 @@ Appears In:
   - Chapter: Game 3 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/om6R6NZk
     - Tactical Motif: tactical pattern
-    - All found aliases: calculate, calculated, candidate moves, candidates, fork, pin, pins, sacrificed, tactical pattern, threatening
+    - All found aliases: calculate, calculated, candidate moves, candidates, counter-play, exchange pieces, fork, knight has no, pin, pins, sacrificed, tactical pattern, threatening
+
+
+## Concept: Open Position
+
+Aliases: open position, open positions, open the position, opening lines, opening the position, opening up lines
+
+Appears In:
+
+- Study: CLONE: Chess Master vs. Chess Amateur: Euwe and Meiden
+  - Study URL: https://lichess.org/study/0YKgx0L1
+  - Chapter: Elements per game in CMCA: 1-10
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
+    - Found: opening lines, opening the position
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+  - Chapter: Elements per game in CMCA: 1-10
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
+    - Found: opening lines, opening the position
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
 
 
 ## Concept: Opposition
 
-Aliases: opposition, take the opposition
+Aliases: opposition, take the opposition, taking the opposition
 
 Appears In:
 
@@ -793,7 +917,7 @@ Appears In:
   - Chapter: Chess -rules- per CMCA.
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mdTvxL7c
     - Found: opposition
-    - All found aliases: doubled pawns, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, rules of thumb
+    - All found aliases: doubled pawns, evaluation, exchange rules, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, principles
 
 
 ## Concept: Outpost
@@ -807,7 +931,7 @@ Appears In:
   - Chapter: Game 20 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
     - Feature: outpost
-    - All found aliases: calculate, calculating, calculation, candidate, center, double attack, forking, material, mobility, outpost, pin, tempi
+    - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
 
 
 ## Concept: Passed Pawn
@@ -821,7 +945,7 @@ Appears In:
   - Chapter: Game 25 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/LqEVSQb9
     - Feature: passed pawn
-    - All found aliases: center, developing, doubling, passed pawn, plan, threatening, threats, zugzwang
+    - All found aliases: center, developing, doubling, exchanged, exchanges, exchanging, passed pawn, plan, threatening, threats, zugzwang
 
 
 ## Concept: Pawn Chain
@@ -835,7 +959,7 @@ Appears In:
   - Chapter: Game 13 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/kxusydZ2
     - Feature: pawn chain
-    - All found aliases: center, pawn chain, retreat, sacrifice, sacrifices
+    - All found aliases: center, counter-attack, pawn chain, retreat, sacrifice, sacrifices, trade
   - Chapter: Elements per game in CMCA: 21-25
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C6QxF4v0
     - Feature: chain
@@ -853,7 +977,7 @@ Appears In:
   - Chapter: Game 23 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/GKGUU08H
     - Feature: majority
-    - All found aliases: center, good bishop, majority, plan, pressure, threat, threatening
+    - All found aliases: center, counter-play, exchanged, good bishop, majority, plan, pressure, threat, threatening
 
 
 ## Concept: Pawn Structure
@@ -867,15 +991,15 @@ Appears In:
   - Chapter: Game 5 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/dz5XCr8y
     - Found: pawn structure
-    - All found aliases: candidate moves, candidates, compensation, doubled, isolated, pawn structure, pin, pins, tempi, tension, threatening
+    - All found aliases: candidate moves, candidates, compensation, doubled, evaluate, isolated, pawn structure, pin, pins, principles, tempi, tension, threatening, trade, trading
   - Chapter: Game 11 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/LlHgKeh7
     - Found: pawn structure
-    - All found aliases: center, developed, mating net, pawn structure, tempi
+    - All found aliases: center, compensated, developed, mating net, pawn structure, tempi
   - Chapter: Game 12 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/cnGhvhIE
     - Found: pawn structure
-    - All found aliases: pawn structure, planned, tension, threatening
+    - All found aliases: exchanged, pawn structure, planned, tension, threatening
   - Chapter: Game 19 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/unqa17GD
     - Found: formation, pawn formations
@@ -887,11 +1011,11 @@ Appears In:
   - Chapter: Chess -rules- per CMCA.
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mdTvxL7c
     - Found: pawn structure, pawn structures
-    - All found aliases: doubled pawns, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, rules of thumb
+    - All found aliases: doubled pawns, evaluation, exchange rules, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, principles
   - Chapter: Chess -rules- per CMCA.
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mdTvxL7c
     - Found: pawn structure, pawn structures
-    - All found aliases: doubled pawns, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, rules of thumb
+    - All found aliases: doubled pawns, evaluation, exchange rules, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, principles
 
 
 ## Concept: Pawn Structure Transformation
@@ -905,7 +1029,7 @@ Appears In:
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Found: transforming
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
 
 
 ## Concept: Pawn Tension
@@ -919,11 +1043,11 @@ Appears In:
   - Chapter: Game 5 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/dz5XCr8y
     - Feature: tension
-    - All found aliases: candidate moves, candidates, compensation, doubled, isolated, pawn structure, pin, pins, tempi, tension, threatening
+    - All found aliases: candidate moves, candidates, compensation, doubled, evaluate, isolated, pawn structure, pin, pins, principles, tempi, tension, threatening, trade, trading
   - Chapter: Game 8 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Rohs4vTT
     - Feature: tension
-    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening
+    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening, traded
   - Chapter: Game 9 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/4ZFG5vrW
     - Feature: tension
@@ -931,11 +1055,11 @@ Appears In:
   - Chapter: Game 12 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/cnGhvhIE
     - Feature: tension
-    - All found aliases: pawn structure, planned, tension, threatening
+    - All found aliases: exchanged, pawn structure, planned, tension, threatening
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Feature: tension
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
 
 
 ## Concept: Pawn Weakness
@@ -949,7 +1073,7 @@ Appears In:
   - Chapter: Game 15 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Feature: weak pawns
-    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
 
 
 ## Concept: Perpetual Check (Positional Context)
@@ -977,20 +1101,118 @@ Appears In:
   - Chapter: Game 20 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
     - Found: mobility
-    - All found aliases: calculate, calculating, calculation, candidate, center, double attack, forking, material, mobility, outpost, pin, tempi
+    - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Found: restricting
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
   - Chapter: Elements per game in CMCA: 11-20
     - Chapter URL: https://lichess.org/study/0YKgx0L1/fzZx3VLo
     - Found: mobility
-    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space
+    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space, strong bishop
+
+
+## Concept: Piece Trade
+
+Aliases: exchange of, exchange on, exchange pieces, exchange rules, exchanged, exchanges, exchanging, not exchange, reasonable exchange, the exchanges, trade, traded, trades, trading
+
+Appears In:
+
+- Study: CLONE: Chess Master vs. Chess Amateur: Euwe and Meiden
+  - Study URL: https://lichess.org/study/0YKgx0L1
+  - Chapter: Game 3 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/om6R6NZk
+    - Found: exchange pieces
+    - All found aliases: calculate, calculated, candidate moves, candidates, counter-play, exchange pieces, fork, knight has no, pin, pins, sacrificed, tactical pattern, threatening
+  - Chapter: Game 4 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/Vw5VpUf5
+    - Found: trade
+    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, the hanging, threaten, threatening, trade
+  - Chapter: Game 5 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/dz5XCr8y
+    - Found: trade, trading
+    - All found aliases: candidate moves, candidates, compensation, doubled, evaluate, isolated, pawn structure, pin, pins, principles, tempi, tension, threatening, trade, trading
+  - Chapter: Game 5 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/dz5XCr8y
+    - Found: trade, trading
+    - All found aliases: candidate moves, candidates, compensation, doubled, evaluate, isolated, pawn structure, pin, pins, principles, tempi, tension, threatening, trade, trading
+  - Chapter: Game 8 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/Rohs4vTT
+    - Found: traded
+    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening, traded
+  - Chapter: Game 10 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/mpAyRBgr
+    - Found: trade
+    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats, trade
+  - Chapter: Game 12 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/cnGhvhIE
+    - Found: exchanged
+    - All found aliases: exchanged, pawn structure, planned, tension, threatening
+  - Chapter: Game 13 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/kxusydZ2
+    - Found: trade
+    - All found aliases: center, counter-attack, pawn chain, retreat, sacrifice, sacrifices, trade
+  - Chapter: Game 14 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/jJGKCiKn
+    - Found: exchange of
+    - All found aliases: exchange of, pinning, pressure, sacrifice, sacrificed, sacrifices, threatening
+  - Chapter: Game 15 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
+    - Found: exchanges, exchanging
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+  - Chapter: Game 15 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
+    - Found: exchanges, exchanging
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+  - Chapter: Game 18 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/54jgHTuJ
+    - Found: exchanging
+    - All found aliases: bishop pair, calculate, combination, exchanging, material, threatening
+  - Chapter: Game 20 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
+    - Found: exchange of
+    - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
+  - Chapter: Game 21 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
+    - Found: exchanging
+    - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
+  - Chapter: Game 23 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/GKGUU08H
+    - Found: exchanged
+    - All found aliases: center, counter-play, exchanged, good bishop, majority, plan, pressure, threat, threatening
+  - Chapter: Game 24 - Master vs. Amateur
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/Y8dR0ccX
+    - Found: exchanging
+    - All found aliases: center, compensation, deflect, exchanging, threatening
+  - Chapter: Game 25 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/LqEVSQb9
+    - Found: exchanged, exchanges, exchanging
+    - All found aliases: center, developing, doubling, exchanged, exchanges, exchanging, passed pawn, plan, threatening, threats, zugzwang
+  - Chapter: Game 25 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/LqEVSQb9
+    - Found: exchanged, exchanges, exchanging
+    - All found aliases: center, developing, doubling, exchanged, exchanges, exchanging, passed pawn, plan, threatening, threats, zugzwang
+  - Chapter: Game 25 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/LqEVSQb9
+    - Found: exchanged, exchanges, exchanging
+    - All found aliases: center, developing, doubling, exchanged, exchanges, exchanging, passed pawn, plan, threatening, threats, zugzwang
+  - Chapter: Chess -rules- per CMCA.
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/mdTvxL7c
+    - Found: exchange rules
+    - All found aliases: doubled pawns, evaluation, exchange rules, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, principles
+  - Chapter: Chess analysis per CMCA.
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/sqX6IVrU
+    - Found: exchanges
+    - All found aliases: calculation, candidate moves, candidates, evaluate, exchanges
+  - Chapter: Elements per game in CMCA: 1-10
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
+    - Found: exchanging
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
 
 
 ## Concept: Pin
 
-Aliases: pin, pinned, pinning, pins
+Aliases: cross pin, pin, pinned, pinning, pins
 
 Appears In:
 
@@ -1003,27 +1225,27 @@ Appears In:
   - Chapter: Game 3 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/om6R6NZk
     - Tactical Motif: pin, pins
-    - All found aliases: calculate, calculated, candidate moves, candidates, fork, pin, pins, sacrificed, tactical pattern, threatening
+    - All found aliases: calculate, calculated, candidate moves, candidates, counter-play, exchange pieces, fork, knight has no, pin, pins, sacrificed, tactical pattern, threatening
   - Chapter: Game 3 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/om6R6NZk
     - Tactical Motif: pin, pins
-    - All found aliases: calculate, calculated, candidate moves, candidates, fork, pin, pins, sacrificed, tactical pattern, threatening
+    - All found aliases: calculate, calculated, candidate moves, candidates, counter-play, exchange pieces, fork, knight has no, pin, pins, sacrificed, tactical pattern, threatening
   - Chapter: Game 4 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Vw5VpUf5
     - Tactical Motif: pinning
-    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, threaten, threatening
+    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, the hanging, threaten, threatening, trade
   - Chapter: Game 5 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/dz5XCr8y
     - Tactical Motif: pin, pins
-    - All found aliases: candidate moves, candidates, compensation, doubled, isolated, pawn structure, pin, pins, tempi, tension, threatening
+    - All found aliases: candidate moves, candidates, compensation, doubled, evaluate, isolated, pawn structure, pin, pins, principles, tempi, tension, threatening, trade, trading
   - Chapter: Game 5 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/dz5XCr8y
     - Tactical Motif: pin, pins
-    - All found aliases: candidate moves, candidates, compensation, doubled, isolated, pawn structure, pin, pins, tempi, tension, threatening
+    - All found aliases: candidate moves, candidates, compensation, doubled, evaluate, isolated, pawn structure, pin, pins, principles, tempi, tension, threatening, trade, trading
   - Chapter: Game 8 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Rohs4vTT
     - Tactical Motif: pin
-    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening
+    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening, traded
   - Chapter: Game 9 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/4ZFG5vrW
     - Tactical Motif: pinned
@@ -1031,19 +1253,19 @@ Appears In:
   - Chapter: Game 14 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/jJGKCiKn
     - Tactical Motif: pinning
-    - All found aliases: pinning, pressure, sacrifice, sacrificed, sacrifices, threatening
+    - All found aliases: exchange of, pinning, pressure, sacrifice, sacrificed, sacrifices, threatening
   - Chapter: Game 20 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
     - Tactical Motif: pin
-    - All found aliases: calculate, calculating, calculation, candidate, center, double attack, forking, material, mobility, outpost, pin, tempi
+    - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Tactical Motif: pin, pinning
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Tactical Motif: pin, pinning
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
   - Chapter: Elements per game in CMCA: 21-25
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C6QxF4v0
     - Tactical Motif: pin
@@ -1061,27 +1283,27 @@ Appears In:
   - Chapter: Game 12 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/cnGhvhIE
     - Found: planned
-    - All found aliases: pawn structure, planned, tension, threatening
+    - All found aliases: exchanged, pawn structure, planned, tension, threatening
   - Chapter: Game 21 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Found: plan, planning
-    - All found aliases: bad bishop, center, dominates, liquidate, plan, planning, pressure, space, threat, threats, undermine
+    - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
   - Chapter: Game 21 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Found: plan, planning
-    - All found aliases: bad bishop, center, dominates, liquidate, plan, planning, pressure, space, threat, threats, undermine
+    - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
   - Chapter: Game 23 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/GKGUU08H
     - Found: plan
-    - All found aliases: center, good bishop, majority, plan, pressure, threat, threatening
+    - All found aliases: center, counter-play, exchanged, good bishop, majority, plan, pressure, threat, threatening
   - Chapter: Game 25 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/LqEVSQb9
     - Found: plan
-    - All found aliases: center, developing, doubling, passed pawn, plan, threatening, threats, zugzwang
+    - All found aliases: center, developing, doubling, exchanged, exchanges, exchanging, passed pawn, plan, threatening, threats, zugzwang
   - Chapter: Elements per game in CMCA: 11-20
     - Chapter URL: https://lichess.org/study/0YKgx0L1/fzZx3VLo
     - Found: planning
-    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space
+    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space, strong bishop
   - Chapter: Elements per game in CMCA: 21-25
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C6QxF4v0
     - Found: planning
@@ -1090,29 +1312,41 @@ Appears In:
 
 ## Concept: Rules-of-Thumb Play
 
-Aliases: rule of thumb, rules of thumb, rules-of-thumb play
+Aliases: principled, principles, rot, rule of thumb, rules of thumb, rules-of-thumb play
 
 Appears In:
 
 - Study: CLONE: Chess Master vs. Chess Amateur: Euwe and Meiden
   - Study URL: https://lichess.org/study/0YKgx0L1
+  - Chapter: Game 5 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/dz5XCr8y
+    - Found: principles
+    - All found aliases: candidate moves, candidates, compensation, doubled, evaluate, isolated, pawn structure, pin, pins, principles, tempi, tension, threatening, trade, trading
   - Chapter: What is an amateur?
     - Chapter URL: https://lichess.org/study/0YKgx0L1/xHMKngaf
-    - Found: rules of thumb
-    - All found aliases: calculate, initiative, rules of thumb
+    - Found: principles, rules of thumb
+    - All found aliases: calculate, initiative, principles, rules of thumb
+  - Chapter: What is an amateur?
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/xHMKngaf
+    - Found: principles, rules of thumb
+    - All found aliases: calculate, initiative, principles, rules of thumb
   - Chapter: Chess -rules- per CMCA.
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mdTvxL7c
-    - Found: rules of thumb
-    - All found aliases: doubled pawns, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, rules of thumb
+    - Found: principles
+    - All found aliases: doubled pawns, evaluation, exchange rules, good bishops, isolated pawns, opposition, pawn features, pawn structure, pawn structures, principles
+  - Chapter: Elements of chess per CMCA
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/Nu1tvZ80
+    - Found: principles
+    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, principles, small advantages, space
   - Chapter: Elements per game in CMCA: 11-20
     - Chapter URL: https://lichess.org/study/0YKgx0L1/fzZx3VLo
     - Found: rule of thumb
-    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space
+    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space, strong bishop
 
 
 ## Concept: Sacrifice
 
-Aliases: positional sacrifice, sacrifice, sacrificed, sacrifices, sacrificing, strategic sacrifice, strategic sacrifices
+Aliases: greek gift sacrifice, greek sacrifice, positional sacrifice, sac, sacrifice, sacrificed, sacrifices, sacrificing, strategic sacrifice, strategic sacrifices
 
 Appears In:
 
@@ -1121,35 +1355,35 @@ Appears In:
   - Chapter: Game 3 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/om6R6NZk
     - Tactical Motif: sacrificed
-    - All found aliases: calculate, calculated, candidate moves, candidates, fork, pin, pins, sacrificed, tactical pattern, threatening
+    - All found aliases: calculate, calculated, candidate moves, candidates, counter-play, exchange pieces, fork, knight has no, pin, pins, sacrificed, tactical pattern, threatening
   - Chapter: Game 7 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/ecDYTHpX
     - Tactical Motif: sacrifice
-    - All found aliases: calculate, center, combination, developing, discovered checks, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
+    - All found aliases: calculate, center, combination, developing, discovered checks, evaluation, king is safer, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
   - Chapter: Game 10 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mpAyRBgr
     - Tactical Motif: sacrifice
-    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats
+    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats, trade
   - Chapter: Game 13 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/kxusydZ2
     - Tactical Motif: sacrifice, sacrifices
-    - All found aliases: center, pawn chain, retreat, sacrifice, sacrifices
+    - All found aliases: center, counter-attack, pawn chain, retreat, sacrifice, sacrifices, trade
   - Chapter: Game 13 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/kxusydZ2
     - Tactical Motif: sacrifice, sacrifices
-    - All found aliases: center, pawn chain, retreat, sacrifice, sacrifices
+    - All found aliases: center, counter-attack, pawn chain, retreat, sacrifice, sacrifices, trade
   - Chapter: Game 14 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/jJGKCiKn
     - Tactical Motif: sacrifice, sacrificed, sacrifices
-    - All found aliases: pinning, pressure, sacrifice, sacrificed, sacrifices, threatening
+    - All found aliases: exchange of, pinning, pressure, sacrifice, sacrificed, sacrifices, threatening
   - Chapter: Game 14 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/jJGKCiKn
     - Tactical Motif: sacrifice, sacrificed, sacrifices
-    - All found aliases: pinning, pressure, sacrifice, sacrificed, sacrifices, threatening
+    - All found aliases: exchange of, pinning, pressure, sacrifice, sacrificed, sacrifices, threatening
   - Chapter: Game 14 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/jJGKCiKn
     - Tactical Motif: sacrifice, sacrificed, sacrifices
-    - All found aliases: pinning, pressure, sacrifice, sacrificed, sacrifices, threatening
+    - All found aliases: exchange of, pinning, pressure, sacrifice, sacrificed, sacrifices, threatening
   - Chapter: Game 16 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C4Qw8FwA
     - Tactical Motif: sacrifices
@@ -1161,11 +1395,11 @@ Appears In:
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Tactical Motif: sacrifice
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
   - Chapter: Elements per game in CMCA: 11-20
     - Chapter URL: https://lichess.org/study/0YKgx0L1/fzZx3VLo
     - Tactical Motif: sacrifice
-    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space
+    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space, strong bishop
   - Chapter: Elements per game in CMCA: 21-25
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C6QxF4v0
     - Tactical Motif: sacrifice
@@ -1183,7 +1417,7 @@ Appears In:
   - Chapter: Game 7 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/ecDYTHpX
     - Named Mate: scholar's mate
-    - All found aliases: calculate, center, combination, developing, discovered checks, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
+    - All found aliases: calculate, center, combination, developing, discovered checks, evaluation, king is safer, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
 
 
 ## Concept: Space
@@ -1197,19 +1431,19 @@ Appears In:
   - Chapter: Game 21 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Found: space
-    - All found aliases: bad bishop, center, dominates, liquidate, plan, planning, pressure, space, threat, threats, undermine
+    - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
   - Chapter: Elements of chess per CMCA
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Nu1tvZ80
     - Found: space
-    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, small advantages, space
+    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, principles, small advantages, space
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Found: space
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
   - Chapter: Elements per game in CMCA: 11-20
     - Chapter URL: https://lichess.org/study/0YKgx0L1/fzZx3VLo
     - Found: space
-    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space
+    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space, strong bishop
 
 
 ## Concept: Static vs Dynamic Advantage
@@ -1223,47 +1457,47 @@ Appears In:
   - Chapter: Game 8 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Rohs4vTT
     - Found: initiative
-    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening
+    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening, traded
   - Chapter: Game 14 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/jJGKCiKn
     - Found: pressure
-    - All found aliases: pinning, pressure, sacrifice, sacrificed, sacrifices, threatening
+    - All found aliases: exchange of, pinning, pressure, sacrifice, sacrificed, sacrifices, threatening
   - Chapter: Game 15 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Found: initiative
-    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
   - Chapter: Game 21 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Found: pressure
-    - All found aliases: bad bishop, center, dominates, liquidate, plan, planning, pressure, space, threat, threats, undermine
+    - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
   - Chapter: Game 23 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/GKGUU08H
     - Found: pressure
-    - All found aliases: center, good bishop, majority, plan, pressure, threat, threatening
+    - All found aliases: center, counter-play, exchanged, good bishop, majority, plan, pressure, threat, threatening
   - Chapter: What is an amateur?
     - Chapter URL: https://lichess.org/study/0YKgx0L1/xHMKngaf
     - Found: initiative
-    - All found aliases: calculate, initiative, rules of thumb
+    - All found aliases: calculate, initiative, principles, rules of thumb
   - Chapter: Elements of chess per CMCA
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Nu1tvZ80
     - Found: initiative, pressure
-    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, small advantages, space
+    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, principles, small advantages, space
   - Chapter: Elements of chess per CMCA
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Nu1tvZ80
     - Found: initiative, pressure
-    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, small advantages, space
+    - All found aliases: accumulation of power, center, combination, combinations, initiative, pressure, principles, small advantages, space
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Found: initiative, pressure
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Found: initiative, pressure
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
   - Chapter: Elements per game in CMCA: 11-20
     - Chapter URL: https://lichess.org/study/0YKgx0L1/fzZx3VLo
     - Found: pressure
-    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space
+    - All found aliases: accumulation of power, accumulation of tempi, center, compensation, isolated pawns, material, mobility, planning, pressure, rule of thumb, sacrifice, space, strong bishop
   - Chapter: Elements per game in CMCA: 21-25
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C6QxF4v0
     - Found: pressure
@@ -1281,7 +1515,7 @@ Appears In:
   - Chapter: Game 5 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/dz5XCr8y
     - Found: tempi
-    - All found aliases: candidate moves, candidates, compensation, doubled, isolated, pawn structure, pin, pins, tempi, tension, threatening
+    - All found aliases: candidate moves, candidates, compensation, doubled, evaluate, isolated, pawn structure, pin, pins, principles, tempi, tension, threatening, trade, trading
   - Chapter: Game 9 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/4ZFG5vrW
     - Found: tempi
@@ -1289,23 +1523,23 @@ Appears In:
   - Chapter: Game 10 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mpAyRBgr
     - Found: tempi, tempo
-    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats
+    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats, trade
   - Chapter: Game 10 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mpAyRBgr
     - Found: tempi, tempo
-    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats
+    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats, trade
   - Chapter: Game 11 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/LlHgKeh7
     - Found: tempi
-    - All found aliases: center, developed, mating net, pawn structure, tempi
+    - All found aliases: center, compensated, developed, mating net, pawn structure, tempi
   - Chapter: Game 15 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Found: tempi, tempo
-    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
   - Chapter: Game 15 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Found: tempi, tempo
-    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
   - Chapter: Game 19 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/unqa17GD
     - Found: tempi
@@ -1313,15 +1547,15 @@ Appears In:
   - Chapter: Game 20 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
     - Found: tempi
-    - All found aliases: calculate, calculating, calculation, candidate, center, double attack, forking, material, mobility, outpost, pin, tempi
+    - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Found: tempi, tempo
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Found: tempi, tempo
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
   - Chapter: Elements per game in CMCA: 21-25
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C6QxF4v0
     - Found: tempo
@@ -1355,35 +1589,35 @@ Appears In:
   - Chapter: Game 3 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/om6R6NZk
     - Found: threatening
-    - All found aliases: calculate, calculated, candidate moves, candidates, fork, pin, pins, sacrificed, tactical pattern, threatening
+    - All found aliases: calculate, calculated, candidate moves, candidates, counter-play, exchange pieces, fork, knight has no, pin, pins, sacrificed, tactical pattern, threatening
   - Chapter: Game 4 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Vw5VpUf5
     - Found: threaten, threatening
-    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, threaten, threatening
+    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, the hanging, threaten, threatening, trade
   - Chapter: Game 4 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Vw5VpUf5
     - Found: threaten, threatening
-    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, threaten, threatening
+    - All found aliases: bad bishop, center, discovered attack, double attack, material, pinning, the hanging, threaten, threatening, trade
   - Chapter: Game 5 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/dz5XCr8y
     - Found: threatening
-    - All found aliases: candidate moves, candidates, compensation, doubled, isolated, pawn structure, pin, pins, tempi, tension, threatening
+    - All found aliases: candidate moves, candidates, compensation, doubled, evaluate, isolated, pawn structure, pin, pins, principles, tempi, tension, threatening, trade, trading
   - Chapter: Game 7 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/ecDYTHpX
     - Found: threatening, threats
-    - All found aliases: calculate, center, combination, developing, discovered checks, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
+    - All found aliases: calculate, center, combination, developing, discovered checks, evaluation, king is safer, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
   - Chapter: Game 7 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/ecDYTHpX
     - Found: threatening, threats
-    - All found aliases: calculate, center, combination, developing, discovered checks, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
+    - All found aliases: calculate, center, combination, developing, discovered checks, evaluation, king is safer, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
   - Chapter: Game 8 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Rohs4vTT
     - Found: threat, threatening
-    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening
+    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening, traded
   - Chapter: Game 8 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Rohs4vTT
     - Found: threat, threatening
-    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening
+    - All found aliases: center, deflection, developed, fork, initiative, pin, retreated, tension, threat, threatening, traded
   - Chapter: Game 9 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/4ZFG5vrW
     - Found: threatening
@@ -1391,27 +1625,27 @@ Appears In:
   - Chapter: Game 10 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mpAyRBgr
     - Found: threatening, threats
-    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats
+    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats, trade
   - Chapter: Game 10 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/mpAyRBgr
     - Found: threatening, threats
-    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats
+    - All found aliases: center, compensation, develop, material, sacrifice, tempi, tempo, threatening, threats, trade
   - Chapter: Game 12 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/cnGhvhIE
     - Found: threatening
-    - All found aliases: pawn structure, planned, tension, threatening
+    - All found aliases: exchanged, pawn structure, planned, tension, threatening
   - Chapter: Game 14 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/jJGKCiKn
     - Found: threatening
-    - All found aliases: pinning, pressure, sacrifice, sacrificed, sacrifices, threatening
+    - All found aliases: exchange of, pinning, pressure, sacrifice, sacrificed, sacrifices, threatening
   - Chapter: Game 15 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Found: threat, threatening
-    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
   - Chapter: Game 15 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Found: threat, threatening
-    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+    - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
   - Chapter: Game 16 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C4Qw8FwA
     - Found: threat, threatening
@@ -1427,39 +1661,39 @@ Appears In:
   - Chapter: Game 18 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/54jgHTuJ
     - Found: threatening
-    - All found aliases: bishop pair, calculate, combination, material, threatening
+    - All found aliases: bishop pair, calculate, combination, exchanging, material, threatening
   - Chapter: Game 21 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Found: threat, threats
-    - All found aliases: bad bishop, center, dominates, liquidate, plan, planning, pressure, space, threat, threats, undermine
+    - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
   - Chapter: Game 21 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Found: threat, threats
-    - All found aliases: bad bishop, center, dominates, liquidate, plan, planning, pressure, space, threat, threats, undermine
+    - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
   - Chapter: Game 23 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/GKGUU08H
     - Found: threat, threatening
-    - All found aliases: center, good bishop, majority, plan, pressure, threat, threatening
+    - All found aliases: center, counter-play, exchanged, good bishop, majority, plan, pressure, threat, threatening
   - Chapter: Game 23 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/GKGUU08H
     - Found: threat, threatening
-    - All found aliases: center, good bishop, majority, plan, pressure, threat, threatening
+    - All found aliases: center, counter-play, exchanged, good bishop, majority, plan, pressure, threat, threatening
   - Chapter: Game 24 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/Y8dR0ccX
     - Found: threatening
-    - All found aliases: center, compensation, deflect, threatening
+    - All found aliases: center, compensation, deflect, exchanging, threatening
   - Chapter: Game 25 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/LqEVSQb9
     - Found: threatening, threats
-    - All found aliases: center, developing, doubling, passed pawn, plan, threatening, threats, zugzwang
+    - All found aliases: center, developing, doubling, exchanged, exchanges, exchanging, passed pawn, plan, threatening, threats, zugzwang
   - Chapter: Game 25 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/LqEVSQb9
     - Found: threatening, threats
-    - All found aliases: center, developing, doubling, passed pawn, plan, threatening, threats, zugzwang
+    - All found aliases: center, developing, doubling, exchanged, exchanges, exchanging, passed pawn, plan, threatening, threats, zugzwang
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Found: threat
-    - All found aliases: center, developing, discovered check, double check, fork, in-between move, initiative, loose piece, maneuvering, material, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
+    - All found aliases: center, developing, discovered check, double check, exchanging, fork, in-between move, initiative, loose piece, maneuvering, material, opening lines, opening the position, pin, pinning, pressure, restricting, sacrifice, space, tempi, tempo, tension, threat, transforming
 
 
 ## Concept: Undermining
@@ -1473,7 +1707,7 @@ Appears In:
   - Chapter: Game 21 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Tactical Motif: undermine
-    - All found aliases: bad bishop, center, dominates, liquidate, plan, planning, pressure, space, threat, threats, undermine
+    - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
 
 
 ## Concept: Windmill
@@ -1487,7 +1721,7 @@ Appears In:
   - Chapter: Game 7 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/ecDYTHpX
     - Tactical Motif: windmill
-    - All found aliases: calculate, center, combination, developing, discovered checks, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
+    - All found aliases: calculate, center, combination, developing, discovered checks, evaluation, king is safer, material, mating net, sacrifice, scholar's mate, threatening, threats, windmill
 
 
 ## Concept: Zugzwang
@@ -1501,6 +1735,6 @@ Appears In:
   - Chapter: Game 25 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/LqEVSQb9
     - Found: zugzwang
-    - All found aliases: center, developing, doubling, passed pawn, plan, threatening, threats, zugzwang
+    - All found aliases: center, developing, doubling, exchanged, exchanges, exchanging, passed pawn, plan, threatening, threats, zugzwang
 
 

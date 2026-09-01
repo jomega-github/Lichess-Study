@@ -113,7 +113,7 @@ Appears In:
   - Chapter: No. 53A and 53B - pg. 83
     - Chapter URL: https://lichess.org/study/1DTYYVAE/FuGayQs1
     - Feature: backward pawn
-    - All found aliases: backward pawn, cramps, isolated, mobility
+    - All found aliases: backward pawn, cramps, isolated, mobility, the hanging
   - Chapter: No. 55A and 55B - pgs. 85-86
     - Chapter URL: https://lichess.org/study/1DTYYVAE/9OYpDLJq
     - Feature: backward pawn
@@ -226,7 +226,7 @@ Appears In:
   - Chapter: No. 160A and 160B - pg. 229
     - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
     - Found: active bishop
-    - All found aliases: active bishop, calculate, combination, doubled, doubling, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
@@ -238,7 +238,7 @@ Appears In:
 
 ## Concept: Bishop (Good/Bad)
 
-Aliases: bad bishop, bad bishops, good bishop, good bishops, hemmed in bishop, hemmed in bishops
+Aliases: bad bishop, bad bishops, good bishop, good bishops, hemmed in bishop, hemmed in bishops, strong bishop
 
 Appears In:
 
@@ -247,7 +247,7 @@ Appears In:
   - Chapter: No. 154A B C D and 154E - pgs. 219-221
     - Chapter URL: https://lichess.org/study/cev86fwf/DI8CwDDy
     - Found: good bishop
-    - All found aliases: center, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
+    - All found aliases: center, counter-play, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
   - Chapter: No. 183 - pg. 259
     - Chapter URL: https://lichess.org/study/cev86fwf/YGrtg8qJ
     - Found: bad bishop
@@ -262,7 +262,7 @@ Appears In:
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
     - Found: good bishop
-    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, formation, good bishop, isolated, passer, sacrificing, tempi, tempo, threatening
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
   - Study URL: https://lichess.org/study/57Oq4l6Z
@@ -284,15 +284,15 @@ Appears In:
   - Chapter: No. 5A - pg. 16
     - Chapter URL: https://lichess.org/study/t6bOK7CT/frhozOMy
     - Found: bad bishop
-    - All found aliases: bad bishop, center, plan, plans, tempo
+    - All found aliases: bad bishop, center, evaluate, plan, plans, tempo
   - Chapter: No. 15B - pg. 30
     - Chapter URL: https://lichess.org/study/t6bOK7CT/y5Hlz2zS
     - Found: bad bishop, good bishop
-    - All found aliases: bad bishop, center, chain, good bishop, mobility, pawn formation
+    - All found aliases: bad bishop, center, chain, good bishop, mobility, pawn formation, trade
   - Chapter: No. 15B - pg. 30
     - Chapter URL: https://lichess.org/study/t6bOK7CT/y5Hlz2zS
     - Found: bad bishop, good bishop
-    - All found aliases: bad bishop, center, chain, good bishop, mobility, pawn formation
+    - All found aliases: bad bishop, center, chain, good bishop, mobility, pawn formation, trade
   - Chapter: No. 15C - pg. 32
     - Chapter URL: https://lichess.org/study/t6bOK7CT/jRzh0HMN
     - Found: bad bishop, good bishop
@@ -340,7 +340,7 @@ Appears In:
   - Chapter: The French Defense Chains
     - Chapter URL: https://lichess.org/study/4gKvLpAU/wvj3gipp
     - Found: bad bishop
-    - All found aliases: bad bishop, chain
+    - All found aliases: bad bishop, chain, exchange of
 
 - Study: Point Count Chess: Top Level Study
   - Study URL: https://lichess.org/study/NRoVF75f
@@ -352,7 +352,7 @@ Appears In:
 
 ## Concept: Bishop Pair
 
-Aliases: bishop pair, two bishops
+Aliases: bishop pair, strong bishops, two bishop, two bishops
 
 Appears In:
 
@@ -361,18 +361,18 @@ Appears In:
   - Chapter: No. 144 - pg. 207
     - Chapter URL: https://lichess.org/study/cev86fwf/ydpfwEyF
     - Found: two bishops
-    - All found aliases: center, two bishops
+    - All found aliases: center, trading, two bishops
   - Chapter: No. 160A and 160B - pg. 229
     - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
     - Found: two bishops
-    - All found aliases: active bishop, calculate, combination, doubled, doubling, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
   - Study URL: https://lichess.org/study/1DTYYVAE
   - Chapter: No. 71A 71B 71C and 71D - pgs. 104-106
     - Chapter URL: https://lichess.org/study/1DTYYVAE/mJvOFl7X
     - Found: two bishops
-    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, two bishops
+    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, traded, two bishops
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
@@ -390,7 +390,7 @@ Appears In:
   - Chapter: The Bishop-Pair
     - Chapter URL: https://lichess.org/study/9XMcr1Nd/lZLc7tEd
     - Found: two bishops
-    - All found aliases: maneuvers, two bishops
+    - All found aliases: improves his, maneuvers, trading, two bishops
 
 
 ## Concept: Bishop vs Knight
@@ -404,7 +404,7 @@ Appears In:
   - Chapter: No. 5B  - pg. 16
     - Chapter URL: https://lichess.org/study/t6bOK7CT/CZpzpcFb
     - Found: bishop vs knight
-    - All found aliases: bishop vs knight, center, material, rules of thumb, threatening, threats
+    - All found aliases: bishop vs knight, center, evaluation, exchange rules, material, the exchanges, threatening, threats
 
 - Study: Point Count Chess: Chapter 17
   - Study URL: https://lichess.org/study/9XMcr1Nd
@@ -425,7 +425,7 @@ Appears In:
   - Chapter: No. 174A and 174B - pgs. 248-249
     - Chapter URL: https://lichess.org/study/cev86fwf/UEG35iAq
     - Found: blockaded
-    - All found aliases: blockaded, center, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening
+    - All found aliases: blockaded, center, evaluation, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening, trade
   - Chapter: No. 183 - pg. 259
     - Chapter URL: https://lichess.org/study/cev86fwf/YGrtg8qJ
     - Found: blockaded
@@ -444,18 +444,18 @@ Appears In:
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
     - Found: blockades, blockading
-    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, formation, good bishop, isolated, passer, sacrificing, tempi, tempo, threatening
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
     - Found: blockades, blockading
-    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, formation, good bishop, isolated, passer, sacrificing, tempi, tempo, threatening
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
 
 - Study: Point Count Chess: Chapter 24
   - Study URL: https://lichess.org/study/v8RrenNg
   - Chapter: Practical Value and Application of Point Count
     - Chapter URL: https://lichess.org/study/v8RrenNg/7lCk5DU3
     - Found: blockade
-    - All found aliases: blockade, center, isolated pawn, outpost, plan, plans
+    - All found aliases: blockade, center, compensating, isolated pawn, outpost, plan, plans
 
 - Study: Point Count Chess: Chapter 9
   - Study URL: https://lichess.org/study/euJhXAtF
@@ -482,7 +482,7 @@ Appears In:
 
 ## Concept: Calculation
 
-Aliases: calculate, calculated, calculates, calculating, calculation, calculations
+Aliases: calculate, calculated, calculates, calculating, calculation, calculations, evaluate, evaluation
 
 Appears In:
 
@@ -491,33 +491,53 @@ Appears In:
   - Chapter: No. 160A and 160B - pg. 229
     - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
     - Found: calculate
-    - All found aliases: active bishop, calculate, combination, doubled, doubling, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+  - Chapter: No. 174A and 174B - pgs. 248-249
+    - Chapter URL: https://lichess.org/study/cev86fwf/UEG35iAq
+    - Found: evaluation
+    - All found aliases: blockaded, center, evaluation, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening, trade
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
   - Study URL: https://lichess.org/study/1DTYYVAE
   - Chapter: No. 49A and 49B - pgs. 76-77
     - Chapter URL: https://lichess.org/study/1DTYYVAE/HHoUe6Jb
     - Found: calculate
-    - All found aliases: calculate, formation, formations, initiative, mobile, mobility, threats
+    - All found aliases: calculate, counter-play, formation, formations, initiative, mobile, mobility, principles, threats
   - Chapter: No. 82A and 82B - pg. 117
     - Chapter URL: https://lichess.org/study/1DTYYVAE/juqut4J3
-    - Found: calculation
-    - All found aliases: calculation, isolated, material, sacrifice, threatening
+    - Found: calculation, evaluation
+    - All found aliases: calculation, evaluation, isolated, material, sacrifice, the hanging, threatening
+  - Chapter: No. 82A and 82B - pg. 117
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/juqut4J3
+    - Found: calculation, evaluation
+    - All found aliases: calculation, evaluation, isolated, material, sacrifice, the hanging, threatening
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
+  - Chapter: No. 4 - pg. 15
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/AoqU5T66
+    - Found: evaluation
+    - All found aliases: evaluation, space
+  - Chapter: No. 5A - pg. 16
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/frhozOMy
+    - Found: evaluate
+    - All found aliases: bad bishop, center, evaluate, plan, plans, tempo
+  - Chapter: No. 5B  - pg. 16
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/CZpzpcFb
+    - Found: evaluation
+    - All found aliases: bishop vs knight, center, evaluation, exchange rules, material, the exchanges, threatening, threats
   - Chapter: No. 15A - pg. 29
     - Chapter URL: https://lichess.org/study/t6bOK7CT/26jrgoLT
     - Found: calculating, calculation
-    - All found aliases: calculating, calculation, center, intermezzo, pressure, threatening, weak pawns
+    - All found aliases: calculating, calculation, center, exchange rules, intermezzo, pressure, threatening, weak pawns
   - Chapter: No. 15A - pg. 29
     - Chapter URL: https://lichess.org/study/t6bOK7CT/26jrgoLT
     - Found: calculating, calculation
-    - All found aliases: calculating, calculation, center, intermezzo, pressure, threatening, weak pawns
+    - All found aliases: calculating, calculation, center, exchange rules, intermezzo, pressure, threatening, weak pawns
   - Chapter: No. 20 - pg. 38
     - Chapter URL: https://lichess.org/study/t6bOK7CT/klEkBh6R
     - Found: calculation
-    - All found aliases: calculation, chain
+    - All found aliases: calculation, chain, counter-play
   - Chapter: No. 21 - pg. 38
     - Chapter URL: https://lichess.org/study/t6bOK7CT/edBYf4TT
     - Found: calculate
@@ -525,21 +545,33 @@ Appears In:
 
 - Study: Point Count Chess: Chapter 1
   - Study URL: https://lichess.org/study/mxq4f4tR
+  - Chapter: Winning with the Point Count
+    - Chapter URL: https://lichess.org/study/mxq4f4tR/fJ5RTPU4
+    - Found: evaluate
+    - All found aliases: evaluate, material, plan
+  - Chapter: The Importance of Strategy
+    - Chapter URL: https://lichess.org/study/mxq4f4tR/I0XRTTfv
+    - Found: evaluation
+    - All found aliases: classical school, combination, evaluation, plan, restricted, threat, threats
   - Chapter: The Arithmetic of Point Count
     - Chapter URL: https://lichess.org/study/mxq4f4tR/5cLAPlgD
     - Found: calculate
     - All found aliases: calculate, material, outpost, strategic base
   - Chapter: Before and After
     - Chapter URL: https://lichess.org/study/mxq4f4tR/NkAcCmTC
-    - Found: calculation
-    - All found aliases: calculation
+    - Found: calculation, evaluate
+    - All found aliases: calculation, evaluate
+  - Chapter: Before and After
+    - Chapter URL: https://lichess.org/study/mxq4f4tR/NkAcCmTC
+    - Found: calculation, evaluate
+    - All found aliases: calculation, evaluate
 
 - Study: Point Count Chess: Chapter 10
   - Study URL: https://lichess.org/study/CHwx9aB2
   - Chapter: A Connected Phalanx Can Hang
     - Chapter URL: https://lichess.org/study/CHwx9aB2/Mpe7fOQs
     - Found: calculation
-    - All found aliases: calculation, threat
+    - All found aliases: calculation, the hanging, threat
 
 - Study: Point Count Chess: Chapter 13
   - Study URL: https://lichess.org/study/UXuX2p5n
@@ -554,6 +586,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/ebLJQgPE/jkmKxX82
     - Found: calculation
     - All found aliases: calculation, candidate moves, majority, plans
+  - Chapter: Superior Development
+    - Chapter URL: https://lichess.org/study/ebLJQgPE/UjPZyzjm
+    - Found: evaluation
+    - All found aliases: evaluation, overloaded
   - Chapter: Every Little Move Has a Meaning All Its Own
     - Chapter URL: https://lichess.org/study/ebLJQgPE/W2HDHJZD
     - Found: calculation
@@ -570,15 +606,42 @@ Appears In:
   - Study URL: https://lichess.org/study/Uj4gyNLH
   - Chapter: The Advanced Pawn
     - Chapter URL: https://lichess.org/study/Uj4gyNLH/lYfg3Nkz
-    - Found: calculations
-    - All found aliases: calculations, center, formation
+    - Found: calculations, evaluate
+    - All found aliases: calculations, center, evaluate, formation
+  - Chapter: The Advanced Pawn
+    - Chapter URL: https://lichess.org/study/Uj4gyNLH/lYfg3Nkz
+    - Found: calculations, evaluate
+    - All found aliases: calculations, center, evaluate, formation
+
+- Study: Point Count Chess: Chapter 8
+  - Study URL: https://lichess.org/study/SrqwMH1W
+  - Chapter: The Ruy Lopez Question
+    - Chapter URL: https://lichess.org/study/SrqwMH1W/bzOuUbPP
+    - Found: evaluation
+    - All found aliases: compensation, doubled, doubled pawns, evaluation
 
 - Study: Point Count Chess: Top Level Study
   - Study URL: https://lichess.org/study/NRoVF75f
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/NRoVF75f/DQTJssFH
+    - Found: evaluate
+    - All found aliases: evaluate, majority, material, pawn structure, plans, principles
+  - Chapter: Why PCC?
+    - Chapter URL: https://lichess.org/study/NRoVF75f/t1BiR2nJ
+    - Found: evaluation
+    - All found aliases: evaluation, material
   - Chapter: Terminology in Chess
     - Chapter URL: https://lichess.org/study/NRoVF75f/UydPnoFS
     - Found: calculate
     - All found aliases: backward pawn, bad bishop, calculate, center, combination, majority
+  - Chapter: Where is the yardstick?
+    - Chapter URL: https://lichess.org/study/NRoVF75f/LvZhGNHR
+    - Found: evaluation
+    - All found aliases: evaluation
+  - Chapter: Using the Stockfish Evaluation Guide
+    - Chapter URL: https://lichess.org/study/NRoVF75f/i11kV6Rv
+    - Found: evaluation
+    - All found aliases: evaluation
 
 
 ## Concept: Candidate Moves
@@ -611,7 +674,7 @@ Appears In:
 
 ## Concept: Center Control
 
-Aliases: center, center control, central control, control the center
+Aliases: center, center control, central control, control the center, controls the center
 
 Appears In:
 
@@ -624,15 +687,15 @@ Appears In:
   - Chapter: No. 144 - pg. 207
     - Chapter URL: https://lichess.org/study/cev86fwf/ydpfwEyF
     - Found: center
-    - All found aliases: center, two bishops
+    - All found aliases: center, trading, two bishops
   - Chapter: No. 147 - pg. 210
     - Chapter URL: https://lichess.org/study/cev86fwf/EA4GlE8r
     - Found: center
-    - All found aliases: center, doubled, undouble
+    - All found aliases: center, doubled, exchanges, undouble
   - Chapter: No. 154A B C D and 154E - pgs. 219-221
     - Chapter URL: https://lichess.org/study/cev86fwf/DI8CwDDy
     - Found: center
-    - All found aliases: center, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
+    - All found aliases: center, counter-play, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
   - Chapter: No. 155 - pg. 223
     - Chapter URL: https://lichess.org/study/cev86fwf/JPgz5IW3
     - Found: center
@@ -640,15 +703,15 @@ Appears In:
   - Chapter: No. 159A and 159B - pgs. 226-227
     - Chapter URL: https://lichess.org/study/cev86fwf/OBEtRiXD
     - Found: center
-    - All found aliases: center, doubled, threat
+    - All found aliases: center, counter-play, doubled, threat
   - Chapter: No. 174A and 174B - pgs. 248-249
     - Chapter URL: https://lichess.org/study/cev86fwf/UEG35iAq
     - Found: center
-    - All found aliases: blockaded, center, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening
+    - All found aliases: blockaded, center, evaluation, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening, trade
   - Chapter: No. 181 - pg. 257
     - Chapter URL: https://lichess.org/study/cev86fwf/Kr3YONvS
     - Found: center
-    - All found aliases: center, simplify
+    - All found aliases: center, improving the, to simplify
   - Chapter: No. 183 - pg. 259
     - Chapter URL: https://lichess.org/study/cev86fwf/YGrtg8qJ
     - Found: center
@@ -660,7 +723,7 @@ Appears In:
   - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
     - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
     - Found: center
-    - All found aliases: center, classical school, isolated, majority, passed pawn, passed pawns
+    - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade
   - Chapter: No. 187 - pg. 265
     - Chapter URL: https://lichess.org/study/cev86fwf/Q267HLqK
     - Found: center
@@ -699,7 +762,7 @@ Appears In:
   - Chapter: No. 71A 71B 71C and 71D - pgs. 104-106
     - Chapter URL: https://lichess.org/study/1DTYYVAE/mJvOFl7X
     - Found: center
-    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, two bishops
+    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, traded, two bishops
   - Chapter: No. 78 - pg. 112
     - Chapter URL: https://lichess.org/study/1DTYYVAE/uLFJnVO9
     - Found: central control
@@ -711,11 +774,11 @@ Appears In:
   - Chapter: No. 84A 84B and 84C - pgs. 119-120
     - Chapter URL: https://lichess.org/study/1DTYYVAE/i3hgMpdl
     - Found: center, control the center
-    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, tempi, threatening
+    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, principles, tempi, threatening
   - Chapter: No. 84A 84B and 84C - pgs. 119-120
     - Chapter URL: https://lichess.org/study/1DTYYVAE/i3hgMpdl
     - Found: center, control the center
-    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, tempi, threatening
+    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, principles, tempi, threatening
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
   - Study URL: https://lichess.org/study/57Oq4l6Z
@@ -765,11 +828,11 @@ Appears In:
   - Chapter: No. 5A - pg. 16
     - Chapter URL: https://lichess.org/study/t6bOK7CT/frhozOMy
     - Found: center
-    - All found aliases: bad bishop, center, plan, plans, tempo
+    - All found aliases: bad bishop, center, evaluate, plan, plans, tempo
   - Chapter: No. 5B  - pg. 16
     - Chapter URL: https://lichess.org/study/t6bOK7CT/CZpzpcFb
     - Found: center
-    - All found aliases: bishop vs knight, center, material, rules of thumb, threatening, threats
+    - All found aliases: bishop vs knight, center, evaluation, exchange rules, material, the exchanges, threatening, threats
   - Chapter: No. 10. A. Center: B. Subcenter pg. 22
     - Chapter URL: https://lichess.org/study/t6bOK7CT/vqyR7JNX
     - Found: center
@@ -789,11 +852,11 @@ Appears In:
   - Chapter: No. 15A - pg. 29
     - Chapter URL: https://lichess.org/study/t6bOK7CT/26jrgoLT
     - Found: center
-    - All found aliases: calculating, calculation, center, intermezzo, pressure, threatening, weak pawns
+    - All found aliases: calculating, calculation, center, exchange rules, intermezzo, pressure, threatening, weak pawns
   - Chapter: No. 15B - pg. 30
     - Chapter URL: https://lichess.org/study/t6bOK7CT/y5Hlz2zS
     - Found: center
-    - All found aliases: bad bishop, center, chain, good bishop, mobility, pawn formation
+    - All found aliases: bad bishop, center, chain, good bishop, mobility, pawn formation, trade
   - Chapter: No. 15C - pg. 32
     - Chapter URL: https://lichess.org/study/t6bOK7CT/jRzh0HMN
     - Found: center
@@ -801,11 +864,11 @@ Appears In:
   - Chapter: No. 16 - pg. 33
     - Chapter URL: https://lichess.org/study/t6bOK7CT/4xNp7dij
     - Found: center
-    - All found aliases: center, chain, doubled, plan, plans, tension
+    - All found aliases: center, chain, doubled, exchanging, plan, plans, tension
   - Chapter: No. 17 - pg. 34
     - Chapter URL: https://lichess.org/study/t6bOK7CT/kSooM6GB
-    - Found: center
-    - All found aliases: center, isolated pawns, knight outpost, pinning, threatening
+    - Found: controls the center
+    - All found aliases: controls the center, isolated pawns, knight outpost, pinning, threatening
   - Chapter: No. 19 - pg. 36
     - Chapter URL: https://lichess.org/study/t6bOK7CT/zPsDUSeT
     - Found: center
@@ -828,16 +891,20 @@ Appears In:
     - All found aliases: center, chain, develop, knight outpost, maneuvers, outpost
   - Chapter: No. 38 - pg 61
     - Chapter URL: https://lichess.org/study/t6bOK7CT/6MDmVN3E
-    - Found: center, central control, control the center
-    - All found aliases: center, central control, control the center, mobility, tempi, tempo
+    - Found: center, central control, control the center, controls the center
+    - All found aliases: center, central control, control the center, controls the center, mobility, rot, tempi, tempo, trading
   - Chapter: No. 38 - pg 61
     - Chapter URL: https://lichess.org/study/t6bOK7CT/6MDmVN3E
-    - Found: center, central control, control the center
-    - All found aliases: center, central control, control the center, mobility, tempi, tempo
+    - Found: center, central control, control the center, controls the center
+    - All found aliases: center, central control, control the center, controls the center, mobility, rot, tempi, tempo, trading
   - Chapter: No. 38 - pg 61
     - Chapter URL: https://lichess.org/study/t6bOK7CT/6MDmVN3E
-    - Found: center, central control, control the center
-    - All found aliases: center, central control, control the center, mobility, tempi, tempo
+    - Found: center, central control, control the center, controls the center
+    - All found aliases: center, central control, control the center, controls the center, mobility, rot, tempi, tempo, trading
+  - Chapter: No. 38 - pg 61
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/6MDmVN3E
+    - Found: center, central control, control the center, controls the center
+    - All found aliases: center, central control, control the center, controls the center, mobility, rot, tempi, tempo, trading
   - Chapter: No. 39A and 39B - pgs. 61-62
     - Chapter URL: https://lichess.org/study/t6bOK7CT/ATuMlcOF
     - Found: center, central control, control the center
@@ -853,7 +920,7 @@ Appears In:
   - Chapter: No. 40 - pg. 63
     - Chapter URL: https://lichess.org/study/t6bOK7CT/BGpeE0IJ
     - Found: center
-    - All found aliases: center, combination, fork, pawn formation, threatening
+    - All found aliases: center, combination, fork, pawn formation, threatening, trading
   - Chapter: No 41 - pg. 64
     - Chapter URL: https://lichess.org/study/t6bOK7CT/XzN8bIDw
     - Found: center
@@ -931,7 +998,7 @@ Appears In:
   - Chapter: Summary
     - Chapter URL: https://lichess.org/study/sNtWFFaF/0HgOLKYx
     - Found: center
-    - All found aliases: center
+    - All found aliases: center, exchanged, king is safe
 
 - Study: Point Count Chess: Chapter 15
   - Study URL: https://lichess.org/study/ebLJQgPE
@@ -982,7 +1049,7 @@ Appears In:
   - Chapter: Center Control by Pawns
     - Chapter URL: https://lichess.org/study/XftYTQBa/H435ISTq
     - Found: center
-    - All found aliases: center, chain, classical school, formation, hypermodern
+    - All found aliases: center, chain, classical school, formation, hypermodern, opening lines
   - Chapter: King's Indian Defense Example
     - Chapter URL: https://lichess.org/study/XftYTQBa/ZrseWVKW
     - Found: center
@@ -990,7 +1057,7 @@ Appears In:
   - Chapter: Grunfeld Defense Counter Example
     - Chapter URL: https://lichess.org/study/XftYTQBa/omVz3VQA
     - Found: center
-    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, tempi, threatening
+    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, rot, tempi, threatening
   - Chapter: What Center Control is NOT
     - Chapter URL: https://lichess.org/study/XftYTQBa/26NiVyVf
     - Found: center
@@ -1017,7 +1084,7 @@ Appears In:
   - Chapter: Practical Value and Application of Point Count
     - Chapter URL: https://lichess.org/study/v8RrenNg/7lCk5DU3
     - Found: center
-    - All found aliases: blockade, center, isolated pawn, outpost, plan, plans
+    - All found aliases: blockade, center, compensating, isolated pawn, outpost, plan, plans
   - Chapter: You Are Two Points Plus or Minus
     - Chapter URL: https://lichess.org/study/v8RrenNg/1silW4g6
     - Found: center
@@ -1035,11 +1102,11 @@ Appears In:
   - Chapter: The Advanced Pawn
     - Chapter URL: https://lichess.org/study/Uj4gyNLH/lYfg3Nkz
     - Found: center
-    - All found aliases: calculations, center, formation
+    - All found aliases: calculations, center, evaluate, formation
   - Chapter: The Benoni Pawn at Q5
     - Chapter URL: https://lichess.org/study/Uj4gyNLH/A01nsGLa
     - Found: center
-    - All found aliases: center, pressure, sacrifices
+    - All found aliases: center, opening lines, pressure, sacrifices
   - Chapter: Black P-Q5 against the English
     - Chapter URL: https://lichess.org/study/Uj4gyNLH/7kSFNuK9
     - Found: center
@@ -1047,7 +1114,7 @@ Appears In:
   - Chapter: P-K5 in the French Defense
     - Chapter URL: https://lichess.org/study/Uj4gyNLH/OT4xnnbF
     - Found: center
-    - All found aliases: center, chain, develop
+    - All found aliases: center, chain, counter-attack, develop
   - Chapter: The Pawn at KB5 by Capture
     - Chapter URL: https://lichess.org/study/Uj4gyNLH/8VQbHCEE
     - Found: center
@@ -1153,7 +1220,7 @@ Appears In:
 
 ## Concept: Classical School
 
-Aliases: classical approach, classical center, classical chess, classical concept, classical dream, classical fashion, classical idea, classical move, classical moves, classical opening, classical or hypermodern, classical pawn, classical response, classical school, classical school, classical school's, classical sequence, classical style, classical theory, classical way, classically dogmatic
+Aliases: classical approach, classical center, classical chess, classical concept, classical concepts, classical dream, classical fashion, classical idea, classical ideas, classical move, classical moves, classical opening, classical or hypermodern, classical pawn, classical response, classical school, classical school, classical school's, classical sequence, classical style, classical theory, classical way, classically dogmatic
 
 Appears In:
 
@@ -1162,21 +1229,21 @@ Appears In:
   - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
     - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
     - Found: classical school
-    - All found aliases: center, classical school, isolated, majority, passed pawn, passed pawns
+    - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
   - Study URL: https://lichess.org/study/1DTYYVAE
   - Chapter: No. 84A 84B and 84C - pgs. 119-120
     - Chapter URL: https://lichess.org/study/1DTYYVAE/i3hgMpdl
     - Found: classical school
-    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, tempi, threatening
+    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, principles, tempi, threatening
 
 - Study: Point Count Chess: Chapter 1
   - Study URL: https://lichess.org/study/mxq4f4tR
   - Chapter: The Importance of Strategy
     - Chapter URL: https://lichess.org/study/mxq4f4tR/I0XRTTfv
     - Found: classical school
-    - All found aliases: classical school, combination, plan, restricted, threat, threats
+    - All found aliases: classical school, combination, evaluation, plan, restricted, threat, threats
 
 - Study: Point Count Chess: Chapter 2
   - Study URL: https://lichess.org/study/XftYTQBa
@@ -1187,11 +1254,11 @@ Appears In:
   - Chapter: Center Control by Pawns
     - Chapter URL: https://lichess.org/study/XftYTQBa/H435ISTq
     - Found: classical school
-    - All found aliases: center, chain, classical school, formation, hypermodern
+    - All found aliases: center, chain, classical school, formation, hypermodern, opening lines
   - Chapter: Grunfeld Defense Counter Example
     - Chapter URL: https://lichess.org/study/XftYTQBa/omVz3VQA
     - Found: classical school
-    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, tempi, threatening
+    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, rot, tempi, threatening
 
 - Study: Point Count Chess: Chapter 24
   - Study URL: https://lichess.org/study/v8RrenNg
@@ -1203,7 +1270,7 @@ Appears In:
 
 ## Concept: Closed Position
 
-Aliases: closed, closed position, closes
+Aliases: closed, closed position, closes, closes the position, closing the position
 
 Appears In:
 
@@ -1240,7 +1307,7 @@ Appears In:
   - Chapter: No. 160A and 160B - pg. 229
     - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
     - Tactical Motif: combination
-    - All found aliases: active bishop, calculate, combination, doubled, doubling, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
   - Study URL: https://lichess.org/study/57Oq4l6Z
@@ -1266,14 +1333,14 @@ Appears In:
   - Chapter: No. 40 - pg. 63
     - Chapter URL: https://lichess.org/study/t6bOK7CT/BGpeE0IJ
     - Tactical Motif: combination
-    - All found aliases: center, combination, fork, pawn formation, threatening
+    - All found aliases: center, combination, fork, pawn formation, threatening, trading
 
 - Study: Point Count Chess: Chapter 1
   - Study URL: https://lichess.org/study/mxq4f4tR
   - Chapter: The Importance of Strategy
     - Chapter URL: https://lichess.org/study/mxq4f4tR/I0XRTTfv
     - Tactical Motif: combination
-    - All found aliases: classical school, combination, plan, restricted, threat, threats
+    - All found aliases: classical school, combination, evaluation, plan, restricted, threat, threats
   - Chapter: Scope of the Point Count
     - Chapter URL: https://lichess.org/study/mxq4f4tR/Ka1BW7dF
     - Tactical Motif: combination
@@ -1296,7 +1363,7 @@ Appears In:
 
 ## Concept: Compensation
 
-Aliases: compensation, dynamic compensation, positional compensation
+Aliases: compensate, compensated, compensates, compensating, compensation, dynamic compensation, positional compensation
 
 Appears In:
 
@@ -1328,14 +1395,25 @@ Appears In:
   - Chapter: No. 22 - pg. 40
     - Chapter URL: https://lichess.org/study/t6bOK7CT/E7EyqlW1
     - Found: compensation
-    - All found aliases: chain, compensation, passed, passer, plan, threatening
+    - All found aliases: chain, compensation, is hanging, passed, passer, plan, threatening
+
+- Study: Point Count Chess: Chapter 11
+  - Study URL: https://lichess.org/study/d95eTSPt
+  - Chapter: Summary
+    - Chapter URL: https://lichess.org/study/d95eTSPt/ZxxYhSdx
+    - Found: compensating
+    - All found aliases: compensating
 
 - Study: Point Count Chess: Chapter 24
   - Study URL: https://lichess.org/study/v8RrenNg
+  - Chapter: Practical Value and Application of Point Count
+    - Chapter URL: https://lichess.org/study/v8RrenNg/7lCk5DU3
+    - Found: compensating
+    - All found aliases: blockade, center, compensating, isolated pawn, outpost, plan, plans
   - Chapter: You Are More Than Four Net Points Plus
     - Chapter URL: https://lichess.org/study/v8RrenNg/yVaTfMnO
     - Found: compensation
-    - All found aliases: compensation, material
+    - All found aliases: compensation, exchange pieces, material
 
 - Study: Point Count Chess: Chapter 7
   - Study URL: https://lichess.org/study/C0qWgAUa
@@ -1349,7 +1427,7 @@ Appears In:
   - Chapter: The Ruy Lopez Question
     - Chapter URL: https://lichess.org/study/SrqwMH1W/bzOuUbPP
     - Found: compensation
-    - All found aliases: compensation, doubled, doubled pawns
+    - All found aliases: compensation, doubled, doubled pawns, evaluation
   - Chapter: Summary
     - Chapter URL: https://lichess.org/study/SrqwMH1W/a2Vnls2e
     - Found: compensation
@@ -1369,9 +1447,41 @@ Appears In:
 
 ## Concept: Counterattack
 
-Aliases: counter-attacking, counterattack, counterattacked, counterattacks
+Aliases: counter-attack, counter-attacked, counter-attacking, counter-attacks, counterattack, counterattacked, counterattacking, counterattacks
 
 Appears In:
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 139 to 187
+  - Study URL: https://lichess.org/study/cev86fwf
+  - Chapter: No. 160A and 160B - pg. 229
+    - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
+    - Found: counter-attack
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+  - Chapter: No. 168 - pg. 241
+    - Chapter URL: https://lichess.org/study/cev86fwf/nruy3qgG
+    - Found: counter-attack
+    - All found aliases: counter-attack, threat, threatening
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
+  - Study URL: https://lichess.org/study/1DTYYVAE
+  - Chapter: No. 50A and 50B - pg. 78
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/SW33YxnN
+    - Found: counter-attack
+    - All found aliases: counter-attack, mobile, passed pawn
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
+  - Study URL: https://lichess.org/study/57Oq4l6Z
+  - Chapter: No. 106 - pg. 157
+    - Chapter URL: https://lichess.org/study/57Oq4l6Z/sk5z8xVu
+    - Found: counter-attack
+    - All found aliases: counter-attack, exchanged, initiative, material, sacrifice, threat, threatening, threats
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
+  - Study URL: https://lichess.org/study/t6bOK7CT
+  - Chapter: No. 46A 46B and 46C - pgs. 69-70
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/5ttlWe6b
+    - Found: counter-attack
+    - All found aliases: counter-attack, pins, tempi
 
 - Study: Point Count Chess: Chapter 17
   - Study URL: https://lichess.org/study/9XMcr1Nd
@@ -1387,12 +1497,66 @@ Appears In:
     - Found: counterattack
     - All found aliases: chain, counterattack, pawn storm, pressure, threat
 
+- Study: Point Count Chess: Chapter 4
+  - Study URL: https://lichess.org/study/Uj4gyNLH
+  - Chapter: P-K5 in the French Defense
+    - Chapter URL: https://lichess.org/study/Uj4gyNLH/OT4xnnbF
+    - Found: counter-attack
+    - All found aliases: center, chain, counter-attack, develop
+
 - Study: Point Count Chess: Chapter 6
   - Study URL: https://lichess.org/study/BS6SGTU3
   - Chapter: Restraint of a Pawn Wing
     - Chapter URL: https://lichess.org/study/BS6SGTU3/8BESZwyc
     - Found: counterattack
     - All found aliases: center, counterattack, pawn storm, plan
+
+
+## Concept: Counterplay
+
+Aliases: counter-play, counterplay, generate counterplay
+
+Appears In:
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 139 to 187
+  - Study URL: https://lichess.org/study/cev86fwf
+  - Chapter: No. 154A B C D and 154E - pgs. 219-221
+    - Chapter URL: https://lichess.org/study/cev86fwf/DI8CwDDy
+    - Found: counter-play
+    - All found aliases: center, counter-play, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
+  - Chapter: No. 159A and 159B - pgs. 226-227
+    - Chapter URL: https://lichess.org/study/cev86fwf/OBEtRiXD
+    - Found: counter-play
+    - All found aliases: center, counter-play, doubled, threat
+  - Chapter: No. 161A and 161B - pgs. 231-232
+    - Chapter URL: https://lichess.org/study/cev86fwf/XutVejiy
+    - Found: counter-play
+    - All found aliases: counter-play, doubling
+  - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
+    - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
+    - Found: counter-play
+    - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
+  - Study URL: https://lichess.org/study/1DTYYVAE
+  - Chapter: No. 49A and 49B - pgs. 76-77
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/HHoUe6Jb
+    - Found: counter-play
+    - All found aliases: calculate, counter-play, formation, formations, initiative, mobile, mobility, principles, threats
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
+  - Study URL: https://lichess.org/study/57Oq4l6Z
+  - Chapter: No. 114 - pg. 166
+    - Chapter URL: https://lichess.org/study/57Oq4l6Z/icUfip0E
+    - Found: counter-play
+    - All found aliases: counter-play, pin
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
+  - Study URL: https://lichess.org/study/t6bOK7CT
+  - Chapter: No. 20 - pg. 38
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/klEkBh6R
+    - Found: counter-play
+    - All found aliases: calculation, chain, counter-play
 
 
 ## Concept: Critical Square
@@ -1425,7 +1589,7 @@ Appears In:
 
 ## Concept: Development
 
-Aliases: develop, developed, developing, develops, undeveloping
+Aliases: develop, developed, developing, develops, undevelop, undeveloped, undeveloping, undevelops
 
 Appears In:
 
@@ -1441,7 +1605,7 @@ Appears In:
   - Chapter: No. 84A 84B and 84C - pgs. 119-120
     - Chapter URL: https://lichess.org/study/1DTYYVAE/i3hgMpdl
     - Found: developed
-    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, tempi, threatening
+    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, principles, tempi, threatening
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
   - Study URL: https://lichess.org/study/57Oq4l6Z
@@ -1462,8 +1626,12 @@ Appears In:
   - Study URL: https://lichess.org/study/t6bOK7CT
   - Chapter: No. 152. Minority Attack - pg. 5
     - Chapter URL: https://lichess.org/study/t6bOK7CT/o0dfrdFu
-    - Found: developed
-    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, weak pawn
+    - Found: developed, undeveloped
+    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, undeveloped, weak pawn
+  - Chapter: No. 152. Minority Attack - pg. 5
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/o0dfrdFu
+    - Found: developed, undeveloped
+    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, undeveloped, weak pawn
   - Chapter: No. A - pg. 6
     - Chapter URL: https://lichess.org/study/t6bOK7CT/bHFBZiWt
     - Found: developing
@@ -1526,14 +1694,14 @@ Appears In:
   - Chapter: Grunfeld Defense Counter Example
     - Chapter URL: https://lichess.org/study/XftYTQBa/omVz3VQA
     - Found: developed
-    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, tempi, threatening
+    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, rot, tempi, threatening
 
 - Study: Point Count Chess: Chapter 4
   - Study URL: https://lichess.org/study/Uj4gyNLH
   - Chapter: P-K5 in the French Defense
     - Chapter URL: https://lichess.org/study/Uj4gyNLH/OT4xnnbF
     - Found: develop
-    - All found aliases: center, chain, develop
+    - All found aliases: center, chain, counter-attack, develop
 
 
 ## Concept: Discovered Attack
@@ -1547,7 +1715,7 @@ Appears In:
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
     - Tactical Motif: discovered attack
-    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, formation, good bishop, isolated, passer, sacrificing, tempi, tempo, threatening
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
   - Study URL: https://lichess.org/study/57Oq4l6Z
@@ -1603,15 +1771,15 @@ Appears In:
   - Chapter: No. 146A 146B and 146C - pgs. 208-209
     - Chapter URL: https://lichess.org/study/cev86fwf/CsM07Qgp
     - Feature: undouble
-    - All found aliases: majority, passed pawn, undouble
+    - All found aliases: exchange of, majority, passed pawn, undouble
   - Chapter: No. 147 - pg. 210
     - Chapter URL: https://lichess.org/study/cev86fwf/EA4GlE8r
     - Feature: doubled, undouble
-    - All found aliases: center, doubled, undouble
+    - All found aliases: center, doubled, exchanges, undouble
   - Chapter: No. 147 - pg. 210
     - Chapter URL: https://lichess.org/study/cev86fwf/EA4GlE8r
     - Feature: doubled, undouble
-    - All found aliases: center, doubled, undouble
+    - All found aliases: center, doubled, exchanges, undouble
   - Chapter: No. 152D - pg. 216
     - Chapter URL: https://lichess.org/study/cev86fwf/OQE9CQpk
     - Feature: doubled
@@ -1619,27 +1787,27 @@ Appears In:
   - Chapter: No. 154A B C D and 154E - pgs. 219-221
     - Chapter URL: https://lichess.org/study/cev86fwf/DI8CwDDy
     - Feature: doubles
-    - All found aliases: center, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
+    - All found aliases: center, counter-play, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
   - Chapter: No. 159A and 159B - pgs. 226-227
     - Chapter URL: https://lichess.org/study/cev86fwf/OBEtRiXD
     - Feature: doubled
-    - All found aliases: center, doubled, threat
+    - All found aliases: center, counter-play, doubled, threat
   - Chapter: No. 160A and 160B - pg. 229
     - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
     - Feature: doubled, doubling
-    - All found aliases: active bishop, calculate, combination, doubled, doubling, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
   - Chapter: No. 160A and 160B - pg. 229
     - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
     - Feature: doubled, doubling
-    - All found aliases: active bishop, calculate, combination, doubled, doubling, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
   - Chapter: No. 161A and 161B - pgs. 231-232
     - Chapter URL: https://lichess.org/study/cev86fwf/XutVejiy
     - Feature: doubling
-    - All found aliases: doubling
+    - All found aliases: counter-play, doubling
   - Chapter: No. 162 - pg. 233
     - Chapter URL: https://lichess.org/study/cev86fwf/pgj9owWi
     - Feature: doubling
-    - All found aliases: doubling
+    - All found aliases: doubling, exchange of
   - Chapter: No. 166A 166B and 166C - pgs. 236-238
     - Chapter URL: https://lichess.org/study/cev86fwf/rzgNMWrz
     - Feature: doubled pawns, doubles
@@ -1658,11 +1826,11 @@ Appears In:
   - Chapter: No. 61 - pg. 93
     - Chapter URL: https://lichess.org/study/1DTYYVAE/ND9l6TKq
     - Feature: doubled
-    - All found aliases: doubled, passed pawn
+    - All found aliases: doubled, passed pawn, rot
   - Chapter: No. 62A - pg. 93
     - Chapter URL: https://lichess.org/study/1DTYYVAE/PEnevO3f
     - Feature: doubled pawns
-    - All found aliases: doubled pawns, isolated pawn, plan
+    - All found aliases: doubled pawns, exchanges, isolated pawn, plan
   - Chapter: No. 62B - pg. 94
     - Chapter URL: https://lichess.org/study/1DTYYVAE/1daEc1WZ
     - Feature: doubled pawns
@@ -1706,7 +1874,7 @@ Appears In:
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
     - Feature: doubled pawns
-    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, formation, good bishop, isolated, passer, sacrificing, tempi, tempo, threatening
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
   - Chapter: No. 90 - pg. 129
     - Chapter URL: https://lichess.org/study/1DTYYVAE/SuA3KtPH
     - Feature: undoubling
@@ -1748,7 +1916,7 @@ Appears In:
   - Chapter: No. 16 - pg. 33
     - Chapter URL: https://lichess.org/study/t6bOK7CT/4xNp7dij
     - Feature: doubled
-    - All found aliases: center, chain, doubled, plan, plans, tension
+    - All found aliases: center, chain, doubled, exchanging, plan, plans, tension
   - Chapter: No. 19 - pg. 36
     - Chapter URL: https://lichess.org/study/t6bOK7CT/zPsDUSeT
     - Feature: doubles
@@ -1796,7 +1964,7 @@ Appears In:
   - Chapter: The Bishop-Pair in the Queen's Gambit
     - Chapter URL: https://lichess.org/study/9XMcr1Nd/YTwoAR0m
     - Feature: doubled
-    - All found aliases: doubled
+    - All found aliases: doubled, exchanges
 
 - Study: Point Count Chess: Chapter 18
   - Study URL: https://lichess.org/study/ejOGZXeC
@@ -1889,11 +2057,11 @@ Appears In:
   - Chapter: The Ruy Lopez Question
     - Chapter URL: https://lichess.org/study/SrqwMH1W/bzOuUbPP
     - Feature: doubled, doubled pawns
-    - All found aliases: compensation, doubled, doubled pawns
+    - All found aliases: compensation, doubled, doubled pawns, evaluation
   - Chapter: The Ruy Lopez Question
     - Chapter URL: https://lichess.org/study/SrqwMH1W/bzOuUbPP
     - Feature: doubled, doubled pawns
-    - All found aliases: compensation, doubled, doubled pawns
+    - All found aliases: compensation, doubled, doubled pawns, evaluation
   - Chapter: The Pinned King Knight
     - Chapter URL: https://lichess.org/study/SrqwMH1W/QrW2WTws
     - Feature: doubled, doubling
@@ -1940,9 +2108,16 @@ Appears In:
 
 ## Concept: Exchange Sacrifice
 
-Aliases: exchange sac, exchange sacrifice, sac the exchange
+Aliases: exchange sac, exchange sacrifice, gives up the exchange, giving up the exchange, sac the exchange, sacrificing the exchange
 
 Appears In:
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
+  - Study URL: https://lichess.org/study/1DTYYVAE
+  - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
+    - Tactical Motif: sacrificing the exchange
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
   - Study URL: https://lichess.org/study/57Oq4l6Z
@@ -1954,6 +2129,20 @@ Appears In:
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/sTZxb2aB
     - Tactical Motif: exchange sacrifice
     - All found aliases: center, doubled, exchange sacrifice, pin, threatening
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
+  - Study URL: https://lichess.org/study/t6bOK7CT
+  - Chapter: No. 31 - pg. 52
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/7RpPW57o
+    - Tactical Motif: sacrificing the exchange
+    - All found aliases: sacrificing the exchange, threatening
+
+- Study: PCC: Detailed Analysis
+  - Study URL: https://lichess.org/study/kqKXJZ5u
+  - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
+    - Chapter URL: https://lichess.org/study/kqKXJZ5u/AqHvgsev
+    - Tactical Motif: sacrificing the exchange
+    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing the exchange, tempi, tempo, the hanging, threatening, threats
 
 
 ## Concept: Fool's Mate
@@ -1992,14 +2181,14 @@ Appears In:
   - Chapter: No. 131 - pg. 186
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/Kk5wqXEq
     - Tactical Motif: fork
-    - All found aliases: fork, in-between move, intermezzo, tempi, tempo
+    - All found aliases: exchanged, fork, in-between move, intermezzo, tempi, tempo
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
   - Chapter: No. 40 - pg. 63
     - Chapter URL: https://lichess.org/study/t6bOK7CT/BGpeE0IJ
     - Tactical Motif: fork
-    - All found aliases: center, combination, fork, pawn formation, threatening
+    - All found aliases: center, combination, fork, pawn formation, threatening, trading
 
 - Study: Point Count Chess: Chapter 16
   - Study URL: https://lichess.org/study/dnsiwX67
@@ -2020,7 +2209,76 @@ Appears In:
   - Chapter: No. 109 - pg. 160
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/Vq9efjXn
     - Found: fortress
-    - All found aliases: fortress, intermezzo, material, pin, threatening
+    - All found aliases: fortress, intermezzo, material, pin, threatening, trade
+
+
+## Concept: Hanging Piece
+
+Aliases: from hanging, hanging a, hanging mate, hanging material, hanging piece, hanging pieces, hanging the, is hanging, the hanging, was hanging
+
+Appears In:
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 139 to 187
+  - Study URL: https://lichess.org/study/cev86fwf
+  - Chapter: No. 141A and 141B - pgs. 204-205
+    - Chapter URL: https://lichess.org/study/cev86fwf/Sgmjv3oP
+    - Tactical Motif: the hanging
+    - All found aliases: mobility, the hanging
+  - Chapter: No. 153 - pg. 218
+    - Chapter URL: https://lichess.org/study/cev86fwf/VEwKWoE9
+    - Tactical Motif: the hanging
+    - All found aliases: minority, the hanging
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
+  - Study URL: https://lichess.org/study/1DTYYVAE
+  - Chapter: No. 53A and 53B - pg. 83
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/FuGayQs1
+    - Tactical Motif: the hanging
+    - All found aliases: backward pawn, cramps, isolated, mobility, the hanging
+  - Chapter: No. 54 - pg. 84
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/unOQKX05
+    - Tactical Motif: the hanging
+    - All found aliases: isolated, the hanging
+  - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
+    - Tactical Motif: the hanging
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
+  - Chapter: No. 81 - pg. 116
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/9gnv5AIU
+    - Tactical Motif: the hanging
+    - All found aliases: the hanging, threat
+  - Chapter: No. 82A and 82B - pg. 117
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/juqut4J3
+    - Tactical Motif: the hanging
+    - All found aliases: calculation, evaluation, isolated, material, sacrifice, the hanging, threatening
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
+  - Study URL: https://lichess.org/study/57Oq4l6Z
+  - Chapter: No. 137A and 137B - pgs. 194-196
+    - Chapter URL: https://lichess.org/study/57Oq4l6Z/LT4Tglev
+    - Tactical Motif: hanging the
+    - All found aliases: hanging the, mobile, pawn majority, space
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
+  - Study URL: https://lichess.org/study/t6bOK7CT
+  - Chapter: No. 22 - pg. 40
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/E7EyqlW1
+    - Tactical Motif: is hanging
+    - All found aliases: chain, compensation, is hanging, passed, passer, plan, threatening
+
+- Study: PCC: Detailed Analysis
+  - Study URL: https://lichess.org/study/kqKXJZ5u
+  - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
+    - Chapter URL: https://lichess.org/study/kqKXJZ5u/AqHvgsev
+    - Tactical Motif: the hanging
+    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing the exchange, tempi, tempo, the hanging, threatening, threats
+
+- Study: Point Count Chess: Chapter 10
+  - Study URL: https://lichess.org/study/CHwx9aB2
+  - Chapter: A Connected Phalanx Can Hang
+    - Chapter URL: https://lichess.org/study/CHwx9aB2/Mpe7fOQs
+    - Tactical Motif: the hanging
+    - All found aliases: calculation, the hanging, threat
 
 
 ## Concept: Hypermodern Chess
@@ -2034,7 +2292,7 @@ Appears In:
   - Chapter: No. 84A 84B and 84C - pgs. 119-120
     - Chapter URL: https://lichess.org/study/1DTYYVAE/i3hgMpdl
     - Found: hypermodern
-    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, tempi, threatening
+    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, principles, tempi, threatening
 
 - Study: Point Count Chess: Chapter 10
   - Study URL: https://lichess.org/study/CHwx9aB2
@@ -2048,7 +2306,7 @@ Appears In:
   - Chapter: Center Control by Pawns
     - Chapter URL: https://lichess.org/study/XftYTQBa/H435ISTq
     - Found: hypermodern
-    - All found aliases: center, chain, classical school, formation, hypermodern
+    - All found aliases: center, chain, classical school, formation, hypermodern, opening lines
   - Chapter: King's Indian Defense Example
     - Chapter URL: https://lichess.org/study/XftYTQBa/ZrseWVKW
     - Found: hypermodern
@@ -2056,7 +2314,7 @@ Appears In:
   - Chapter: Grunfeld Defense Counter Example
     - Chapter URL: https://lichess.org/study/XftYTQBa/omVz3VQA
     - Found: hypermodern
-    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, tempi, threatening
+    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, rot, tempi, threatening
   - Chapter: What Center Control is NOT
     - Chapter URL: https://lichess.org/study/XftYTQBa/26NiVyVf
     - Found: hypermodern
@@ -2074,6 +2332,42 @@ Appears In:
     - All found aliases: center, hypermodern
 
 
+## Concept: Improving the Worst-Placed Piece
+
+Aliases: improve the, improve the worst piece, improved her, improved his, improves black's, improves his, improves the, improves white's, improving her, improving his, improving move, improving moves, improving the, improving the worst piece
+
+Appears In:
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 139 to 187
+  - Study URL: https://lichess.org/study/cev86fwf
+  - Chapter: No. 143 - pg. 206
+    - Chapter URL: https://lichess.org/study/cev86fwf/Ls9VpxMP
+    - Found: improves his
+    - All found aliases: improves his
+  - Chapter: No. 160A and 160B - pg. 229
+    - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
+    - Found: improve the
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+  - Chapter: No. 181 - pg. 257
+    - Chapter URL: https://lichess.org/study/cev86fwf/Kr3YONvS
+    - Found: improving the
+    - All found aliases: center, improving the, to simplify
+
+- Study: Point Count Chess: Chapter 17
+  - Study URL: https://lichess.org/study/9XMcr1Nd
+  - Chapter: The Bishop-Pair
+    - Chapter URL: https://lichess.org/study/9XMcr1Nd/lZLc7tEd
+    - Found: improves his
+    - All found aliases: improves his, maneuvers, trading, two bishops
+
+- Study: Point Count Chess: Chapter 22
+  - Study URL: https://lichess.org/study/1mr4VfGO
+  - Chapter: Improving the King Position
+    - Chapter URL: https://lichess.org/study/1mr4VfGO/FJ4cTURd
+    - Found: improving the
+    - All found aliases: improving the
+
+
 ## Concept: Intermediate Move
 
 Aliases: in-between move, intermediate move, intermezzo, zwischenschach, zwischenzug
@@ -2085,29 +2379,29 @@ Appears In:
   - Chapter: No. 109 - pg. 160
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/Vq9efjXn
     - Tactical Motif: intermezzo
-    - All found aliases: fortress, intermezzo, material, pin, threatening
+    - All found aliases: fortress, intermezzo, material, pin, threatening, trade
   - Chapter: No. 131 - pg. 186
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/Kk5wqXEq
     - Tactical Motif: in-between move, intermezzo
-    - All found aliases: fork, in-between move, intermezzo, tempi, tempo
+    - All found aliases: exchanged, fork, in-between move, intermezzo, tempi, tempo
   - Chapter: No. 131 - pg. 186
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/Kk5wqXEq
     - Tactical Motif: in-between move, intermezzo
-    - All found aliases: fork, in-between move, intermezzo, tempi, tempo
+    - All found aliases: exchanged, fork, in-between move, intermezzo, tempi, tempo
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
   - Chapter: No. 15A - pg. 29
     - Chapter URL: https://lichess.org/study/t6bOK7CT/26jrgoLT
     - Tactical Motif: intermezzo
-    - All found aliases: calculating, calculation, center, intermezzo, pressure, threatening, weak pawns
+    - All found aliases: calculating, calculation, center, exchange rules, intermezzo, pressure, threatening, weak pawns
 
 - Study: Point Count Chess: Chapter 15
   - Study URL: https://lichess.org/study/ebLJQgPE
   - Chapter: Exchanges
     - Chapter URL: https://lichess.org/study/ebLJQgPE/2w1jm367
     - Tactical Motif: intermezzo
-    - All found aliases: intermezzo, tempi
+    - All found aliases: exchanged, intermezzo, tempi
 
 - Study: Point Count Chess: Top Level Study
   - Study URL: https://lichess.org/study/NRoVF75f
@@ -2140,7 +2434,7 @@ Appears In:
   - Chapter: No. 160A and 160B - pg. 229
     - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
     - Feature: isolani
-    - All found aliases: active bishop, calculate, combination, doubled, doubling, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
   - Chapter: No. 166A 166B and 166C - pgs. 236-238
     - Chapter URL: https://lichess.org/study/cev86fwf/rzgNMWrz
     - Feature: isolated pawn
@@ -2152,22 +2446,22 @@ Appears In:
   - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
     - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
     - Feature: isolated
-    - All found aliases: center, classical school, isolated, majority, passed pawn, passed pawns
+    - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
   - Study URL: https://lichess.org/study/1DTYYVAE
   - Chapter: No. 53A and 53B - pg. 83
     - Chapter URL: https://lichess.org/study/1DTYYVAE/FuGayQs1
     - Feature: isolated
-    - All found aliases: backward pawn, cramps, isolated, mobility
+    - All found aliases: backward pawn, cramps, isolated, mobility, the hanging
   - Chapter: No. 54 - pg. 84
     - Chapter URL: https://lichess.org/study/1DTYYVAE/unOQKX05
     - Feature: isolated
-    - All found aliases: isolated
+    - All found aliases: isolated, the hanging
   - Chapter: No. 62A - pg. 93
     - Chapter URL: https://lichess.org/study/1DTYYVAE/PEnevO3f
     - Feature: isolated pawn
-    - All found aliases: doubled pawns, isolated pawn, plan
+    - All found aliases: doubled pawns, exchanges, isolated pawn, plan
   - Chapter: No. 63 - pg. 94
     - Chapter URL: https://lichess.org/study/1DTYYVAE/E9KRad2v
     - Feature: isolated
@@ -2179,19 +2473,19 @@ Appears In:
   - Chapter: No. 71A 71B 71C and 71D - pgs. 104-106
     - Chapter URL: https://lichess.org/study/1DTYYVAE/mJvOFl7X
     - Feature: isolani, isolated, isolated pawn, isolated pawns
-    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, two bishops
+    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, traded, two bishops
   - Chapter: No. 71A 71B 71C and 71D - pgs. 104-106
     - Chapter URL: https://lichess.org/study/1DTYYVAE/mJvOFl7X
     - Feature: isolani, isolated, isolated pawn, isolated pawns
-    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, two bishops
+    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, traded, two bishops
   - Chapter: No. 71A 71B 71C and 71D - pgs. 104-106
     - Chapter URL: https://lichess.org/study/1DTYYVAE/mJvOFl7X
     - Feature: isolani, isolated, isolated pawn, isolated pawns
-    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, two bishops
+    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, traded, two bishops
   - Chapter: No. 71A 71B 71C and 71D - pgs. 104-106
     - Chapter URL: https://lichess.org/study/1DTYYVAE/mJvOFl7X
     - Feature: isolani, isolated, isolated pawn, isolated pawns
-    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, two bishops
+    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, traded, two bishops
   - Chapter: No. 72A and 72B - pgs. 106-107
     - Chapter URL: https://lichess.org/study/1DTYYVAE/DDvZmbpn
     - Feature: isolani
@@ -2227,11 +2521,11 @@ Appears In:
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
     - Feature: isolated
-    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, formation, good bishop, isolated, passer, sacrificing, tempi, tempo, threatening
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
   - Chapter: No. 82A and 82B - pg. 117
     - Chapter URL: https://lichess.org/study/1DTYYVAE/juqut4J3
     - Feature: isolated
-    - All found aliases: calculation, isolated, material, sacrifice, threatening
+    - All found aliases: calculation, evaluation, isolated, material, sacrifice, the hanging, threatening
   - Chapter: No. 83 - pg. 118
     - Chapter URL: https://lichess.org/study/1DTYYVAE/3bgVjAWu
     - Feature: isolated
@@ -2239,7 +2533,7 @@ Appears In:
   - Chapter: No. 84A 84B and 84C - pgs. 119-120
     - Chapter URL: https://lichess.org/study/1DTYYVAE/i3hgMpdl
     - Feature: isolani
-    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, tempi, threatening
+    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, principles, tempi, threatening
   - Chapter: No. 86A and 86B - pgs. 125-126
     - Chapter URL: https://lichess.org/study/1DTYYVAE/aeRPHbvI
     - Feature: isolated, isolated pawns
@@ -2277,7 +2571,7 @@ Appears In:
   - Chapter: No. 17 - pg. 34
     - Chapter URL: https://lichess.org/study/t6bOK7CT/kSooM6GB
     - Feature: isolated pawns
-    - All found aliases: center, isolated pawns, knight outpost, pinning, threatening
+    - All found aliases: controls the center, isolated pawns, knight outpost, pinning, threatening
   - Chapter: No. 24 - pg. 41
     - Chapter URL: https://lichess.org/study/t6bOK7CT/K82yi56e
     - Feature: isolated pawn
@@ -2304,7 +2598,7 @@ Appears In:
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/kqKXJZ5u/AqHvgsev
     - Feature: isolani
-    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing, tempi, tempo, threatening, threats
+    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing the exchange, tempi, tempo, the hanging, threatening, threats
 
 - Study: Point Count Chess: Chapter 1
   - Study URL: https://lichess.org/study/mxq4f4tR
@@ -2385,7 +2679,7 @@ Appears In:
   - Chapter: Practical Value and Application of Point Count
     - Chapter URL: https://lichess.org/study/v8RrenNg/7lCk5DU3
     - Feature: isolated pawn
-    - All found aliases: blockade, center, isolated pawn, outpost, plan, plans
+    - All found aliases: blockade, center, compensating, isolated pawn, outpost, plan, plans
 
 - Study: Point Count Chess: Chapter 3
   - Study URL: https://lichess.org/study/4gKvLpAU
@@ -2485,23 +2779,37 @@ Appears In:
 
 ## Concept: King Safety
 
-Aliases: king safety, safe king
+Aliases: king is safe, king is safely, king is safer, king safety, safe king
 
 Appears In:
+
+- Study: Point Count Chess: Chapter 14
+  - Study URL: https://lichess.org/study/sNtWFFaF
+  - Chapter: Summary
+    - Chapter URL: https://lichess.org/study/sNtWFFaF/0HgOLKYx
+    - Found: king is safe
+    - All found aliases: center, exchanged, king is safe
 
 - Study: Point Count Chess: Chapter 15
   - Study URL: https://lichess.org/study/ebLJQgPE
   - Chapter: How Tempos Are Lost
     - Chapter URL: https://lichess.org/study/ebLJQgPE/DqSY1ccB
     - Found: king safety
-    - All found aliases: king safety, mobility, pawn structure, space, tempi
+    - All found aliases: exchanges, king safety, mobility, pawn structure, principles, space, tempi
 
 
 ## Concept: Liquidation
 
-Aliases: liquidate, liquidated, liquidates, liquidating
+Aliases: and simplify, black simplify, can simplify, hence simplifying, just simplify, just simplifying, liquidate, liquidated, liquidates, liquidating, now simplify, purposefully simplifying, simplify into, simplify the, simplifying into, simplifying to, to simplify, trade-down, trading-down, well simplify, white simplify
 
 Appears In:
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 139 to 187
+  - Study URL: https://lichess.org/study/cev86fwf
+  - Chapter: No. 181 - pg. 257
+    - Chapter URL: https://lichess.org/study/cev86fwf/Kr3YONvS
+    - Found: to simplify
+    - All found aliases: center, improving the, to simplify
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
   - Study URL: https://lichess.org/study/1DTYYVAE
@@ -2536,6 +2844,13 @@ Appears In:
     - Found: liquidate
     - All found aliases: liquidate, restricted
 
+- Study: Point Count Chess: Chapter 21
+  - Study URL: https://lichess.org/study/0CNAmML0
+  - Chapter: The Passed Pawn
+    - Chapter URL: https://lichess.org/study/0CNAmML0/92FvuDwb
+    - Found: to simplify
+    - All found aliases: passed pawns, to simplify
+
 
 ## Concept: Maneuvering
 
@@ -2559,7 +2874,7 @@ Appears In:
   - Chapter: Teichmann - Allies, 1902
     - Chapter URL: https://lichess.org/study/1DTYYVAE/Nam2pLqM
     - Found: maneuver
-    - All found aliases: maneuver, plan, threat
+    - All found aliases: exchanges, maneuver, plan, threat
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
@@ -2580,7 +2895,7 @@ Appears In:
   - Chapter: The Bishop-Pair
     - Chapter URL: https://lichess.org/study/9XMcr1Nd/lZLc7tEd
     - Found: maneuvers
-    - All found aliases: maneuvers, two bishops
+    - All found aliases: improves his, maneuvers, trading, two bishops
 
 - Study: Point Count Chess: Chapter 19
   - Study URL: https://lichess.org/study/5fzLaf3v
@@ -2623,7 +2938,7 @@ Appears In:
   - Chapter: No. 82A and 82B - pg. 117
     - Chapter URL: https://lichess.org/study/1DTYYVAE/juqut4J3
     - Found: material
-    - All found aliases: calculation, isolated, material, sacrifice, threatening
+    - All found aliases: calculation, evaluation, isolated, material, sacrifice, the hanging, threatening
   - Chapter: No. 86A and 86B - pgs. 125-126
     - Chapter URL: https://lichess.org/study/1DTYYVAE/aeRPHbvI
     - Found: material
@@ -2642,11 +2957,11 @@ Appears In:
   - Chapter: No. 106 - pg. 157
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/sk5z8xVu
     - Found: material
-    - All found aliases: initiative, material, sacrifice, threat, threatening, threats
+    - All found aliases: counter-attack, exchanged, initiative, material, sacrifice, threat, threatening, threats
   - Chapter: No. 109 - pg. 160
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/Vq9efjXn
     - Found: material
-    - All found aliases: fortress, intermezzo, material, pin, threatening
+    - All found aliases: fortress, intermezzo, material, pin, threatening, trade
   - Chapter: No. 118 - pg. 171
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/hIrPE5Q8
     - Found: material
@@ -2665,7 +2980,7 @@ Appears In:
   - Chapter: No. 152. Minority Attack - pg. 5
     - Chapter URL: https://lichess.org/study/t6bOK7CT/o0dfrdFu
     - Found: material
-    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, weak pawn
+    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, undeveloped, weak pawn
   - Chapter: No. 167. Rook on the Seventh - pg. 5
     - Chapter URL: https://lichess.org/study/t6bOK7CT/bO3sDNVJ
     - Found: material
@@ -2677,18 +2992,18 @@ Appears In:
   - Chapter: No. 5B  - pg. 16
     - Chapter URL: https://lichess.org/study/t6bOK7CT/CZpzpcFb
     - Found: material
-    - All found aliases: bishop vs knight, center, material, rules of thumb, threatening, threats
+    - All found aliases: bishop vs knight, center, evaluation, exchange rules, material, the exchanges, threatening, threats
 
 - Study: Point Count Chess: Chapter 1
   - Study URL: https://lichess.org/study/mxq4f4tR
   - Chapter: Purpose of the Point Count
     - Chapter URL: https://lichess.org/study/mxq4f4tR/cIiii0pR
     - Found: material
-    - All found aliases: material, plans
+    - All found aliases: material, plans, trades
   - Chapter: Winning with the Point Count
     - Chapter URL: https://lichess.org/study/mxq4f4tR/fJ5RTPU4
     - Found: material
-    - All found aliases: material, plan
+    - All found aliases: evaluate, material, plan
   - Chapter: The Arithmetic of Point Count
     - Chapter URL: https://lichess.org/study/mxq4f4tR/5cLAPlgD
     - Found: material
@@ -2720,22 +3035,22 @@ Appears In:
   - Chapter: You Are More Than Four Net Points Plus
     - Chapter URL: https://lichess.org/study/v8RrenNg/yVaTfMnO
     - Found: material
-    - All found aliases: compensation, material
+    - All found aliases: compensation, exchange pieces, material
   - Chapter: You Are Four Points Plus or Minus
     - Chapter URL: https://lichess.org/study/v8RrenNg/lQJGOmJh
     - Found: material
-    - All found aliases: material, plan, seize the initiative
+    - All found aliases: exchanges, material, plan, seize the initiative
 
 - Study: Point Count Chess: Top Level Study
   - Study URL: https://lichess.org/study/NRoVF75f
   - Chapter: Introduction
     - Chapter URL: https://lichess.org/study/NRoVF75f/DQTJssFH
     - Found: material
-    - All found aliases: majority, material, pawn structure, plans
+    - All found aliases: evaluate, majority, material, pawn structure, plans, principles
   - Chapter: Why PCC?
     - Chapter URL: https://lichess.org/study/NRoVF75f/t1BiR2nJ
     - Found: material
-    - All found aliases: material
+    - All found aliases: evaluation, material
   - Chapter: Index: PO-R
     - Chapter URL: https://lichess.org/study/NRoVF75f/Hs5Ru6Ln
     - Found: material
@@ -2756,9 +3071,30 @@ Appears In:
     - All found aliases: mating net, sacrifice
 
 
+## Concept: Open Position
+
+Aliases: open position, open positions, open the position, opening lines, opening the position, opening up lines
+
+Appears In:
+
+- Study: Point Count Chess: Chapter 2
+  - Study URL: https://lichess.org/study/XftYTQBa
+  - Chapter: Center Control by Pawns
+    - Chapter URL: https://lichess.org/study/XftYTQBa/H435ISTq
+    - Found: opening lines
+    - All found aliases: center, chain, classical school, formation, hypermodern, opening lines
+
+- Study: Point Count Chess: Chapter 4
+  - Study URL: https://lichess.org/study/Uj4gyNLH
+  - Chapter: The Benoni Pawn at Q5
+    - Chapter URL: https://lichess.org/study/Uj4gyNLH/A01nsGLa
+    - Found: opening lines
+    - All found aliases: center, opening lines, pressure, sacrifices
+
+
 ## Concept: Opposition
 
-Aliases: opposition, take the opposition
+Aliases: opposition, take the opposition, taking the opposition
 
 Appears In:
 
@@ -2785,7 +3121,7 @@ Appears In:
   - Chapter: No. 154A B C D and 154E - pgs. 219-221
     - Chapter URL: https://lichess.org/study/cev86fwf/DI8CwDDy
     - Feature: knight outpost
-    - All found aliases: center, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
+    - All found aliases: center, counter-play, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
   - Chapter: No. 155 - pg. 223
     - Chapter URL: https://lichess.org/study/cev86fwf/JPgz5IW3
     - Feature: outpost
@@ -2793,7 +3129,7 @@ Appears In:
   - Chapter: No. 160A and 160B - pg. 229
     - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
     - Feature: knight outpost
-    - All found aliases: active bishop, calculate, combination, doubled, doubling, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
   - Chapter: No. 166A 166B and 166C - pgs. 236-238
     - Chapter URL: https://lichess.org/study/cev86fwf/rzgNMWrz
     - Feature: knight outpost, outpost
@@ -2879,18 +3215,18 @@ Appears In:
   - Chapter: No. 115 - pg. 166
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/Uvw6Q4A5
     - Feature: outpost
-    - All found aliases: outpost
+    - All found aliases: exchanged, outpost
   - Chapter: No. 132A and 132B - pg. 187
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/fBkaAdMH
     - Feature: outpost
-    - All found aliases: outpost, tempi
+    - All found aliases: exchanging, outpost, tempi, the exchanges
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
   - Chapter: No. 152. Minority Attack - pg. 5
     - Chapter URL: https://lichess.org/study/t6bOK7CT/o0dfrdFu
     - Feature: outpost
-    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, weak pawn
+    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, undeveloped, weak pawn
   - Chapter: No. XIIB - pg. 5
     - Chapter URL: https://lichess.org/study/t6bOK7CT/qFDQ13Dp
     - Feature: outpost
@@ -2902,7 +3238,7 @@ Appears In:
   - Chapter: No. 17 - pg. 34
     - Chapter URL: https://lichess.org/study/t6bOK7CT/kSooM6GB
     - Feature: knight outpost
-    - All found aliases: center, isolated pawns, knight outpost, pinning, threatening
+    - All found aliases: controls the center, isolated pawns, knight outpost, pinning, threatening
   - Chapter: No. 24 - pg. 41
     - Chapter URL: https://lichess.org/study/t6bOK7CT/K82yi56e
     - Feature: outpost
@@ -2921,7 +3257,7 @@ Appears In:
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/kqKXJZ5u/AqHvgsev
     - Feature: outpost
-    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing, tempi, tempo, threatening, threats
+    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing the exchange, tempi, tempo, the hanging, threatening, threats
 
 - Study: Point Count Chess: Chapter 1
   - Study URL: https://lichess.org/study/mxq4f4tR
@@ -2936,7 +3272,7 @@ Appears In:
   - Chapter: Pictorial and Dynamic Points
     - Chapter URL: https://lichess.org/study/mxq4f4tR/p4UYnvg5
     - Feature: knight outpost
-    - All found aliases: knight outpost, rules of thumb
+    - All found aliases: knight outpost, rules of thumb, trade
 
 - Study: Point Count Chess: Chapter 12
   - Study URL: https://lichess.org/study/4o5wGkIo
@@ -2993,14 +3329,14 @@ Appears In:
   - Chapter: Pawns for Points
     - Chapter URL: https://lichess.org/study/qqKG9eSP/DFOR261G
     - Feature: outpost
-    - All found aliases: outpost, sacrifice, sacrifices
+    - All found aliases: outpost, sacrifice, sacrifices, trading
 
 - Study: Point Count Chess: Chapter 24
   - Study URL: https://lichess.org/study/v8RrenNg
   - Chapter: Practical Value and Application of Point Count
     - Chapter URL: https://lichess.org/study/v8RrenNg/7lCk5DU3
     - Feature: outpost
-    - All found aliases: blockade, center, isolated pawn, outpost, plan, plans
+    - All found aliases: blockade, center, compensating, isolated pawn, outpost, plan, plans
 
 - Study: Point Count Chess: Chapter 4
   - Study URL: https://lichess.org/study/Uj4gyNLH
@@ -3067,7 +3403,7 @@ Appears In:
   - Chapter: Superior Development
     - Chapter URL: https://lichess.org/study/ebLJQgPE/UjPZyzjm
     - Tactical Motif: overloaded
-    - All found aliases: overloaded
+    - All found aliases: evaluation, overloaded
 
 
 ## Concept: Passed Pawn
@@ -3089,11 +3425,11 @@ Appears In:
   - Chapter: No. 140 - pg. 202
     - Chapter URL: https://lichess.org/study/cev86fwf/tmlERL9f
     - Feature: passed pawn
-    - All found aliases: mobility, passed pawn
+    - All found aliases: exchanged, mobility, passed pawn
   - Chapter: No. 146A 146B and 146C - pgs. 208-209
     - Chapter URL: https://lichess.org/study/cev86fwf/CsM07Qgp
     - Feature: passed pawn
-    - All found aliases: majority, passed pawn, undouble
+    - All found aliases: exchange of, majority, passed pawn, undouble
   - Chapter: No. 163 - pg. 233
     - Chapter URL: https://lichess.org/study/cev86fwf/CD8pSVvg
     - Feature: passed pawn
@@ -3117,7 +3453,7 @@ Appears In:
   - Chapter: No. 174A and 174B - pgs. 248-249
     - Chapter URL: https://lichess.org/study/cev86fwf/UEG35iAq
     - Feature: passed pawn
-    - All found aliases: blockaded, center, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening
+    - All found aliases: blockaded, center, evaluation, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening, trade
   - Chapter: No. 175 - pg. 250
     - Chapter URL: https://lichess.org/study/cev86fwf/eN9rQn6s
     - Feature: passed, passed pawn
@@ -3152,12 +3488,8 @@ Appears In:
     - All found aliases: center, majority, passed pawn
   - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
     - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
-    - Feature: passed pawn, passed pawns
-    - All found aliases: center, classical school, isolated, majority, passed pawn, passed pawns
-  - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
-    - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
-    - Feature: passed pawn, passed pawns
-    - All found aliases: center, classical school, isolated, majority, passed pawn, passed pawns
+    - Feature: passed pawn
+    - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade
   - Chapter: No. 185A and 185B - pgs. 262-263
     - Chapter URL: https://lichess.org/study/cev86fwf/ulIwHDUJ
     - Feature: passed pawn
@@ -3168,7 +3500,7 @@ Appears In:
   - Chapter: No. 50A and 50B - pg. 78
     - Chapter URL: https://lichess.org/study/1DTYYVAE/SW33YxnN
     - Feature: passed pawn
-    - All found aliases: mobile, passed pawn
+    - All found aliases: counter-attack, mobile, passed pawn
   - Chapter: No. 55A and 55B - pgs. 85-86
     - Chapter URL: https://lichess.org/study/1DTYYVAE/9OYpDLJq
     - Feature: passed pawn
@@ -3176,7 +3508,7 @@ Appears In:
   - Chapter: No. 61 - pg. 93
     - Chapter URL: https://lichess.org/study/1DTYYVAE/ND9l6TKq
     - Feature: passed pawn
-    - All found aliases: doubled, passed pawn
+    - All found aliases: doubled, passed pawn, rot
   - Chapter: No. 66 - pg. 98
     - Chapter URL: https://lichess.org/study/1DTYYVAE/44eJq1gJ
     - Feature: passed pawn
@@ -3184,7 +3516,7 @@ Appears In:
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
     - Feature: passer
-    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, formation, good bishop, isolated, passer, sacrificing, tempi, tempo, threatening
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
   - Study URL: https://lichess.org/study/57Oq4l6Z
@@ -3200,10 +3532,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/9PpI3SEg
     - Feature: passed pawn
     - All found aliases: center, passed pawn, sacrifice
-  - Chapter: Najdorf, Miguel - Ilivitzki, Georgi A
-    - Chapter URL: https://lichess.org/study/57Oq4l6Z/miSPE8iP
-    - Feature: passed pawns
-    - All found aliases: passed pawns
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
@@ -3218,11 +3546,11 @@ Appears In:
   - Chapter: No. 22 - pg. 40
     - Chapter URL: https://lichess.org/study/t6bOK7CT/E7EyqlW1
     - Feature: passed, passer
-    - All found aliases: chain, compensation, passed, passer, plan, threatening
+    - All found aliases: chain, compensation, is hanging, passed, passer, plan, threatening
   - Chapter: No. 22 - pg. 40
     - Chapter URL: https://lichess.org/study/t6bOK7CT/E7EyqlW1
     - Feature: passed, passer
-    - All found aliases: chain, compensation, passed, passer, plan, threatening
+    - All found aliases: chain, compensation, is hanging, passed, passer, plan, threatening
   - Chapter: No. 24 - pg. 41
     - Chapter URL: https://lichess.org/study/t6bOK7CT/K82yi56e
     - Feature: passed pawn
@@ -3262,7 +3590,7 @@ Appears In:
   - Chapter: The Passed Pawn
     - Chapter URL: https://lichess.org/study/0CNAmML0/92FvuDwb
     - Feature: passed pawns
-    - All found aliases: passed pawns, simplify
+    - All found aliases: passed pawns, to simplify
   - Chapter: Actual and Potential Passed Pawns
     - Chapter URL: https://lichess.org/study/0CNAmML0/jJZfEz4e
     - Feature: passed pawn
@@ -3336,11 +3664,11 @@ Appears In:
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
     - Feature: chain
-    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, formation, good bishop, isolated, passer, sacrificing, tempi, tempo, threatening
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
   - Chapter: No 94A and 94B - pgs. 134-135
     - Chapter URL: https://lichess.org/study/1DTYYVAE/6EtFpauO
     - Feature: pawn chain
-    - All found aliases: minority, pawn chain
+    - All found aliases: exchange of, minority, pawn chain
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
@@ -3351,7 +3679,7 @@ Appears In:
   - Chapter: No. 15B - pg. 30
     - Chapter URL: https://lichess.org/study/t6bOK7CT/y5Hlz2zS
     - Feature: chain
-    - All found aliases: bad bishop, center, chain, good bishop, mobility, pawn formation
+    - All found aliases: bad bishop, center, chain, good bishop, mobility, pawn formation, trade
   - Chapter: No. 15C - pg. 32
     - Chapter URL: https://lichess.org/study/t6bOK7CT/jRzh0HMN
     - Feature: chain
@@ -3359,7 +3687,7 @@ Appears In:
   - Chapter: No. 16 - pg. 33
     - Chapter URL: https://lichess.org/study/t6bOK7CT/4xNp7dij
     - Feature: chain
-    - All found aliases: center, chain, doubled, plan, plans, tension
+    - All found aliases: center, chain, doubled, exchanging, plan, plans, tension
   - Chapter: No. 18 - pg. 35
     - Chapter URL: https://lichess.org/study/t6bOK7CT/kFqZmxOk
     - Feature: pawn chain
@@ -3371,7 +3699,7 @@ Appears In:
   - Chapter: No. 20 - pg. 38
     - Chapter URL: https://lichess.org/study/t6bOK7CT/klEkBh6R
     - Feature: chain
-    - All found aliases: calculation, chain
+    - All found aliases: calculation, chain, counter-play
   - Chapter: No. 21 - pg. 38
     - Chapter URL: https://lichess.org/study/t6bOK7CT/edBYf4TT
     - Feature: chain
@@ -3379,7 +3707,7 @@ Appears In:
   - Chapter: No. 22 - pg. 40
     - Chapter URL: https://lichess.org/study/t6bOK7CT/E7EyqlW1
     - Feature: chain
-    - All found aliases: chain, compensation, passed, passer, plan, threatening
+    - All found aliases: chain, compensation, is hanging, passed, passer, plan, threatening
   - Chapter: No. 23 - pg. 40
     - Chapter URL: https://lichess.org/study/t6bOK7CT/m6Uqq2S9
     - Feature: chain
@@ -3422,7 +3750,7 @@ Appears In:
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/kqKXJZ5u/AqHvgsev
     - Feature: chain
-    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing, tempi, tempo, threatening, threats
+    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing the exchange, tempi, tempo, the hanging, threatening, threats
 
 - Study: Point Count Chess: Chapter 1
   - Study URL: https://lichess.org/study/mxq4f4tR
@@ -3454,7 +3782,7 @@ Appears In:
   - Chapter: Center Control by Pawns
     - Chapter URL: https://lichess.org/study/XftYTQBa/H435ISTq
     - Feature: chain
-    - All found aliases: center, chain, classical school, formation, hypermodern
+    - All found aliases: center, chain, classical school, formation, hypermodern, opening lines
   - Chapter: French Defense Example
     - Chapter URL: https://lichess.org/study/XftYTQBa/kIkCacU3
     - Feature: chain
@@ -3470,7 +3798,7 @@ Appears In:
   - Chapter: Grunfeld Defense Counter Example
     - Chapter URL: https://lichess.org/study/XftYTQBa/omVz3VQA
     - Feature: pawn chain
-    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, tempi, threatening
+    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, rot, tempi, threatening
   - Chapter: What Center Control is NOT
     - Chapter URL: https://lichess.org/study/XftYTQBa/26NiVyVf
     - Feature: chain
@@ -3481,7 +3809,7 @@ Appears In:
   - Chapter: The French Defense Chains
     - Chapter URL: https://lichess.org/study/4gKvLpAU/wvj3gipp
     - Feature: chain
-    - All found aliases: bad bishop, chain
+    - All found aliases: bad bishop, chain, exchange of
   - Chapter: Attacking an Advanced Chain
     - Chapter URL: https://lichess.org/study/4gKvLpAU/FI8Qsd8t
     - Feature: chain
@@ -3516,7 +3844,7 @@ Appears In:
   - Chapter: P-K5 in the French Defense
     - Chapter URL: https://lichess.org/study/Uj4gyNLH/OT4xnnbF
     - Feature: chain
-    - All found aliases: center, chain, develop
+    - All found aliases: center, chain, counter-attack, develop
 
 - Study: Point Count Chess: Chapter 5
   - Study URL: https://lichess.org/study/0jiXeIpg
@@ -3573,11 +3901,11 @@ Appears In:
   - Chapter: No. 146A 146B and 146C - pgs. 208-209
     - Chapter URL: https://lichess.org/study/cev86fwf/CsM07Qgp
     - Feature: majority
-    - All found aliases: majority, passed pawn, undouble
+    - All found aliases: exchange of, majority, passed pawn, undouble
   - Chapter: No. 154A B C D and 154E - pgs. 219-221
     - Chapter URL: https://lichess.org/study/cev86fwf/DI8CwDDy
     - Feature: majority
-    - All found aliases: center, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
+    - All found aliases: center, counter-play, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
   - Chapter: No. 166A 166B and 166C - pgs. 236-238
     - Chapter URL: https://lichess.org/study/cev86fwf/rzgNMWrz
     - Feature: majority
@@ -3589,7 +3917,7 @@ Appears In:
   - Chapter: No. 174A and 174B - pgs. 248-249
     - Chapter URL: https://lichess.org/study/cev86fwf/UEG35iAq
     - Feature: pawn majority
-    - All found aliases: blockaded, center, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening
+    - All found aliases: blockaded, center, evaluation, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening, trade
   - Chapter: No. 177 - pg. 252
     - Chapter URL: https://lichess.org/study/cev86fwf/dwwuRbSw
     - Feature: majority
@@ -3617,7 +3945,7 @@ Appears In:
   - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
     - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
     - Feature: majority
-    - All found aliases: center, classical school, isolated, majority, passed pawn, passed pawns
+    - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade
   - Chapter: No. 185A and 185B - pgs. 262-263
     - Chapter URL: https://lichess.org/study/cev86fwf/ulIwHDUJ
     - Feature: majority
@@ -3643,7 +3971,7 @@ Appears In:
   - Chapter: No. 137A and 137B - pgs. 194-196
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/LT4Tglev
     - Feature: pawn majority
-    - All found aliases: mobile, pawn majority, space
+    - All found aliases: hanging the, mobile, pawn majority, space
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
@@ -3741,7 +4069,7 @@ Appears In:
   - Chapter: Introduction
     - Chapter URL: https://lichess.org/study/NRoVF75f/DQTJssFH
     - Feature: majority
-    - All found aliases: majority, material, pawn structure, plans
+    - All found aliases: evaluate, majority, material, pawn structure, plans, principles
   - Chapter: Terminology in Chess
     - Chapter URL: https://lichess.org/study/NRoVF75f/UydPnoFS
     - Feature: majority
@@ -3791,7 +4119,7 @@ Appears In:
   - Chapter: No. 153 - pg. 218
     - Chapter URL: https://lichess.org/study/cev86fwf/VEwKWoE9
     - Feature: minority
-    - All found aliases: minority
+    - All found aliases: minority, the hanging
   - Chapter: No. 177 - pg. 252
     - Chapter URL: https://lichess.org/study/cev86fwf/dwwuRbSw
     - Feature: minority
@@ -3806,7 +4134,7 @@ Appears In:
   - Chapter: No 94A and 94B - pgs. 134-135
     - Chapter URL: https://lichess.org/study/1DTYYVAE/6EtFpauO
     - Feature: minority
-    - All found aliases: minority, pawn chain
+    - All found aliases: exchange of, minority, pawn chain
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
   - Study URL: https://lichess.org/study/57Oq4l6Z
@@ -3820,7 +4148,7 @@ Appears In:
   - Chapter: No. 152. Minority Attack - pg. 5
     - Chapter URL: https://lichess.org/study/t6bOK7CT/o0dfrdFu
     - Feature: minority
-    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, weak pawn
+    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, undeveloped, weak pawn
 
 - Study: Point Count Chess: Chapter 18
   - Study URL: https://lichess.org/study/ejOGZXeC
@@ -3842,6 +4170,27 @@ Appears In:
     - Chapter URL: https://lichess.org/study/NRoVF75f/k7jSprrA
     - Feature: minority
     - All found aliases: center, majority, minority, mobility, outpost, pinned
+
+
+## Concept: Pawn Roller
+
+Aliases: connected passed, pawn roller
+
+Appears In:
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 139 to 187
+  - Study URL: https://lichess.org/study/cev86fwf
+  - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
+    - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
+    - Feature: connected passed
+    - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
+  - Study URL: https://lichess.org/study/57Oq4l6Z
+  - Chapter: Najdorf, Miguel - Ilivitzki, Georgi A
+    - Chapter URL: https://lichess.org/study/57Oq4l6Z/miSPE8iP
+    - Feature: connected passed
+    - All found aliases: connected passed
 
 
 ## Concept: Pawn Storm
@@ -3928,11 +4277,11 @@ Appears In:
   - Chapter: No. 154A B C D and 154E - pgs. 219-221
     - Chapter URL: https://lichess.org/study/cev86fwf/DI8CwDDy
     - Found: formation, structure
-    - All found aliases: center, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
+    - All found aliases: center, counter-play, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
   - Chapter: No. 154A B C D and 154E - pgs. 219-221
     - Chapter URL: https://lichess.org/study/cev86fwf/DI8CwDDy
     - Found: formation, structure
-    - All found aliases: center, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
+    - All found aliases: center, counter-play, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
   - Chapter: No. 177 - pg. 252
     - Chapter URL: https://lichess.org/study/cev86fwf/dwwuRbSw
     - Found: formation
@@ -3943,11 +4292,11 @@ Appears In:
   - Chapter: No. 49A and 49B - pgs. 76-77
     - Chapter URL: https://lichess.org/study/1DTYYVAE/HHoUe6Jb
     - Found: formation, formations
-    - All found aliases: calculate, formation, formations, initiative, mobile, mobility, threats
+    - All found aliases: calculate, counter-play, formation, formations, initiative, mobile, mobility, principles, threats
   - Chapter: No. 49A and 49B - pgs. 76-77
     - Chapter URL: https://lichess.org/study/1DTYYVAE/HHoUe6Jb
     - Found: formation, formations
-    - All found aliases: calculate, formation, formations, initiative, mobile, mobility, threats
+    - All found aliases: calculate, counter-play, formation, formations, initiative, mobile, mobility, principles, threats
   - Chapter: No. 63 - pg. 94
     - Chapter URL: https://lichess.org/study/1DTYYVAE/E9KRad2v
     - Found: formation
@@ -3963,18 +4312,18 @@ Appears In:
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
     - Found: formation
-    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, formation, good bishop, isolated, passer, sacrificing, tempi, tempo, threatening
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
   - Chapter: No. 152. Minority Attack - pg. 5
     - Chapter URL: https://lichess.org/study/t6bOK7CT/o0dfrdFu
     - Found: formation, pawn structure
-    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, weak pawn
+    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, undeveloped, weak pawn
   - Chapter: No. 152. Minority Attack - pg. 5
     - Chapter URL: https://lichess.org/study/t6bOK7CT/o0dfrdFu
     - Found: formation, pawn structure
-    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, weak pawn
+    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, undeveloped, weak pawn
   - Chapter: No. A - pg. 6
     - Chapter URL: https://lichess.org/study/t6bOK7CT/bHFBZiWt
     - Found: pawn structure
@@ -3986,7 +4335,7 @@ Appears In:
   - Chapter: No. 15B - pg. 30
     - Chapter URL: https://lichess.org/study/t6bOK7CT/y5Hlz2zS
     - Found: pawn formation
-    - All found aliases: bad bishop, center, chain, good bishop, mobility, pawn formation
+    - All found aliases: bad bishop, center, chain, good bishop, mobility, pawn formation, trade
   - Chapter: No. 24 - pg. 41
     - Chapter URL: https://lichess.org/study/t6bOK7CT/K82yi56e
     - Found: formation
@@ -3994,14 +4343,14 @@ Appears In:
   - Chapter: No. 40 - pg. 63
     - Chapter URL: https://lichess.org/study/t6bOK7CT/BGpeE0IJ
     - Found: pawn formation
-    - All found aliases: center, combination, fork, pawn formation, threatening
+    - All found aliases: center, combination, fork, pawn formation, threatening, trading
 
 - Study: PCC: Detailed Analysis
   - Study URL: https://lichess.org/study/kqKXJZ5u
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/kqKXJZ5u/AqHvgsev
     - Found: formation
-    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing, tempi, tempo, threatening, threats
+    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing the exchange, tempi, tempo, the hanging, threatening, threats
 
 - Study: Point Count Chess: Chapter 13
   - Study URL: https://lichess.org/study/UXuX2p5n
@@ -4015,7 +4364,7 @@ Appears In:
   - Chapter: How Tempos Are Lost
     - Chapter URL: https://lichess.org/study/ebLJQgPE/DqSY1ccB
     - Found: pawn structure
-    - All found aliases: king safety, mobility, pawn structure, space, tempi
+    - All found aliases: exchanges, king safety, mobility, pawn structure, principles, space, tempi
 
 - Study: Point Count Chess: Chapter 18
   - Study URL: https://lichess.org/study/ejOGZXeC
@@ -4052,7 +4401,7 @@ Appears In:
   - Chapter: Center Control by Pawns
     - Chapter URL: https://lichess.org/study/XftYTQBa/H435ISTq
     - Found: formation
-    - All found aliases: center, chain, classical school, formation, hypermodern
+    - All found aliases: center, chain, classical school, formation, hypermodern, opening lines
   - Chapter: Summary
     - Chapter URL: https://lichess.org/study/XftYTQBa/5KdcKzkk
     - Found: pawn formations
@@ -4092,7 +4441,7 @@ Appears In:
   - Chapter: The Advanced Pawn
     - Chapter URL: https://lichess.org/study/Uj4gyNLH/lYfg3Nkz
     - Found: formation
-    - All found aliases: calculations, center, formation
+    - All found aliases: calculations, center, evaluate, formation
 
 - Study: Point Count Chess: Chapter 8
   - Study URL: https://lichess.org/study/SrqwMH1W
@@ -4106,7 +4455,7 @@ Appears In:
   - Chapter: Introduction
     - Chapter URL: https://lichess.org/study/NRoVF75f/DQTJssFH
     - Found: pawn structure
-    - All found aliases: majority, material, pawn structure, plans
+    - All found aliases: evaluate, majority, material, pawn structure, plans, principles
   - Chapter: The Studies for the PCC Chapters
     - Chapter URL: https://lichess.org/study/NRoVF75f/wh4zP7Je
     - Found: pawn formations
@@ -4157,7 +4506,7 @@ Appears In:
   - Chapter: No. 16 - pg. 33
     - Chapter URL: https://lichess.org/study/t6bOK7CT/4xNp7dij
     - Feature: tension
-    - All found aliases: center, chain, doubled, plan, plans, tension
+    - All found aliases: center, chain, doubled, exchanging, plan, plans, tension
   - Chapter: No. 23 - pg. 40
     - Chapter URL: https://lichess.org/study/t6bOK7CT/m6Uqq2S9
     - Feature: tension
@@ -4189,7 +4538,7 @@ Appears In:
   - Chapter: No. 152. Minority Attack - pg. 5
     - Chapter URL: https://lichess.org/study/t6bOK7CT/o0dfrdFu
     - Feature: weak pawn
-    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, weak pawn
+    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, undeveloped, weak pawn
   - Chapter: No. 167. Rook on the Seventh - pg. 5
     - Chapter URL: https://lichess.org/study/t6bOK7CT/bO3sDNVJ
     - Feature: weak pawns
@@ -4197,7 +4546,7 @@ Appears In:
   - Chapter: No. 15A - pg. 29
     - Chapter URL: https://lichess.org/study/t6bOK7CT/26jrgoLT
     - Feature: weak pawns
-    - All found aliases: calculating, calculation, center, intermezzo, pressure, threatening, weak pawns
+    - All found aliases: calculating, calculation, center, exchange rules, intermezzo, pressure, threatening, weak pawns
 
 - Study: Point Count Chess: Chapter 1
   - Study URL: https://lichess.org/study/mxq4f4tR
@@ -4223,7 +4572,7 @@ Appears In:
 
 ## Concept: Perpetual Check
 
-Aliases: perpetual check
+Aliases: perpetual check, perpetual-check
 
 Appears In:
 
@@ -4246,15 +4595,15 @@ Appears In:
   - Chapter: No. 140 - pg. 202
     - Chapter URL: https://lichess.org/study/cev86fwf/tmlERL9f
     - Found: mobility
-    - All found aliases: mobility, passed pawn
+    - All found aliases: exchanged, mobility, passed pawn
   - Chapter: No. 141A and 141B - pgs. 204-205
     - Chapter URL: https://lichess.org/study/cev86fwf/Sgmjv3oP
     - Found: mobility
-    - All found aliases: mobility
+    - All found aliases: mobility, the hanging
   - Chapter: No. 174A and 174B - pgs. 248-249
     - Chapter URL: https://lichess.org/study/cev86fwf/UEG35iAq
     - Found: mobility
-    - All found aliases: blockaded, center, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening
+    - All found aliases: blockaded, center, evaluation, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening, trade
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
   - Study URL: https://lichess.org/study/1DTYYVAE
@@ -4265,15 +4614,15 @@ Appears In:
   - Chapter: No. 49A and 49B - pgs. 76-77
     - Chapter URL: https://lichess.org/study/1DTYYVAE/HHoUe6Jb
     - Found: mobile, mobility
-    - All found aliases: calculate, formation, formations, initiative, mobile, mobility, threats
+    - All found aliases: calculate, counter-play, formation, formations, initiative, mobile, mobility, principles, threats
   - Chapter: No. 49A and 49B - pgs. 76-77
     - Chapter URL: https://lichess.org/study/1DTYYVAE/HHoUe6Jb
     - Found: mobile, mobility
-    - All found aliases: calculate, formation, formations, initiative, mobile, mobility, threats
+    - All found aliases: calculate, counter-play, formation, formations, initiative, mobile, mobility, principles, threats
   - Chapter: No. 50A and 50B - pg. 78
     - Chapter URL: https://lichess.org/study/1DTYYVAE/SW33YxnN
     - Found: mobile
-    - All found aliases: mobile, passed pawn
+    - All found aliases: counter-attack, mobile, passed pawn
   - Chapter: No. 51A and 51B - pgs. 79-80
     - Chapter URL: https://lichess.org/study/1DTYYVAE/rWNQ0jrP
     - Found: mobile, mobilize
@@ -4285,7 +4634,7 @@ Appears In:
   - Chapter: No. 53A and 53B - pg. 83
     - Chapter URL: https://lichess.org/study/1DTYYVAE/FuGayQs1
     - Found: mobility
-    - All found aliases: backward pawn, cramps, isolated, mobility
+    - All found aliases: backward pawn, cramps, isolated, mobility, the hanging
   - Chapter: No. 85 - pg. 122
     - Chapter URL: https://lichess.org/study/1DTYYVAE/WRcz9vjz
     - Found: mobility
@@ -4304,7 +4653,7 @@ Appears In:
   - Chapter: No. 137A and 137B - pgs. 194-196
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/LT4Tglev
     - Found: mobile
-    - All found aliases: mobile, pawn majority, space
+    - All found aliases: hanging the, mobile, pawn majority, space
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
@@ -4323,7 +4672,7 @@ Appears In:
   - Chapter: No. 15B - pg. 30
     - Chapter URL: https://lichess.org/study/t6bOK7CT/y5Hlz2zS
     - Found: mobility
-    - All found aliases: bad bishop, center, chain, good bishop, mobility, pawn formation
+    - All found aliases: bad bishop, center, chain, good bishop, mobility, pawn formation, trade
   - Chapter: No. 15C - pg. 32
     - Chapter URL: https://lichess.org/study/t6bOK7CT/jRzh0HMN
     - Found: mobility
@@ -4335,7 +4684,7 @@ Appears In:
   - Chapter: No. 38 - pg 61
     - Chapter URL: https://lichess.org/study/t6bOK7CT/6MDmVN3E
     - Found: mobility
-    - All found aliases: center, central control, control the center, mobility, tempi, tempo
+    - All found aliases: center, central control, control the center, controls the center, mobility, rot, tempi, tempo, trading
 
 - Study: PCC: Detailed Analysis
   - Study URL: https://lichess.org/study/kqKXJZ5u
@@ -4349,7 +4698,7 @@ Appears In:
   - Chapter: The Importance of Strategy
     - Chapter URL: https://lichess.org/study/mxq4f4tR/I0XRTTfv
     - Found: restricted
-    - All found aliases: classical school, combination, plan, restricted, threat, threats
+    - All found aliases: classical school, combination, evaluation, plan, restricted, threat, threats
   - Chapter: Positional Point Count Table
     - Chapter URL: https://lichess.org/study/mxq4f4tR/yJaOwSmJ
     - Found: mobile
@@ -4374,7 +4723,7 @@ Appears In:
   - Chapter: How Tempos Are Lost
     - Chapter URL: https://lichess.org/study/ebLJQgPE/DqSY1ccB
     - Found: mobility
-    - All found aliases: king safety, mobility, pawn structure, space, tempi
+    - All found aliases: exchanges, king safety, mobility, pawn structure, principles, space, tempi
 
 - Study: Point Count Chess: Chapter 17
   - Study URL: https://lichess.org/study/9XMcr1Nd
@@ -4430,7 +4779,7 @@ Appears In:
   - Chapter: Expansion on \"General Principles\
     - Chapter URL: https://lichess.org/study/BS6SGTU3/AVaKSiuZ
     - Found: mobile
-    - All found aliases: mobile, space
+    - All found aliases: mobile, principles, rot, space
   - Chapter: The Potential Passed Pawn
     - Chapter URL: https://lichess.org/study/BS6SGTU3/ApwGpcjK
     - Found: mobile
@@ -4460,9 +4809,288 @@ Appears In:
     - All found aliases: center, chain, doubled, formation, isolani, isolated, mobile, passed, pin, plan
 
 
+## Concept: Piece Trade
+
+Aliases: exchange of, exchange on, exchange pieces, exchange rules, exchanged, exchanges, exchanging, not exchange, reasonable exchange, the exchanges, trade, traded, trades, trading
+
+Appears In:
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 139 to 187
+  - Study URL: https://lichess.org/study/cev86fwf
+  - Chapter: No. 140 - pg. 202
+    - Chapter URL: https://lichess.org/study/cev86fwf/tmlERL9f
+    - Found: exchanged
+    - All found aliases: exchanged, mobility, passed pawn
+  - Chapter: No. 142 - pg. 205
+    - Chapter URL: https://lichess.org/study/cev86fwf/Qt7bJDhZ
+    - Found: exchange of, trade
+    - All found aliases: exchange of, trade
+  - Chapter: No. 142 - pg. 205
+    - Chapter URL: https://lichess.org/study/cev86fwf/Qt7bJDhZ
+    - Found: exchange of, trade
+    - All found aliases: exchange of, trade
+  - Chapter: No. 144 - pg. 207
+    - Chapter URL: https://lichess.org/study/cev86fwf/ydpfwEyF
+    - Found: trading
+    - All found aliases: center, trading, two bishops
+  - Chapter: No. 146A 146B and 146C - pgs. 208-209
+    - Chapter URL: https://lichess.org/study/cev86fwf/CsM07Qgp
+    - Found: exchange of
+    - All found aliases: exchange of, majority, passed pawn, undouble
+  - Chapter: No. 147 - pg. 210
+    - Chapter URL: https://lichess.org/study/cev86fwf/EA4GlE8r
+    - Found: exchanges
+    - All found aliases: center, doubled, exchanges, undouble
+  - Chapter: No. 150 - pg. 213
+    - Chapter URL: https://lichess.org/study/cev86fwf/dRs2GMJN
+    - Found: exchanging
+    - All found aliases: exchanging, pressure, sacrifice
+  - Chapter: No. 162 - pg. 233
+    - Chapter URL: https://lichess.org/study/cev86fwf/pgj9owWi
+    - Found: exchange of
+    - All found aliases: doubling, exchange of
+  - Chapter: No. 174A and 174B - pgs. 248-249
+    - Chapter URL: https://lichess.org/study/cev86fwf/UEG35iAq
+    - Found: trade
+    - All found aliases: blockaded, center, evaluation, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening, trade
+  - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
+    - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
+    - Found: trade
+    - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
+  - Study URL: https://lichess.org/study/1DTYYVAE
+  - Chapter: No. 62A - pg. 93
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/PEnevO3f
+    - Found: exchanges
+    - All found aliases: doubled pawns, exchanges, isolated pawn, plan
+  - Chapter: No. 64 - pg. 96
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/Fu3WCZdc
+    - Found: exchange of
+    - All found aliases: exchange of
+  - Chapter: No. 71A 71B 71C and 71D - pgs. 104-106
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/mJvOFl7X
+    - Found: traded
+    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, traded, two bishops
+  - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
+    - Found: exchange of, exchange on, the exchanges
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
+  - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
+    - Found: exchange of, exchange on, the exchanges
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
+  - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
+    - Found: exchange of, exchange on, the exchanges
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
+  - Chapter: No. 87A and 87B - pgs. 126-127
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/QD0ukJ2f
+    - Found: exchanging
+    - All found aliases: exchanging, sacrifice, threat, threatening
+  - Chapter: No 94A and 94B - pgs. 134-135
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/6EtFpauO
+    - Found: exchange of
+    - All found aliases: exchange of, minority, pawn chain
+  - Chapter: Teichmann - Allies, 1902
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/Nam2pLqM
+    - Found: exchanges
+    - All found aliases: exchanges, maneuver, plan, threat
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
+  - Study URL: https://lichess.org/study/57Oq4l6Z
+  - Chapter: No. 106 - pg. 157
+    - Chapter URL: https://lichess.org/study/57Oq4l6Z/sk5z8xVu
+    - Found: exchanged
+    - All found aliases: counter-attack, exchanged, initiative, material, sacrifice, threat, threatening, threats
+  - Chapter: No. 109 - pg. 160
+    - Chapter URL: https://lichess.org/study/57Oq4l6Z/Vq9efjXn
+    - Found: trade
+    - All found aliases: fortress, intermezzo, material, pin, threatening, trade
+  - Chapter: No. 110 - pg. 161
+    - Chapter URL: https://lichess.org/study/57Oq4l6Z/H5E1egwD
+    - Found: exchanging
+    - All found aliases: exchanging, sacrifice, threatening
+  - Chapter: No. 115 - pg. 166
+    - Chapter URL: https://lichess.org/study/57Oq4l6Z/Uvw6Q4A5
+    - Found: exchanged
+    - All found aliases: exchanged, outpost
+  - Chapter: No. 126 - pg. 180
+    - Chapter URL: https://lichess.org/study/57Oq4l6Z/OjIbeCoW
+    - Found: exchanges
+    - All found aliases: exchanges, tempi, tempo
+  - Chapter: No. 131 - pg. 186
+    - Chapter URL: https://lichess.org/study/57Oq4l6Z/Kk5wqXEq
+    - Found: exchanged
+    - All found aliases: exchanged, fork, in-between move, intermezzo, tempi, tempo
+  - Chapter: No. 132A and 132B - pg. 187
+    - Chapter URL: https://lichess.org/study/57Oq4l6Z/fBkaAdMH
+    - Found: exchanging, the exchanges
+    - All found aliases: exchanging, outpost, tempi, the exchanges
+  - Chapter: No. 132A and 132B - pg. 187
+    - Chapter URL: https://lichess.org/study/57Oq4l6Z/fBkaAdMH
+    - Found: exchanging, the exchanges
+    - All found aliases: exchanging, outpost, tempi, the exchanges
+  - Chapter: No. 136 - pg. 194
+    - Chapter URL: https://lichess.org/study/57Oq4l6Z/FGFG4v9j
+    - Found: exchanges
+    - All found aliases: cramped, exchanges, space
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
+  - Study URL: https://lichess.org/study/t6bOK7CT
+  - Chapter: No. 5B  - pg. 16
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/CZpzpcFb
+    - Found: exchange rules, the exchanges
+    - All found aliases: bishop vs knight, center, evaluation, exchange rules, material, the exchanges, threatening, threats
+  - Chapter: No. 5B  - pg. 16
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/CZpzpcFb
+    - Found: exchange rules, the exchanges
+    - All found aliases: bishop vs knight, center, evaluation, exchange rules, material, the exchanges, threatening, threats
+  - Chapter: No. 15A - pg. 29
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/26jrgoLT
+    - Found: exchange rules
+    - All found aliases: calculating, calculation, center, exchange rules, intermezzo, pressure, threatening, weak pawns
+  - Chapter: No. 15B - pg. 30
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/y5Hlz2zS
+    - Found: trade
+    - All found aliases: bad bishop, center, chain, good bishop, mobility, pawn formation, trade
+  - Chapter: No. 16 - pg. 33
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/4xNp7dij
+    - Found: exchanging
+    - All found aliases: center, chain, doubled, exchanging, plan, plans, tension
+  - Chapter: No. 35 - pg. 57
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/2LE1tf0l
+    - Found: exchanged
+    - All found aliases: exchanged, initiative, threats
+  - Chapter: No. 38 - pg 61
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/6MDmVN3E
+    - Found: trading
+    - All found aliases: center, central control, control the center, controls the center, mobility, rot, tempi, tempo, trading
+  - Chapter: No. 40 - pg. 63
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/BGpeE0IJ
+    - Found: trading
+    - All found aliases: center, combination, fork, pawn formation, threatening, trading
+
+- Study: Point Count Chess: Chapter 1
+  - Study URL: https://lichess.org/study/mxq4f4tR
+  - Chapter: Purpose of the Point Count
+    - Chapter URL: https://lichess.org/study/mxq4f4tR/cIiii0pR
+    - Found: trades
+    - All found aliases: material, plans, trades
+  - Chapter: Pictorial and Dynamic Points
+    - Chapter URL: https://lichess.org/study/mxq4f4tR/p4UYnvg5
+    - Found: trade
+    - All found aliases: knight outpost, rules of thumb, trade
+
+- Study: Point Count Chess: Chapter 11
+  - Study URL: https://lichess.org/study/d95eTSPt
+  - Chapter: The Holes after P-N3
+    - Chapter URL: https://lichess.org/study/d95eTSPt/wjcFfOQk
+    - Found: exchanged, exchanging
+    - All found aliases: exchanged, exchanging
+  - Chapter: The Holes after P-N3
+    - Chapter URL: https://lichess.org/study/d95eTSPt/wjcFfOQk
+    - Found: exchanged, exchanging
+    - All found aliases: exchanged, exchanging
+  - Chapter: Exploiting Holes Despite the Bishop
+    - Chapter URL: https://lichess.org/study/d95eTSPt/3QAfo0ts
+    - Found: exchanged
+    - All found aliases: exchanged
+
+- Study: Point Count Chess: Chapter 13
+  - Study URL: https://lichess.org/study/UXuX2p5n
+  - Chapter: The Holes after P-KN3
+    - Chapter URL: https://lichess.org/study/UXuX2p5n/t0GtZS9y
+    - Found: exchange of, exchanging
+    - All found aliases: exchange of, exchanging
+  - Chapter: The Holes after P-KN3
+    - Chapter URL: https://lichess.org/study/UXuX2p5n/t0GtZS9y
+    - Found: exchange of, exchanging
+    - All found aliases: exchange of, exchanging
+  - Chapter: Loosening Up KN3
+    - Chapter URL: https://lichess.org/study/UXuX2p5n/wQh2zesm
+    - Found: exchange of
+    - All found aliases: exchange of, sacrifice
+
+- Study: Point Count Chess: Chapter 14
+  - Study URL: https://lichess.org/study/sNtWFFaF
+  - Chapter: Summary
+    - Chapter URL: https://lichess.org/study/sNtWFFaF/0HgOLKYx
+    - Found: exchanged
+    - All found aliases: center, exchanged, king is safe
+
+- Study: Point Count Chess: Chapter 15
+  - Study URL: https://lichess.org/study/ebLJQgPE
+  - Chapter: How Tempos Are Lost
+    - Chapter URL: https://lichess.org/study/ebLJQgPE/DqSY1ccB
+    - Found: exchanges
+    - All found aliases: exchanges, king safety, mobility, pawn structure, principles, space, tempi
+  - Chapter: Exchanges
+    - Chapter URL: https://lichess.org/study/ebLJQgPE/2w1jm367
+    - Found: exchanged
+    - All found aliases: exchanged, intermezzo, tempi
+
+- Study: Point Count Chess: Chapter 17
+  - Study URL: https://lichess.org/study/9XMcr1Nd
+  - Chapter: The Bishop-Pair
+    - Chapter URL: https://lichess.org/study/9XMcr1Nd/lZLc7tEd
+    - Found: trading
+    - All found aliases: improves his, maneuvers, trading, two bishops
+  - Chapter: The Bishop-Pair in the Queen's Gambit
+    - Chapter URL: https://lichess.org/study/9XMcr1Nd/YTwoAR0m
+    - Found: exchanges
+    - All found aliases: doubled, exchanges
+
+- Study: Point Count Chess: Chapter 23
+  - Study URL: https://lichess.org/study/qqKG9eSP
+  - Chapter: Pawns for Points
+    - Chapter URL: https://lichess.org/study/qqKG9eSP/DFOR261G
+    - Found: trading
+    - All found aliases: outpost, sacrifice, sacrifices, trading
+
+- Study: Point Count Chess: Chapter 24
+  - Study URL: https://lichess.org/study/v8RrenNg
+  - Chapter: You Are More Than Four Net Points Plus
+    - Chapter URL: https://lichess.org/study/v8RrenNg/yVaTfMnO
+    - Found: exchange pieces
+    - All found aliases: compensation, exchange pieces, material
+  - Chapter: You Are Four Points Plus or Minus
+    - Chapter URL: https://lichess.org/study/v8RrenNg/lQJGOmJh
+    - Found: exchanges
+    - All found aliases: exchanges, material, plan, seize the initiative
+
+- Study: Point Count Chess: Chapter 3
+  - Study URL: https://lichess.org/study/4gKvLpAU
+  - Chapter: The French Defense Chains
+    - Chapter URL: https://lichess.org/study/4gKvLpAU/wvj3gipp
+    - Found: exchange of
+    - All found aliases: bad bishop, chain, exchange of
+
+- Study: Point Count Chess: Chapter 8
+  - Study URL: https://lichess.org/study/SrqwMH1W
+  - Chapter: File-Opening
+    - Chapter URL: https://lichess.org/study/SrqwMH1W/LGhXtIDh
+    - Found: exchanged
+    - All found aliases: exchanged
+
+
+## Concept: Piece Trapped
+
+Aliases: bishop trapped, knight trapped, piece trapped, pieces trapped, queen trapped, rook trapped, trapped bishop, trapped knight, trapped piece, trapped pieces, trapped queen, trapped rook
+
+Appears In:
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
+  - Study URL: https://lichess.org/study/1DTYYVAE
+  - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
+    - Tactical Motif: queen trapped
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
+
+
 ## Concept: Pin
 
-Aliases: pin, pinned, pinning, pins
+Aliases: cross pin, pin, pinned, pinning, pins
 
 Appears In:
 
@@ -4479,7 +5107,7 @@ Appears In:
   - Chapter: No. 154A B C D and 154E - pgs. 219-221
     - Chapter URL: https://lichess.org/study/cev86fwf/DI8CwDDy
     - Tactical Motif: pin
-    - All found aliases: center, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
+    - All found aliases: center, counter-play, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
   - Chapter: No. 157 - pg. 224
     - Chapter URL: https://lichess.org/study/cev86fwf/ba2DK8Zw
     - Tactical Motif: pin
@@ -4487,7 +5115,7 @@ Appears In:
   - Chapter: No. 160A and 160B - pg. 229
     - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
     - Tactical Motif: pinned
-    - All found aliases: active bishop, calculate, combination, doubled, doubling, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
   - Study URL: https://lichess.org/study/1DTYYVAE
@@ -4513,7 +5141,7 @@ Appears In:
   - Chapter: No. 109 - pg. 160
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/Vq9efjXn
     - Tactical Motif: pin
-    - All found aliases: fortress, intermezzo, material, pin, threatening
+    - All found aliases: fortress, intermezzo, material, pin, threatening, trade
   - Chapter: No. 111 - pg. 162
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/sxW3kcXR
     - Tactical Motif: pinned
@@ -4521,11 +5149,11 @@ Appears In:
   - Chapter: No. 112 - pg. 163
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/HDvzn4Ly
     - Tactical Motif: pin, pinned
-    - All found aliases: pin, pinned, sacrifice
+    - All found aliases: pin, pinned, principles, sacrifice
   - Chapter: No. 112 - pg. 163
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/HDvzn4Ly
     - Tactical Motif: pin, pinned
-    - All found aliases: pin, pinned, sacrifice
+    - All found aliases: pin, pinned, principles, sacrifice
   - Chapter: No. 113A 113B and 113C - pgs. 163-165
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/sTZxb2aB
     - Tactical Motif: pin
@@ -4533,7 +5161,7 @@ Appears In:
   - Chapter: No. 114 - pg. 166
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/icUfip0E
     - Tactical Motif: pin
-    - All found aliases: pin
+    - All found aliases: counter-play, pin
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
@@ -4544,7 +5172,7 @@ Appears In:
   - Chapter: No. 17 - pg. 34
     - Chapter URL: https://lichess.org/study/t6bOK7CT/kSooM6GB
     - Tactical Motif: pinning
-    - All found aliases: center, isolated pawns, knight outpost, pinning, threatening
+    - All found aliases: controls the center, isolated pawns, knight outpost, pinning, threatening
   - Chapter: No. 23 - pg. 40
     - Chapter URL: https://lichess.org/study/t6bOK7CT/m6Uqq2S9
     - Tactical Motif: pins
@@ -4556,18 +5184,18 @@ Appears In:
   - Chapter: No. 46A 46B and 46C - pgs. 69-70
     - Chapter URL: https://lichess.org/study/t6bOK7CT/5ttlWe6b
     - Tactical Motif: pins
-    - All found aliases: pins, tempi
+    - All found aliases: counter-attack, pins, tempi
 
 - Study: Point Count Chess: Chapter 13
   - Study URL: https://lichess.org/study/UXuX2p5n
   - Chapter: The Pin of the King Knight
     - Chapter URL: https://lichess.org/study/UXuX2p5n/zwHq4gfR
     - Tactical Motif: pin, pinning
-    - All found aliases: pin, pinning
+    - All found aliases: pin, pinning, principles
   - Chapter: The Pin of the King Knight
     - Chapter URL: https://lichess.org/study/UXuX2p5n/zwHq4gfR
     - Tactical Motif: pin, pinning
-    - All found aliases: pin, pinning
+    - All found aliases: pin, pinning, principles
 
 - Study: Point Count Chess: Chapter 18
   - Study URL: https://lichess.org/study/ejOGZXeC
@@ -4581,7 +5209,7 @@ Appears In:
   - Chapter: Grunfeld Defense Counter Example
     - Chapter URL: https://lichess.org/study/XftYTQBa/omVz3VQA
     - Tactical Motif: pin
-    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, tempi, threatening
+    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, rot, tempi, threatening
 
 - Study: Point Count Chess: Chapter 8
   - Study URL: https://lichess.org/study/SrqwMH1W
@@ -4621,7 +5249,7 @@ Appears In:
   - Chapter: No. 62A - pg. 93
     - Chapter URL: https://lichess.org/study/1DTYYVAE/PEnevO3f
     - Found: plan
-    - All found aliases: doubled pawns, isolated pawn, plan
+    - All found aliases: doubled pawns, exchanges, isolated pawn, plan
   - Chapter: No. 62B - pg. 94
     - Chapter URL: https://lichess.org/study/1DTYYVAE/1daEc1WZ
     - Found: plan
@@ -4637,7 +5265,7 @@ Appears In:
   - Chapter: Teichmann - Allies, 1902
     - Chapter URL: https://lichess.org/study/1DTYYVAE/Nam2pLqM
     - Found: plan
-    - All found aliases: maneuver, plan, threat
+    - All found aliases: exchanges, maneuver, plan, threat
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
   - Study URL: https://lichess.org/study/57Oq4l6Z
@@ -4651,7 +5279,7 @@ Appears In:
   - Chapter: No. 152. Minority Attack - pg. 5
     - Chapter URL: https://lichess.org/study/t6bOK7CT/o0dfrdFu
     - Found: plans
-    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, weak pawn
+    - All found aliases: developed, formation, material, minority, outpost, pawn structure, plans, undeveloped, weak pawn
   - Chapter: No. 1. Queen's Gambit - pg. 9
     - Chapter URL: https://lichess.org/study/t6bOK7CT/9uvpMxaA
     - Found: plans
@@ -4659,23 +5287,23 @@ Appears In:
   - Chapter: No. 5A - pg. 16
     - Chapter URL: https://lichess.org/study/t6bOK7CT/frhozOMy
     - Found: plan, plans
-    - All found aliases: bad bishop, center, plan, plans, tempo
+    - All found aliases: bad bishop, center, evaluate, plan, plans, tempo
   - Chapter: No. 5A - pg. 16
     - Chapter URL: https://lichess.org/study/t6bOK7CT/frhozOMy
     - Found: plan, plans
-    - All found aliases: bad bishop, center, plan, plans, tempo
+    - All found aliases: bad bishop, center, evaluate, plan, plans, tempo
   - Chapter: No. 16 - pg. 33
     - Chapter URL: https://lichess.org/study/t6bOK7CT/4xNp7dij
     - Found: plan, plans
-    - All found aliases: center, chain, doubled, plan, plans, tension
+    - All found aliases: center, chain, doubled, exchanging, plan, plans, tension
   - Chapter: No. 16 - pg. 33
     - Chapter URL: https://lichess.org/study/t6bOK7CT/4xNp7dij
     - Found: plan, plans
-    - All found aliases: center, chain, doubled, plan, plans, tension
+    - All found aliases: center, chain, doubled, exchanging, plan, plans, tension
   - Chapter: No. 22 - pg. 40
     - Chapter URL: https://lichess.org/study/t6bOK7CT/E7EyqlW1
     - Found: plan
-    - All found aliases: chain, compensation, passed, passer, plan, threatening
+    - All found aliases: chain, compensation, is hanging, passed, passer, plan, threatening
   - Chapter: No. 39A and 39B - pgs. 61-62
     - Chapter URL: https://lichess.org/study/t6bOK7CT/ATuMlcOF
     - Found: plan
@@ -4690,15 +5318,15 @@ Appears In:
   - Chapter: Purpose of the Point Count
     - Chapter URL: https://lichess.org/study/mxq4f4tR/cIiii0pR
     - Found: plans
-    - All found aliases: material, plans
+    - All found aliases: material, plans, trades
   - Chapter: Winning with the Point Count
     - Chapter URL: https://lichess.org/study/mxq4f4tR/fJ5RTPU4
     - Found: plan
-    - All found aliases: material, plan
+    - All found aliases: evaluate, material, plan
   - Chapter: The Importance of Strategy
     - Chapter URL: https://lichess.org/study/mxq4f4tR/I0XRTTfv
     - Found: plan
-    - All found aliases: classical school, combination, plan, restricted, threat, threats
+    - All found aliases: classical school, combination, evaluation, plan, restricted, threat, threats
   - Chapter: The Strategic Plan
     - Chapter URL: https://lichess.org/study/mxq4f4tR/czpNgNbT
     - Found: plans
@@ -4720,15 +5348,15 @@ Appears In:
   - Chapter: Practical Value and Application of Point Count
     - Chapter URL: https://lichess.org/study/v8RrenNg/7lCk5DU3
     - Found: plan, plans
-    - All found aliases: blockade, center, isolated pawn, outpost, plan, plans
+    - All found aliases: blockade, center, compensating, isolated pawn, outpost, plan, plans
   - Chapter: Practical Value and Application of Point Count
     - Chapter URL: https://lichess.org/study/v8RrenNg/7lCk5DU3
     - Found: plan, plans
-    - All found aliases: blockade, center, isolated pawn, outpost, plan, plans
+    - All found aliases: blockade, center, compensating, isolated pawn, outpost, plan, plans
   - Chapter: You Are Four Points Plus or Minus
     - Chapter URL: https://lichess.org/study/v8RrenNg/lQJGOmJh
     - Found: plan
-    - All found aliases: material, plan, seize the initiative
+    - All found aliases: exchanges, material, plan, seize the initiative
 
 - Study: Point Count Chess: Chapter 6
   - Study URL: https://lichess.org/study/BS6SGTU3
@@ -4756,7 +5384,7 @@ Appears In:
   - Chapter: Introduction
     - Chapter URL: https://lichess.org/study/NRoVF75f/DQTJssFH
     - Found: plans
-    - All found aliases: majority, material, pawn structure, plans
+    - All found aliases: evaluate, majority, material, pawn structure, plans, principles
   - Chapter: Index: P-PL
     - Chapter URL: https://lichess.org/study/NRoVF75f/gsoiZhPY
     - Found: plan
@@ -4779,7 +5407,7 @@ Appears In:
 
 ## Concept: Removing the Defender
 
-Aliases: defender removed, defenders removed, remove the defender, remove the defenders, remove the guard, removing the defender
+Aliases: defender removed, defenders removed, remove the defender, remove the defenders, remove the guard, removed the defender, removed the guard, removes the defender, removes the defenders, removes the guard, removing the defender, removing the guard
 
 Appears In:
 
@@ -4793,28 +5421,89 @@ Appears In:
 
 ## Concept: Rules-of-Thumb Play
 
-Aliases: rule of thumb, rules of thumb, rules-of-thumb play
+Aliases: principled, principles, rot, rule of thumb, rules of thumb, rules-of-thumb play
 
 Appears In:
 
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
+  - Study URL: https://lichess.org/study/1DTYYVAE
+  - Chapter: No. 49A and 49B - pgs. 76-77
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/HHoUe6Jb
+    - Found: principles
+    - All found aliases: calculate, counter-play, formation, formations, initiative, mobile, mobility, principles, threats
+  - Chapter: No. 61 - pg. 93
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/ND9l6TKq
+    - Found: rot
+    - All found aliases: doubled, passed pawn, rot
+  - Chapter: No. 84A 84B and 84C - pgs. 119-120
+    - Chapter URL: https://lichess.org/study/1DTYYVAE/i3hgMpdl
+    - Found: principles
+    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, principles, tempi, threatening
+
+- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
+  - Study URL: https://lichess.org/study/57Oq4l6Z
+  - Chapter: No. 112 - pg. 163
+    - Chapter URL: https://lichess.org/study/57Oq4l6Z/HDvzn4Ly
+    - Found: principles
+    - All found aliases: pin, pinned, principles, sacrifice
+
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
-  - Chapter: No. 5B  - pg. 16
-    - Chapter URL: https://lichess.org/study/t6bOK7CT/CZpzpcFb
-    - Found: rules of thumb
-    - All found aliases: bishop vs knight, center, material, rules of thumb, threatening, threats
+  - Chapter: No. 38 - pg 61
+    - Chapter URL: https://lichess.org/study/t6bOK7CT/6MDmVN3E
+    - Found: rot
+    - All found aliases: center, central control, control the center, controls the center, mobility, rot, tempi, tempo, trading
 
 - Study: Point Count Chess: Chapter 1
   - Study URL: https://lichess.org/study/mxq4f4tR
   - Chapter: Pictorial and Dynamic Points
     - Chapter URL: https://lichess.org/study/mxq4f4tR/p4UYnvg5
     - Found: rules of thumb
-    - All found aliases: knight outpost, rules of thumb
+    - All found aliases: knight outpost, rules of thumb, trade
+
+- Study: Point Count Chess: Chapter 13
+  - Study URL: https://lichess.org/study/UXuX2p5n
+  - Chapter: The Pin of the King Knight
+    - Chapter URL: https://lichess.org/study/UXuX2p5n/zwHq4gfR
+    - Found: principles
+    - All found aliases: pin, pinning, principles
+
+- Study: Point Count Chess: Chapter 15
+  - Study URL: https://lichess.org/study/ebLJQgPE
+  - Chapter: How Tempos Are Lost
+    - Chapter URL: https://lichess.org/study/ebLJQgPE/DqSY1ccB
+    - Found: principles
+    - All found aliases: exchanges, king safety, mobility, pawn structure, principles, space, tempi
+
+- Study: Point Count Chess: Chapter 2
+  - Study URL: https://lichess.org/study/XftYTQBa
+  - Chapter: Grunfeld Defense Counter Example
+    - Chapter URL: https://lichess.org/study/XftYTQBa/omVz3VQA
+    - Found: rot
+    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, rot, tempi, threatening
+
+- Study: Point Count Chess: Chapter 6
+  - Study URL: https://lichess.org/study/BS6SGTU3
+  - Chapter: Expansion on \"General Principles\
+    - Chapter URL: https://lichess.org/study/BS6SGTU3/AVaKSiuZ
+    - Found: principles, rot
+    - All found aliases: mobile, principles, rot, space
+  - Chapter: Expansion on \"General Principles\
+    - Chapter URL: https://lichess.org/study/BS6SGTU3/AVaKSiuZ
+    - Found: principles, rot
+    - All found aliases: mobile, principles, rot, space
+
+- Study: Point Count Chess: Top Level Study
+  - Study URL: https://lichess.org/study/NRoVF75f
+  - Chapter: Introduction
+    - Chapter URL: https://lichess.org/study/NRoVF75f/DQTJssFH
+    - Found: principles
+    - All found aliases: evaluate, majority, material, pawn structure, plans, principles
 
 
 ## Concept: Sacrifice
 
-Aliases: positional sacrifice, sacrifice, sacrificed, sacrifices, sacrificing, strategic sacrifice, strategic sacrifices
+Aliases: greek gift sacrifice, greek sacrifice, positional sacrifice, sac, sacrifice, sacrificed, sacrifices, sacrificing, strategic sacrifice, strategic sacrifices
 
 Appears In:
 
@@ -4823,11 +5512,11 @@ Appears In:
   - Chapter: No. 150 - pg. 213
     - Chapter URL: https://lichess.org/study/cev86fwf/dRs2GMJN
     - Tactical Motif: sacrifice
-    - All found aliases: pressure, sacrifice
+    - All found aliases: exchanging, pressure, sacrifice
   - Chapter: No. 160A and 160B - pg. 229
     - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
     - Tactical Motif: sacrifice
-    - All found aliases: active bishop, calculate, combination, doubled, doubling, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
   - Chapter: No. 164 - pg. 234
     - Chapter URL: https://lichess.org/study/cev86fwf/M7FDqaAp
     - Tactical Motif: sacrifice
@@ -4851,18 +5540,14 @@ Appears In:
     - Chapter URL: https://lichess.org/study/1DTYYVAE/T26NqwA0
     - Tactical Motif: sacrificing
     - All found aliases: center, compensation, doubled, isolated, retreat, sacrificing, space, threatening
-  - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
-    - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
-    - Tactical Motif: sacrificing
-    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, formation, good bishop, isolated, passer, sacrificing, tempi, tempo, threatening
   - Chapter: No. 82A and 82B - pg. 117
     - Chapter URL: https://lichess.org/study/1DTYYVAE/juqut4J3
     - Tactical Motif: sacrifice
-    - All found aliases: calculation, isolated, material, sacrifice, threatening
+    - All found aliases: calculation, evaluation, isolated, material, sacrifice, the hanging, threatening
   - Chapter: No. 87A and 87B - pgs. 126-127
     - Chapter URL: https://lichess.org/study/1DTYYVAE/QD0ukJ2f
     - Tactical Motif: sacrifice
-    - All found aliases: sacrifice, threat, threatening
+    - All found aliases: exchanging, sacrifice, threat, threatening
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
   - Study URL: https://lichess.org/study/57Oq4l6Z
@@ -4873,7 +5558,7 @@ Appears In:
   - Chapter: No. 106 - pg. 157
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/sk5z8xVu
     - Tactical Motif: sacrifice
-    - All found aliases: initiative, material, sacrifice, threat, threatening, threats
+    - All found aliases: counter-attack, exchanged, initiative, material, sacrifice, threat, threatening, threats
   - Chapter: No. 108 - pg. 159
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/YFCprdMU
     - Tactical Motif: sacrifice
@@ -4881,11 +5566,11 @@ Appears In:
   - Chapter: No. 110 - pg. 161
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/H5E1egwD
     - Tactical Motif: sacrifice
-    - All found aliases: sacrifice, threatening
+    - All found aliases: exchanging, sacrifice, threatening
   - Chapter: No. 112 - pg. 163
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/HDvzn4Ly
     - Tactical Motif: sacrifice
-    - All found aliases: pin, pinned, sacrifice
+    - All found aliases: pin, pinned, principles, sacrifice
   - Chapter: No. 117 - pg. 170
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/9PpI3SEg
     - Tactical Motif: sacrifice
@@ -4921,10 +5606,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/t6bOK7CT/jRzh0HMN
     - Tactical Motif: sacrifice
     - All found aliases: bad bishop, center, chain, develops, doubled, doubling, good bishop, mobility, pressure, sacrifice, space, threat, threatening
-  - Chapter: No. 31 - pg. 52
-    - Chapter URL: https://lichess.org/study/t6bOK7CT/7RpPW57o
-    - Tactical Motif: sacrificing
-    - All found aliases: sacrificing, threatening
   - Chapter: No. 39A and 39B - pgs. 61-62
     - Chapter URL: https://lichess.org/study/t6bOK7CT/ATuMlcOF
     - Tactical Motif: sacrifice
@@ -4940,17 +5621,13 @@ Appears In:
     - Chapter URL: https://lichess.org/study/kqKXJZ5u/ANt86Lei
     - Tactical Motif: sacrifice
     - All found aliases: bad bishop, center, chain, develops, doubled, doubling, good bishop, maneuver, mobility, pressure, sacrifice, space, threat, threatening
-  - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
-    - Chapter URL: https://lichess.org/study/kqKXJZ5u/AqHvgsev
-    - Tactical Motif: sacrificing
-    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing, tempi, tempo, threatening, threats
 
 - Study: Point Count Chess: Chapter 13
   - Study URL: https://lichess.org/study/UXuX2p5n
   - Chapter: Loosening Up KN3
     - Chapter URL: https://lichess.org/study/UXuX2p5n/wQh2zesm
     - Tactical Motif: sacrifice
-    - All found aliases: sacrifice
+    - All found aliases: exchange of, sacrifice
   - Chapter: P-KR3: Pro and Con
     - Chapter URL: https://lichess.org/study/UXuX2p5n/1bJVUfPE
     - Tactical Motif: sacrifice
@@ -4984,18 +5661,18 @@ Appears In:
   - Chapter: Pawns for Points
     - Chapter URL: https://lichess.org/study/qqKG9eSP/DFOR261G
     - Tactical Motif: sacrifice, sacrifices
-    - All found aliases: outpost, sacrifice, sacrifices
+    - All found aliases: outpost, sacrifice, sacrifices, trading
   - Chapter: Pawns for Points
     - Chapter URL: https://lichess.org/study/qqKG9eSP/DFOR261G
     - Tactical Motif: sacrifice, sacrifices
-    - All found aliases: outpost, sacrifice, sacrifices
+    - All found aliases: outpost, sacrifice, sacrifices, trading
 
 - Study: Point Count Chess: Chapter 4
   - Study URL: https://lichess.org/study/Uj4gyNLH
   - Chapter: The Benoni Pawn at Q5
     - Chapter URL: https://lichess.org/study/Uj4gyNLH/A01nsGLa
     - Tactical Motif: sacrifices
-    - All found aliases: center, pressure, sacrifices
+    - All found aliases: center, opening lines, pressure, sacrifices
 
 - Study: Point Count Chess: Top Level Study
   - Study URL: https://lichess.org/study/NRoVF75f
@@ -5030,7 +5707,7 @@ Appears In:
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/kqKXJZ5u/AqHvgsev
     - Found: imbalances
-    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing, tempi, tempo, threatening, threats
+    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing the exchange, tempi, tempo, the hanging, threatening, threats
 
 - Study: Point Count Chess: Chapter 2
   - Study URL: https://lichess.org/study/XftYTQBa
@@ -5051,27 +5728,6 @@ Appears In:
     - All found aliases: classical school, imbalances, silman's imbalances, tempo
 
 
-## Concept: Simplification
-
-Aliases: simplification, simplified, simplifies, simplify, simplifying
-
-Appears In:
-
-- Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 139 to 187
-  - Study URL: https://lichess.org/study/cev86fwf
-  - Chapter: No. 181 - pg. 257
-    - Chapter URL: https://lichess.org/study/cev86fwf/Kr3YONvS
-    - Found: simplify
-    - All found aliases: center, simplify
-
-- Study: Point Count Chess: Chapter 21
-  - Study URL: https://lichess.org/study/0CNAmML0
-  - Chapter: The Passed Pawn
-    - Chapter URL: https://lichess.org/study/0CNAmML0/92FvuDwb
-    - Found: simplify
-    - All found aliases: passed pawns, simplify
-
-
 ## Concept: Space
 
 Aliases: constrict, constricted, constricting, constricts, cramp, cramped, cramped position, cramped position, cramps, gain space, reduce space, space, space advantage, space advantage, space gained, space reduced
@@ -5083,7 +5739,7 @@ Appears In:
   - Chapter: No. 174A and 174B - pgs. 248-249
     - Chapter URL: https://lichess.org/study/cev86fwf/UEG35iAq
     - Found: space
-    - All found aliases: blockaded, center, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening
+    - All found aliases: blockaded, center, evaluation, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening, trade
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
   - Study URL: https://lichess.org/study/1DTYYVAE
@@ -5098,7 +5754,7 @@ Appears In:
   - Chapter: No. 53A and 53B - pg. 83
     - Chapter URL: https://lichess.org/study/1DTYYVAE/FuGayQs1
     - Found: cramps
-    - All found aliases: backward pawn, cramps, isolated, mobility
+    - All found aliases: backward pawn, cramps, isolated, mobility, the hanging
   - Chapter: No. 68 - pg. 99
     - Chapter URL: https://lichess.org/study/1DTYYVAE/T26NqwA0
     - Found: space
@@ -5106,7 +5762,7 @@ Appears In:
   - Chapter: No. 84A 84B and 84C - pgs. 119-120
     - Chapter URL: https://lichess.org/study/1DTYYVAE/i3hgMpdl
     - Found: cramped
-    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, tempi, threatening
+    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, principles, tempi, threatening
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
   - Study URL: https://lichess.org/study/57Oq4l6Z
@@ -5133,15 +5789,15 @@ Appears In:
   - Chapter: No. 136 - pg. 194
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/FGFG4v9j
     - Found: cramped, space
-    - All found aliases: cramped, space
+    - All found aliases: cramped, exchanges, space
   - Chapter: No. 136 - pg. 194
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/FGFG4v9j
     - Found: cramped, space
-    - All found aliases: cramped, space
+    - All found aliases: cramped, exchanges, space
   - Chapter: No. 137A and 137B - pgs. 194-196
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/LT4Tglev
     - Found: space
-    - All found aliases: mobile, pawn majority, space
+    - All found aliases: hanging the, mobile, pawn majority, space
   - Chapter: No. 138A 138B and 138C - pgs. 197-198
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/kqGw5mWr
     - Found: space
@@ -5168,7 +5824,7 @@ Appears In:
   - Chapter: No. 4 - pg. 15
     - Chapter URL: https://lichess.org/study/t6bOK7CT/AoqU5T66
     - Found: space
-    - All found aliases: space
+    - All found aliases: evaluation, space
   - Chapter: No. 14. Sicilian Defense - pg. 27
     - Chapter URL: https://lichess.org/study/t6bOK7CT/qhSQdDzV
     - Found: space
@@ -5217,7 +5873,7 @@ Appears In:
   - Chapter: How Tempos Are Lost
     - Chapter URL: https://lichess.org/study/ebLJQgPE/DqSY1ccB
     - Found: space
-    - All found aliases: king safety, mobility, pawn structure, space, tempi
+    - All found aliases: exchanges, king safety, mobility, pawn structure, principles, space, tempi
 
 - Study: Point Count Chess: Chapter 16
   - Study URL: https://lichess.org/study/dnsiwX67
@@ -5302,7 +5958,7 @@ Appears In:
   - Chapter: Expansion on \"General Principles\
     - Chapter URL: https://lichess.org/study/BS6SGTU3/AVaKSiuZ
     - Found: space
-    - All found aliases: mobile, space
+    - All found aliases: mobile, principles, rot, space
   - Chapter: Summary
     - Chapter URL: https://lichess.org/study/BS6SGTU3/rLBYT6z7
     - Found: cramp, cramped, space
@@ -5351,15 +6007,15 @@ Appears In:
   - Chapter: No. 150 - pg. 213
     - Chapter URL: https://lichess.org/study/cev86fwf/dRs2GMJN
     - Found: pressure
-    - All found aliases: pressure, sacrifice
+    - All found aliases: exchanging, pressure, sacrifice
   - Chapter: No. 154A B C D and 154E - pgs. 219-221
     - Chapter URL: https://lichess.org/study/cev86fwf/DI8CwDDy
     - Found: initiative, pressure
-    - All found aliases: center, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
+    - All found aliases: center, counter-play, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
   - Chapter: No. 154A B C D and 154E - pgs. 219-221
     - Chapter URL: https://lichess.org/study/cev86fwf/DI8CwDDy
     - Found: initiative, pressure
-    - All found aliases: center, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
+    - All found aliases: center, counter-play, doubles, formation, good bishop, initiative, knight outpost, majority, pin, pressure, structure
   - Chapter: No. 155 - pg. 223
     - Chapter URL: https://lichess.org/study/cev86fwf/JPgz5IW3
     - Found: pressure
@@ -5367,14 +6023,14 @@ Appears In:
   - Chapter: No. 160A and 160B - pg. 229
     - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
     - Found: pressure
-    - All found aliases: active bishop, calculate, combination, doubled, doubling, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
   - Study URL: https://lichess.org/study/1DTYYVAE
   - Chapter: No. 49A and 49B - pgs. 76-77
     - Chapter URL: https://lichess.org/study/1DTYYVAE/HHoUe6Jb
     - Found: initiative
-    - All found aliases: calculate, formation, formations, initiative, mobile, mobility, threats
+    - All found aliases: calculate, counter-play, formation, formations, initiative, mobile, mobility, principles, threats
   - Chapter: No. 72A and 72B - pgs. 106-107
     - Chapter URL: https://lichess.org/study/1DTYYVAE/DDvZmbpn
     - Found: pressure
@@ -5397,14 +6053,14 @@ Appears In:
   - Chapter: No. 106 - pg. 157
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/sk5z8xVu
     - Found: initiative
-    - All found aliases: initiative, material, sacrifice, threat, threatening, threats
+    - All found aliases: counter-attack, exchanged, initiative, material, sacrifice, threat, threatening, threats
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
   - Chapter: No. 15A - pg. 29
     - Chapter URL: https://lichess.org/study/t6bOK7CT/26jrgoLT
     - Found: pressure
-    - All found aliases: calculating, calculation, center, intermezzo, pressure, threatening, weak pawns
+    - All found aliases: calculating, calculation, center, exchange rules, intermezzo, pressure, threatening, weak pawns
   - Chapter: No. 15C - pg. 32
     - Chapter URL: https://lichess.org/study/t6bOK7CT/jRzh0HMN
     - Found: pressure
@@ -5420,7 +6076,7 @@ Appears In:
   - Chapter: No. 35 - pg. 57
     - Chapter URL: https://lichess.org/study/t6bOK7CT/2LE1tf0l
     - Found: initiative
-    - All found aliases: initiative, threats
+    - All found aliases: exchanged, initiative, threats
   - Chapter: No. 43 - pg. 66
     - Chapter URL: https://lichess.org/study/t6bOK7CT/gCDxTWO3
     - Found: pressure
@@ -5449,7 +6105,7 @@ Appears In:
   - Chapter: You Are Four Points Plus or Minus
     - Chapter URL: https://lichess.org/study/v8RrenNg/lQJGOmJh
     - Found: seize the initiative
-    - All found aliases: material, plan, seize the initiative
+    - All found aliases: exchanges, material, plan, seize the initiative
 
 - Study: Point Count Chess: Chapter 3
   - Study URL: https://lichess.org/study/4gKvLpAU
@@ -5463,7 +6119,7 @@ Appears In:
   - Chapter: The Benoni Pawn at Q5
     - Chapter URL: https://lichess.org/study/Uj4gyNLH/A01nsGLa
     - Found: pressure
-    - All found aliases: center, pressure, sacrifices
+    - All found aliases: center, opening lines, pressure, sacrifices
 
 - Study: Point Count Chess: Chapter 9
   - Study URL: https://lichess.org/study/euJhXAtF
@@ -5490,7 +6146,7 @@ Appears In:
 
 ## Concept: Strategic Base of the Chess Game
 
-Aliases: strategic base, strategic base of the chess game
+Aliases: strategic base
 
 Appears In:
 
@@ -5521,7 +6177,7 @@ Appears In:
   - Chapter: No. 160A and 160B - pg. 229
     - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
     - Found: tempo
-    - All found aliases: active bishop, calculate, combination, doubled, doubling, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
   - Chapter: No. 169 - pg. 242
     - Chapter URL: https://lichess.org/study/cev86fwf/lURpyZPU
     - Found: tempi
@@ -5529,7 +6185,7 @@ Appears In:
   - Chapter: No. 174A and 174B - pgs. 248-249
     - Chapter URL: https://lichess.org/study/cev86fwf/UEG35iAq
     - Found: tempi
-    - All found aliases: blockaded, center, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening
+    - All found aliases: blockaded, center, evaluation, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening, trade
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 47A to 94B
   - Study URL: https://lichess.org/study/1DTYYVAE
@@ -5544,11 +6200,11 @@ Appears In:
   - Chapter: No. 71A 71B 71C and 71D - pgs. 104-106
     - Chapter URL: https://lichess.org/study/1DTYYVAE/mJvOFl7X
     - Found: lose a tempo, tempo
-    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, two bishops
+    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, traded, two bishops
   - Chapter: No. 71A 71B 71C and 71D - pgs. 104-106
     - Chapter URL: https://lichess.org/study/1DTYYVAE/mJvOFl7X
     - Found: lose a tempo, tempo
-    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, two bishops
+    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, traded, two bishops
   - Chapter: No. 72A and 72B - pgs. 106-107
     - Chapter URL: https://lichess.org/study/1DTYYVAE/DDvZmbpn
     - Found: tempi
@@ -5560,15 +6216,15 @@ Appears In:
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
     - Found: tempi, tempo
-    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, formation, good bishop, isolated, passer, sacrificing, tempi, tempo, threatening
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
     - Found: tempi, tempo
-    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, formation, good bishop, isolated, passer, sacrificing, tempi, tempo, threatening
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
   - Chapter: No. 84A 84B and 84C - pgs. 119-120
     - Chapter URL: https://lichess.org/study/1DTYYVAE/i3hgMpdl
     - Found: tempi
-    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, tempi, threatening
+    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, principles, tempi, threatening
   - Chapter: No. 88 - pg. 127
     - Chapter URL: https://lichess.org/study/1DTYYVAE/1RBrpTS5
     - Found: tempi
@@ -5591,11 +6247,11 @@ Appears In:
   - Chapter: No. 126 - pg. 180
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/OjIbeCoW
     - Found: tempi, tempo
-    - All found aliases: tempi, tempo
+    - All found aliases: exchanges, tempi, tempo
   - Chapter: No. 126 - pg. 180
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/OjIbeCoW
     - Found: tempi, tempo
-    - All found aliases: tempi, tempo
+    - All found aliases: exchanges, tempi, tempo
   - Chapter: No. 127 - pg. 180
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/RQqkzR6i
     - Found: tempi, tempo
@@ -5607,15 +6263,15 @@ Appears In:
   - Chapter: No. 131 - pg. 186
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/Kk5wqXEq
     - Found: tempi, tempo
-    - All found aliases: fork, in-between move, intermezzo, tempi, tempo
+    - All found aliases: exchanged, fork, in-between move, intermezzo, tempi, tempo
   - Chapter: No. 131 - pg. 186
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/Kk5wqXEq
     - Found: tempi, tempo
-    - All found aliases: fork, in-between move, intermezzo, tempi, tempo
+    - All found aliases: exchanged, fork, in-between move, intermezzo, tempi, tempo
   - Chapter: No. 132A and 132B - pg. 187
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/fBkaAdMH
     - Found: tempi
-    - All found aliases: outpost, tempi
+    - All found aliases: exchanging, outpost, tempi, the exchanges
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: start through 46C
   - Study URL: https://lichess.org/study/t6bOK7CT
@@ -5626,7 +6282,7 @@ Appears In:
   - Chapter: No. 5A - pg. 16
     - Chapter URL: https://lichess.org/study/t6bOK7CT/frhozOMy
     - Found: tempo
-    - All found aliases: bad bishop, center, plan, plans, tempo
+    - All found aliases: bad bishop, center, evaluate, plan, plans, tempo
   - Chapter: No. 28A 28B and 28C - pgs. 48-50
     - Chapter URL: https://lichess.org/study/t6bOK7CT/8kaRHh31
     - Found: tempo
@@ -5638,11 +6294,11 @@ Appears In:
   - Chapter: No. 38 - pg 61
     - Chapter URL: https://lichess.org/study/t6bOK7CT/6MDmVN3E
     - Found: tempi, tempo
-    - All found aliases: center, central control, control the center, mobility, tempi, tempo
+    - All found aliases: center, central control, control the center, controls the center, mobility, rot, tempi, tempo, trading
   - Chapter: No. 38 - pg 61
     - Chapter URL: https://lichess.org/study/t6bOK7CT/6MDmVN3E
     - Found: tempi, tempo
-    - All found aliases: center, central control, control the center, mobility, tempi, tempo
+    - All found aliases: center, central control, control the center, controls the center, mobility, rot, tempi, tempo, trading
   - Chapter: No. 43 - pg. 66
     - Chapter URL: https://lichess.org/study/t6bOK7CT/gCDxTWO3
     - Found: tempo
@@ -5650,18 +6306,18 @@ Appears In:
   - Chapter: No. 46A 46B and 46C - pgs. 69-70
     - Chapter URL: https://lichess.org/study/t6bOK7CT/5ttlWe6b
     - Found: tempi
-    - All found aliases: pins, tempi
+    - All found aliases: counter-attack, pins, tempi
 
 - Study: PCC: Detailed Analysis
   - Study URL: https://lichess.org/study/kqKXJZ5u
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/kqKXJZ5u/AqHvgsev
     - Found: tempi, tempo
-    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing, tempi, tempo, threatening, threats
+    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing the exchange, tempi, tempo, the hanging, threatening, threats
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/kqKXJZ5u/AqHvgsev
     - Found: tempi, tempo
-    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing, tempi, tempo, threatening, threats
+    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing the exchange, tempi, tempo, the hanging, threatening, threats
 
 - Study: Point Count Chess: Chapter 15
   - Study URL: https://lichess.org/study/ebLJQgPE
@@ -5684,18 +6340,18 @@ Appears In:
   - Chapter: How Tempos Are Lost
     - Chapter URL: https://lichess.org/study/ebLJQgPE/DqSY1ccB
     - Found: tempi
-    - All found aliases: king safety, mobility, pawn structure, space, tempi
+    - All found aliases: exchanges, king safety, mobility, pawn structure, principles, space, tempi
   - Chapter: Exchanges
     - Chapter URL: https://lichess.org/study/ebLJQgPE/2w1jm367
     - Found: tempi
-    - All found aliases: intermezzo, tempi
+    - All found aliases: exchanged, intermezzo, tempi
 
 - Study: Point Count Chess: Chapter 2
   - Study URL: https://lichess.org/study/XftYTQBa
   - Chapter: Grunfeld Defense Counter Example
     - Chapter URL: https://lichess.org/study/XftYTQBa/omVz3VQA
     - Found: tempi
-    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, tempi, threatening
+    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, rot, tempi, threatening
   - Chapter: Center Game Example
     - Chapter URL: https://lichess.org/study/XftYTQBa/rOaXQhve
     - Found: tempo
@@ -5734,19 +6390,19 @@ Appears In:
   - Chapter: No. 159A and 159B - pgs. 226-227
     - Chapter URL: https://lichess.org/study/cev86fwf/OBEtRiXD
     - Found: threat
-    - All found aliases: center, doubled, threat
+    - All found aliases: center, counter-play, doubled, threat
   - Chapter: No. 160A and 160B - pg. 229
     - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
     - Found: threat, threatened, threatening
-    - All found aliases: active bishop, calculate, combination, doubled, doubling, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
   - Chapter: No. 160A and 160B - pg. 229
     - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
     - Found: threat, threatened, threatening
-    - All found aliases: active bishop, calculate, combination, doubled, doubling, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
   - Chapter: No. 160A and 160B - pg. 229
     - Chapter URL: https://lichess.org/study/cev86fwf/CyAPrNm9
     - Found: threat, threatened, threatening
-    - All found aliases: active bishop, calculate, combination, doubled, doubling, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
+    - All found aliases: active bishop, calculate, combination, counter-attack, doubled, doubling, improve the, isolani, knight outpost, pinned, pressure, sacrifice, tempo, threat, threatened, threatening, two bishops
   - Chapter: No. 165 - pg. 235
     - Chapter URL: https://lichess.org/study/cev86fwf/s90vEC94
     - Found: threatening
@@ -5754,11 +6410,11 @@ Appears In:
   - Chapter: No. 168 - pg. 241
     - Chapter URL: https://lichess.org/study/cev86fwf/nruy3qgG
     - Found: threat, threatening
-    - All found aliases: threat, threatening
+    - All found aliases: counter-attack, threat, threatening
   - Chapter: No. 168 - pg. 241
     - Chapter URL: https://lichess.org/study/cev86fwf/nruy3qgG
     - Found: threat, threatening
-    - All found aliases: threat, threatening
+    - All found aliases: counter-attack, threat, threatening
   - Chapter: No. 169 - pg. 242
     - Chapter URL: https://lichess.org/study/cev86fwf/lURpyZPU
     - Found: threatened
@@ -5774,11 +6430,11 @@ Appears In:
   - Chapter: No. 174A and 174B - pgs. 248-249
     - Chapter URL: https://lichess.org/study/cev86fwf/UEG35iAq
     - Found: threatened, threatening
-    - All found aliases: blockaded, center, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening
+    - All found aliases: blockaded, center, evaluation, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening, trade
   - Chapter: No. 174A and 174B - pgs. 248-249
     - Chapter URL: https://lichess.org/study/cev86fwf/UEG35iAq
     - Found: threatened, threatening
-    - All found aliases: blockaded, center, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening
+    - All found aliases: blockaded, center, evaluation, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening, trade
   - Chapter: No. 180 - pg. 256
     - Chapter URL: https://lichess.org/study/cev86fwf/1IcYDxx1
     - Found: threatening
@@ -5801,7 +6457,7 @@ Appears In:
   - Chapter: No. 49A and 49B - pgs. 76-77
     - Chapter URL: https://lichess.org/study/1DTYYVAE/HHoUe6Jb
     - Found: threats
-    - All found aliases: calculate, formation, formations, initiative, mobile, mobility, threats
+    - All found aliases: calculate, counter-play, formation, formations, initiative, mobile, mobility, principles, threats
   - Chapter: No. 55A and 55B - pgs. 85-86
     - Chapter URL: https://lichess.org/study/1DTYYVAE/9OYpDLJq
     - Found: threat, threatening
@@ -5829,7 +6485,7 @@ Appears In:
   - Chapter: No. 71A 71B 71C and 71D - pgs. 104-106
     - Chapter URL: https://lichess.org/study/1DTYYVAE/mJvOFl7X
     - Found: threatening
-    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, two bishops
+    - All found aliases: center, isolani, isolated, isolated pawn, isolated pawns, lose a tempo, tempo, threatening, traded, two bishops
   - Chapter: No. 72A and 72B - pgs. 106-107
     - Chapter URL: https://lichess.org/study/1DTYYVAE/DDvZmbpn
     - Found: threat
@@ -5849,15 +6505,15 @@ Appears In:
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/1DTYYVAE/WvtaxLig
     - Found: threatening
-    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, formation, good bishop, isolated, passer, sacrificing, tempi, tempo, threatening
+    - All found aliases: blockades, blockading, chain, discovered attack, doubled pawns, exchange of, exchange on, formation, good bishop, isolated, passer, queen trapped, sacrificing the exchange, tempi, tempo, the exchanges, the hanging, threatening
   - Chapter: No. 81 - pg. 116
     - Chapter URL: https://lichess.org/study/1DTYYVAE/9gnv5AIU
     - Found: threat
-    - All found aliases: threat
+    - All found aliases: the hanging, threat
   - Chapter: No. 82A and 82B - pg. 117
     - Chapter URL: https://lichess.org/study/1DTYYVAE/juqut4J3
     - Found: threatening
-    - All found aliases: calculation, isolated, material, sacrifice, threatening
+    - All found aliases: calculation, evaluation, isolated, material, sacrifice, the hanging, threatening
   - Chapter: No. 83 - pg. 118
     - Chapter URL: https://lichess.org/study/1DTYYVAE/3bgVjAWu
     - Found: threat, threatening
@@ -5869,7 +6525,7 @@ Appears In:
   - Chapter: No. 84A 84B and 84C - pgs. 119-120
     - Chapter URL: https://lichess.org/study/1DTYYVAE/i3hgMpdl
     - Found: threatening
-    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, tempi, threatening
+    - All found aliases: center, classical school, control the center, cramped, developed, hypermodern, isolani, principles, tempi, threatening
   - Chapter: No. 86A and 86B - pgs. 125-126
     - Chapter URL: https://lichess.org/study/1DTYYVAE/aeRPHbvI
     - Found: threat, threatening
@@ -5881,11 +6537,11 @@ Appears In:
   - Chapter: No. 87A and 87B - pgs. 126-127
     - Chapter URL: https://lichess.org/study/1DTYYVAE/QD0ukJ2f
     - Found: threat, threatening
-    - All found aliases: sacrifice, threat, threatening
+    - All found aliases: exchanging, sacrifice, threat, threatening
   - Chapter: No. 87A and 87B - pgs. 126-127
     - Chapter URL: https://lichess.org/study/1DTYYVAE/QD0ukJ2f
     - Found: threat, threatening
-    - All found aliases: sacrifice, threat, threatening
+    - All found aliases: exchanging, sacrifice, threat, threatening
   - Chapter: No. 88 - pg. 127
     - Chapter URL: https://lichess.org/study/1DTYYVAE/1RBrpTS5
     - Found: threatening
@@ -5905,7 +6561,7 @@ Appears In:
   - Chapter: Teichmann - Allies, 1902
     - Chapter URL: https://lichess.org/study/1DTYYVAE/Nam2pLqM
     - Found: threat
-    - All found aliases: maneuver, plan, threat
+    - All found aliases: exchanges, maneuver, plan, threat
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
   - Study URL: https://lichess.org/study/57Oq4l6Z
@@ -5944,15 +6600,15 @@ Appears In:
   - Chapter: No. 106 - pg. 157
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/sk5z8xVu
     - Found: threat, threatening, threats
-    - All found aliases: initiative, material, sacrifice, threat, threatening, threats
+    - All found aliases: counter-attack, exchanged, initiative, material, sacrifice, threat, threatening, threats
   - Chapter: No. 106 - pg. 157
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/sk5z8xVu
     - Found: threat, threatening, threats
-    - All found aliases: initiative, material, sacrifice, threat, threatening, threats
+    - All found aliases: counter-attack, exchanged, initiative, material, sacrifice, threat, threatening, threats
   - Chapter: No. 106 - pg. 157
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/sk5z8xVu
     - Found: threat, threatening, threats
-    - All found aliases: initiative, material, sacrifice, threat, threatening, threats
+    - All found aliases: counter-attack, exchanged, initiative, material, sacrifice, threat, threatening, threats
   - Chapter: No. 107 - pg. 158
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/gztDRhsH
     - Found: threatening
@@ -5964,11 +6620,11 @@ Appears In:
   - Chapter: No. 109 - pg. 160
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/Vq9efjXn
     - Found: threatening
-    - All found aliases: fortress, intermezzo, material, pin, threatening
+    - All found aliases: fortress, intermezzo, material, pin, threatening, trade
   - Chapter: No. 110 - pg. 161
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/H5E1egwD
     - Found: threatening
-    - All found aliases: sacrifice, threatening
+    - All found aliases: exchanging, sacrifice, threatening
   - Chapter: No. 111 - pg. 162
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/sxW3kcXR
     - Found: threatening, threats
@@ -6019,11 +6675,11 @@ Appears In:
   - Chapter: No. 5B  - pg. 16
     - Chapter URL: https://lichess.org/study/t6bOK7CT/CZpzpcFb
     - Found: threatening, threats
-    - All found aliases: bishop vs knight, center, material, rules of thumb, threatening, threats
+    - All found aliases: bishop vs knight, center, evaluation, exchange rules, material, the exchanges, threatening, threats
   - Chapter: No. 5B  - pg. 16
     - Chapter URL: https://lichess.org/study/t6bOK7CT/CZpzpcFb
     - Found: threatening, threats
-    - All found aliases: bishop vs knight, center, material, rules of thumb, threatening, threats
+    - All found aliases: bishop vs knight, center, evaluation, exchange rules, material, the exchanges, threatening, threats
   - Chapter: No. 11. French Defense - pg. 25
     - Chapter URL: https://lichess.org/study/t6bOK7CT/Q0ZOcd2A
     - Found: threat, threatening
@@ -6043,7 +6699,7 @@ Appears In:
   - Chapter: No. 15A - pg. 29
     - Chapter URL: https://lichess.org/study/t6bOK7CT/26jrgoLT
     - Found: threatening
-    - All found aliases: calculating, calculation, center, intermezzo, pressure, threatening, weak pawns
+    - All found aliases: calculating, calculation, center, exchange rules, intermezzo, pressure, threatening, weak pawns
   - Chapter: No. 15C - pg. 32
     - Chapter URL: https://lichess.org/study/t6bOK7CT/jRzh0HMN
     - Found: threat, threatening
@@ -6055,7 +6711,7 @@ Appears In:
   - Chapter: No. 17 - pg. 34
     - Chapter URL: https://lichess.org/study/t6bOK7CT/kSooM6GB
     - Found: threatening
-    - All found aliases: center, isolated pawns, knight outpost, pinning, threatening
+    - All found aliases: controls the center, isolated pawns, knight outpost, pinning, threatening
   - Chapter: No. 18 - pg. 35
     - Chapter URL: https://lichess.org/study/t6bOK7CT/kFqZmxOk
     - Found: threatening
@@ -6063,7 +6719,7 @@ Appears In:
   - Chapter: No. 22 - pg. 40
     - Chapter URL: https://lichess.org/study/t6bOK7CT/E7EyqlW1
     - Found: threatening
-    - All found aliases: chain, compensation, passed, passer, plan, threatening
+    - All found aliases: chain, compensation, is hanging, passed, passer, plan, threatening
   - Chapter: No. 23 - pg. 40
     - Chapter URL: https://lichess.org/study/t6bOK7CT/m6Uqq2S9
     - Found: threatening
@@ -6083,7 +6739,7 @@ Appears In:
   - Chapter: No. 31 - pg. 52
     - Chapter URL: https://lichess.org/study/t6bOK7CT/7RpPW57o
     - Found: threatening
-    - All found aliases: sacrificing, threatening
+    - All found aliases: sacrificing the exchange, threatening
   - Chapter: No. 32 - pg. 53
     - Chapter URL: https://lichess.org/study/t6bOK7CT/11UIFlMr
     - Found: threatening
@@ -6095,7 +6751,7 @@ Appears In:
   - Chapter: No. 35 - pg. 57
     - Chapter URL: https://lichess.org/study/t6bOK7CT/2LE1tf0l
     - Found: threats
-    - All found aliases: initiative, threats
+    - All found aliases: exchanged, initiative, threats
   - Chapter: No. 36 - pg.58
     - Chapter URL: https://lichess.org/study/t6bOK7CT/y4qFfUsP
     - Found: threat
@@ -6103,7 +6759,7 @@ Appears In:
   - Chapter: No. 40 - pg. 63
     - Chapter URL: https://lichess.org/study/t6bOK7CT/BGpeE0IJ
     - Found: threatening
-    - All found aliases: center, combination, fork, pawn formation, threatening
+    - All found aliases: center, combination, fork, pawn formation, threatening, trading
   - Chapter: No. 45 - pg. 68
     - Chapter URL: https://lichess.org/study/t6bOK7CT/QA8EMl3y
     - Found: threatening
@@ -6122,29 +6778,29 @@ Appears In:
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/kqKXJZ5u/AqHvgsev
     - Found: threatening, threats
-    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing, tempi, tempo, threatening, threats
+    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing the exchange, tempi, tempo, the hanging, threatening, threats
   - Chapter: Zukertort, Johannes Hermann - Taubenhaus, Jean
     - Chapter URL: https://lichess.org/study/kqKXJZ5u/AqHvgsev
     - Found: threatening, threats
-    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing, tempi, tempo, threatening, threats
+    - All found aliases: chain, formation, imbalances, isolani, outpost, sacrificing the exchange, tempi, tempo, the hanging, threatening, threats
 
 - Study: Point Count Chess: Chapter 1
   - Study URL: https://lichess.org/study/mxq4f4tR
   - Chapter: The Importance of Strategy
     - Chapter URL: https://lichess.org/study/mxq4f4tR/I0XRTTfv
     - Found: threat, threats
-    - All found aliases: classical school, combination, plan, restricted, threat, threats
+    - All found aliases: classical school, combination, evaluation, plan, restricted, threat, threats
   - Chapter: The Importance of Strategy
     - Chapter URL: https://lichess.org/study/mxq4f4tR/I0XRTTfv
     - Found: threat, threats
-    - All found aliases: classical school, combination, plan, restricted, threat, threats
+    - All found aliases: classical school, combination, evaluation, plan, restricted, threat, threats
 
 - Study: Point Count Chess: Chapter 10
   - Study URL: https://lichess.org/study/CHwx9aB2
   - Chapter: A Connected Phalanx Can Hang
     - Chapter URL: https://lichess.org/study/CHwx9aB2/Mpe7fOQs
     - Found: threat
-    - All found aliases: calculation, threat
+    - All found aliases: calculation, the hanging, threat
 
 - Study: Point Count Chess: Chapter 13
   - Study URL: https://lichess.org/study/UXuX2p5n
@@ -6170,7 +6826,7 @@ Appears In:
   - Chapter: Grunfeld Defense Counter Example
     - Chapter URL: https://lichess.org/study/XftYTQBa/omVz3VQA
     - Found: threatening
-    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, tempi, threatening
+    - All found aliases: center, classical school, developed, hypermodern, pawn chain, pin, rot, tempi, threatening
 
 - Study: Point Count Chess: Chapter 20
   - Study URL: https://lichess.org/study/CO5eCBU7
