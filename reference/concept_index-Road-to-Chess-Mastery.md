@@ -11,11 +11,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Found: accumulation of power
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
-  - Chapter: Motif by Game II (14-24)
-    - Chapter URL: https://lichess.org/study/IDpn2okt/IHNyBVZM
-    - Found: accumulation of attacking power, accumulation of force
-    - All found aliases: accumulation of attacking power, accumulation of force, calculated, center, chain, combinations, connected passed, counterattack, cramped position, deflecting, exchange of, exchanging, in-between move, initiative, loose piece, material, mobility, opening lines, passed pawn, plan, planning, pressure, restricting, sacrifice, tempo, tension, to simplify, two bishops
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Motif by Game II (14-24)
     - Chapter URL: https://lichess.org/study/IDpn2okt/IHNyBVZM
     - Found: accumulation of attacking power, accumulation of force
@@ -59,7 +55,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Found: retreat
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Game 4: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/Uuu7fw6E
     - Found: retreated
@@ -97,7 +93,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Feature: backward pawn
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Techniques Index
     - Chapter URL: https://lichess.org/study/IDpn2okt/vs7tvrEF
     - Feature: backward pawn
@@ -177,7 +173,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Found: two bishops
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Motif by Game II (14-24)
     - Chapter URL: https://lichess.org/study/IDpn2okt/IHNyBVZM
     - Found: two bishops
@@ -287,7 +283,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Found: center
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Motif by Game II (14-24)
     - Chapter URL: https://lichess.org/study/IDpn2okt/IHNyBVZM
     - Found: center
@@ -328,10 +324,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/l0j43VL1
     - Found: center
     - All found aliases: center, chain, connected passed, doubled, exchange of, formation, formations, isolated, isolated pawns, material, outpost, overworked, pawn islands, pawn structure, pressure, threatening
-  - Chapter: Game 11: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/DbaVtpLM
-    - Found: center, central control
-    - All found aliases: center, central control, counter-attack, counter-play, develop, developed, developing, formation, isolani, material, not exchange, pawn formation, pawn structure, pin, pressure, tension, threatening
   - Chapter: Game 11: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/DbaVtpLM
     - Found: center, central control
@@ -378,10 +370,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/8UZnKfOU
     - Found: classical chess, classical school
     - All found aliases: classical chess, classical school, developed, evaluation, initiative, material, pinned, tempo, threatened, threatening
-  - Chapter: Game 20: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/8UZnKfOU
-    - Found: classical chess, classical school
-    - All found aliases: classical chess, classical school, developed, evaluation, initiative, material, pinned, tempo, threatened, threatening
 
 
 ## Concept: Clearance
@@ -417,11 +405,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Found: closed
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
-  - Chapter: Game 6: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/v8Nlk1XQ
-    - Found: closed, closed position
-    - All found aliases: backward pawn, center, closed, closed position, compensation, counter-play, maneuver, material, pin, sacrifice, sacrificed, small advantage, the hanging, threat, threatening, two bishops
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Game 6: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/v8Nlk1XQ
     - Found: closed, closed position
@@ -443,7 +427,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Tactical Motif: combination
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Motif by Game II (14-24)
     - Chapter URL: https://lichess.org/study/IDpn2okt/IHNyBVZM
     - Tactical Motif: combinations
@@ -486,10 +470,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/sk5lqGNO
     - Found: compensate
     - All found aliases: center, compensate, pin, threatening
-  - Chapter: Game 23: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/LaZXQ267
-    - Found: compensated, compensation
-    - All found aliases: bishop pair, center, compensated, compensation, coordination, cramped, exchanged, exchanges, fork, initiative, mobility, not exchange, passed pawns, pinned, pinning, plan, plans, pressuring, retreat, sacrifice, space, space advantage, tension, threatening
   - Chapter: Game 23: Expert - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/LaZXQ267
     - Found: compensated, compensation
@@ -620,14 +600,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/DbaVtpLM
     - Found: develop, developed, developing
     - All found aliases: center, central control, counter-attack, counter-play, develop, developed, developing, formation, isolani, material, not exchange, pawn formation, pawn structure, pin, pressure, tension, threatening
-  - Chapter: Game 11: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/DbaVtpLM
-    - Found: develop, developed, developing
-    - All found aliases: center, central control, counter-attack, counter-play, develop, developed, developing, formation, isolani, material, not exchange, pawn formation, pawn structure, pin, pressure, tension, threatening
-  - Chapter: Game 11: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/DbaVtpLM
-    - Found: develop, developed, developing
-    - All found aliases: center, central control, counter-attack, counter-play, develop, developed, developing, formation, isolani, material, not exchange, pawn formation, pawn structure, pin, pressure, tension, threatening
   - Chapter: Game 12: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/mYvkiEOM
     - Found: develop
@@ -640,10 +612,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/8UZnKfOU
     - Found: developed
     - All found aliases: classical chess, classical school, developed, evaluation, initiative, material, pinned, tempo, threatened, threatening
-  - Chapter: Game 22: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/4qnLzyLc
-    - Found: developing, develops
-    - All found aliases: alekhine's gun, center, chain, developing, develops, initiative, isolated, isolated pawn, material, outpost, pawn chain, pawn chains, pin, plan, planned, pressure, threat, threatening
   - Chapter: Game 22: Expert - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/4qnLzyLc
     - Found: developing, develops
@@ -662,10 +630,6 @@ Appears In:
 
 - Study: CLONE: Road to Chess Mastery: 1-25: Max Euwe and Walter Meiden
   - Study URL: https://lichess.org/study/IDpn2okt
-  - Chapter: Game 7: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/VJGVElwP
-    - Tactical Motif: discovered check, discovery
-    - All found aliases: clearance, discovered check, discovery, exchange of, exchanging, initiative, material, pinned, pressure, seize the initiative, space, threatening, threats, two bishops, waiting moves
   - Chapter: Game 7: Amateur - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/VJGVElwP
     - Tactical Motif: discovered check, discovery
@@ -731,7 +695,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Tactical Motif: the hanging
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Game 3: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/Gu6R37iT
     - Tactical Motif: the hanging
@@ -775,19 +739,11 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Feature: isolated pawn, isolated pawns
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
-  - Chapter: Motif by Game I (1-13)
-    - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
-    - Feature: isolated pawn, isolated pawns
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Techniques Index
     - Chapter URL: https://lichess.org/study/IDpn2okt/vs7tvrEF
     - Feature: isolated pawns
     - All found aliases: accumulation of power, backward pawn, center, chain, isolated pawns, majority, minority, pawn formation, planning, sacrifice, two bishops
-  - Chapter: Game 10: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/l0j43VL1
-    - Feature: isolated, isolated pawns
-    - All found aliases: center, chain, connected passed, doubled, exchange of, formation, formations, isolated, isolated pawns, material, outpost, overworked, pawn islands, pawn structure, pressure, threatening
   - Chapter: Game 10: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/l0j43VL1
     - Feature: isolated, isolated pawns
@@ -800,14 +756,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/O4Ino6R4
     - Feature: isolated, isolated pawn
     - All found aliases: backward pawn, combination, exchanged, exchanges, isolated, isolated pawn, material, minority, passed, plans, pressure, retreat, threatening, zugzwang
-  - Chapter: Game 13: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/O4Ino6R4
-    - Feature: isolated, isolated pawn
-    - All found aliases: backward pawn, combination, exchanged, exchanges, isolated, isolated pawn, material, minority, passed, plans, pressure, retreat, threatening, zugzwang
-  - Chapter: Game 22: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/4qnLzyLc
-    - Feature: isolated, isolated pawn
-    - All found aliases: alekhine's gun, center, chain, developing, develops, initiative, isolated, isolated pawn, material, outpost, pawn chain, pawn chains, pin, plan, planned, pressure, threat, threatening
   - Chapter: Game 22: Expert - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/4qnLzyLc
     - Feature: isolated, isolated pawn
@@ -893,7 +841,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Found: maneuver
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Game 6: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/v8Nlk1XQ
     - Found: maneuver
@@ -993,7 +941,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Tactical Motif: mating net
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Game 17: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/TfVfYPsF
     - Tactical Motif: mating net
@@ -1033,7 +981,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Feature: outpost
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Game 2: Amateur - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/8cgqyBdX
     - Feature: knight outpost
@@ -1042,10 +990,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/Gu6R37iT
     - Feature: outpost
     - All found aliases: center, material, mobility, outpost, passed pawn, plans, pressure, space advantage, the hanging, threat, threatening, undoubled
-  - Chapter: Game 8: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/Jb0qpe5v
-    - Feature: knight outpost, outpost
-    - All found aliases: center, chain, counter-play, developed, discovered check, exchanges, knight outpost, opening the position, outpost, pawn chain, plan, planning, pressure, sacrificing, tempo, tension, threat, threatening, threats
   - Chapter: Game 8: Amateur - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/Jb0qpe5v
     - Feature: knight outpost, outpost
@@ -1102,10 +1046,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/8cgqyBdX
     - Feature: passed, passed pawn
     - All found aliases: active bishops, back-rank mate, blockade, center, compensation, counter-attack, intermezzo, king is safe, knight outpost, opening the position, passed, passed pawn, pin, pinned, pressuring, sacrifice, space, tempo, threat, threatening, two bishops, weak pawns
-  - Chapter: Game 2: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/8cgqyBdX
-    - Feature: passed, passed pawn
-    - All found aliases: active bishops, back-rank mate, blockade, center, compensation, counter-attack, intermezzo, king is safe, knight outpost, opening the position, passed, passed pawn, pin, pinned, pressuring, sacrifice, space, tempo, threat, threatening, two bishops, weak pawns
   - Chapter: Game 3: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/Gu6R37iT
     - Feature: passed pawn
@@ -1152,10 +1092,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/Jb0qpe5v
     - Feature: chain, pawn chain
     - All found aliases: center, chain, counter-play, developed, discovered check, exchanges, knight outpost, opening the position, outpost, pawn chain, plan, planning, pressure, sacrificing, tempo, tension, threat, threatening, threats
-  - Chapter: Game 8: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/Jb0qpe5v
-    - Feature: chain, pawn chain
-    - All found aliases: center, chain, counter-play, developed, discovered check, exchanges, knight outpost, opening the position, outpost, pawn chain, plan, planning, pressure, sacrificing, tempo, tension, threat, threatening, threats
   - Chapter: Game 10: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/l0j43VL1
     - Feature: chain
@@ -1164,14 +1100,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/VQIU4IHr
     - Feature: pawn chain
     - All found aliases: outpost, pawn chain, plan, plans, threat, threatening
-  - Chapter: Game 22: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/4qnLzyLc
-    - Feature: chain, pawn chain, pawn chains
-    - All found aliases: alekhine's gun, center, chain, developing, develops, initiative, isolated, isolated pawn, material, outpost, pawn chain, pawn chains, pin, plan, planned, pressure, threat, threatening
-  - Chapter: Game 22: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/4qnLzyLc
-    - Feature: chain, pawn chain, pawn chains
-    - All found aliases: alekhine's gun, center, chain, developing, develops, initiative, isolated, isolated pawn, material, outpost, pawn chain, pawn chains, pin, plan, planned, pressure, threat, threatening
   - Chapter: Game 22: Expert - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/4qnLzyLc
     - Feature: chain, pawn chain, pawn chains
@@ -1211,11 +1139,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Feature: pawn majority
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
-  - Chapter: Motif by Game III (25)
-    - Chapter URL: https://lichess.org/study/IDpn2okt/J8I2Cryk
-    - Feature: majority, pawn majority
-    - All found aliases: calculation, counterattack, cramped, majority, material, pawn majority
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Motif by Game III (25)
     - Chapter URL: https://lichess.org/study/IDpn2okt/J8I2Cryk
     - Feature: majority, pawn majority
@@ -1245,7 +1169,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Feature: minority
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Techniques Index
     - Chapter URL: https://lichess.org/study/IDpn2okt/vs7tvrEF
     - Feature: minority
@@ -1303,11 +1227,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Found: formation, pawn formation
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
-  - Chapter: Motif by Game I (1-13)
-    - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
-    - Found: formation, pawn formation
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Techniques Index
     - Chapter URL: https://lichess.org/study/IDpn2okt/vs7tvrEF
     - Found: pawn formation
@@ -1316,30 +1236,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/YhIWVgMb
     - Found: pawn structure, pawn structures
     - All found aliases: pawn structure, pawn structures, rot
-  - Chapter: References
-    - Chapter URL: https://lichess.org/study/IDpn2okt/YhIWVgMb
-    - Found: pawn structure, pawn structures
-    - All found aliases: pawn structure, pawn structures, rot
   - Chapter: Game 10: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/l0j43VL1
     - Found: formation, formations, pawn structure
     - All found aliases: center, chain, connected passed, doubled, exchange of, formation, formations, isolated, isolated pawns, material, outpost, overworked, pawn islands, pawn structure, pressure, threatening
-  - Chapter: Game 10: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/l0j43VL1
-    - Found: formation, formations, pawn structure
-    - All found aliases: center, chain, connected passed, doubled, exchange of, formation, formations, isolated, isolated pawns, material, outpost, overworked, pawn islands, pawn structure, pressure, threatening
-  - Chapter: Game 10: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/l0j43VL1
-    - Found: formation, formations, pawn structure
-    - All found aliases: center, chain, connected passed, doubled, exchange of, formation, formations, isolated, isolated pawns, material, outpost, overworked, pawn islands, pawn structure, pressure, threatening
-  - Chapter: Game 11: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/DbaVtpLM
-    - Found: formation, pawn formation, pawn structure
-    - All found aliases: center, central control, counter-attack, counter-play, develop, developed, developing, formation, isolani, material, not exchange, pawn formation, pawn structure, pin, pressure, tension, threatening
-  - Chapter: Game 11: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/DbaVtpLM
-    - Found: formation, pawn formation, pawn structure
-    - All found aliases: center, central control, counter-attack, counter-play, develop, developed, developing, formation, isolani, material, not exchange, pawn formation, pawn structure, pin, pressure, tension, threatening
   - Chapter: Game 11: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/DbaVtpLM
     - Found: formation, pawn formation, pawn structure
@@ -1361,7 +1261,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Feature: tension
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Motif by Game II (14-24)
     - Chapter URL: https://lichess.org/study/IDpn2okt/IHNyBVZM
     - Feature: tension
@@ -1402,10 +1302,6 @@ Appears In:
 
 - Study: CLONE: Road to Chess Mastery: 1-25: Max Euwe and Walter Meiden
   - Study URL: https://lichess.org/study/IDpn2okt
-  - Chapter: Motif by Game II (14-24)
-    - Chapter URL: https://lichess.org/study/IDpn2okt/IHNyBVZM
-    - Found: mobility, restricting
-    - All found aliases: accumulation of attacking power, accumulation of force, calculated, center, chain, combinations, connected passed, counterattack, cramped position, deflecting, exchange of, exchanging, in-between move, initiative, loose piece, material, mobility, opening lines, passed pawn, plan, planning, pressure, restricting, sacrifice, tempo, tension, to simplify, two bishops
   - Chapter: Motif by Game II (14-24)
     - Chapter URL: https://lichess.org/study/IDpn2okt/IHNyBVZM
     - Found: mobility, restricting
@@ -1457,15 +1353,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Found: exchange of, exchanging
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
-  - Chapter: Motif by Game I (1-13)
-    - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
-    - Found: exchange of, exchanging
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
-  - Chapter: Motif by Game II (14-24)
-    - Chapter URL: https://lichess.org/study/IDpn2okt/IHNyBVZM
-    - Found: exchange of, exchanging
-    - All found aliases: accumulation of attacking power, accumulation of force, calculated, center, chain, combinations, connected passed, counterattack, cramped position, deflecting, exchange of, exchanging, in-between move, initiative, loose piece, material, mobility, opening lines, passed pawn, plan, planning, pressure, restricting, sacrifice, tempo, tension, to simplify, two bishops
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Motif by Game II (14-24)
     - Chapter URL: https://lichess.org/study/IDpn2okt/IHNyBVZM
     - Found: exchange of, exchanging
@@ -1474,18 +1362,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/Uuu7fw6E
     - Found: exchange on, exchanges, exchanging
     - All found aliases: backward pawn, center, clearance, combination, deflection, exchange on, exchanges, exchanging, material, pin, plan, retreated, sacrifice, space, threatening
-  - Chapter: Game 4: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/Uuu7fw6E
-    - Found: exchange on, exchanges, exchanging
-    - All found aliases: backward pawn, center, clearance, combination, deflection, exchange on, exchanges, exchanging, material, pin, plan, retreated, sacrifice, space, threatening
-  - Chapter: Game 4: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/Uuu7fw6E
-    - Found: exchange on, exchanges, exchanging
-    - All found aliases: backward pawn, center, clearance, combination, deflection, exchange on, exchanges, exchanging, material, pin, plan, retreated, sacrifice, space, threatening
-  - Chapter: Game 7: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/VJGVElwP
-    - Found: exchange of, exchanging
-    - All found aliases: clearance, discovered check, discovery, exchange of, exchanging, initiative, material, pinned, pressure, seize the initiative, space, threatening, threats, two bishops, waiting moves
   - Chapter: Game 7: Amateur - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/VJGVElwP
     - Found: exchange of, exchanging
@@ -1510,10 +1386,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/O4Ino6R4
     - Found: exchanged, exchanges
     - All found aliases: backward pawn, combination, exchanged, exchanges, isolated, isolated pawn, material, minority, passed, plans, pressure, retreat, threatening, zugzwang
-  - Chapter: Game 13: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/O4Ino6R4
-    - Found: exchanged, exchanges
-    - All found aliases: backward pawn, combination, exchanged, exchanges, isolated, isolated pawn, material, minority, passed, plans, pressure, retreat, threatening, zugzwang
   - Chapter: Game 14: Amateur - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/Usme9mBl
     - Found: exchanging
@@ -1522,14 +1394,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/xKywDMm5
     - Found: exchange of
     - All found aliases: cramped position, exchange of, mobility, passed pawn, retreated, threaten, threatening, two bishops
-  - Chapter: Game 23: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/LaZXQ267
-    - Found: exchanged, exchanges, not exchange
-    - All found aliases: bishop pair, center, compensated, compensation, coordination, cramped, exchanged, exchanges, fork, initiative, mobility, not exchange, passed pawns, pinned, pinning, plan, plans, pressuring, retreat, sacrifice, space, space advantage, tension, threatening
-  - Chapter: Game 23: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/LaZXQ267
-    - Found: exchanged, exchanges, not exchange
-    - All found aliases: bishop pair, center, compensated, compensation, coordination, cramped, exchanged, exchanges, fork, initiative, mobility, not exchange, passed pawns, pinned, pinning, plan, plans, pressuring, retreat, sacrifice, space, space advantage, tension, threatening
   - Chapter: Game 23: Expert - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/LaZXQ267
     - Found: exchanged, exchanges, not exchange
@@ -1555,15 +1419,11 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Tactical Motif: pin
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Game 1: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/5pVDAOQ0
     - Tactical Motif: pin
     - All found aliases: accumulated power, battery, center, compensation, decoy, developed, doubled pawns, initiative, material, pin, pressure, sacrifice, sacrifices, threatening, two bishops
-  - Chapter: Game 2: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/8cgqyBdX
-    - Tactical Motif: pin, pinned
-    - All found aliases: active bishops, back-rank mate, blockade, center, compensation, counter-attack, intermezzo, king is safe, knight outpost, opening the position, passed, passed pawn, pin, pinned, pressuring, sacrifice, space, tempo, threat, threatening, two bishops, weak pawns
   - Chapter: Game 2: Amateur - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/8cgqyBdX
     - Tactical Motif: pin, pinned
@@ -1604,14 +1464,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/LaZXQ267
     - Tactical Motif: pinned, pinning
     - All found aliases: bishop pair, center, compensated, compensation, coordination, cramped, exchanged, exchanges, fork, initiative, mobility, not exchange, passed pawns, pinned, pinning, plan, plans, pressuring, retreat, sacrifice, space, space advantage, tension, threatening
-  - Chapter: Game 23: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/LaZXQ267
-    - Tactical Motif: pinned, pinning
-    - All found aliases: bishop pair, center, compensated, compensation, coordination, cramped, exchanged, exchanges, fork, initiative, mobility, not exchange, passed pawns, pinned, pinning, plan, plans, pressuring, retreat, sacrifice, space, space advantage, tension, threatening
-  - Chapter: Game 24: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/62pXsNYz
-    - Tactical Motif: pin, pins
-    - All found aliases: bishop pair, center, compensation, develop, exchanging, imbalances, isolated pawns, king is safe, mobility, outpost, passed pawns, pawn chain, pin, pins, pressure, sacrifice, space, threatening, zugzwang
   - Chapter: Game 24: Expert - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/62pXsNYz
     - Tactical Motif: pin, pins
@@ -1637,15 +1489,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Found: plan, planning
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
-  - Chapter: Motif by Game I (1-13)
-    - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
-    - Found: plan, planning
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
-  - Chapter: Motif by Game II (14-24)
-    - Chapter URL: https://lichess.org/study/IDpn2okt/IHNyBVZM
-    - Found: plan, planning
-    - All found aliases: accumulation of attacking power, accumulation of force, calculated, center, chain, combinations, connected passed, counterattack, cramped position, deflecting, exchange of, exchanging, in-between move, initiative, loose piece, material, mobility, opening lines, passed pawn, plan, planning, pressure, restricting, sacrifice, tempo, tension, to simplify, two bishops
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Motif by Game II (14-24)
     - Chapter URL: https://lichess.org/study/IDpn2okt/IHNyBVZM
     - Found: plan, planning
@@ -1666,14 +1510,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/QfB5m9yT
     - Found: plan, plans
     - All found aliases: knight has no, material, plan, plans, pressure, retreat, switch plans, threat, threatening, threats, two bishops, undermine
-  - Chapter: Game 5: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/QfB5m9yT
-    - Found: plan, plans
-    - All found aliases: knight has no, material, plan, plans, pressure, retreat, switch plans, threat, threatening, threats, two bishops, undermine
-  - Chapter: Game 8: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/Jb0qpe5v
-    - Found: plan, planning
-    - All found aliases: center, chain, counter-play, developed, discovered check, exchanges, knight outpost, opening the position, outpost, pawn chain, plan, planning, pressure, sacrificing, tempo, tension, threat, threatening, threats
   - Chapter: Game 8: Amateur - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/Jb0qpe5v
     - Found: plan, planning
@@ -1690,14 +1526,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/Usme9mBl
     - Found: plan, planning, plans
     - All found aliases: center, counter-play, exchanging, good bishop, plan, planning, plans, threat, threatening
-  - Chapter: Game 14: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/Usme9mBl
-    - Found: plan, planning, plans
-    - All found aliases: center, counter-play, exchanging, good bishop, plan, planning, plans, threat, threatening
-  - Chapter: Game 14: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/Usme9mBl
-    - Found: plan, planning, plans
-    - All found aliases: center, counter-play, exchanging, good bishop, plan, planning, plans, threat, threatening
   - Chapter: Game 15: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/nLIOpjUY
     - Found: plan
@@ -1706,14 +1534,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/VQIU4IHr
     - Found: plan, plans
     - All found aliases: outpost, pawn chain, plan, plans, threat, threatening
-  - Chapter: Game 19: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/VQIU4IHr
-    - Found: plan, plans
-    - All found aliases: outpost, pawn chain, plan, plans, threat, threatening
-  - Chapter: Game 22: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/4qnLzyLc
-    - Found: plan, planned
-    - All found aliases: alekhine's gun, center, chain, developing, develops, initiative, isolated, isolated pawn, material, outpost, pawn chain, pawn chains, pin, plan, planned, pressure, threat, threatening
   - Chapter: Game 22: Expert - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/4qnLzyLc
     - Found: plan, planned
@@ -1722,10 +1542,20 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/LaZXQ267
     - Found: plan, plans
     - All found aliases: bishop pair, center, compensated, compensation, coordination, cramped, exchanged, exchanges, fork, initiative, mobility, not exchange, passed pawns, pinned, pinning, plan, plans, pressuring, retreat, sacrifice, space, space advantage, tension, threatening
-  - Chapter: Game 23: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/LaZXQ267
-    - Found: plan, plans
-    - All found aliases: bishop pair, center, compensated, compensation, coordination, cramped, exchanged, exchanges, fork, initiative, mobility, not exchange, passed pawns, pinned, pinning, plan, plans, pressuring, retreat, sacrifice, space, space advantage, tension, threatening
+
+
+## Concept: Principle of Least Commitment
+
+Aliases: a flexible, and flexible, at flexible, be flexible, inflexible, is flexible, least commitment, more flexible, most flexible, over flexible, position flexible, principle of least commitment, stay flexible, stays flexible, the flexible, very flexible
+
+Appears In:
+
+- Study: CLONE: Road to Chess Mastery: 1-25: Max Euwe and Walter Meiden
+  - Study URL: https://lichess.org/study/IDpn2okt
+  - Chapter: Motif by Game I (1-13)
+    - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
+    - Found: the flexible
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
 
 
 ## Concept: Principle of Two Weaknesses
@@ -1739,7 +1569,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Found: two weaknesses
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
 
 
 ## Concept: Removing the Defender
@@ -1781,7 +1611,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Tactical Motif: sacrifice
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Motif by Game II (14-24)
     - Chapter URL: https://lichess.org/study/IDpn2okt/IHNyBVZM
     - Tactical Motif: sacrifice
@@ -1790,10 +1620,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/vs7tvrEF
     - Tactical Motif: sacrifice
     - All found aliases: accumulation of power, backward pawn, center, chain, isolated pawns, majority, minority, pawn formation, planning, sacrifice, two bishops
-  - Chapter: Game 1: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/5pVDAOQ0
-    - Tactical Motif: sacrifice, sacrifices
-    - All found aliases: accumulated power, battery, center, compensation, decoy, developed, doubled pawns, initiative, material, pin, pressure, sacrifice, sacrifices, threatening, two bishops
   - Chapter: Game 1: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/5pVDAOQ0
     - Tactical Motif: sacrifice, sacrifices
@@ -1810,10 +1636,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/v8Nlk1XQ
     - Tactical Motif: sacrifice, sacrificed
     - All found aliases: backward pawn, center, closed, closed position, compensation, counter-play, maneuver, material, pin, sacrifice, sacrificed, small advantage, the hanging, threat, threatening, two bishops
-  - Chapter: Game 6: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/v8Nlk1XQ
-    - Tactical Motif: sacrifice, sacrificed
-    - All found aliases: backward pawn, center, closed, closed position, compensation, counter-play, maneuver, material, pin, sacrifice, sacrificed, small advantage, the hanging, threat, threatening, two bishops
   - Chapter: Game 8: Amateur - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/Jb0qpe5v
     - Tactical Motif: sacrificing
@@ -1826,10 +1648,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/62pXsNYz
     - Tactical Motif: sacrifice
     - All found aliases: bishop pair, center, compensation, develop, exchanging, imbalances, isolated pawns, king is safe, mobility, outpost, passed pawns, pawn chain, pin, pins, pressure, sacrifice, space, threatening, zugzwang
-  - Chapter: Game 25: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/j1AjqTtl
-    - Tactical Motif: sacrifice, sacrificing
-    - All found aliases: center, cramp, majority, material, pin, pressure, sacrifice, sacrificing, space, threat, threatening, trade
   - Chapter: Game 25: Expert - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/j1AjqTtl
     - Tactical Motif: sacrifice, sacrificing
@@ -1890,22 +1708,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/LaZXQ267
     - Found: cramped, space, space advantage
     - All found aliases: bishop pair, center, compensated, compensation, coordination, cramped, exchanged, exchanges, fork, initiative, mobility, not exchange, passed pawns, pinned, pinning, plan, plans, pressuring, retreat, sacrifice, space, space advantage, tension, threatening
-  - Chapter: Game 23: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/LaZXQ267
-    - Found: cramped, space, space advantage
-    - All found aliases: bishop pair, center, compensated, compensation, coordination, cramped, exchanged, exchanges, fork, initiative, mobility, not exchange, passed pawns, pinned, pinning, plan, plans, pressuring, retreat, sacrifice, space, space advantage, tension, threatening
-  - Chapter: Game 23: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/LaZXQ267
-    - Found: cramped, space, space advantage
-    - All found aliases: bishop pair, center, compensated, compensation, coordination, cramped, exchanged, exchanges, fork, initiative, mobility, not exchange, passed pawns, pinned, pinning, plan, plans, pressuring, retreat, sacrifice, space, space advantage, tension, threatening
   - Chapter: Game 24: Expert - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/62pXsNYz
     - Found: space
     - All found aliases: bishop pair, center, compensation, develop, exchanging, imbalances, isolated pawns, king is safe, mobility, outpost, passed pawns, pawn chain, pin, pins, pressure, sacrifice, space, threatening, zugzwang
-  - Chapter: Game 25: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/j1AjqTtl
-    - Found: cramp, space
-    - All found aliases: center, cramp, majority, material, pin, pressure, sacrifice, sacrificing, space, threat, threatening, trade
   - Chapter: Game 25: Expert - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/j1AjqTtl
     - Found: cramp, space
@@ -1924,26 +1730,14 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/L4Rtqt5Q
     - Found: initiative, pressures
     - All found aliases: backward pawn, center, combination, initiative, minority, pawn chain, pawn formation, pawn majority, pawn storm, planning, pressures, two bishops, weak squares
-  - Chapter: Themes of the Games
-    - Chapter URL: https://lichess.org/study/IDpn2okt/L4Rtqt5Q
-    - Found: initiative, pressures
-    - All found aliases: backward pawn, center, combination, initiative, minority, pawn chain, pawn formation, pawn majority, pawn storm, planning, pressures, two bishops, weak squares
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Found: initiative
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Motif by Game II (14-24)
     - Chapter URL: https://lichess.org/study/IDpn2okt/IHNyBVZM
     - Found: initiative, pressure
     - All found aliases: accumulation of attacking power, accumulation of force, calculated, center, chain, combinations, connected passed, counterattack, cramped position, deflecting, exchange of, exchanging, in-between move, initiative, loose piece, material, mobility, opening lines, passed pawn, plan, planning, pressure, restricting, sacrifice, tempo, tension, to simplify, two bishops
-  - Chapter: Motif by Game II (14-24)
-    - Chapter URL: https://lichess.org/study/IDpn2okt/IHNyBVZM
-    - Found: initiative, pressure
-    - All found aliases: accumulation of attacking power, accumulation of force, calculated, center, chain, combinations, connected passed, counterattack, cramped position, deflecting, exchange of, exchanging, in-between move, initiative, loose piece, material, mobility, opening lines, passed pawn, plan, planning, pressure, restricting, sacrifice, tempo, tension, to simplify, two bishops
-  - Chapter: Game 1: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/5pVDAOQ0
-    - Found: initiative, pressure
-    - All found aliases: accumulated power, battery, center, compensation, decoy, developed, doubled pawns, initiative, material, pin, pressure, sacrifice, sacrifices, threatening, two bishops
   - Chapter: Game 1: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/5pVDAOQ0
     - Found: initiative, pressure
@@ -1960,14 +1754,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/QfB5m9yT
     - Found: pressure
     - All found aliases: knight has no, material, plan, plans, pressure, retreat, switch plans, threat, threatening, threats, two bishops, undermine
-  - Chapter: Game 7: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/VJGVElwP
-    - Found: initiative, pressure, seize the initiative
-    - All found aliases: clearance, discovered check, discovery, exchange of, exchanging, initiative, material, pinned, pressure, seize the initiative, space, threatening, threats, two bishops, waiting moves
-  - Chapter: Game 7: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/VJGVElwP
-    - Found: initiative, pressure, seize the initiative
-    - All found aliases: clearance, discovered check, discovery, exchange of, exchanging, initiative, material, pinned, pressure, seize the initiative, space, threatening, threats, two bishops, waiting moves
   - Chapter: Game 7: Amateur - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/VJGVElwP
     - Found: initiative, pressure, seize the initiative
@@ -2000,14 +1786,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/4qnLzyLc
     - Found: initiative, pressure
     - All found aliases: alekhine's gun, center, chain, developing, develops, initiative, isolated, isolated pawn, material, outpost, pawn chain, pawn chains, pin, plan, planned, pressure, threat, threatening
-  - Chapter: Game 22: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/4qnLzyLc
-    - Found: initiative, pressure
-    - All found aliases: alekhine's gun, center, chain, developing, develops, initiative, isolated, isolated pawn, material, outpost, pawn chain, pawn chains, pin, plan, planned, pressure, threat, threatening
-  - Chapter: Game 23: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/LaZXQ267
-    - Found: initiative, pressuring
-    - All found aliases: bishop pair, center, compensated, compensation, coordination, cramped, exchanged, exchanges, fork, initiative, mobility, not exchange, passed pawns, pinned, pinning, plan, plans, pressuring, retreat, sacrifice, space, space advantage, tension, threatening
   - Chapter: Game 23: Expert - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/LaZXQ267
     - Found: initiative, pressuring
@@ -2077,7 +1855,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Found: threat
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Game 1: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/5pVDAOQ0
     - Found: threatening
@@ -2086,14 +1864,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/8cgqyBdX
     - Found: threat, threatening
     - All found aliases: active bishops, back-rank mate, blockade, center, compensation, counter-attack, intermezzo, king is safe, knight outpost, opening the position, passed, passed pawn, pin, pinned, pressuring, sacrifice, space, tempo, threat, threatening, two bishops, weak pawns
-  - Chapter: Game 2: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/8cgqyBdX
-    - Found: threat, threatening
-    - All found aliases: active bishops, back-rank mate, blockade, center, compensation, counter-attack, intermezzo, king is safe, knight outpost, opening the position, passed, passed pawn, pin, pinned, pressuring, sacrifice, space, tempo, threat, threatening, two bishops, weak pawns
-  - Chapter: Game 3: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/Gu6R37iT
-    - Found: threat, threatening
-    - All found aliases: center, material, mobility, outpost, passed pawn, plans, pressure, space advantage, the hanging, threat, threatening, undoubled
   - Chapter: Game 3: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/Gu6R37iT
     - Found: threat, threatening
@@ -2106,18 +1876,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/QfB5m9yT
     - Found: threat, threatening, threats
     - All found aliases: knight has no, material, plan, plans, pressure, retreat, switch plans, threat, threatening, threats, two bishops, undermine
-  - Chapter: Game 5: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/QfB5m9yT
-    - Found: threat, threatening, threats
-    - All found aliases: knight has no, material, plan, plans, pressure, retreat, switch plans, threat, threatening, threats, two bishops, undermine
-  - Chapter: Game 5: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/QfB5m9yT
-    - Found: threat, threatening, threats
-    - All found aliases: knight has no, material, plan, plans, pressure, retreat, switch plans, threat, threatening, threats, two bishops, undermine
-  - Chapter: Game 6: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/v8Nlk1XQ
-    - Found: threat, threatening
-    - All found aliases: backward pawn, center, closed, closed position, compensation, counter-play, maneuver, material, pin, sacrifice, sacrificed, small advantage, the hanging, threat, threatening, two bishops
   - Chapter: Game 6: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/v8Nlk1XQ
     - Found: threat, threatening
@@ -2126,26 +1884,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/VJGVElwP
     - Found: threatening, threats
     - All found aliases: clearance, discovered check, discovery, exchange of, exchanging, initiative, material, pinned, pressure, seize the initiative, space, threatening, threats, two bishops, waiting moves
-  - Chapter: Game 7: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/VJGVElwP
-    - Found: threatening, threats
-    - All found aliases: clearance, discovered check, discovery, exchange of, exchanging, initiative, material, pinned, pressure, seize the initiative, space, threatening, threats, two bishops, waiting moves
   - Chapter: Game 8: Amateur - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/Jb0qpe5v
     - Found: threat, threatening, threats
     - All found aliases: center, chain, counter-play, developed, discovered check, exchanges, knight outpost, opening the position, outpost, pawn chain, plan, planning, pressure, sacrificing, tempo, tension, threat, threatening, threats
-  - Chapter: Game 8: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/Jb0qpe5v
-    - Found: threat, threatening, threats
-    - All found aliases: center, chain, counter-play, developed, discovered check, exchanges, knight outpost, opening the position, outpost, pawn chain, plan, planning, pressure, sacrificing, tempo, tension, threat, threatening, threats
-  - Chapter: Game 8: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/Jb0qpe5v
-    - Found: threat, threatening, threats
-    - All found aliases: center, chain, counter-play, developed, discovered check, exchanges, knight outpost, opening the position, outpost, pawn chain, plan, planning, pressure, sacrificing, tempo, tension, threat, threatening, threats
-  - Chapter: Game 9: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/rElIwfeL
-    - Found: threatening, threats
-    - All found aliases: center, counter-attack, decoy, exchanges, material, tempo, threatening, threats, two bishops
   - Chapter: Game 9: Amateur - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/rElIwfeL
     - Found: threatening, threats
@@ -2170,18 +1912,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/Usme9mBl
     - Found: threat, threatening
     - All found aliases: center, counter-play, exchanging, good bishop, plan, planning, plans, threat, threatening
-  - Chapter: Game 14: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/Usme9mBl
-    - Found: threat, threatening
-    - All found aliases: center, counter-play, exchanging, good bishop, plan, planning, plans, threat, threatening
   - Chapter: Game 15: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/nLIOpjUY
     - Found: threatening
     - All found aliases: developing, doubled, formation, plan, pressure, threatening
-  - Chapter: Game 16: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/xKywDMm5
-    - Found: threaten, threatening
-    - All found aliases: cramped position, exchange of, mobility, passed pawn, retreated, threaten, threatening, two bishops
   - Chapter: Game 16: Amateur - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/xKywDMm5
     - Found: threaten, threatening
@@ -2198,14 +1932,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/VQIU4IHr
     - Found: threat, threatening
     - All found aliases: outpost, pawn chain, plan, plans, threat, threatening
-  - Chapter: Game 19: Amateur - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/VQIU4IHr
-    - Found: threat, threatening
-    - All found aliases: outpost, pawn chain, plan, plans, threat, threatening
-  - Chapter: Game 20: Master - Amateur
-    - Chapter URL: https://lichess.org/study/IDpn2okt/8UZnKfOU
-    - Found: threatened, threatening
-    - All found aliases: classical chess, classical school, developed, evaluation, initiative, material, pinned, tempo, threatened, threatening
   - Chapter: Game 20: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/8UZnKfOU
     - Found: threatened, threatening
@@ -2218,10 +1944,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/4qnLzyLc
     - Found: threat, threatening
     - All found aliases: alekhine's gun, center, chain, developing, develops, initiative, isolated, isolated pawn, material, outpost, pawn chain, pawn chains, pin, plan, planned, pressure, threat, threatening
-  - Chapter: Game 22: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/4qnLzyLc
-    - Found: threat, threatening
-    - All found aliases: alekhine's gun, center, chain, developing, develops, initiative, isolated, isolated pawn, material, outpost, pawn chain, pawn chains, pin, plan, planned, pressure, threat, threatening
   - Chapter: Game 23: Expert - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/LaZXQ267
     - Found: threatening
@@ -2230,10 +1952,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/IDpn2okt/62pXsNYz
     - Found: threatening
     - All found aliases: bishop pair, center, compensation, develop, exchanging, imbalances, isolated pawns, king is safe, mobility, outpost, passed pawns, pawn chain, pin, pins, pressure, sacrifice, space, threatening, zugzwang
-  - Chapter: Game 25: Expert - Master
-    - Chapter URL: https://lichess.org/study/IDpn2okt/j1AjqTtl
-    - Found: threat, threatening
-    - All found aliases: center, cramp, majority, material, pin, pressure, sacrifice, sacrificing, space, threat, threatening, trade
   - Chapter: Game 25: Expert - Master
     - Chapter URL: https://lichess.org/study/IDpn2okt/j1AjqTtl
     - Found: threat, threatening
@@ -2293,7 +2011,7 @@ Appears In:
   - Chapter: Motif by Game I (1-13)
     - Chapter URL: https://lichess.org/study/IDpn2okt/5qSQ9ogf
     - Found: zugzwang
-    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the hanging, threat, two bishops, two weaknesses, zugzwang
+    - All found aliases: accumulation of power, backward pawn, center, closed, combination, exchange of, exchanging, formation, initiative, isolated pawn, isolated pawns, maneuver, mating net, minority, outpost, pawn formation, pawn majority, pin, plan, planning, retreat, sacrifice, tension, the flexible, the hanging, threat, two bishops, two weaknesses, zugzwang
   - Chapter: Game 13: Master - Amateur
     - Chapter URL: https://lichess.org/study/IDpn2okt/O4Ino6R4
     - Found: zugzwang

@@ -605,7 +605,7 @@ Aliases: poison, poison pawn, poisoned pawn
 ### Concept: Principle of Least Commitment
 Definition: Making flexible moves that preserve options.
 
-Aliases: least commitment, principle of least commitment
+Aliases: a flexible, and flexible, at flexible, be flexible, inflexible, is flexible, least commitment, more flexible, most flexible, over flexible, position flexible, principle of least commitment, stay flexible, stays flexible, the flexible, very flexible
 
 ### Concept: Principle of Two Weaknesses
 Definition: Creating a second weakness to overload the defense.
@@ -762,7 +762,7 @@ Definition: A defensive rook‑and‑pawn endgame setup that holds a draw.
 
 Aliases: vancura position, vančura position
 
-### Concept: Vukovic Mate
+### Concept: Vukovic's Mate
 Definition: A mating pattern attributed to Vuković involving rook and knight coordination.
 
 Aliases: vukovic mate, vukovic's mate, vuković mate, vuković's mate

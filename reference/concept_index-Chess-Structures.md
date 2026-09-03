@@ -238,10 +238,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/lRpmhZUK
     - Found: closed, closed position
     - All found aliases: chain, closed, closed position, counterplay, formation, formations, pawn chain, plan, plans, sacrifice, sacrifices, threats, trade
-  - Chapter: 21. French Type III: aka French Advance
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/lRpmhZUK
-    - Found: closed, closed position
-    - All found aliases: chain, closed, closed position, counterplay, formation, formations, pawn chain, plan, plans, sacrifice, sacrifices, threats, trade
   - Chapter: 22.2 Panov
     - Chapter URL: https://lichess.org/study/OBCi9Wff/0vus7vy5
     - Found: closed
@@ -362,10 +358,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/eAs7tsrs
     - Found: developed, develops
     - All found aliases: developed, develops, formation, gain space, pawn formation, plan, plans, pressure, space, trade, trades, transform the structure, transformation
-  - Chapter: 11. Maroczy
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/eAs7tsrs
-    - Found: developed, develops
-    - All found aliases: developed, develops, formation, gain space, pawn formation, plan, plans, pressure, space, trade, trades, transform the structure, transformation
 
 
 ## Concept: Domination
@@ -393,14 +385,14 @@ Appears In:
   - Chapter: Structure Selection
     - Chapter URL: https://lichess.org/study/vK3z4Pvu/n8m0bJMJ
     - Feature: doubled
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
+    - All found aliases: doubled, over flexible, pawn chain, pawn structure, plans, structure, structures, tension, traded
 
 - Study: CLONE: Chess Structures: The Bare Bones
   - Study URL: https://lichess.org/study/OBCi9Wff
   - Chapter: Structure Selection
     - Chapter URL: https://lichess.org/study/OBCi9Wff/BO2LAG3c
     - Feature: doubled
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
+    - All found aliases: doubled, over flexible, pawn chain, pawn structure, plans, structure, structures, tension, traded
   - Chapter: 11.2 Asymmetric Transformation of the Maroczy
     - Chapter URL: https://lichess.org/study/OBCi9Wff/kja4v6ss
     - Feature: doubling
@@ -509,21 +501,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/zmaEWRax/B67Dv6tN
     - Feature: isolani, isolated pawn
     - All found aliases: isolani, isolated pawn, structure, structures
-  - Chapter: Isolani: Introduction
-    - Chapter URL: https://lichess.org/study/zmaEWRax/B67Dv6tN
-    - Feature: isolani, isolated pawn
-    - All found aliases: isolani, isolated pawn, structure, structures
 
 - Study: CLONE: Chess Structures: The Bare Bones
   - Study URL: https://lichess.org/study/OBCi9Wff
-  - Chapter: 1. Isolani
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/Ap76gy14
-    - Feature: isolani, isolated, isolated pawn
-    - All found aliases: and simplify, battery, formation, good bishop, initiative, isolani, isolated, isolated pawn, key squares, opening lines, pawn formation, pawn formations, pawn structures, plans, sacrifice, sacrificing, trade, trading
-  - Chapter: 1. Isolani
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/Ap76gy14
-    - Feature: isolani, isolated, isolated pawn
-    - All found aliases: and simplify, battery, formation, good bishop, initiative, isolani, isolated, isolated pawn, key squares, opening lines, pawn formation, pawn formations, pawn structures, plans, sacrifice, sacrificing, trade, trading
   - Chapter: 1. Isolani
     - Chapter URL: https://lichess.org/study/OBCi9Wff/Ap76gy14
     - Feature: isolani, isolated, isolated pawn
@@ -548,10 +528,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/4ZmFe0US
     - Feature: isolated
     - All found aliases: chain, doubling, exchange sacrifice, formation, isolated, outpost, passed, pin, plans, pressure, undermining
-  - Chapter: Giuoco Piano - Isolani
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/xr8O82JY
-    - Feature: isolani, isolated
-    - All found aliases: battery, blockade, center, good bishop, initiative, isolani, isolated, key squares, opening lines, plans, sacrifice, sacrificing, structure, trade, trading
   - Chapter: Giuoco Piano - Isolani
     - Chapter URL: https://lichess.org/study/OBCi9Wff/xr8O82JY
     - Feature: isolani, isolated
@@ -789,7 +765,7 @@ Appears In:
   - Chapter: Structure Selection
     - Chapter URL: https://lichess.org/study/vK3z4Pvu/n8m0bJMJ
     - Feature: pawn chain
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
+    - All found aliases: doubled, over flexible, pawn chain, pawn structure, plans, structure, structures, tension, traded
 
 - Study: CLONE: Chess Structures: The Bare Bones
   - Study URL: https://lichess.org/study/OBCi9Wff
@@ -800,7 +776,7 @@ Appears In:
   - Chapter: Structure Selection
     - Chapter URL: https://lichess.org/study/OBCi9Wff/BO2LAG3c
     - Feature: pawn chain
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
+    - All found aliases: doubled, over flexible, pawn chain, pawn structure, plans, structure, structures, tension, traded
   - Chapter: 5. Carlsbad: aka Orthodox Exchange
     - Chapter URL: https://lichess.org/study/OBCi9Wff/OBxXoM25
     - Feature: pawn chain
@@ -829,14 +805,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/JvK75Glf
     - Feature: chain, pawn chain
     - All found aliases: bad bishop, chain, closed, create weaknesses, formation, formations, minority, pawn chain, pawn storm, plan, plans, sacrifice, simplify the, structure, trade, undermine
-  - Chapter: 20. French Type II: e5 chain, no White d-pawn, no Black c-pawn
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/JvK75Glf
-    - Feature: chain, pawn chain
-    - All found aliases: bad bishop, chain, closed, create weaknesses, formation, formations, minority, pawn chain, pawn storm, plan, plans, sacrifice, simplify the, structure, trade, undermine
-  - Chapter: 21. French Type III: aka French Advance
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/lRpmhZUK
-    - Feature: chain, pawn chain
-    - All found aliases: chain, closed, closed position, counterplay, formation, formations, pawn chain, plan, plans, sacrifice, sacrifices, threats, trade
   - Chapter: 21. French Type III: aka French Advance
     - Chapter URL: https://lichess.org/study/OBCi9Wff/lRpmhZUK
     - Feature: chain, pawn chain
@@ -936,14 +904,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/CTycB4Hi/v6xNyjbV
     - Found: pawn structures, structure, structures
     - All found aliases: pawn structures, plan, structure, structures
-  - Chapter: Chess Structures: Opening Connections: Introduction
-    - Chapter URL: https://lichess.org/study/CTycB4Hi/v6xNyjbV
-    - Found: pawn structures, structure, structures
-    - All found aliases: pawn structures, plan, structure, structures
-  - Chapter: Chess Structures: Opening Connections: Introduction
-    - Chapter URL: https://lichess.org/study/CTycB4Hi/v6xNyjbV
-    - Found: pawn structures, structure, structures
-    - All found aliases: pawn structures, plan, structure, structures
   - Chapter: Family One - d4 and d5
     - Chapter URL: https://lichess.org/study/CTycB4Hi/rASnGz2L
     - Found: structures
@@ -979,17 +939,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/RYeiGeVe/KoF7SbA9
     - Found: structure, structures
     - All found aliases: structure, structures
-  - Chapter: 3-3 vs. 4-2: Introduction
-    - Chapter URL: https://lichess.org/study/RYeiGeVe/KoF7SbA9
-    - Found: structure, structures
-    - All found aliases: structure, structures
 
 - Study: Chess Structures: Opening Connections: Asymmetric Benoni
   - Study URL: https://lichess.org/study/AUM42Ef3
-  - Chapter: Asymmetric Benoni: Introduction
-    - Chapter URL: https://lichess.org/study/AUM42Ef3/U871Or4g
-    - Found: structure, structures
-    - All found aliases: structure, structures
   - Chapter: Asymmetric Benoni: Introduction
     - Chapter URL: https://lichess.org/study/AUM42Ef3/U871Or4g
     - Found: structure, structures
@@ -1001,17 +953,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/LIKxTzEN/pb1Y2HBm
     - Found: structure, structures
     - All found aliases: structure, structures, transformation
-  - Chapter: Asymmetric Transformation of the Maroczy: Introduction
-    - Chapter URL: https://lichess.org/study/LIKxTzEN/pb1Y2HBm
-    - Found: structure, structures
-    - All found aliases: structure, structures, transformation
 
 - Study: Chess Structures: Opening Connections: Benko
   - Study URL: https://lichess.org/study/asLvEbGK
-  - Chapter: Benko: Introduction
-    - Chapter URL: https://lichess.org/study/asLvEbGK/ooih7tO1
-    - Found: structure, structures
-    - All found aliases: structure, structures
   - Chapter: Benko: Introduction
     - Chapter URL: https://lichess.org/study/asLvEbGK/ooih7tO1
     - Found: structure, structures
@@ -1023,21 +967,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/haN8JYw9/4v9UaWMD
     - Found: structure, structures
     - All found aliases: structure, structures
-  - Chapter: Botvinnik system: Introduction
-    - Chapter URL: https://lichess.org/study/haN8JYw9/4v9UaWMD
-    - Found: structure, structures
-    - All found aliases: structure, structures
 
 - Study: Chess Structures: Opening Connections: Carlsbad
   - Study URL: https://lichess.org/study/m8Iq8D3i
-  - Chapter: Carlsbad: Introduction
-    - Chapter URL: https://lichess.org/study/m8Iq8D3i/vWAojc8R
-    - Found: pawn structures, structure, structures
-    - All found aliases: pawn structures, structure, structures
-  - Chapter: Carlsbad: Introduction
-    - Chapter URL: https://lichess.org/study/m8Iq8D3i/vWAojc8R
-    - Found: pawn structures, structure, structures
-    - All found aliases: pawn structures, structure, structures
   - Chapter: Carlsbad: Introduction
     - Chapter URL: https://lichess.org/study/m8Iq8D3i/vWAojc8R
     - Found: pawn structures, structure, structures
@@ -1049,25 +981,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/hM0xZZmT/vnvhcDrD
     - Found: formation, pawn structures, structure, structures
     - All found aliases: formation, pawn structures, structure, structures
-  - Chapter: Caro-Kann: Introduction
-    - Chapter URL: https://lichess.org/study/hM0xZZmT/vnvhcDrD
-    - Found: formation, pawn structures, structure, structures
-    - All found aliases: formation, pawn structures, structure, structures
-  - Chapter: Caro-Kann: Introduction
-    - Chapter URL: https://lichess.org/study/hM0xZZmT/vnvhcDrD
-    - Found: formation, pawn structures, structure, structures
-    - All found aliases: formation, pawn structures, structure, structures
-  - Chapter: Caro-Kann: Introduction
-    - Chapter URL: https://lichess.org/study/hM0xZZmT/vnvhcDrD
-    - Found: formation, pawn structures, structure, structures
-    - All found aliases: formation, pawn structures, structure, structures
 
 - Study: Chess Structures: Opening Connections: Closed Ruy Lopez
   - Study URL: https://lichess.org/study/TwwffAZd
-  - Chapter: Closed Ruy Lopez: Introduction
-    - Chapter URL: https://lichess.org/study/TwwffAZd/DQVIwPCJ
-    - Found: structure, structures
-    - All found aliases: closed, structure, structures
   - Chapter: Closed Ruy Lopez: Introduction
     - Chapter URL: https://lichess.org/study/TwwffAZd/DQVIwPCJ
     - Found: structure, structures
@@ -1079,17 +995,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/Am6hX3Cd/BCiKxFyY
     - Found: structure, structures
     - All found aliases: closed, structure, structures
-  - Chapter: Closed Sicilian
-    - Chapter URL: https://lichess.org/study/Am6hX3Cd/BCiKxFyY
-    - Found: structure, structures
-    - All found aliases: closed, structure, structures
 
 - Study: Chess Structures: Opening Connections: Dragon
   - Study URL: https://lichess.org/study/uwMhRW9y
-  - Chapter: Dragon: Introduction
-    - Chapter URL: https://lichess.org/study/uwMhRW9y/b77BJwux
-    - Found: structure, structures
-    - All found aliases: structure, structures
   - Chapter: Dragon: Introduction
     - Chapter URL: https://lichess.org/study/uwMhRW9y/b77BJwux
     - Found: structure, structures
@@ -1101,17 +1009,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/Kcoy14kA/IMz4HEpT
     - Found: structure, structures
     - All found aliases: chain, structure, structures
-  - Chapter: French Type I: Introduction
-    - Chapter URL: https://lichess.org/study/Kcoy14kA/IMz4HEpT
-    - Found: structure, structures
-    - All found aliases: chain, structure, structures
 
 - Study: Chess Structures: Opening Connections: French Type II
   - Study URL: https://lichess.org/study/EQbwxOUL
-  - Chapter: French Type II: Introduction
-    - Chapter URL: https://lichess.org/study/EQbwxOUL/JXlrJrkp
-    - Found: structure, structures
-    - All found aliases: chain, structure, structures
   - Chapter: French Type II: Introduction
     - Chapter URL: https://lichess.org/study/EQbwxOUL/JXlrJrkp
     - Found: structure, structures
@@ -1123,17 +1023,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OVFBtsxA/ZsK87DuI
     - Found: structure, structures
     - All found aliases: structure, structures
-  - Chapter: French Type III: Introduction
-    - Chapter URL: https://lichess.org/study/OVFBtsxA/ZsK87DuI
-    - Found: structure, structures
-    - All found aliases: structure, structures
 
 - Study: Chess Structures: Opening Connections: Giuoco Piano - Isolani
   - Study URL: https://lichess.org/study/J4HezcWU
-  - Chapter: Giuoco Piano - Isolani: Introduction
-    - Chapter URL: https://lichess.org/study/J4HezcWU/WWCSGwOP
-    - Found: structure, structures
-    - All found aliases: isolani, structure, structures
   - Chapter: Giuoco Piano - Isolani: Introduction
     - Chapter URL: https://lichess.org/study/J4HezcWU/WWCSGwOP
     - Found: structure, structures
@@ -1145,17 +1037,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/aJDh0fHj/BBFZUvom
     - Found: structure, structures
     - All found aliases: center, structure, structures
-  - Chapter: Grunfeld Center: Introduction
-    - Chapter URL: https://lichess.org/study/aJDh0fHj/BBFZUvom
-    - Found: structure, structures
-    - All found aliases: center, structure, structures
 
 - Study: Chess Structures: Opening Connections: Hanging Pawns
   - Study URL: https://lichess.org/study/v2sYaceI
-  - Chapter: Hanging Pawns: Introduction
-    - Chapter URL: https://lichess.org/study/v2sYaceI/DVSvCzj7
-    - Found: structure, structures
-    - All found aliases: structure, structures
   - Chapter: Hanging Pawns: Introduction
     - Chapter URL: https://lichess.org/study/v2sYaceI/DVSvCzj7
     - Found: structure, structures
@@ -1167,17 +1051,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/0HSjou0f/vxu8R3E4
     - Found: structure, structures
     - All found aliases: structure, structures
-  - Chapter: Hedgehog: Introduction
-    - Chapter URL: https://lichess.org/study/0HSjou0f/vxu8R3E4
-    - Found: structure, structures
-    - All found aliases: structure, structures
 
 - Study: Chess Structures: Opening Connections: Isolani
   - Study URL: https://lichess.org/study/zmaEWRax
-  - Chapter: Isolani: Introduction
-    - Chapter URL: https://lichess.org/study/zmaEWRax/B67Dv6tN
-    - Found: structure, structures
-    - All found aliases: isolani, isolated pawn, structure, structures
   - Chapter: Isolani: Introduction
     - Chapter URL: https://lichess.org/study/zmaEWRax/B67Dv6tN
     - Found: structure, structures
@@ -1189,17 +1065,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/kLMrvsCH/jSREdHzu
     - Found: structure, structures
     - All found aliases: structure, structures
-  - Chapter: KID Complex: Introduction
-    - Chapter URL: https://lichess.org/study/kLMrvsCH/jSREdHzu
-    - Found: structure, structures
-    - All found aliases: structure, structures
 
 - Study: Chess Structures: Opening Connections: Kid Type I
   - Study URL: https://lichess.org/study/Ohgr5bsG
-  - Chapter: Kid Type I: Introduction
-    - Chapter URL: https://lichess.org/study/Ohgr5bsG/bhpH97x6
-    - Found: structure, structures
-    - All found aliases: chain, structure, structures
   - Chapter: Kid Type I: Introduction
     - Chapter URL: https://lichess.org/study/Ohgr5bsG/bhpH97x6
     - Found: structure, structures
@@ -1211,17 +1079,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/O50ADaLn/373efqIN
     - Found: structure, structures
     - All found aliases: chain, structure, structures
-  - Chapter: Kid Type II: Introduction
-    - Chapter URL: https://lichess.org/study/O50ADaLn/373efqIN
-    - Found: structure, structures
-    - All found aliases: chain, structure, structures
 
 - Study: Chess Structures: Opening Connections: Kid Type II: Transformation A
   - Study URL: https://lichess.org/study/4sN53ht4
-  - Chapter: Kid Type II: Transformation A: Introduction
-    - Chapter URL: https://lichess.org/study/4sN53ht4/HZFNjZku
-    - Found: structure, structures
-    - All found aliases: structure, structures, transformation
   - Chapter: Kid Type II: Transformation A: Introduction
     - Chapter URL: https://lichess.org/study/4sN53ht4/HZFNjZku
     - Found: structure, structures
@@ -1233,17 +1093,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/jsaDCCbl/LiJka4oT
     - Found: structure, structures
     - All found aliases: structure, structures, transformation
-  - Chapter: Kid Type II: Transformation B: Introduction
-    - Chapter URL: https://lichess.org/study/jsaDCCbl/LiJka4oT
-    - Found: structure, structures
-    - All found aliases: structure, structures, transformation
 
 - Study: Chess Structures: Opening Connections: KID Type III
   - Study URL: https://lichess.org/study/NdeA9sca
-  - Chapter: KID Type III: Introduction
-    - Chapter URL: https://lichess.org/study/NdeA9sca/PpuV3bg4
-    - Found: structure, structures
-    - All found aliases: chain, structure, structures
   - Chapter: KID Type III: Introduction
     - Chapter URL: https://lichess.org/study/NdeA9sca/PpuV3bg4
     - Found: structure, structures
@@ -1255,10 +1107,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/LppQfToE/yRqn7Bhh
     - Found: structure, structures
     - All found aliases: structure, structures, transformation
-  - Chapter: Kid Type III: Transformation A: Introduction
-    - Chapter URL: https://lichess.org/study/LppQfToE/yRqn7Bhh
-    - Found: structure, structures
-    - All found aliases: structure, structures, transformation
 
 - Study: Chess Structures: Opening Connections: Kid Type III: Transformation B
   - Study URL: https://lichess.org/study/xEfkuNO5
@@ -1266,17 +1114,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/xEfkuNO5/vSVHfuDD
     - Found: structure, structures
     - All found aliases: structure, structures, transformation
-  - Chapter: Kid Type III: Transformation B: Introduction
-    - Chapter URL: https://lichess.org/study/xEfkuNO5/vSVHfuDD
-    - Found: structure, structures
-    - All found aliases: structure, structures, transformation
 
 - Study: Chess Structures: Opening Connections: Lopez
   - Study URL: https://lichess.org/study/Uup11t7Q
-  - Chapter: Lopez: Introduction
-    - Chapter URL: https://lichess.org/study/Uup11t7Q/mh960RyD
-    - Found: structure, structures
-    - All found aliases: structure, structures
   - Chapter: Lopez: Introduction
     - Chapter URL: https://lichess.org/study/Uup11t7Q/mh960RyD
     - Found: structure, structures
@@ -1292,17 +1132,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/X54lpeo1/kpNEM6z9
     - Found: structure, structures
     - All found aliases: exchange on, structure, structures
-  - Chapter: Lopez - double exchange on d4: Introduction
-    - Chapter URL: https://lichess.org/study/X54lpeo1/kpNEM6z9
-    - Found: structure, structures
-    - All found aliases: exchange on, structure, structures
 
 - Study: Chess Structures: Opening Connections: Maroczy
   - Study URL: https://lichess.org/study/gDA3sj5A
-  - Chapter: Maroczy: Introduction
-    - Chapter URL: https://lichess.org/study/gDA3sj5A/4mmphuxa
-    - Found: structure, structures
-    - All found aliases: structure, structures
   - Chapter: Maroczy: Introduction
     - Chapter URL: https://lichess.org/study/gDA3sj5A/4mmphuxa
     - Found: structure, structures
@@ -1314,17 +1146,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/FsWoj31o/yJizLaiK
     - Found: structure, structures
     - All found aliases: structure, structures
-  - Chapter: Najdorf Type I: Introduction
-    - Chapter URL: https://lichess.org/study/FsWoj31o/yJizLaiK
-    - Found: structure, structures
-    - All found aliases: structure, structures
 
 - Study: Chess Structures: Opening Connections: Najdorf Type II
   - Study URL: https://lichess.org/study/kl8bYLmA
-  - Chapter: Najdorf Type II: Introduction
-    - Chapter URL: https://lichess.org/study/kl8bYLmA/skHMUdML
-    - Found: structure, structures
-    - All found aliases: structure, structures
   - Chapter: Najdorf Type II: Introduction
     - Chapter URL: https://lichess.org/study/kl8bYLmA/skHMUdML
     - Found: structure, structures
@@ -1336,17 +1160,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/n27X7u3D/7yLarwGx
     - Found: structure, structures
     - All found aliases: structure, structures
-  - Chapter: Open KID: Introduction
-    - Chapter URL: https://lichess.org/study/n27X7u3D/7yLarwGx
-    - Found: structure, structures
-    - All found aliases: structure, structures
 
 - Study: Chess Structures: Opening Connections: Panov
   - Study URL: https://lichess.org/study/ghALpGZR
-  - Chapter: Panov: Introduction
-    - Chapter URL: https://lichess.org/study/ghALpGZR/5zAY8Pv1
-    - Found: structure, structures
-    - All found aliases: structure, structures
   - Chapter: Panov: Introduction
     - Chapter URL: https://lichess.org/study/ghALpGZR/5zAY8Pv1
     - Found: structure, structures
@@ -1358,25 +1174,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/98jurApl/BbwlW5Y5
     - Found: formation, pawn structure, structure, structures
     - All found aliases: exchanges, formation, pawn structure, plan, sacrifice, structure, structures, transformations
-  - Chapter: Rauzer: Introduction
-    - Chapter URL: https://lichess.org/study/98jurApl/BbwlW5Y5
-    - Found: formation, pawn structure, structure, structures
-    - All found aliases: exchanges, formation, pawn structure, plan, sacrifice, structure, structures, transformations
-  - Chapter: Rauzer: Introduction
-    - Chapter URL: https://lichess.org/study/98jurApl/BbwlW5Y5
-    - Found: formation, pawn structure, structure, structures
-    - All found aliases: exchanges, formation, pawn structure, plan, sacrifice, structure, structures, transformations
-  - Chapter: Rauzer: Introduction
-    - Chapter URL: https://lichess.org/study/98jurApl/BbwlW5Y5
-    - Found: formation, pawn structure, structure, structures
-    - All found aliases: exchanges, formation, pawn structure, plan, sacrifice, structure, structures, transformations
 
 - Study: Chess Structures: Opening Connections: Scheveningen
   - Study URL: https://lichess.org/study/MYyaKAXY
-  - Chapter: Scheveningen: Introduction
-    - Chapter URL: https://lichess.org/study/MYyaKAXY/E4S0G4uG
-    - Found: structure, structures
-    - All found aliases: structure, structures
   - Chapter: Scheveningen: Introduction
     - Chapter URL: https://lichess.org/study/MYyaKAXY/E4S0G4uG
     - Found: structure, structures
@@ -1388,33 +1188,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/62fSshPb/5pwA9Oo1
     - Found: formation, pawn structures, structure, structures
     - All found aliases: formation, pawn structures, structure, structures
-  - Chapter: Slav: Introduction
-    - Chapter URL: https://lichess.org/study/62fSshPb/5pwA9Oo1
-    - Found: formation, pawn structures, structure, structures
-    - All found aliases: formation, pawn structures, structure, structures
-  - Chapter: Slav: Introduction
-    - Chapter URL: https://lichess.org/study/62fSshPb/5pwA9Oo1
-    - Found: formation, pawn structures, structure, structures
-    - All found aliases: formation, pawn structures, structure, structures
-  - Chapter: Slav: Introduction
-    - Chapter URL: https://lichess.org/study/62fSshPb/5pwA9Oo1
-    - Found: formation, pawn structures, structure, structures
-    - All found aliases: formation, pawn structures, structure, structures
 
 - Study: Chess Structures: Opening Connections: Stonewall
   - Study URL: https://lichess.org/study/InX7uhOR
-  - Chapter: Stonewall: Introduction
-    - Chapter URL: https://lichess.org/study/InX7uhOR/3eLuw8Pd
-    - Found: formation, pawn structures, structure, structures
-    - All found aliases: formation, pawn structures, structure, structures
-  - Chapter: Stonewall: Introduction
-    - Chapter URL: https://lichess.org/study/InX7uhOR/3eLuw8Pd
-    - Found: formation, pawn structures, structure, structures
-    - All found aliases: formation, pawn structures, structure, structures
-  - Chapter: Stonewall: Introduction
-    - Chapter URL: https://lichess.org/study/InX7uhOR/3eLuw8Pd
-    - Found: formation, pawn structures, structure, structures
-    - All found aliases: formation, pawn structures, structure, structures
   - Chapter: Stonewall: Introduction
     - Chapter URL: https://lichess.org/study/InX7uhOR/3eLuw8Pd
     - Found: formation, pawn structures, structure, structures
@@ -1426,17 +1202,9 @@ Appears In:
     - Chapter URL: https://lichess.org/study/YjCXsXrt/11SwFqPD
     - Found: structure, structures
     - All found aliases: structure, structures
-  - Chapter: Symmetric Benoni: Introduction
-    - Chapter URL: https://lichess.org/study/YjCXsXrt/11SwFqPD
-    - Found: structure, structures
-    - All found aliases: structure, structures
 
 - Study: Chess Structures: Opening Connections: Symmetric Transformation of the Maroczy
   - Study URL: https://lichess.org/study/t24y0dn1
-  - Chapter: Symmetric Transformation of the Maroczy: Introduction
-    - Chapter URL: https://lichess.org/study/t24y0dn1/LqutAkM7
-    - Found: structure, structures
-    - All found aliases: structure, structures, transformation
   - Chapter: Symmetric Transformation of the Maroczy: Introduction
     - Chapter URL: https://lichess.org/study/t24y0dn1/LqutAkM7
     - Found: structure, structures
@@ -1448,26 +1216,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/vK3z4Pvu/YNs2Sn0k
     - Found: formation, pawn structure, pawn structures, structure, structures
     - All found aliases: formation, pawn structure, pawn structures, plan, plans, structure, structures
-  - Chapter: Chess Structures: Introduction
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/YNs2Sn0k
-    - Found: formation, pawn structure, pawn structures, structure, structures
-    - All found aliases: formation, pawn structure, pawn structures, plan, plans, structure, structures
-  - Chapter: Chess Structures: Introduction
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/YNs2Sn0k
-    - Found: formation, pawn structure, pawn structures, structure, structures
-    - All found aliases: formation, pawn structure, pawn structures, plan, plans, structure, structures
-  - Chapter: Chess Structures: Introduction
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/YNs2Sn0k
-    - Found: formation, pawn structure, pawn structures, structure, structures
-    - All found aliases: formation, pawn structure, pawn structures, plan, plans, structure, structures
-  - Chapter: Chess Structures: Introduction
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/YNs2Sn0k
-    - Found: formation, pawn structure, pawn structures, structure, structures
-    - All found aliases: formation, pawn structure, pawn structures, plan, plans, structure, structures
-  - Chapter: Prerequisites
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/iPxlHsWG
-    - Found: structure, structures
-    - All found aliases: material, plans, structure, structures
   - Chapter: Prerequisites
     - Chapter URL: https://lichess.org/study/vK3z4Pvu/iPxlHsWG
     - Found: structure, structures
@@ -1476,22 +1224,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/vK3z4Pvu/seTXAKel
     - Found: structure, structures
     - All found aliases: structure, structures
-  - Chapter: The Structure Names
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/seTXAKel
-    - Found: structure, structures
-    - All found aliases: structure, structures
-  - Chapter: References
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/xgNaDDW5
-    - Found: pawn structure, pawn structures, structure, structures
-    - All found aliases: pawn structure, pawn structures, silman imbalance, structure, structures
-  - Chapter: References
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/xgNaDDW5
-    - Found: pawn structure, pawn structures, structure, structures
-    - All found aliases: pawn structure, pawn structures, silman imbalance, structure, structures
-  - Chapter: References
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/xgNaDDW5
-    - Found: pawn structure, pawn structures, structure, structures
-    - All found aliases: pawn structure, pawn structures, silman imbalance, structure, structures
   - Chapter: References
     - Chapter URL: https://lichess.org/study/vK3z4Pvu/xgNaDDW5
     - Found: pawn structure, pawn structures, structure, structures
@@ -1500,22 +1232,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/vK3z4Pvu/GJLLKJxr
     - Found: pawn structure, structures
     - All found aliases: pawn structure, structures
-  - Chapter: The Aims of Chess Structures
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/GJLLKJxr
-    - Found: pawn structure, structures
-    - All found aliases: pawn structure, structures
-  - Chapter: The Structure Families
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/JerE3RLJ
-    - Found: formation, pawn structure, structure, structures
-    - All found aliases: closed, formation, pawn chains, pawn structure, structure, structures
-  - Chapter: The Structure Families
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/JerE3RLJ
-    - Found: formation, pawn structure, structure, structures
-    - All found aliases: closed, formation, pawn chains, pawn structure, structure, structures
-  - Chapter: The Structure Families
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/JerE3RLJ
-    - Found: formation, pawn structure, structure, structures
-    - All found aliases: closed, formation, pawn chains, pawn structure, structure, structures
   - Chapter: The Structure Families
     - Chapter URL: https://lichess.org/study/vK3z4Pvu/JerE3RLJ
     - Found: formation, pawn structure, structure, structures
@@ -1523,15 +1239,7 @@ Appears In:
   - Chapter: Structure Selection
     - Chapter URL: https://lichess.org/study/vK3z4Pvu/n8m0bJMJ
     - Found: pawn structure, structure, structures
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
-  - Chapter: Structure Selection
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/n8m0bJMJ
-    - Found: pawn structure, structure, structures
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
-  - Chapter: Structure Selection
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/n8m0bJMJ
-    - Found: pawn structure, structure, structures
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
+    - All found aliases: doubled, over flexible, pawn chain, pawn structure, plans, structure, structures, tension, traded
 
 - Study: CLONE: Chess Structures: The Bare Bones
   - Study URL: https://lichess.org/study/OBCi9Wff
@@ -1539,26 +1247,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/fqQrQoTw
     - Found: formation, pawn structure, pawn structures, structure, structures
     - All found aliases: formation, pawn structure, pawn structures, plan, plans, structure, structures
-  - Chapter: Chess Structures: Introduction
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/fqQrQoTw
-    - Found: formation, pawn structure, pawn structures, structure, structures
-    - All found aliases: formation, pawn structure, pawn structures, plan, plans, structure, structures
-  - Chapter: Chess Structures: Introduction
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/fqQrQoTw
-    - Found: formation, pawn structure, pawn structures, structure, structures
-    - All found aliases: formation, pawn structure, pawn structures, plan, plans, structure, structures
-  - Chapter: Chess Structures: Introduction
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/fqQrQoTw
-    - Found: formation, pawn structure, pawn structures, structure, structures
-    - All found aliases: formation, pawn structure, pawn structures, plan, plans, structure, structures
-  - Chapter: Chess Structures: Introduction
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/fqQrQoTw
-    - Found: formation, pawn structure, pawn structures, structure, structures
-    - All found aliases: formation, pawn structure, pawn structures, plan, plans, structure, structures
-  - Chapter: Prerequisites
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/5Rg4G43H
-    - Found: structure, structures
-    - All found aliases: material, plans, structure, structures
   - Chapter: Prerequisites
     - Chapter URL: https://lichess.org/study/OBCi9Wff/5Rg4G43H
     - Found: structure, structures
@@ -1567,22 +1255,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/lSDmBicV
     - Found: structure, structures
     - All found aliases: structure, structures
-  - Chapter: The Structure Names
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/lSDmBicV
-    - Found: structure, structures
-    - All found aliases: structure, structures
-  - Chapter: References
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/12LjcUct
-    - Found: pawn structure, pawn structures, structure, structures
-    - All found aliases: pawn structure, pawn structures, silman imbalance, structure, structures
-  - Chapter: References
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/12LjcUct
-    - Found: pawn structure, pawn structures, structure, structures
-    - All found aliases: pawn structure, pawn structures, silman imbalance, structure, structures
-  - Chapter: References
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/12LjcUct
-    - Found: pawn structure, pawn structures, structure, structures
-    - All found aliases: pawn structure, pawn structures, silman imbalance, structure, structures
   - Chapter: References
     - Chapter URL: https://lichess.org/study/OBCi9Wff/12LjcUct
     - Found: pawn structure, pawn structures, structure, structures
@@ -1591,22 +1263,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/AxU06h43
     - Found: pawn structure, structures
     - All found aliases: pawn structure, structures
-  - Chapter: The Aims of Chess Structures
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/AxU06h43
-    - Found: pawn structure, structures
-    - All found aliases: pawn structure, structures
-  - Chapter: The Structure Families
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/td2xIjQm
-    - Found: formation, pawn structure, structure, structures
-    - All found aliases: closed, formation, pawn chains, pawn structure, structure, structures
-  - Chapter: The Structure Families
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/td2xIjQm
-    - Found: formation, pawn structure, structure, structures
-    - All found aliases: closed, formation, pawn chains, pawn structure, structure, structures
-  - Chapter: The Structure Families
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/td2xIjQm
-    - Found: formation, pawn structure, structure, structures
-    - All found aliases: closed, formation, pawn chains, pawn structure, structure, structures
   - Chapter: The Structure Families
     - Chapter URL: https://lichess.org/study/OBCi9Wff/td2xIjQm
     - Found: formation, pawn structure, structure, structures
@@ -1614,27 +1270,7 @@ Appears In:
   - Chapter: Structure Selection
     - Chapter URL: https://lichess.org/study/OBCi9Wff/BO2LAG3c
     - Found: pawn structure, structure, structures
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
-  - Chapter: Structure Selection
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/BO2LAG3c
-    - Found: pawn structure, structure, structures
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
-  - Chapter: Structure Selection
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/BO2LAG3c
-    - Found: pawn structure, structure, structures
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
-  - Chapter: 1. Isolani
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/Ap76gy14
-    - Found: formation, pawn formation, pawn formations, pawn structures
-    - All found aliases: and simplify, battery, formation, good bishop, initiative, isolani, isolated, isolated pawn, key squares, opening lines, pawn formation, pawn formations, pawn structures, plans, sacrifice, sacrificing, trade, trading
-  - Chapter: 1. Isolani
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/Ap76gy14
-    - Found: formation, pawn formation, pawn formations, pawn structures
-    - All found aliases: and simplify, battery, formation, good bishop, initiative, isolani, isolated, isolated pawn, key squares, opening lines, pawn formation, pawn formations, pawn structures, plans, sacrifice, sacrificing, trade, trading
-  - Chapter: 1. Isolani
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/Ap76gy14
-    - Found: formation, pawn formation, pawn formations, pawn structures
-    - All found aliases: and simplify, battery, formation, good bishop, initiative, isolani, isolated, isolated pawn, key squares, opening lines, pawn formation, pawn formations, pawn structures, plans, sacrifice, sacrificing, trade, trading
+    - All found aliases: doubled, over flexible, pawn chain, pawn structure, plans, structure, structures, tension, traded
   - Chapter: 1. Isolani
     - Chapter URL: https://lichess.org/study/OBCi9Wff/Ap76gy14
     - Found: formation, pawn formation, pawn formations, pawn structures
@@ -1643,46 +1279,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/URzOEhai
     - Found: formation, pawn formation, pawn formations, pawn structure
     - All found aliases: formation, isolani, passed pawn, pawn formation, pawn formations, pawn structure, plans, pressure, simplified, the hanging, trade
-  - Chapter: 2. Hanging Pawns
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/URzOEhai
-    - Found: formation, pawn formation, pawn formations, pawn structure
-    - All found aliases: formation, isolani, passed pawn, pawn formation, pawn formations, pawn structure, plans, pressure, simplified, the hanging, trade
-  - Chapter: 2. Hanging Pawns
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/URzOEhai
-    - Found: formation, pawn formation, pawn formations, pawn structure
-    - All found aliases: formation, isolani, passed pawn, pawn formation, pawn formations, pawn structure, plans, pressure, simplified, the hanging, trade
-  - Chapter: 2. Hanging Pawns
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/URzOEhai
-    - Found: formation, pawn formation, pawn formations, pawn structure
-    - All found aliases: formation, isolani, passed pawn, pawn formation, pawn formations, pawn structure, plans, pressure, simplified, the hanging, trade
   - Chapter: 3. Caro-Kann
     - Chapter URL: https://lichess.org/study/OBCi9Wff/Y7HWhh4y
     - Found: formation, pawn formation, pawn formations, pawn structure
     - All found aliases: center, counterplay, formation, isolani, outpost, pawn formation, pawn formations, pawn structure, plan, plans, pressure, restrict, space, tension, the hanging, transform the structure
-  - Chapter: 3. Caro-Kann
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/Y7HWhh4y
-    - Found: formation, pawn formation, pawn formations, pawn structure
-    - All found aliases: center, counterplay, formation, isolani, outpost, pawn formation, pawn formations, pawn structure, plan, plans, pressure, restrict, space, tension, the hanging, transform the structure
-  - Chapter: 3. Caro-Kann
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/Y7HWhh4y
-    - Found: formation, pawn formation, pawn formations, pawn structure
-    - All found aliases: center, counterplay, formation, isolani, outpost, pawn formation, pawn formations, pawn structure, plan, plans, pressure, restrict, space, tension, the hanging, transform the structure
-  - Chapter: 3. Caro-Kann
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/Y7HWhh4y
-    - Found: formation, pawn formation, pawn formations, pawn structure
-    - All found aliases: center, counterplay, formation, isolani, outpost, pawn formation, pawn formations, pawn structure, plan, plans, pressure, restrict, space, tension, the hanging, transform the structure
-  - Chapter: 4. Slav
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/QTHRJP0Q
-    - Found: formation, formations, pawn structure, structure
-    - All found aliases: center, create a weakness, formation, formations, isolani, minority, outposts, pawn structure, plan, plans, pressure, space, structure, tension, transform the structure
-  - Chapter: 4. Slav
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/QTHRJP0Q
-    - Found: formation, formations, pawn structure, structure
-    - All found aliases: center, create a weakness, formation, formations, isolani, minority, outposts, pawn structure, plan, plans, pressure, space, structure, tension, transform the structure
-  - Chapter: 4. Slav
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/QTHRJP0Q
-    - Found: formation, formations, pawn structure, structure
-    - All found aliases: center, create a weakness, formation, formations, isolani, minority, outposts, pawn structure, plan, plans, pressure, space, structure, tension, transform the structure
   - Chapter: 4. Slav
     - Chapter URL: https://lichess.org/study/OBCi9Wff/QTHRJP0Q
     - Found: formation, formations, pawn structure, structure
@@ -1691,18 +1291,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/OBxXoM25
     - Found: formation, structure
     - All found aliases: developed, formation, isolani, minority, outpost, pawn chain, plan, plans, space, structure, tension
-  - Chapter: 5. Carlsbad: aka Orthodox Exchange
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/OBxXoM25
-    - Found: formation, structure
-    - All found aliases: developed, formation, isolani, minority, outpost, pawn chain, plan, plans, space, structure, tension
-  - Chapter: 6. Stonewall
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/6PHJd9PV
-    - Found: formation, pawn formation, structure
-    - All found aliases: bad bishop, formation, improve the, maneuver, pawn formation, plan, plans, structure, tension, trade
-  - Chapter: 6. Stonewall
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/6PHJd9PV
-    - Found: formation, pawn formation, structure
-    - All found aliases: bad bishop, formation, improve the, maneuver, pawn formation, plan, plans, structure, tension, trade
   - Chapter: 6. Stonewall
     - Chapter URL: https://lichess.org/study/OBCi9Wff/6PHJd9PV
     - Found: formation, pawn formation, structure
@@ -1715,14 +1303,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/JjSjLdAm
     - Found: formations, pawn formation, structure
     - All found aliases: develop, formations, majority, pawn formation, plan, plans, restrict, restricted, structure, undermine
-  - Chapter: 8. Najdorf Type I: White d-pawn, no White e-pawn
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/JjSjLdAm
-    - Found: formations, pawn formation, structure
-    - All found aliases: develop, formations, majority, pawn formation, plan, plans, restrict, restricted, structure, undermine
-  - Chapter: 8. Najdorf Type I: White d-pawn, no White e-pawn
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/JjSjLdAm
-    - Found: formations, pawn formation, structure
-    - All found aliases: develop, formations, majority, pawn formation, plan, plans, restrict, restricted, structure, undermine
   - Chapter: 9. Najdorf Type II: White e-pawn, no White d-pawn
     - Chapter URL: https://lichess.org/study/OBCi9Wff/6lJqKuU3
     - Found: structure
@@ -1730,15 +1310,7 @@ Appears In:
   - Chapter: 10. Hedgehog
     - Chapter URL: https://lichess.org/study/OBCi9Wff/T3rjqX0u
     - Found: formation, pawn formation
-    - All found aliases: formation, pawn formation, plan, plans, pressure, traded
-  - Chapter: 10. Hedgehog
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/T3rjqX0u
-    - Found: formation, pawn formation
-    - All found aliases: formation, pawn formation, plan, plans, pressure, traded
-  - Chapter: 11. Maroczy
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/eAs7tsrs
-    - Found: formation, pawn formation
-    - All found aliases: developed, develops, formation, gain space, pawn formation, plan, plans, pressure, space, trade, trades, transform the structure, transformation
+    - All found aliases: and flexible, formation, pawn formation, plan, plans, pressure, traded
   - Chapter: 11. Maroczy
     - Chapter URL: https://lichess.org/study/OBCi9Wff/eAs7tsrs
     - Found: formation, pawn formation
@@ -1751,10 +1323,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/kja4v6ss
     - Found: formation
     - All found aliases: chain, counterplay, doubling, formation, plans, pressure, simplify the, transformation
-  - Chapter: 13. Symmetric Benoni
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/iyTmoeIa
-    - Found: formation, formations
-    - All found aliases: closed, counterplay, cramped, formation, formations, plan, plans, pressure, space, trade
   - Chapter: 13. Symmetric Benoni
     - Chapter URL: https://lichess.org/study/OBCi9Wff/iyTmoeIa
     - Found: formation, formations
@@ -1775,30 +1343,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/d4kNs0kC
     - Found: formation, structure
     - All found aliases: formation, plan, plans, pressure, space, structure, trade, trading
-  - Chapter: 17. Open KID: aka Boleslavsky Wall
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/d4kNs0kC
-    - Found: formation, structure
-    - All found aliases: formation, plan, plans, pressure, space, structure, trade, trading
   - Chapter: 18. KID Complex
     - Chapter URL: https://lichess.org/study/OBCi9Wff/vxF1NLGp
     - Found: formation, formations, structure, structures
     - All found aliases: formation, formations, planning, structure, structures, transformations
-  - Chapter: 18. KID Complex
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/vxF1NLGp
-    - Found: formation, formations, structure, structures
-    - All found aliases: formation, formations, planning, structure, structures, transformations
-  - Chapter: 18. KID Complex
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/vxF1NLGp
-    - Found: formation, formations, structure, structures
-    - All found aliases: formation, formations, planning, structure, structures, transformations
-  - Chapter: 18. KID Complex
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/vxF1NLGp
-    - Found: formation, formations, structure, structures
-    - All found aliases: formation, formations, planning, structure, structures, transformations
-  - Chapter: 18.1 Rauzer
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/b47gRcco
-    - Found: formation, structure
-    - All found aliases: formation, gain space, outpost, plan, plans, structure, trade
   - Chapter: 18.1 Rauzer
     - Chapter URL: https://lichess.org/study/OBCi9Wff/b47gRcco
     - Found: formation, structure
@@ -1811,18 +1359,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/JvK75Glf
     - Found: formation, formations, structure
     - All found aliases: bad bishop, chain, closed, create weaknesses, formation, formations, minority, pawn chain, pawn storm, plan, plans, sacrifice, simplify the, structure, trade, undermine
-  - Chapter: 20. French Type II: e5 chain, no White d-pawn, no Black c-pawn
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/JvK75Glf
-    - Found: formation, formations, structure
-    - All found aliases: bad bishop, chain, closed, create weaknesses, formation, formations, minority, pawn chain, pawn storm, plan, plans, sacrifice, simplify the, structure, trade, undermine
-  - Chapter: 20. French Type II: e5 chain, no White d-pawn, no Black c-pawn
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/JvK75Glf
-    - Found: formation, formations, structure
-    - All found aliases: bad bishop, chain, closed, create weaknesses, formation, formations, minority, pawn chain, pawn storm, plan, plans, sacrifice, simplify the, structure, trade, undermine
-  - Chapter: 21. French Type III: aka French Advance
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/lRpmhZUK
-    - Found: formation, formations
-    - All found aliases: chain, closed, closed position, counterplay, formation, formations, pawn chain, plan, plans, sacrifice, sacrifices, threats, trade
   - Chapter: 21. French Type III: aka French Advance
     - Chapter URL: https://lichess.org/study/OBCi9Wff/lRpmhZUK
     - Found: formation, formations
@@ -1839,22 +1375,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/0vus7vy5
     - Found: formation, formations
     - All found aliases: chain, closed, formation, formations, passed pawn, plan, plans, threat, trade
-  - Chapter: 22.2 Panov
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/0vus7vy5
-    - Found: formation, formations
-    - All found aliases: chain, closed, formation, formations, passed pawn, plan, plans, threat, trade
   - Chapter: 22.3 Dragon
     - Chapter URL: https://lichess.org/study/OBCi9Wff/HXt1T6zT
     - Found: structure
     - All found aliases: doubling, exchange sacrifice, plans, structure
-  - Chapter: 22.4 Scheveningen
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/oh1mIC7C
-    - Found: formation, structure, structures
-    - All found aliases: exchange on, formation, plan, plans, pressure, sacrifice, structure, structures, transform, undermine
-  - Chapter: 22.4 Scheveningen
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/oh1mIC7C
-    - Found: formation, structure, structures
-    - All found aliases: exchange on, formation, plan, plans, pressure, sacrifice, structure, structures, transform, undermine
   - Chapter: 22.4 Scheveningen
     - Chapter URL: https://lichess.org/study/OBCi9Wff/oh1mIC7C
     - Found: formation, structure, structures
@@ -1969,10 +1493,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/eAs7tsrs
     - Found: transform the structure, transformation
     - All found aliases: developed, develops, formation, gain space, pawn formation, plan, plans, pressure, space, trade, trades, transform the structure, transformation
-  - Chapter: 11. Maroczy
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/eAs7tsrs
-    - Found: transform the structure, transformation
-    - All found aliases: developed, develops, formation, gain space, pawn formation, plan, plans, pressure, space, trade, trades, transform the structure, transformation
   - Chapter: 11.1 Symmetric Transformation of the Maroczy
     - Chapter URL: https://lichess.org/study/OBCi9Wff/295ocxRs
     - Found: transformation
@@ -2030,14 +1550,14 @@ Appears In:
   - Chapter: Structure Selection
     - Chapter URL: https://lichess.org/study/vK3z4Pvu/n8m0bJMJ
     - Feature: tension
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
+    - All found aliases: doubled, over flexible, pawn chain, pawn structure, plans, structure, structures, tension, traded
 
 - Study: CLONE: Chess Structures: The Bare Bones
   - Study URL: https://lichess.org/study/OBCi9Wff
   - Chapter: Structure Selection
     - Chapter URL: https://lichess.org/study/OBCi9Wff/BO2LAG3c
     - Feature: tension
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
+    - All found aliases: doubled, over flexible, pawn chain, pawn structure, plans, structure, structures, tension, traded
   - Chapter: 3. Caro-Kann
     - Chapter URL: https://lichess.org/study/OBCi9Wff/Y7HWhh4y
     - Feature: tension
@@ -2084,10 +1604,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/JjSjLdAm
     - Found: restrict, restricted
     - All found aliases: develop, formations, majority, pawn formation, plan, plans, restrict, restricted, structure, undermine
-  - Chapter: 8. Najdorf Type I: White d-pawn, no White e-pawn
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/JjSjLdAm
-    - Found: restrict, restricted
-    - All found aliases: develop, formations, majority, pawn formation, plan, plans, restrict, restricted, structure, undermine
   - Chapter: 14. KID Type I: d5 chain, no c-pawns
     - Chapter URL: https://lichess.org/study/OBCi9Wff/aiF6IGH3
     - Found: mobility
@@ -2126,18 +1642,14 @@ Appears In:
   - Chapter: Structure Selection
     - Chapter URL: https://lichess.org/study/vK3z4Pvu/n8m0bJMJ
     - Found: traded
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
+    - All found aliases: doubled, over flexible, pawn chain, pawn structure, plans, structure, structures, tension, traded
 
 - Study: CLONE: Chess Structures: The Bare Bones
   - Study URL: https://lichess.org/study/OBCi9Wff
   - Chapter: Structure Selection
     - Chapter URL: https://lichess.org/study/OBCi9Wff/BO2LAG3c
     - Found: traded
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
-  - Chapter: 1. Isolani
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/Ap76gy14
-    - Found: trade, trading
-    - All found aliases: and simplify, battery, formation, good bishop, initiative, isolani, isolated, isolated pawn, key squares, opening lines, pawn formation, pawn formations, pawn structures, plans, sacrifice, sacrificing, trade, trading
+    - All found aliases: doubled, over flexible, pawn chain, pawn structure, plans, structure, structures, tension, traded
   - Chapter: 1. Isolani
     - Chapter URL: https://lichess.org/study/OBCi9Wff/Ap76gy14
     - Found: trade, trading
@@ -2157,11 +1669,7 @@ Appears In:
   - Chapter: 10. Hedgehog
     - Chapter URL: https://lichess.org/study/OBCi9Wff/T3rjqX0u
     - Found: traded
-    - All found aliases: formation, pawn formation, plan, plans, pressure, traded
-  - Chapter: 11. Maroczy
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/eAs7tsrs
-    - Found: trade, trades
-    - All found aliases: developed, develops, formation, gain space, pawn formation, plan, plans, pressure, space, trade, trades, transform the structure, transformation
+    - All found aliases: and flexible, formation, pawn formation, plan, plans, pressure, traded
   - Chapter: 11. Maroczy
     - Chapter URL: https://lichess.org/study/OBCi9Wff/eAs7tsrs
     - Found: trade, trades
@@ -2170,14 +1678,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/295ocxRs
     - Found: exchanges, trade
     - All found aliases: counterplay, exchanges, formation, gain space, plan, plans, simplified, space, squeeze, trade, transformation, weaknesses created
-  - Chapter: 11.1 Symmetric Transformation of the Maroczy
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/295ocxRs
-    - Found: exchanges, trade
-    - All found aliases: counterplay, exchanges, formation, gain space, plan, plans, simplified, space, squeeze, trade, transformation, weaknesses created
-  - Chapter: 12. Asymmetric Benoni, aka Modern Benoni
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/I7B5vFec
-    - Found: traded, trading
-    - All found aliases: counterplay, majority, passed pawn, plans, pressure, traded, trading
   - Chapter: 12. Asymmetric Benoni, aka Modern Benoni
     - Chapter URL: https://lichess.org/study/OBCi9Wff/I7B5vFec
     - Found: traded, trading
@@ -2198,10 +1698,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/F35qTQuX
     - Found: trade
     - All found aliases: chain, counterplay, plans, structure, tension, trade, transformation, trapped bishop
-  - Chapter: 17. Open KID: aka Boleslavsky Wall
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/d4kNs0kC
-    - Found: trade, trading
-    - All found aliases: formation, plan, plans, pressure, space, structure, trade, trading
   - Chapter: 17. Open KID: aka Boleslavsky Wall
     - Chapter URL: https://lichess.org/study/OBCi9Wff/d4kNs0kC
     - Found: trade, trading
@@ -2238,10 +1734,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/P24cLqCq
     - Found: exchange on
     - All found aliases: exchange on, formation
-  - Chapter: Giuoco Piano - Isolani
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/xr8O82JY
-    - Found: trade, trading
-    - All found aliases: battery, blockade, center, good bishop, initiative, isolani, isolated, key squares, opening lines, plans, sacrifice, sacrificing, structure, trade, trading
   - Chapter: Giuoco Piano - Isolani
     - Chapter URL: https://lichess.org/study/OBCi9Wff/xr8O82JY
     - Found: trade, trading
@@ -2313,10 +1805,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/vK3z4Pvu/YNs2Sn0k
     - Found: plan, plans
     - All found aliases: formation, pawn structure, pawn structures, plan, plans, structure, structures
-  - Chapter: Chess Structures: Introduction
-    - Chapter URL: https://lichess.org/study/vK3z4Pvu/YNs2Sn0k
-    - Found: plan, plans
-    - All found aliases: formation, pawn structure, pawn structures, plan, plans, structure, structures
   - Chapter: Prerequisites
     - Chapter URL: https://lichess.org/study/vK3z4Pvu/iPxlHsWG
     - Found: plans
@@ -2324,14 +1812,10 @@ Appears In:
   - Chapter: Structure Selection
     - Chapter URL: https://lichess.org/study/vK3z4Pvu/n8m0bJMJ
     - Found: plans
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
+    - All found aliases: doubled, over flexible, pawn chain, pawn structure, plans, structure, structures, tension, traded
 
 - Study: CLONE: Chess Structures: The Bare Bones
   - Study URL: https://lichess.org/study/OBCi9Wff
-  - Chapter: Chess Structures: Introduction
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/fqQrQoTw
-    - Found: plan, plans
-    - All found aliases: formation, pawn structure, pawn structures, plan, plans, structure, structures
   - Chapter: Chess Structures: Introduction
     - Chapter URL: https://lichess.org/study/OBCi9Wff/fqQrQoTw
     - Found: plan, plans
@@ -2343,7 +1827,7 @@ Appears In:
   - Chapter: Structure Selection
     - Chapter URL: https://lichess.org/study/OBCi9Wff/BO2LAG3c
     - Found: plans
-    - All found aliases: doubled, pawn chain, pawn structure, plans, structure, structures, tension, traded
+    - All found aliases: doubled, over flexible, pawn chain, pawn structure, plans, structure, structures, tension, traded
   - Chapter: 1. Isolani
     - Chapter URL: https://lichess.org/study/OBCi9Wff/Ap76gy14
     - Found: plans
@@ -2356,14 +1840,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/Y7HWhh4y
     - Found: plan, plans
     - All found aliases: center, counterplay, formation, isolani, outpost, pawn formation, pawn formations, pawn structure, plan, plans, pressure, restrict, space, tension, the hanging, transform the structure
-  - Chapter: 3. Caro-Kann
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/Y7HWhh4y
-    - Found: plan, plans
-    - All found aliases: center, counterplay, formation, isolani, outpost, pawn formation, pawn formations, pawn structure, plan, plans, pressure, restrict, space, tension, the hanging, transform the structure
-  - Chapter: 4. Slav
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/QTHRJP0Q
-    - Found: plan, plans
-    - All found aliases: center, create a weakness, formation, formations, isolani, minority, outposts, pawn structure, plan, plans, pressure, space, structure, tension, transform the structure
   - Chapter: 4. Slav
     - Chapter URL: https://lichess.org/study/OBCi9Wff/QTHRJP0Q
     - Found: plan, plans
@@ -2372,14 +1848,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/OBxXoM25
     - Found: plan, plans
     - All found aliases: developed, formation, isolani, minority, outpost, pawn chain, plan, plans, space, structure, tension
-  - Chapter: 5. Carlsbad: aka Orthodox Exchange
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/OBxXoM25
-    - Found: plan, plans
-    - All found aliases: developed, formation, isolani, minority, outpost, pawn chain, plan, plans, space, structure, tension
-  - Chapter: 6. Stonewall
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/6PHJd9PV
-    - Found: plan, plans
-    - All found aliases: bad bishop, formation, improve the, maneuver, pawn formation, plan, plans, structure, tension, trade
   - Chapter: 6. Stonewall
     - Chapter URL: https://lichess.org/study/OBCi9Wff/6PHJd9PV
     - Found: plan, plans
@@ -2388,14 +1856,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/Fu4wewPM
     - Found: plan, plans
     - All found aliases: center, develops, dominate, formation, gain space, open position, passed pawn, pawn majority, plan, plans, pressure, tension, traded
-  - Chapter: 7. Grunfeld Center
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/Fu4wewPM
-    - Found: plan, plans
-    - All found aliases: center, develops, dominate, formation, gain space, open position, passed pawn, pawn majority, plan, plans, pressure, tension, traded
-  - Chapter: 8. Najdorf Type I: White d-pawn, no White e-pawn
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/JjSjLdAm
-    - Found: plan, plans
-    - All found aliases: develop, formations, majority, pawn formation, plan, plans, restrict, restricted, structure, undermine
   - Chapter: 8. Najdorf Type I: White d-pawn, no White e-pawn
     - Chapter URL: https://lichess.org/study/OBCi9Wff/JjSjLdAm
     - Found: plan, plans
@@ -2407,23 +1867,11 @@ Appears In:
   - Chapter: 10. Hedgehog
     - Chapter URL: https://lichess.org/study/OBCi9Wff/T3rjqX0u
     - Found: plan, plans
-    - All found aliases: formation, pawn formation, plan, plans, pressure, traded
-  - Chapter: 10. Hedgehog
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/T3rjqX0u
-    - Found: plan, plans
-    - All found aliases: formation, pawn formation, plan, plans, pressure, traded
+    - All found aliases: and flexible, formation, pawn formation, plan, plans, pressure, traded
   - Chapter: 11. Maroczy
     - Chapter URL: https://lichess.org/study/OBCi9Wff/eAs7tsrs
     - Found: plan, plans
     - All found aliases: developed, develops, formation, gain space, pawn formation, plan, plans, pressure, space, trade, trades, transform the structure, transformation
-  - Chapter: 11. Maroczy
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/eAs7tsrs
-    - Found: plan, plans
-    - All found aliases: developed, develops, formation, gain space, pawn formation, plan, plans, pressure, space, trade, trades, transform the structure, transformation
-  - Chapter: 11.1 Symmetric Transformation of the Maroczy
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/295ocxRs
-    - Found: plan, plans
-    - All found aliases: counterplay, exchanges, formation, gain space, plan, plans, simplified, space, squeeze, trade, transformation, weaknesses created
   - Chapter: 11.1 Symmetric Transformation of the Maroczy
     - Chapter URL: https://lichess.org/study/OBCi9Wff/295ocxRs
     - Found: plan, plans
@@ -2440,22 +1888,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/iyTmoeIa
     - Found: plan, plans
     - All found aliases: closed, counterplay, cramped, formation, formations, plan, plans, pressure, space, trade
-  - Chapter: 13. Symmetric Benoni
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/iyTmoeIa
-    - Found: plan, plans
-    - All found aliases: closed, counterplay, cramped, formation, formations, plan, plans, pressure, space, trade
   - Chapter: 14. KID Type I: d5 chain, no c-pawns
     - Chapter URL: https://lichess.org/study/OBCi9Wff/aiF6IGH3
     - Found: plan, plans
     - All found aliases: chain, counterplay, formation, gain space, mobility, passed pawns, plan, plans, space, threats
-  - Chapter: 14. KID Type I: d5 chain, no c-pawns
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/aiF6IGH3
-    - Found: plan, plans
-    - All found aliases: chain, counterplay, formation, gain space, mobility, passed pawns, plan, plans, space, threats
-  - Chapter: 15. KID Type II: d5 chain, blocked c4/c5
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/aVwO8lkD
-    - Found: plan, plans
-    - All found aliases: chain, outpost, plan, plans, pressure, tension, trade
   - Chapter: 15. KID Type II: d5 chain, blocked c4/c5
     - Chapter URL: https://lichess.org/study/OBCi9Wff/aVwO8lkD
     - Found: plan, plans
@@ -2468,10 +1904,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/ljQMEBwP
     - Found: plan, plans
     - All found aliases: outpost, plan, plans, pressure, structure, threats, trading, transformation
-  - Chapter: 15.2 KID Type II: Transformation B
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/ljQMEBwP
-    - Found: plan, plans
-    - All found aliases: outpost, plan, plans, pressure, structure, threats, trading, transformation
   - Chapter: 16. KID Type III: d5 chain with (c2 or c4)/c7
     - Chapter URL: https://lichess.org/study/OBCi9Wff/F35qTQuX
     - Found: plans
@@ -2480,14 +1912,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/mI5d24CT
     - Found: plan, plans
     - All found aliases: bad bishop, counterplay, outpost, plan, plans, pressure, threats, transformation
-  - Chapter: 16.2 KID Type III: Transformation B
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/mI5d24CT
-    - Found: plan, plans
-    - All found aliases: bad bishop, counterplay, outpost, plan, plans, pressure, threats, transformation
-  - Chapter: 17. Open KID: aka Boleslavsky Wall
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/d4kNs0kC
-    - Found: plan, plans
-    - All found aliases: formation, plan, plans, pressure, space, structure, trade, trading
   - Chapter: 17. Open KID: aka Boleslavsky Wall
     - Chapter URL: https://lichess.org/study/OBCi9Wff/d4kNs0kC
     - Found: plan, plans
@@ -2500,10 +1924,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/b47gRcco
     - Found: plan, plans
     - All found aliases: formation, gain space, outpost, plan, plans, structure, trade
-  - Chapter: 18.1 Rauzer
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/b47gRcco
-    - Found: plan, plans
-    - All found aliases: formation, gain space, outpost, plan, plans, structure, trade
   - Chapter: 19. French Type I: e5 chain, no White e-pawn, no Black f-pawn
     - Chapter URL: https://lichess.org/study/OBCi9Wff/4ZmFe0US
     - Found: plans
@@ -2512,14 +1932,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/JvK75Glf
     - Found: plan, plans
     - All found aliases: bad bishop, chain, closed, create weaknesses, formation, formations, minority, pawn chain, pawn storm, plan, plans, sacrifice, simplify the, structure, trade, undermine
-  - Chapter: 20. French Type II: e5 chain, no White d-pawn, no Black c-pawn
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/JvK75Glf
-    - Found: plan, plans
-    - All found aliases: bad bishop, chain, closed, create weaknesses, formation, formations, minority, pawn chain, pawn storm, plan, plans, sacrifice, simplify the, structure, trade, undermine
-  - Chapter: 21. French Type III: aka French Advance
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/lRpmhZUK
-    - Found: plan, plans
-    - All found aliases: chain, closed, closed position, counterplay, formation, formations, pawn chain, plan, plans, sacrifice, sacrifices, threats, trade
   - Chapter: 21. French Type III: aka French Advance
     - Chapter URL: https://lichess.org/study/OBCi9Wff/lRpmhZUK
     - Found: plan, plans
@@ -2528,14 +1940,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/38G3Kl8z
     - Found: plan, plans
     - All found aliases: formation, majority, minority, open position, passed pawn, plan, plans
-  - Chapter: 22.1 3-3 vs. 4-2
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/38G3Kl8z
-    - Found: plan, plans
-    - All found aliases: formation, majority, minority, open position, passed pawn, plan, plans
-  - Chapter: 22.2 Panov
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/0vus7vy5
-    - Found: plan, plans
-    - All found aliases: chain, closed, formation, formations, passed pawn, plan, plans, threat, trade
   - Chapter: 22.2 Panov
     - Chapter URL: https://lichess.org/study/OBCi9Wff/0vus7vy5
     - Found: plan, plans
@@ -2544,10 +1948,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/HXt1T6zT
     - Found: plans
     - All found aliases: doubling, exchange sacrifice, plans, structure
-  - Chapter: 22.4 Scheveningen
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/oh1mIC7C
-    - Found: plan, plans
-    - All found aliases: exchange on, formation, plan, plans, pressure, sacrifice, structure, structures, transform, undermine
   - Chapter: 22.4 Scheveningen
     - Chapter URL: https://lichess.org/study/OBCi9Wff/oh1mIC7C
     - Found: plan, plans
@@ -2564,6 +1964,31 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/xr8O82JY
     - Found: plans
     - All found aliases: battery, blockade, center, good bishop, initiative, isolani, isolated, key squares, opening lines, plans, sacrifice, sacrificing, structure, trade, trading
+
+
+## Concept: Principle of Least Commitment
+
+Aliases: a flexible, and flexible, at flexible, be flexible, inflexible, is flexible, least commitment, more flexible, most flexible, over flexible, position flexible, principle of least commitment, stay flexible, stays flexible, the flexible, very flexible
+
+Appears In:
+
+- Study: Chess Structures: The Bare Bones
+  - Study URL: https://lichess.org/study/vK3z4Pvu
+  - Chapter: Structure Selection
+    - Chapter URL: https://lichess.org/study/vK3z4Pvu/n8m0bJMJ
+    - Found: over flexible
+    - All found aliases: doubled, over flexible, pawn chain, pawn structure, plans, structure, structures, tension, traded
+
+- Study: CLONE: Chess Structures: The Bare Bones
+  - Study URL: https://lichess.org/study/OBCi9Wff
+  - Chapter: Structure Selection
+    - Chapter URL: https://lichess.org/study/OBCi9Wff/BO2LAG3c
+    - Found: over flexible
+    - All found aliases: doubled, over flexible, pawn chain, pawn structure, plans, structure, structures, tension, traded
+  - Chapter: 10. Hedgehog
+    - Chapter URL: https://lichess.org/study/OBCi9Wff/T3rjqX0u
+    - Found: and flexible
+    - All found aliases: and flexible, formation, pawn formation, plan, plans, pressure, traded
 
 
 ## Concept: Sacrifice
@@ -2585,18 +2010,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/Ap76gy14
     - Tactical Motif: sacrifice, sacrificing
     - All found aliases: and simplify, battery, formation, good bishop, initiative, isolani, isolated, isolated pawn, key squares, opening lines, pawn formation, pawn formations, pawn structures, plans, sacrifice, sacrificing, trade, trading
-  - Chapter: 1. Isolani
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/Ap76gy14
-    - Tactical Motif: sacrifice, sacrificing
-    - All found aliases: and simplify, battery, formation, good bishop, initiative, isolani, isolated, isolated pawn, key squares, opening lines, pawn formation, pawn formations, pawn structures, plans, sacrifice, sacrificing, trade, trading
   - Chapter: 20. French Type II: e5 chain, no White d-pawn, no Black c-pawn
     - Chapter URL: https://lichess.org/study/OBCi9Wff/JvK75Glf
     - Tactical Motif: sacrifice
     - All found aliases: bad bishop, chain, closed, create weaknesses, formation, formations, minority, pawn chain, pawn storm, plan, plans, sacrifice, simplify the, structure, trade, undermine
-  - Chapter: 21. French Type III: aka French Advance
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/lRpmhZUK
-    - Tactical Motif: sacrifice, sacrifices
-    - All found aliases: chain, closed, closed position, counterplay, formation, formations, pawn chain, plan, plans, sacrifice, sacrifices, threats, trade
   - Chapter: 21. French Type III: aka French Advance
     - Chapter URL: https://lichess.org/study/OBCi9Wff/lRpmhZUK
     - Tactical Motif: sacrifice, sacrifices
@@ -2613,10 +2030,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/xW6h5gTQ
     - Tactical Motif: sacrifice
     - All found aliases: closed, plans, sacrifice
-  - Chapter: Giuoco Piano - Isolani
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/xr8O82JY
-    - Tactical Motif: sacrifice, sacrificing
-    - All found aliases: battery, blockade, center, good bishop, initiative, isolani, isolated, key squares, opening lines, plans, sacrifice, sacrificing, structure, trade, trading
   - Chapter: Giuoco Piano - Isolani
     - Chapter URL: https://lichess.org/study/OBCi9Wff/xr8O82JY
     - Tactical Motif: sacrifice, sacrificing
@@ -2690,14 +2103,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/eAs7tsrs
     - Found: gain space, space
     - All found aliases: developed, develops, formation, gain space, pawn formation, plan, plans, pressure, space, trade, trades, transform the structure, transformation
-  - Chapter: 11. Maroczy
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/eAs7tsrs
-    - Found: gain space, space
-    - All found aliases: developed, develops, formation, gain space, pawn formation, plan, plans, pressure, space, trade, trades, transform the structure, transformation
-  - Chapter: 11.1 Symmetric Transformation of the Maroczy
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/295ocxRs
-    - Found: gain space, space
-    - All found aliases: counterplay, exchanges, formation, gain space, plan, plans, simplified, space, squeeze, trade, transformation, weaknesses created
   - Chapter: 11.1 Symmetric Transformation of the Maroczy
     - Chapter URL: https://lichess.org/study/OBCi9Wff/295ocxRs
     - Found: gain space, space
@@ -2706,14 +2111,6 @@ Appears In:
     - Chapter URL: https://lichess.org/study/OBCi9Wff/iyTmoeIa
     - Found: cramped, space
     - All found aliases: closed, counterplay, cramped, formation, formations, plan, plans, pressure, space, trade
-  - Chapter: 13. Symmetric Benoni
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/iyTmoeIa
-    - Found: cramped, space
-    - All found aliases: closed, counterplay, cramped, formation, formations, plan, plans, pressure, space, trade
-  - Chapter: 14. KID Type I: d5 chain, no c-pawns
-    - Chapter URL: https://lichess.org/study/OBCi9Wff/aiF6IGH3
-    - Found: gain space, space
-    - All found aliases: chain, counterplay, formation, gain space, mobility, passed pawns, plan, plans, space, threats
   - Chapter: 14. KID Type I: d5 chain, no c-pawns
     - Chapter URL: https://lichess.org/study/OBCi9Wff/aiF6IGH3
     - Found: gain space, space
@@ -2777,7 +2174,7 @@ Appears In:
   - Chapter: 10. Hedgehog
     - Chapter URL: https://lichess.org/study/OBCi9Wff/T3rjqX0u
     - Found: pressure
-    - All found aliases: formation, pawn formation, plan, plans, pressure, traded
+    - All found aliases: and flexible, formation, pawn formation, plan, plans, pressure, traded
   - Chapter: 11. Maroczy
     - Chapter URL: https://lichess.org/study/OBCi9Wff/eAs7tsrs
     - Found: pressure
