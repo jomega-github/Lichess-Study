@@ -104,6 +104,24 @@ Appears In:
     - Chapter URL: https://lichess.org/study/0YKgx0L1/54jgHTuJ
     - Found: bishop pair
     - All found aliases: bishop pair, calculate, combination, exchanging, material, threatening
+  - Chapter: Game 22 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/3qQfpFzw
+    - Found: bishop pair
+    - All found aliases: activating the rook, bishop pair, break the pin, center, counterattack, developing, doubling, pin, pinned, plan, pressure, tempo, threatening, tripled pawns, waiting move
+
+
+## Concept: Break the Pin
+
+Aliases: break the pin, pin break, pin broken
+
+Appears In:
+
+- Study: CLONE: Chess Master vs. Chess Amateur: Euwe and Meiden
+  - Study URL: https://lichess.org/study/0YKgx0L1
+  - Chapter: Game 22 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/3qQfpFzw
+    - Tactical Motif: break the pin
+    - All found aliases: activating the rook, bishop pair, break the pin, center, counterattack, developing, doubling, pin, pinned, plan, pressure, tempo, threatening, tripled pawns, waiting move
 
 
 ## Concept: Calculation
@@ -230,6 +248,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Found: center
     - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
+  - Chapter: Game 22 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/3qQfpFzw
+    - Found: center
+    - All found aliases: activating the rook, bishop pair, break the pin, center, counterattack, developing, doubling, pin, pinned, plan, pressure, tempo, threatening, tripled pawns, waiting move
   - Chapter: Game 23 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/GKGUU08H
     - Found: center
@@ -336,6 +358,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Found: counterattack
     - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+  - Chapter: Game 22 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/3qQfpFzw
+    - Found: counterattack
+    - All found aliases: activating the rook, bishop pair, break the pin, center, counterattack, developing, doubling, pin, pinned, plan, pressure, tempo, threatening, tripled pawns, waiting move
 
 
 ## Concept: Counterplay
@@ -414,6 +440,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C4Qw8FwA
     - Found: develop, developed, developing
     - All found aliases: center, develop, developed, developing, isolani, material, mating net, perpetual, retreat, sacrifices, threat, threatening
+  - Chapter: Game 22 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/3qQfpFzw
+    - Found: developing
+    - All found aliases: activating the rook, bishop pair, break the pin, center, counterattack, developing, doubling, pin, pinned, plan, pressure, tempo, threatening, tripled pawns, waiting move
   - Chapter: Game 25 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/LqEVSQb9
     - Found: developing
@@ -524,6 +554,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/0YKgx0L1/8Y81ltc3
     - Feature: doubled, doubled pawns
     - All found aliases: counterattack, developed, develops, dominate, doubled, doubled pawns, exchanges, exchanging, initiative, isolated pawns, mating net, retreats, tempi, tempo, threat, threatening, weak pawns
+  - Chapter: Game 22 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/3qQfpFzw
+    - Feature: doubling, tripled pawns
+    - All found aliases: activating the rook, bishop pair, break the pin, center, counterattack, developing, doubling, pin, pinned, plan, pressure, tempo, threatening, tripled pawns, waiting move
   - Chapter: Game 25 - Amateur vs. Master
     - Chapter URL: https://lichess.org/study/0YKgx0L1/LqEVSQb9
     - Feature: doubling
@@ -1158,6 +1192,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
     - Tactical Motif: pin
     - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
+  - Chapter: Game 22 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/3qQfpFzw
+    - Tactical Motif: pin, pinned
+    - All found aliases: activating the rook, bishop pair, break the pin, center, counterattack, developing, doubling, pin, pinned, plan, pressure, tempo, threatening, tripled pawns, waiting move
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Tactical Motif: pin, pinning
@@ -1184,6 +1222,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Found: plan, planning
     - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
+  - Chapter: Game 22 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/3qQfpFzw
+    - Found: plan
+    - All found aliases: activating the rook, bishop pair, break the pin, center, counterattack, developing, doubling, pin, pinned, plan, pressure, tempo, threatening, tripled pawns, waiting move
   - Chapter: Game 23 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/GKGUU08H
     - Found: plan
@@ -1200,6 +1242,20 @@ Appears In:
     - Chapter URL: https://lichess.org/study/0YKgx0L1/C6QxF4v0
     - Found: planning
     - All found aliases: bad bishop, center, chain, good bishop, mating net, pin, planning, pressure, sacrifice, tempo
+
+
+## Concept: Rook Activity
+
+Aliases: activating the rook, active rook, active rooks, rook active, rook activity, rooks active
+
+Appears In:
+
+- Study: CLONE: Chess Master vs. Chess Amateur: Euwe and Meiden
+  - Study URL: https://lichess.org/study/0YKgx0L1
+  - Chapter: Game 22 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/3qQfpFzw
+    - Found: activating the rook
+    - All found aliases: activating the rook, bishop pair, break the pin, center, counterattack, developing, doubling, pin, pinned, plan, pressure, tempo, threatening, tripled pawns, waiting move
 
 
 ## Concept: Rules-of-Thumb Play
@@ -1346,6 +1402,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Found: pressure
     - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
+  - Chapter: Game 22 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/3qQfpFzw
+    - Found: pressure
+    - All found aliases: activating the rook, bishop pair, break the pin, center, counterattack, developing, doubling, pin, pinned, plan, pressure, tempo, threatening, tripled pawns, waiting move
   - Chapter: Game 23 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/GKGUU08H
     - Found: pressure
@@ -1408,6 +1468,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/0YKgx0L1/X4QTrDqc
     - Found: tempi
     - All found aliases: calculate, calculating, calculation, candidate, center, compensate, double attack, exchange of, forking, material, mobility, outpost, pin, tempi
+  - Chapter: Game 22 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/3qQfpFzw
+    - Found: tempo
+    - All found aliases: activating the rook, bishop pair, break the pin, center, counterattack, developing, doubling, pin, pinned, plan, pressure, tempo, threatening, tripled pawns, waiting move
   - Chapter: Elements per game in CMCA: 1-10
     - Chapter URL: https://lichess.org/study/0YKgx0L1/2eihVPGr
     - Found: tempi, tempo
@@ -1490,6 +1554,10 @@ Appears In:
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Found: threat, threats
     - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
+  - Chapter: Game 22 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/3qQfpFzw
+    - Found: threatening
+    - All found aliases: activating the rook, bishop pair, break the pin, center, counterattack, developing, doubling, pin, pinned, plan, pressure, tempo, threatening, tripled pawns, waiting move
   - Chapter: Game 23 - Master vs. Amateur
     - Chapter URL: https://lichess.org/study/0YKgx0L1/GKGUU08H
     - Found: threat, threatening
@@ -1520,6 +1588,20 @@ Appears In:
     - Chapter URL: https://lichess.org/study/0YKgx0L1/JRZ4PTeN
     - Tactical Motif: undermine
     - All found aliases: bad bishop, center, dominates, exchanging, improve the, liquidate, plan, planning, pressure, space, threat, threats, undermine
+
+
+## Concept: Waiting Moves
+
+Aliases: waiting move, waiting moves
+
+Appears In:
+
+- Study: CLONE: Chess Master vs. Chess Amateur: Euwe and Meiden
+  - Study URL: https://lichess.org/study/0YKgx0L1
+  - Chapter: Game 22 - Amateur vs. Master
+    - Chapter URL: https://lichess.org/study/0YKgx0L1/3qQfpFzw
+    - Found: waiting move
+    - All found aliases: activating the rook, bishop pair, break the pin, center, counterattack, developing, doubling, pin, pinned, plan, pressure, tempo, threatening, tripled pawns, waiting move
 
 
 ## Concept: Windmill

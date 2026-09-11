@@ -469,7 +469,7 @@ Study URL: https://lichess.org/study/NxGSxGXn
 Study: ECO E20-E59
 Study URL: https://lichess.org/study/0TReTSLy
 
-Study: E60-E99
+Study: ECO E60-E99
 Study URL: https://lichess.org/study/PEQc7uqw
 
 ## Course: Early Chess and Computers

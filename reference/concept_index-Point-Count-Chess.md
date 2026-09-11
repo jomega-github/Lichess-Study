@@ -3927,7 +3927,7 @@ Appears In:
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 95A to 138C
   - Study URL: https://lichess.org/study/57Oq4l6Z
-  - Chapter: Najdorf, Miguel - Ilivitzki, Georgi A
+  - Chapter: Najdorf, Miguel - Ilivitzki, Georgi A.
     - Chapter URL: https://lichess.org/study/57Oq4l6Z/miSPE8iP
     - Feature: connected passed
     - All found aliases: connected passed
