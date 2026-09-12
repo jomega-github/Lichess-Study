@@ -404,7 +404,7 @@ Appears In:
   - Chapter: Glossary d-g
     - Chapter URL: https://lichess.org/study/XUdwFcK6/g84H3Kh3
     - Found: good bishop
-    - All found aliases: candidate, center, doubling, fork, formation, formations, good bishop, passed pawn, passer
+    - All found aliases: candidate, center, doubling, fork, formation, formations, good bishop, passed pawn, passer, pawn passed
 
 
 ## Concept: Bishop Pair
@@ -547,7 +547,7 @@ Appears In:
   - Chapter: Glossary for Chapter I: Part 2 (fo-me)
     - Chapter URL: https://lichess.org/study/SIavTLI8/Lh2RVuHJ
     - Found: candidate
-    - All found aliases: candidate, center, fork, isolated, majority, passed pawn, passer, pawn formation, pawn majority
+    - All found aliases: candidate, center, fork, isolated, majority, passed pawn, passer, pawn formation, pawn majority, pawn passed
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter II
   - Study URL: https://lichess.org/study/nXEMgERH
@@ -618,7 +618,7 @@ Appears In:
   - Chapter: Glossary d-g
     - Chapter URL: https://lichess.org/study/XUdwFcK6/g84H3Kh3
     - Found: candidate
-    - All found aliases: candidate, center, doubling, fork, formation, formations, good bishop, passed pawn, passer
+    - All found aliases: candidate, center, doubling, fork, formation, formations, good bishop, passed pawn, passer, pawn passed
   - Chapter: Glossary h-k
     - Chapter URL: https://lichess.org/study/XUdwFcK6/wdItzhJA
     - Found: candidate
@@ -668,7 +668,7 @@ Appears In:
   - Chapter: Glossary for Chapter I: Part 2 (fo-me)
     - Chapter URL: https://lichess.org/study/SIavTLI8/Lh2RVuHJ
     - Found: center
-    - All found aliases: candidate, center, fork, isolated, majority, passed pawn, passer, pawn formation, pawn majority
+    - All found aliases: candidate, center, fork, isolated, majority, passed pawn, passer, pawn formation, pawn majority, pawn passed
   - Chapter: Glossary for Chapter I: Part 3 (mu-shielded)
     - Chapter URL: https://lichess.org/study/SIavTLI8/ImHD7rXu
     - Found: center
@@ -858,7 +858,7 @@ Appears In:
   - Chapter: Glossary d-g
     - Chapter URL: https://lichess.org/study/XUdwFcK6/g84H3Kh3
     - Found: center
-    - All found aliases: candidate, center, doubling, fork, formation, formations, good bishop, passed pawn, passer
+    - All found aliases: candidate, center, doubling, fork, formation, formations, good bishop, passed pawn, passer, pawn passed
   - Chapter: Glossary h-k
     - Chapter URL: https://lichess.org/study/XUdwFcK6/wdItzhJA
     - Found: center
@@ -1752,7 +1752,7 @@ Appears In:
   - Chapter: Glossary d-g
     - Chapter URL: https://lichess.org/study/XUdwFcK6/g84H3Kh3
     - Feature: doubling
-    - All found aliases: candidate, center, doubling, fork, formation, formations, good bishop, passed pawn, passer
+    - All found aliases: candidate, center, doubling, fork, formation, formations, good bishop, passed pawn, passer, pawn passed
   - Chapter: Glossary h-k
     - Chapter URL: https://lichess.org/study/XUdwFcK6/wdItzhJA
     - Feature: doubling
@@ -1815,7 +1815,7 @@ Appears In:
   - Chapter: Glossary for Chapter I: Part 2 (fo-me)
     - Chapter URL: https://lichess.org/study/SIavTLI8/Lh2RVuHJ
     - Tactical Motif: fork
-    - All found aliases: candidate, center, fork, isolated, majority, passed pawn, passer, pawn formation, pawn majority
+    - All found aliases: candidate, center, fork, isolated, majority, passed pawn, passer, pawn formation, pawn majority, pawn passed
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter IV
   - Study URL: https://lichess.org/study/izyugXAJ
@@ -1911,7 +1911,7 @@ Appears In:
   - Chapter: Glossary d-g
     - Chapter URL: https://lichess.org/study/XUdwFcK6/g84H3Kh3
     - Tactical Motif: fork
-    - All found aliases: candidate, center, doubling, fork, formation, formations, good bishop, passed pawn, passer
+    - All found aliases: candidate, center, doubling, fork, formation, formations, good bishop, passed pawn, passer, pawn passed
 
 
 ## Concept: Hanging Piece
@@ -2022,7 +2022,7 @@ Appears In:
   - Chapter: Glossary for Chapter I: Part 2 (fo-me)
     - Chapter URL: https://lichess.org/study/SIavTLI8/Lh2RVuHJ
     - Feature: isolated
-    - All found aliases: candidate, center, fork, isolated, majority, passed pawn, passer, pawn formation, pawn majority
+    - All found aliases: candidate, center, fork, isolated, majority, passed pawn, passer, pawn formation, pawn majority, pawn passed
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter II
   - Study URL: https://lichess.org/study/nXEMgERH
@@ -2411,8 +2411,8 @@ Appears In:
     - All found aliases: backwardness, doubles, formation, passer
   - Chapter: Glossary for Chapter I: Part 2 (fo-me)
     - Chapter URL: https://lichess.org/study/SIavTLI8/Lh2RVuHJ
-    - Feature: passed pawn, passer
-    - All found aliases: candidate, center, fork, isolated, majority, passed pawn, passer, pawn formation, pawn majority
+    - Feature: passed pawn, passer, pawn passed
+    - All found aliases: candidate, center, fork, isolated, majority, passed pawn, passer, pawn formation, pawn majority, pawn passed
   - Chapter: Glossary for Chapter I: Part 3 (mu-shielded)
     - Chapter URL: https://lichess.org/study/SIavTLI8/ImHD7rXu
     - Feature: passed pawn, passed pawns, passer
@@ -2521,8 +2521,8 @@ Appears In:
     - All found aliases: active bishop, centralized, closed, formation, isolated, key squares, passer
   - Chapter: Glossary d-g
     - Chapter URL: https://lichess.org/study/XUdwFcK6/g84H3Kh3
-    - Feature: passed pawn, passer
-    - All found aliases: candidate, center, doubling, fork, formation, formations, good bishop, passed pawn, passer
+    - Feature: passed pawn, passer, pawn passed
+    - All found aliases: candidate, center, doubling, fork, formation, formations, good bishop, passed pawn, passer, pawn passed
   - Chapter: Glossary o-q
     - Chapter URL: https://lichess.org/study/XUdwFcK6/MX8CGPKW
     - Feature: passed pawn, passed pawns, passer
@@ -2733,7 +2733,7 @@ Appears In:
   - Chapter: Glossary for Chapter I: Part 2 (fo-me)
     - Chapter URL: https://lichess.org/study/SIavTLI8/Lh2RVuHJ
     - Feature: majority, pawn majority
-    - All found aliases: candidate, center, fork, isolated, majority, passed pawn, passer, pawn formation, pawn majority
+    - All found aliases: candidate, center, fork, isolated, majority, passed pawn, passer, pawn formation, pawn majority, pawn passed
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter II
   - Study URL: https://lichess.org/study/nXEMgERH
@@ -3026,7 +3026,7 @@ Appears In:
   - Chapter: Glossary for Chapter I: Part 2 (fo-me)
     - Chapter URL: https://lichess.org/study/SIavTLI8/Lh2RVuHJ
     - Found: pawn formation
-    - All found aliases: candidate, center, fork, isolated, majority, passed pawn, passer, pawn formation, pawn majority
+    - All found aliases: candidate, center, fork, isolated, majority, passed pawn, passer, pawn formation, pawn majority, pawn passed
   - Chapter: Glossary for Chapter I: Part 3 (mu-shielded)
     - Chapter URL: https://lichess.org/study/SIavTLI8/ImHD7rXu
     - Found: formation, pawn formation
@@ -3544,7 +3544,7 @@ Appears In:
   - Chapter: Glossary d-g
     - Chapter URL: https://lichess.org/study/XUdwFcK6/g84H3Kh3
     - Found: formation, formations
-    - All found aliases: candidate, center, doubling, fork, formation, formations, good bishop, passed pawn, passer
+    - All found aliases: candidate, center, doubling, fork, formation, formations, good bishop, passed pawn, passer, pawn passed
   - Chapter: Glossary h-k
     - Chapter URL: https://lichess.org/study/XUdwFcK6/wdItzhJA
     - Found: pawn formation

@@ -169,7 +169,7 @@ Appears In:
   - Chapter: Planning III: Piece Placement
     - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
     - Found: retreated
-    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, plans, restrict, retreated, tension
 
 - Study: Advanced: The Center
   - Study URL: https://lichess.org/study/49AuOOCo
@@ -2354,7 +2354,7 @@ Appears In:
   - Chapter: Planning III: Piece Placement
     - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
     - Found: center
-    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, plans, restrict, retreated, tension
   - Chapter: Planning IV: Natural Moves May Not Be Good Enough
     - Chapter URL: https://lichess.org/study/1O0UELn6/rDY9RpZ6
     - Found: center
@@ -4161,7 +4161,7 @@ Appears In:
   - Chapter: Planning III: Piece Placement
     - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
     - Found: developing
-    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, plans, restrict, retreated, tension
 
 - Study: Advanced: The Center
   - Study URL: https://lichess.org/study/49AuOOCo
@@ -9290,7 +9290,7 @@ Appears In:
   - Chapter: Planning III: Piece Placement
     - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
     - Found: pawn formation
-    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, plans, restrict, retreated, tension
   - Chapter: Planning VI: Pawn Structures
     - Chapter URL: https://lichess.org/study/1O0UELn6/L5R84drq
     - Found: formations, pawn formation, pawn structure, pawn structures, structures
@@ -9607,7 +9607,7 @@ Appears In:
   - Chapter: Planning III: Piece Placement
     - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
     - Feature: tension
-    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, plans, restrict, retreated, tension
   - Chapter: Planning VI: Pawn Structures
     - Chapter URL: https://lichess.org/study/1O0UELn6/L5R84drq
     - Feature: tension
@@ -9795,7 +9795,7 @@ Appears In:
   - Chapter: Planning III: Piece Placement
     - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
     - Found: restrict
-    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, plans, restrict, retreated, tension
   - Chapter: Planning IV: Natural Moves May Not Be Good Enough
     - Chapter URL: https://lichess.org/study/1O0UELn6/rDY9RpZ6
     - Found: mobility, restricted
@@ -10279,7 +10279,7 @@ Appears In:
   - Chapter: Planning III: Piece Placement
     - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
     - Found: exchanging
-    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, plans, restrict, retreated, tension
   - Chapter: Planning V: Be Flexible
     - Chapter URL: https://lichess.org/study/1O0UELn6/efkxhMhp
     - Found: exchanging, not exchange
@@ -11438,8 +11438,8 @@ Appears In:
     - All found aliases: develops, plan, plans
   - Chapter: Planning III: Piece Placement
     - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
-    - Found: plan, planning
-    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+    - Found: plan, planning, plans
+    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, plans, restrict, retreated, tension
   - Chapter: Planning IV: Natural Moves May Not Be Good Enough
     - Chapter URL: https://lichess.org/study/1O0UELn6/rDY9RpZ6
     - Found: plan
@@ -12907,7 +12907,7 @@ Appears In:
   - Chapter: Planning III: Piece Placement
     - Chapter URL: https://lichess.org/study/1O0UELn6/C4zHMbKM
     - Found: imbalances
-    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, restrict, retreated, tension
+    - All found aliases: center, developing, exchanging, imbalances, pawn formation, plan, planning, plans, restrict, retreated, tension
   - Chapter: Positional Judgement I: Introduction
     - Chapter URL: https://lichess.org/study/1O0UELn6/1jCcl5st
     - Found: imbalances

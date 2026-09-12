@@ -177,7 +177,7 @@ Appears In:
   - Chapter: Analyzing Games: Example I
     - Chapter URL: https://lichess.org/study/x6dQULqp/0z88lnr3
     - Found: retreat
-    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threat, threatening
+    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threatening, threats
 
 - Study: Beginner: Endgame Rule 2 and 3
   - Study URL: https://lichess.org/study/5pnpiNci
@@ -514,7 +514,7 @@ Appears In:
   - Chapter: Analyzing Games: Example I
     - Chapter URL: https://lichess.org/study/x6dQULqp/0z88lnr3
     - Found: bishop pair
-    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threat, threatening
+    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threatening, threats
 
 - Study: Beginner: Five Basic Principles
   - Study URL: https://lichess.org/study/1itBBE8P
@@ -1749,7 +1749,7 @@ Appears In:
   - Chapter: Analyzing Games: Example I
     - Chapter URL: https://lichess.org/study/x6dQULqp/0z88lnr3
     - Found: center
-    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threat, threatening
+    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threatening, threats
 
 - Study: Beginner: Curriculum <--- START HERE
   - Study URL: https://lichess.org/study/Ztgx3vJq
@@ -4190,7 +4190,7 @@ Appears In:
   - Chapter: Analyzing Games: Example I
     - Chapter URL: https://lichess.org/study/x6dQULqp/0z88lnr3
     - Tactical Motif: fork
-    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threat, threatening
+    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threatening, threats
   - Chapter: Analyzing Games: Example II
     - Chapter URL: https://lichess.org/study/x6dQULqp/7kraLHcK
     - Tactical Motif: fork
@@ -4747,7 +4747,7 @@ Appears In:
   - Chapter: Analyzing Games: Example I
     - Chapter URL: https://lichess.org/study/x6dQULqp/0z88lnr3
     - Feature: isolated, isolated pawns
-    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threat, threatening
+    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threatening, threats
 
 - Study: Beginner: Curriculum <--- START HERE
   - Study URL: https://lichess.org/study/Ztgx3vJq
@@ -6001,7 +6001,7 @@ Appears In:
   - Chapter: Analyzing Games: Example I
     - Chapter URL: https://lichess.org/study/x6dQULqp/0z88lnr3
     - Found: material
-    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threat, threatening
+    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threatening, threats
   - Chapter: Lichess Tools: Winning a Won Game
     - Chapter URL: https://lichess.org/study/x6dQULqp/Df3zYs6l
     - Found: material
@@ -7898,7 +7898,7 @@ Appears In:
   - Chapter: Analyzing Games: Example I
     - Chapter URL: https://lichess.org/study/x6dQULqp/0z88lnr3
     - Feature: pawn islands
-    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threat, threatening
+    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threatening, threats
 
 - Study: Beginner: Five Basic Principles
   - Study URL: https://lichess.org/study/1itBBE8P
@@ -8456,7 +8456,7 @@ Appears In:
   - Chapter: Analyzing Games: Example I
     - Chapter URL: https://lichess.org/study/x6dQULqp/0z88lnr3
     - Feature: pawn weaknesses
-    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threat, threatening
+    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threatening, threats
   - Chapter: Lichess Tools: Winning a Won Game
     - Chapter URL: https://lichess.org/study/x6dQULqp/Df3zYs6l
     - Feature: weak pawns
@@ -9147,7 +9147,7 @@ Appears In:
   - Chapter: Analyzing Games: Example I
     - Chapter URL: https://lichess.org/study/x6dQULqp/0z88lnr3
     - Found: exchange on
-    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threat, threatening
+    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threatening, threats
   - Chapter: Analyzing Games: Example II
     - Chapter URL: https://lichess.org/study/x6dQULqp/7kraLHcK
     - Found: exchanges, the exchanges
@@ -10253,7 +10253,7 @@ Appears In:
   - Chapter: Analyzing Games: Example I
     - Chapter URL: https://lichess.org/study/x6dQULqp/0z88lnr3
     - Found: plans
-    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threat, threatening
+    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threatening, threats
   - Chapter: Lichess Tools: Practice With Computer II
     - Chapter URL: https://lichess.org/study/x6dQULqp/lmT9RePJ
     - Found: plan
@@ -10983,7 +10983,7 @@ Appears In:
   - Chapter: Analyzing Games: Example I
     - Chapter URL: https://lichess.org/study/x6dQULqp/0z88lnr3
     - Tactical Motif: sacrifices
-    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threat, threatening
+    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threatening, threats
   - Chapter: Analyzing Games: Example II
     - Chapter URL: https://lichess.org/study/x6dQULqp/7kraLHcK
     - Tactical Motif: sacrifice
@@ -12363,8 +12363,8 @@ Appears In:
     - All found aliases: sac, sacrifice, threatened
   - Chapter: Analyzing Games: Example I
     - Chapter URL: https://lichess.org/study/x6dQULqp/0z88lnr3
-    - Found: threat, threatening
-    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threat, threatening
+    - Found: threatening, threats
+    - All found aliases: bishop pair, center, exchange on, fork, isolated, isolated pawns, material, pawn islands, pawn weaknesses, plans, retreat, sacrifices, threatening, threats
   - Chapter: Lichess Tools: Winning a Won Game
     - Chapter URL: https://lichess.org/study/x6dQULqp/Df3zYs6l
     - Found: threat, threatening, threats
