@@ -197,7 +197,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/pnuKZH4c
     - Feature: backwardness
     - All found aliases: backwardness, formation, material
-  - Chapter: Barda, Olaf - Spassky, Boris V, 1953
+  - Chapter: Barda, Olaf - Spassky, Boris, 1953
     - Chapter URL: https://lichess.org/study/eD6ECZu4/0Xdi7KcB
     - Feature: backwardness
     - All found aliases: backwardness, center, exchange of, pressure, threatening
@@ -355,7 +355,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/fxEOlxbq/cvK79ZeH
     - Found: bad bishop
     - All found aliases: backwardness, bad bishop
-  - Chapter: Spielmann, Rudolph - Walter, Max, 1928
+  - Chapter: Spielmann, Rudolf - Walter, Max, 1928
     - Chapter URL: https://lichess.org/study/fxEOlxbq/VRwARHTO
     - Found: bad bishop
     - All found aliases: bad bishop, trade
@@ -378,11 +378,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/MWmtnAVo
     - Found: good bishop
     - All found aliases: dominating, good bishop, threaten
-  - Chapter: Tartakower, Saviely - Lasker, Emanuel, 1924
+  - Chapter: Tartakower, Savielly - Lasker, Emanuel, 1924
     - Chapter URL: https://lichess.org/study/eD6ECZu4/bibLql37
     - Found: good bishop
     - All found aliases: classical way, good bishop, sacrifice, threat, threatened, threatening
-  - Chapter: Van den Bosch, J. - Kmoch, H., 1941
+  - Chapter: Van den Bosch, Jan - Kmoch, Hans, 1941
     - Chapter URL: https://lichess.org/study/eD6ECZu4/G6R81xUX
     - Found: bad bishops
     - All found aliases: bad bishops, chain, combination, counterplay, formation, formations, passers, threatening, trade
@@ -454,7 +454,7 @@ Appears In:
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter V:12-17
   - Study URL: https://lichess.org/study/rzdDzNB4
-  - Chapter: Eliskases - Canal, 1933
+  - Chapter: Eliskases, Erich Gottlieb - Canal, 1933
     - Chapter URL: https://lichess.org/study/rzdDzNB4/7TkAFxiS
     - Found: blockade
     - All found aliases: blockade, cramped, formation
@@ -725,7 +725,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/xG5sFI6f/Kfqven0f
     - Found: center
     - All found aliases: center, counter-play, doubled, doubling, evaluation, exchange of, formation, plan, plans, threat, threatening
-  - Chapter: Bogoljubow, Efim - Monticelli, Mario, 1930
+  - Chapter: Bogoljubov, Efim - Monticelli, Mario, 1930
     - Chapter URL: https://lichess.org/study/xG5sFI6f/Uk3gVRAK
     - Found: center
     - All found aliases: center, combination, formation, pressure, tempo
@@ -763,14 +763,14 @@ Appears In:
     - Chapter URL: https://lichess.org/study/rzdDzNB4/a6mJZDnF
     - Found: center
     - All found aliases: center, closed, formation
-  - Chapter: Sherwin, J. T. - Pavey, Max, 1955
+  - Chapter: Sherwin, James T. - Pavey, Max, 1955
     - Chapter URL: https://lichess.org/study/rzdDzNB4/csfebQRJ
     - Found: center
     - All found aliases: center, exchange of, tempi, tempo, threatening
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter VI
   - Study URL: https://lichess.org/study/fxEOlxbq
-  - Chapter: Fuderer, Andrija - Tartakower, Saviely, 1950
+  - Chapter: Fuderer, Andrija - Tartakower, Savielly, 1950
     - Chapter URL: https://lichess.org/study/fxEOlxbq/EvatH9Zq
     - Found: center
     - All found aliases: center
@@ -832,7 +832,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/PouDU3zr
     - Found: center
     - All found aliases: center, exchange of, retreat
-  - Chapter: Barda, Olaf - Spassky, Boris V, 1953
+  - Chapter: Barda, Olaf - Spassky, Boris, 1953
     - Chapter URL: https://lichess.org/study/eD6ECZu4/0Xdi7KcB
     - Found: center
     - All found aliases: backwardness, center, exchange of, pressure, threatening
@@ -945,7 +945,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/4etX81lW
     - Found: classical concept
     - All found aliases: classical concept, formation, tempo
-  - Chapter: Tartakower, Saviely - Lasker, Emanuel, 1924
+  - Chapter: Tartakower, Savielly - Lasker, Emanuel, 1924
     - Chapter URL: https://lichess.org/study/eD6ECZu4/bibLql37
     - Found: classical way
     - All found aliases: classical way, good bishop, sacrifice, threat, threatened, threatening
@@ -1051,7 +1051,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/rzdDzNB4/BT2edodM
     - Found: closed
     - All found aliases: closed, formations
-  - Chapter: Nimzowitsch, Aaron - Menchik, Vera, 1929
+  - Chapter: Nimzowitsch, Aron - Menchik, Vera, 1929
     - Chapter URL: https://lichess.org/study/rzdDzNB4/cSGrrXb1
     - Found: closed
     - All found aliases: closed, formation
@@ -1185,7 +1185,7 @@ Appears In:
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter VIII
   - Study URL: https://lichess.org/study/eD6ECZu4
-  - Chapter: Flohr, Salo - Bogoljubow, Efim, 1932
+  - Chapter: Flohr, Salo - Bogoljubov, Efim, 1932
     - Chapter URL: https://lichess.org/study/eD6ECZu4/4ntiNK1I
     - Found: leucopenia
     - All found aliases: cramped, dominating, formation, isolated, leucopenia, majority, tension
@@ -1240,7 +1240,7 @@ Appears In:
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter IX
   - Study URL: https://lichess.org/study/xG5sFI6f
-  - Chapter: Bogoljubow, Efim - Monticelli, Mario, 1930
+  - Chapter: Bogoljubov, Efim - Monticelli, Mario, 1930
     - Chapter URL: https://lichess.org/study/xG5sFI6f/Uk3gVRAK
     - Tactical Motif: combination
     - All found aliases: center, combination, formation, pressure, tempo
@@ -1273,11 +1273,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/sZZbFACW
     - Tactical Motif: combination
     - All found aliases: backwardness, candidate, center, combination, compensation, counter-play, formation, isolate, pressure, tension, tensions
-  - Chapter: Szabo, Laszlo - Spassky, Boris V, 1953
+  - Chapter: Szabo, Laszlo - Spassky, Boris, 1953
     - Chapter URL: https://lichess.org/study/eD6ECZu4/VXHlKG6H
     - Tactical Motif: combination
     - All found aliases: combination, compensation, sacrifice
-  - Chapter: Van den Bosch, J. - Kmoch, H., 1941
+  - Chapter: Van den Bosch, Jan - Kmoch, Hans, 1941
     - Chapter URL: https://lichess.org/study/eD6ECZu4/G6R81xUX
     - Tactical Motif: combination
     - All found aliases: bad bishops, chain, combination, counterplay, formation, formations, passers, threatening, trade
@@ -1352,7 +1352,7 @@ Appears In:
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter VI
   - Study URL: https://lichess.org/study/fxEOlxbq
-  - Chapter: Bogoljubow, Efim - Alekhine, Alexander, 1923
+  - Chapter: Bogoljubov, Efim - Alekhine, Alexander, 1923
     - Chapter URL: https://lichess.org/study/fxEOlxbq/e23yIDaj
     - Found: compensation
     - All found aliases: compensation, counterplay, exchange of, threats
@@ -1378,7 +1378,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/XRq9WY3P
     - Found: compensation
     - All found aliases: compensation, material, threatening
-  - Chapter: Szabo, Laszlo - Spassky, Boris V, 1953
+  - Chapter: Szabo, Laszlo - Spassky, Boris, 1953
     - Chapter URL: https://lichess.org/study/eD6ECZu4/VXHlKG6H
     - Found: compensation
     - All found aliases: combination, compensation, sacrifice
@@ -1467,7 +1467,7 @@ Appears In:
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter VI
   - Study URL: https://lichess.org/study/fxEOlxbq
-  - Chapter: Bogoljubow, Efim - Alekhine, Alexander, 1923
+  - Chapter: Bogoljubov, Efim - Alekhine, Alexander, 1923
     - Chapter URL: https://lichess.org/study/fxEOlxbq/e23yIDaj
     - Found: counterplay
     - All found aliases: compensation, counterplay, exchange of, threats
@@ -1482,11 +1482,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/GREhYBl3
     - Found: counterplay
     - All found aliases: counterplay, formation, threat
-  - Chapter: Sherwin, James T - Reshevsky, Samuel Herman, 1957-8
+  - Chapter: Sherwin, James T. - Reshevsky, Samuel Herman, 1957-8
     - Chapter URL: https://lichess.org/study/eD6ECZu4/38xapBhL
     - Found: counterplay
     - All found aliases: counterplay
-  - Chapter: Van den Bosch, J. - Kmoch, H., 1941
+  - Chapter: Van den Bosch, Jan - Kmoch, Hans, 1941
     - Chapter URL: https://lichess.org/study/eD6ECZu4/G6R81xUX
     - Found: counterplay
     - All found aliases: bad bishops, chain, combination, counterplay, formation, formations, passers, threatening, trade
@@ -1597,7 +1597,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/MWmtnAVo
     - Found: dominating
     - All found aliases: dominating, good bishop, threaten
-  - Chapter: Flohr, Salo - Bogoljubow, Efim, 1932
+  - Chapter: Flohr, Salo - Bogoljubov, Efim, 1932
     - Chapter URL: https://lichess.org/study/eD6ECZu4/4ntiNK1I
     - Found: dominating
     - All found aliases: cramped, dominating, formation, isolated, leucopenia, majority, tension
@@ -2098,7 +2098,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/sZZbFACW
     - Feature: isolate
     - All found aliases: backwardness, candidate, center, combination, compensation, counter-play, formation, isolate, pressure, tension, tensions
-  - Chapter: Flohr, Salo - Bogoljubow, Efim, 1932
+  - Chapter: Flohr, Salo - Bogoljubov, Efim, 1932
     - Chapter URL: https://lichess.org/study/eD6ECZu4/4ntiNK1I
     - Feature: isolated
     - All found aliases: cramped, dominating, formation, isolated, leucopenia, majority, tension
@@ -2500,7 +2500,7 @@ Appears In:
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter VIII
   - Study URL: https://lichess.org/study/eD6ECZu4
-  - Chapter: Van den Bosch, J. - Kmoch, H., 1941
+  - Chapter: Van den Bosch, Jan - Kmoch, Hans, 1941
     - Chapter URL: https://lichess.org/study/eD6ECZu4/G6R81xUX
     - Feature: passers
     - All found aliases: bad bishops, chain, combination, counterplay, formation, formations, passers, threatening, trade
@@ -2659,7 +2659,7 @@ Appears In:
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter VIII
   - Study URL: https://lichess.org/study/eD6ECZu4
-  - Chapter: Van den Bosch, J. - Kmoch, H., 1941
+  - Chapter: Van den Bosch, Jan - Kmoch, Hans, 1941
     - Chapter URL: https://lichess.org/study/eD6ECZu4/G6R81xUX
     - Feature: chain
     - All found aliases: bad bishops, chain, combination, counterplay, formation, formations, passers, threatening, trade
@@ -2817,7 +2817,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/tV2VV7Ud
     - Feature: majority
     - All found aliases: majority
-  - Chapter: Flohr, Salo - Bogoljubow, Efim, 1932
+  - Chapter: Flohr, Salo - Bogoljubov, Efim, 1932
     - Chapter URL: https://lichess.org/study/eD6ECZu4/4ntiNK1I
     - Feature: majority
     - All found aliases: cramped, dominating, formation, isolated, leucopenia, majority, tension
@@ -3139,7 +3139,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/xG5sFI6f/Kfqven0f
     - Found: formation
     - All found aliases: center, counter-play, doubled, doubling, evaluation, exchange of, formation, plan, plans, threat, threatening
-  - Chapter: Bogoljubow, Efim - Monticelli, Mario, 1930
+  - Chapter: Bogoljubov, Efim - Monticelli, Mario, 1930
     - Chapter URL: https://lichess.org/study/xG5sFI6f/Uk3gVRAK
     - Found: formation
     - All found aliases: center, combination, formation, pressure, tempo
@@ -3321,7 +3321,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/rzdDzNB4/8unOpzcg
     - Found: pawn formation
     - All found aliases: doubling, exchange of, pawn formation
-  - Chapter: Eliskases - Canal, 1933
+  - Chapter: Eliskases, Erich Gottlieb - Canal, 1933
     - Chapter URL: https://lichess.org/study/rzdDzNB4/7TkAFxiS
     - Found: formation
     - All found aliases: blockade, cramped, formation
@@ -3353,7 +3353,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/rzdDzNB4/BT2edodM
     - Found: formations
     - All found aliases: closed, formations
-  - Chapter: Nimzowitsch, Aaron - Menchik, Vera, 1929
+  - Chapter: Nimzowitsch, Aron - Menchik, Vera, 1929
     - Chapter URL: https://lichess.org/study/rzdDzNB4/cSGrrXb1
     - Found: formation
     - All found aliases: closed, formation
@@ -3478,11 +3478,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/GREhYBl3
     - Found: formation
     - All found aliases: counterplay, formation, threat
-  - Chapter: Flohr, Salo - Bogoljubow, Efim, 1932
+  - Chapter: Flohr, Salo - Bogoljubov, Efim, 1932
     - Chapter URL: https://lichess.org/study/eD6ECZu4/4ntiNK1I
     - Found: formation
     - All found aliases: cramped, dominating, formation, isolated, leucopenia, majority, tension
-  - Chapter: Van den Bosch, J. - Kmoch, H., 1941
+  - Chapter: Van den Bosch, Jan - Kmoch, Hans, 1941
     - Chapter URL: https://lichess.org/study/eD6ECZu4/G6R81xUX
     - Found: formation, formations
     - All found aliases: bad bishops, chain, combination, counterplay, formation, formations, passers, threatening, trade
@@ -3631,7 +3631,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/sZZbFACW
     - Feature: tension, tensions
     - All found aliases: backwardness, candidate, center, combination, compensation, counter-play, formation, isolate, pressure, tension, tensions
-  - Chapter: Flohr, Salo - Bogoljubow, Efim, 1932
+  - Chapter: Flohr, Salo - Bogoljubov, Efim, 1932
     - Chapter URL: https://lichess.org/study/eD6ECZu4/4ntiNK1I
     - Feature: tension
     - All found aliases: cramped, dominating, formation, isolated, leucopenia, majority, tension
@@ -3956,22 +3956,22 @@ Appears In:
     - Chapter URL: https://lichess.org/study/rzdDzNB4/o4E8VbJe
     - Found: exchange of
     - All found aliases: exchange of, opposition, space
-  - Chapter: Denker, Arnold - Feuerstein, Author, 1956
+  - Chapter: Denker, Arnold Sheldon - Feuerstein, Arthur, 1956
     - Chapter URL: https://lichess.org/study/rzdDzNB4/zA8F5Na2
     - Found: exchange of
     - All found aliases: exchange of
-  - Chapter: Sherwin, J. T. - Pavey, Max, 1955
+  - Chapter: Sherwin, James T. - Pavey, Max, 1955
     - Chapter URL: https://lichess.org/study/rzdDzNB4/csfebQRJ
     - Found: exchange of
     - All found aliases: center, exchange of, tempi, tempo, threatening
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter VI
   - Study URL: https://lichess.org/study/fxEOlxbq
-  - Chapter: Spielmann, Rudolph - Walter, Max, 1928
+  - Chapter: Spielmann, Rudolf - Walter, Max, 1928
     - Chapter URL: https://lichess.org/study/fxEOlxbq/VRwARHTO
     - Found: trade
     - All found aliases: bad bishop, trade
-  - Chapter: Bogoljubow, Efim - Alekhine, Alexander, 1923
+  - Chapter: Bogoljubov, Efim - Alekhine, Alexander, 1923
     - Chapter URL: https://lichess.org/study/fxEOlxbq/e23yIDaj
     - Found: exchange of
     - All found aliases: compensation, counterplay, exchange of, threats
@@ -4029,11 +4029,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/PouDU3zr
     - Found: exchange of
     - All found aliases: center, exchange of, retreat
-  - Chapter: Barda, Olaf - Spassky, Boris V, 1953
+  - Chapter: Barda, Olaf - Spassky, Boris, 1953
     - Chapter URL: https://lichess.org/study/eD6ECZu4/0Xdi7KcB
     - Found: exchange of
     - All found aliases: backwardness, center, exchange of, pressure, threatening
-  - Chapter: Van den Bosch, J. - Kmoch, H., 1941
+  - Chapter: Van den Bosch, Jan - Kmoch, Hans, 1941
     - Chapter URL: https://lichess.org/study/eD6ECZu4/G6R81xUX
     - Found: trade
     - All found aliases: bad bishops, chain, combination, counterplay, formation, formations, passers, threatening, trade
@@ -4358,11 +4358,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/OSa11SDC
     - Tactical Motif: sacrifice
     - All found aliases: combination, exchange on, formation, sacrifice
-  - Chapter: Szabo, Laszlo - Spassky, Boris V, 1953
+  - Chapter: Szabo, Laszlo - Spassky, Boris, 1953
     - Chapter URL: https://lichess.org/study/eD6ECZu4/VXHlKG6H
     - Tactical Motif: sacrifice
     - All found aliases: combination, compensation, sacrifice
-  - Chapter: Tartakower, Saviely - Lasker, Emanuel, 1924
+  - Chapter: Tartakower, Savielly - Lasker, Emanuel, 1924
     - Chapter URL: https://lichess.org/study/eD6ECZu4/bibLql37
     - Tactical Motif: sacrifice
     - All found aliases: classical way, good bishop, sacrifice, threat, threatened, threatening
@@ -4460,7 +4460,7 @@ Appears In:
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter V:12-17
   - Study URL: https://lichess.org/study/rzdDzNB4
-  - Chapter: Eliskases - Canal, 1933
+  - Chapter: Eliskases, Erich Gottlieb - Canal, 1933
     - Chapter URL: https://lichess.org/study/rzdDzNB4/7TkAFxiS
     - Found: cramped
     - All found aliases: blockade, cramped, formation
@@ -4498,7 +4498,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/uspKyBR0
     - Found: cramped
     - All found aliases: cramped, opening lines, plans, pressure
-  - Chapter: Flohr, Salo - Bogoljubow, Efim, 1932
+  - Chapter: Flohr, Salo - Bogoljubov, Efim, 1932
     - Chapter URL: https://lichess.org/study/eD6ECZu4/4ntiNK1I
     - Found: cramped
     - All found aliases: cramped, dominating, formation, isolated, leucopenia, majority, tension
@@ -4585,7 +4585,7 @@ Appears In:
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter IX
   - Study URL: https://lichess.org/study/xG5sFI6f
-  - Chapter: Bogoljubow, Efim - Monticelli, Mario, 1930
+  - Chapter: Bogoljubov, Efim - Monticelli, Mario, 1930
     - Chapter URL: https://lichess.org/study/xG5sFI6f/Uk3gVRAK
     - Found: pressure
     - All found aliases: center, combination, formation, pressure, tempo
@@ -4680,7 +4680,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/4gYVeBnP
     - Found: pressure
     - All found aliases: formation, pressure
-  - Chapter: Barda, Olaf - Spassky, Boris V, 1953
+  - Chapter: Barda, Olaf - Spassky, Boris, 1953
     - Chapter URL: https://lichess.org/study/eD6ECZu4/0Xdi7KcB
     - Found: pressure
     - All found aliases: backwardness, center, exchange of, pressure, threatening
@@ -4727,7 +4727,7 @@ Appears In:
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter IX
   - Study URL: https://lichess.org/study/xG5sFI6f
-  - Chapter: Bogoljubow, Efim - Monticelli, Mario, 1930
+  - Chapter: Bogoljubov, Efim - Monticelli, Mario, 1930
     - Chapter URL: https://lichess.org/study/xG5sFI6f/Uk3gVRAK
     - Found: tempo
     - All found aliases: center, combination, formation, pressure, tempo
@@ -4741,7 +4741,7 @@ Appears In:
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter V:12-17
   - Study URL: https://lichess.org/study/rzdDzNB4
-  - Chapter: Sherwin, J. T. - Pavey, Max, 1955
+  - Chapter: Sherwin, James T. - Pavey, Max, 1955
     - Chapter URL: https://lichess.org/study/rzdDzNB4/csfebQRJ
     - Found: tempi, tempo
     - All found aliases: center, exchange of, tempi, tempo, threatening
@@ -4873,7 +4873,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/rzdDzNB4/Se1Lgb7V
     - Found: threat
     - All found aliases: counter-play, threat
-  - Chapter: Sherwin, J. T. - Pavey, Max, 1955
+  - Chapter: Sherwin, James T. - Pavey, Max, 1955
     - Chapter URL: https://lichess.org/study/rzdDzNB4/csfebQRJ
     - Found: threatening
     - All found aliases: center, exchange of, tempi, tempo, threatening
@@ -4896,7 +4896,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/fxEOlxbq/vrMgBuLX
     - Found: threatening
     - All found aliases: backwardness, initiative, sacrifice, threatening
-  - Chapter: Bogoljubow, Efim - Alekhine, Alexander, 1923
+  - Chapter: Bogoljubov, Efim - Alekhine, Alexander, 1923
     - Chapter URL: https://lichess.org/study/fxEOlxbq/e23yIDaj
     - Found: threats
     - All found aliases: compensation, counterplay, exchange of, threats
@@ -4930,7 +4930,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/MWmtnAVo
     - Found: threaten
     - All found aliases: dominating, good bishop, threaten
-  - Chapter: Barda, Olaf - Spassky, Boris V, 1953
+  - Chapter: Barda, Olaf - Spassky, Boris, 1953
     - Chapter URL: https://lichess.org/study/eD6ECZu4/0Xdi7KcB
     - Found: threatening
     - All found aliases: backwardness, center, exchange of, pressure, threatening
@@ -4942,11 +4942,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eD6ECZu4/GREhYBl3
     - Found: threat
     - All found aliases: counterplay, formation, threat
-  - Chapter: Tartakower, Saviely - Lasker, Emanuel, 1924
+  - Chapter: Tartakower, Savielly - Lasker, Emanuel, 1924
     - Chapter URL: https://lichess.org/study/eD6ECZu4/bibLql37
     - Found: threat, threatened, threatening
     - All found aliases: classical way, good bishop, sacrifice, threat, threatened, threatening
-  - Chapter: Van den Bosch, J. - Kmoch, H., 1941
+  - Chapter: Van den Bosch, Jan - Kmoch, Hans, 1941
     - Chapter URL: https://lichess.org/study/eD6ECZu4/G6R81xUX
     - Found: threatening
     - All found aliases: bad bishops, chain, combination, counterplay, formation, formations, passers, threatening, trade

@@ -680,7 +680,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/cev86fwf/CAISYQav
     - Found: center
     - All found aliases: center, majority, passed pawn
-  - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
+  - Chapter: Kostic, Borislav - Gruenfeld, Ernst, 1923
     - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
     - Found: center
     - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade
@@ -1162,7 +1162,7 @@ Appears In:
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 139 to 187
   - Study URL: https://lichess.org/study/cev86fwf
-  - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
+  - Chapter: Kostic, Borislav - Gruenfeld, Ernst, 1923
     - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
     - Found: classical school
     - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade
@@ -1468,7 +1468,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/cev86fwf/XutVejiy
     - Found: counter-play
     - All found aliases: counter-play, doubling
-  - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
+  - Chapter: Kostic, Borislav - Gruenfeld, Ernst, 1923
     - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
     - Found: counter-play
     - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade
@@ -2303,7 +2303,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/cev86fwf/qUEAWnC7
     - Feature: isolated pawns
     - All found aliases: isolated pawns, majority, material
-  - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
+  - Chapter: Kostic, Borislav - Gruenfeld, Ernst, 1923
     - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
     - Feature: isolated
     - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade
@@ -3238,7 +3238,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/cev86fwf/CAISYQav
     - Feature: passed pawn
     - All found aliases: center, majority, passed pawn
-  - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
+  - Chapter: Kostic, Borislav - Gruenfeld, Ernst, 1923
     - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
     - Feature: passed pawn
     - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade
@@ -3690,7 +3690,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/cev86fwf/CAISYQav
     - Feature: majority
     - All found aliases: center, majority, passed pawn
-  - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
+  - Chapter: Kostic, Borislav - Gruenfeld, Ernst, 1923
     - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
     - Feature: majority
     - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade
@@ -3920,7 +3920,7 @@ Appears In:
 
 - Study: jomega: Point Count Chess: Horowitz and Mott-Smith: 139 to 187
   - Study URL: https://lichess.org/study/cev86fwf
-  - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
+  - Chapter: Kostic, Borislav - Gruenfeld, Ernst, 1923
     - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
     - Feature: connected passed
     - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade
@@ -4549,7 +4549,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/cev86fwf/UEG35iAq
     - Found: trade
     - All found aliases: blockaded, center, evaluation, mobility, passed pawn, pawn majority, space, tempi, threatened, threatening, trade
-  - Chapter: Kostic, Boris - Gruenfeld, Ernst, 1923
+  - Chapter: Kostic, Borislav - Gruenfeld, Ernst, 1923
     - Chapter URL: https://lichess.org/study/cev86fwf/aTVDf83R
     - Found: trade
     - All found aliases: center, classical school, connected passed, counter-play, isolated, majority, passed pawn, trade

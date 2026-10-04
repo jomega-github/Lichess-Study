@@ -5,4369 +5,2829 @@ Note: A "*" indicates that the game is annotated.
 Note: "(dup #N)" indicates the group number of games that appear in multiple chapters.
 Groups are determined by mainline moves, White player name, Black player name,
 Site, and Date.
-There are currently 95 groups.
+There are currently 51 groups.
 
-Game*: 009ngl - HowToWinAtChess, Chess.com, 2025.10.18, https://lichess.org/study/P3XM0aKf/tHFVdqMp
+Game*: Ader Hausman, Walter - Fischer, Robert James; Santiago; 1959.??.??; 0-1; https://lichess.org/study/2a0vxusd/ccDBnEsY
 
-Game*: Fritz 12 - SF 14, 2021.11.05 (dup #93), https://lichess.org/study/kUiMtkXW/HKBNYwQk
+Game*: Adorjan, Andras - Mukhin, Mikhail A.; Luhacovice CSR; 1973.05.24; 1-0; https://lichess.org/study/6nWh4o7P/IhH2lcys
 
-Game*: Fritz 12 - SF 14, 2021.11.05 (dup #93), https://lichess.org/study/kUiMtkXW/QyhcihEe
+Game*: Akopian, Vladimir - Morozevich, Alexander; Bursa TUR; 2010.1.11; 1-0; https://lichess.org/study/dl0ynDGz/XK8IuJ6D
 
-Game*: Fritz 12 - SF 14, 2021.11.05 (dup #93), https://lichess.org/study/kUiMtkXW/SWV7jNFQ
+Game*: Akopian, Vladimir - Pantsulaia, Levan; Dubai UAE; 2013.4.11; 1-0; https://lichess.org/study/dl0ynDGz/AWwKgW5C
 
-Game*: Fritz 12 - SF 14, 2021.11.05 (dup #93), https://lichess.org/study/kUiMtkXW/iSYnmxi7
+Game*: Akopian, Vladimir - Shimanov, Aleksandr; Plovdiv BUL; 212.03.25; 1-0; https://lichess.org/study/AxW3sYhA/AHM57c0O
 
-Game*: SF 14 - Fritz-12, 2021.11.05, https://lichess.org/study/kUiMtkXW/MFaHcFm9
+Game*: Alapin, Simon - Tarrasch, Siegbert; Manchester; 1890.08.29; 1/2-1/2; https://lichess.org/study/bELN6Owi/F6X0Cv12
 
-Game*: SF 14 - Fritz-12, 2021.11.05 (dup #92), https://lichess.org/study/kUiMtkXW/PhGo5yVh
+Game*: Alatortsev, Vladimir - Levenfish, Grigory; Tbilisi; 1937.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/uFjQfn3v
 
-Game*: SF 14 - Fritz-12, 2021.11.05 (dup #92), https://lichess.org/study/kUiMtkXW/qKz7zzWz
+Game*: Alatortsev, Vladimir - Smyslov, Vasily; Moscow; 1942.??.??; 0-1; https://lichess.org/study/E787KvJ9/ITKh7yND
 
-Game*: SF 14 - Fritz-12, 2021.11.05 (dup #92), https://lichess.org/study/kUiMtkXW/wZMcNino
+Game: Albin, Adolf - Shipley; New York; 1894.??.??; 1-0; https://lichess.org/study/V4VFISZI/W3EKEZTK
 
-Game*: SF 14 - LV100L100, 2021.11.04 (dup #91), https://lichess.org/study/kUiMtkXW/OpUOyZxw
+Game: Albin, Adolf - Bernstein, Ossip; Vienna Chess Club; 1904.??.??; 0-1; https://lichess.org/study/tmHOF54H/fEwHoYF9
 
-Game*: SF 14 - LV100L100, 2021.11.04 (dup #91), https://lichess.org/study/kUiMtkXW/PHUaYhTM
+Game: Albin, Adolf - Tarrasch, Siegbert; Dresden; 1892.07.20; 1-0; https://lichess.org/study/pdteMCe2/gIIWw2Zy
 
-Game*: SF 14 - LV100L100, 2021.11.04 (dup #91), https://lichess.org/study/kUiMtkXW/d0lwzjCC
+Game*: Alekhine, Alexander - Alexander, Conel Hughes; 1936.??.??; 1-0; https://lichess.org/study/E787KvJ9/JvzqbCj6
 
-Game*: SF 14 - LV100L100, 2021.11.04 (dup #91), https://lichess.org/study/kUiMtkXW/iZqWOgkq
+Game*: Alekhine, Alexander - Alexander, Conel Hughes; Margate; 1937.??.??; 1-0; https://lichess.org/study/NHyuBHth/7FX4aQWb
 
-Game*: SF 14 - LV100L80, 2021.11.01 (dup #90), https://lichess.org/study/kUiMtkXW/4DuFT4Iv
+Game*: Alekhine, Alexander - Andersen, Erik Sr; Folkstown (England); 1933.??.??; 1-0; https://lichess.org/study/NHyuBHth/SYBkD6v7
 
-Game*: SF 14 - LV100L80, 2021.11.01 (dup #90), https://lichess.org/study/kUiMtkXW/8YiorZJZ
+Game*: Alekhine, Alexander - Capablanca, Jose Raul; Buenos Aires ARG; 1927.11.22; 1-0; https://lichess.org/study/YuoLOpzE/baYsemYv
 
-Game*: SF 14 - LV100L80, 2021.11.01 (dup #90), https://lichess.org/study/kUiMtkXW/RIt7lsMu
+Game*: Alekhine, Alexander - Capablanca, Jose Raul; Buenos Aires; 1927.11.03; 1/2-1/2; https://lichess.org/study/fxEOlxbq/aSdswJVc
 
-Game*: SF 14 - LV100L80, 2021.11.01 (dup #90), https://lichess.org/study/kUiMtkXW/ztoRcm5c
+Game*: Alekhine, Alexander - Capablanca, Jose Raul; Buenos Aires; 1927.??.??; 1-0; https://lichess.org/study/k4B16BhD/h2nPaxoj
 
-Game*: Stockfish 14 - Lv. 100, Level 50, 2021.11.01 (dup #89), https://lichess.org/study/kUiMtkXW/MVJLRyDA
+Game*: Alekhine, Alexander - Cartier, Marechal, Winfrey; Montreal; 1923.??.??; 1-0; https://lichess.org/study/rgKjJhUJ/sJfnln7g
 
-Game*: Stockfish 14 - Lv. 100, Level 50, 2021.11.01 (dup #89), https://lichess.org/study/kUiMtkXW/PD1TS9Wn
+Game*: Alekhine, Alexander - Drewitt, John; Fratton ENG; 1923.08.23; 1-0; https://lichess.org/study/YuoLOpzE/FRGUGOWQ
 
-Game*: Stockfish 14 - Lv. 100, Level 50, 2021.11.01 (dup #89), https://lichess.org/study/kUiMtkXW/QcBPshFD
+Game*: Alekhine, Alexander - Euwe, Max; 1922.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/hziG1iPl
 
-Game*: Stockfish 14 - Lv. 100, Level 50, 2021.11.01 (dup #89), https://lichess.org/study/kUiMtkXW/fg8M6xac
+Game*: Alekhine, Alexander - Euwe, Max; NLD; 1937.??.??; 1-0; https://lichess.org/study/sDsyelY0/P2unORFz
 
-Game*: Stockfish 14 - AI Factory Chess, Level 8, 2021.10.29 (dup #87), https://lichess.org/study/kUiMtkXW/OOWeKrZm
+Game*: Alekhine, Alexander - Euwe, Max; Nottingham; 1936.??.??; 1-0; https://lichess.org/study/rzdDzNB4/0VeoZ6Q5
 
-Game*: Stockfish 14 - AI Factory Chess, Level 8, 2021.10.29 (dup #87), https://lichess.org/study/kUiMtkXW/VEsGIMrv
+Game*: Alekhine, Alexander - Flohr, Salo; Bern; 1932.??.??; 1-0; https://lichess.org/study/6P90HTwf/m8jmj0a2
 
-Game*: Stockfish 14 - AI Factory Chess, Level 8, 2021.10.29 (dup #87), https://lichess.org/study/kUiMtkXW/VSUtLUKK
+Game*: Alekhine, Alexander - Flohr, Salo; Bled; 1931.??.??; 1-0; https://lichess.org/study/fxEOlxbq/ddxqzrAz
 
-Game*: Stockfish 14 - AI Factory Chess, Level 8, 2021.10.29 (dup #87), https://lichess.org/study/kUiMtkXW/k9J84mFA
+Game: Alekhine, Alexander - Grigoriev, Nikolai Dmitrievich; Moscow; 1915.??.??; 1-0 (dup #23); https://lichess.org/study/r1NROPIm/AeLXqm94
 
-Game*: Stockfish 14 - AI Factory, Level 12, 2021.10.31 (dup #88), https://lichess.org/study/kUiMtkXW/2qCrQmw1
+Game*: Alekhine, Alexander - Grigoriev, Nikolai Dmitrievich; Moscow; 1915.??.??; 1-0 (dup #23); https://lichess.org/study/r1NROPIm/eVDB5Nhd
 
-Game*: Stockfish 14 - AI Factory, Level 12, 2021.10.31 (dup #88), https://lichess.org/study/kUiMtkXW/A7QToa0M
+Game*: Alekhine, Alexander - Johner, Hans; 1934.??.??; 1-0; https://lichess.org/study/uDpA956I/u0pzgiAd
 
-Game*: Stockfish 14 - AI Factory, Level 12, 2021.10.31 (dup #88), https://lichess.org/study/kUiMtkXW/vbzmUYsM
+Game*: Alekhine, Alexander - Johner, Hans; Zuerich; 1934.??.??; 1-0; https://lichess.org/study/fxEOlxbq/4map8tN0
 
-Game*: Stockfish 14 - AI Factory, Level 12, 2021.10.31 (dup #88), https://lichess.org/study/kUiMtkXW/vojVz9Np
+Game*: Alekhine, Alexander - Koehnlein, Friedrich; Duesseldorf GER; 1908.08.06; 1-0; https://lichess.org/study/6P90HTwf/blyRVQCr
 
-Game*: 1Karim_fouad - HowToWinAtChess, Chess.com, 2025.09.27, https://lichess.org/study/P3XM0aKf/bSpcII3N
+Game*: Alekhine, Alexander - Lasker, Emanuel; New York; 1924.??.??; 0-1; https://lichess.org/study/amMc8Mig/FapZulPL
 
-Game*: Chess 3.6 - TECH, 1972.??.?? (dup #35), https://lichess.org/study/Dw5rZPMK/4E2t5reX
+Game*: Alekhine, Alexander - Lasker, Emanuel; New York, NY USA; 1924.03.18; 0-1 (dup #6); https://lichess.org/study/1DTYYVAE/4XtIU8q9
 
-Game*: Chess 3.6 - TECH, 1972.??.?? (dup #35), https://lichess.org/study/Dw5rZPMK/FjdsxyeY
+Game: Alekhine, Alexander - Lasker, Emanuel; New York, NY USA; 1924.03.18; 0-1 (dup #6); https://lichess.org/study/R9GM45QQ/AZkLDUCT
 
-Game*: CHESS 4.0 - KAISSA, 1974.??.?? (dup #58), https://lichess.org/study/1h06eBSq/4pNaeJyP
+Game*: Alekhine, Alexander - NN; Lodz, POL; 2020.04.29; *; https://lichess.org/study/YuoLOpzE/wmFKW2oK
 
-Game*: CHESS 4.0 - KAISSA, 1974.??.?? (dup #58), https://lichess.org/study/1h06eBSq/oqj2VS7m
+Game*: Alekhine, Alexander - Pachman, Ludek; 1943.??.??; 1-0; https://lichess.org/study/E787KvJ9/rQkRENro
 
-Game*: IBM 704 - Human, 1958.??.??, https://lichess.org/study/Dw5rZPMK/IDappIb2
+Game: Alekhine, Alexander - Pomar Salamanca, Arturo; 1945.??.??; 1-0 (dup #12); https://lichess.org/study/r1NROPIm/Dib5DAJf
 
-Game*: IBM 704 - Human, 1958.??.??, https://lichess.org/study/Dw5rZPMK/SMGnsMtb
+Game*: Alekhine, Alexander - Pomar Salamanca, Arturo; 1945.??.??; 1-0 (dup #12); https://lichess.org/study/r1NROPIm/kaAlIp97
 
-Game*: Ader Hausman, Walter - Fischer, Robert, Santiago, 1959.??.??, https://lichess.org/study/2a0vxusd/ccDBnEsY
+Game*: Alekhine, Alexander - Spielmann, Rudolf; Karlsbad; 1923.??.??; 0-1; https://lichess.org/study/uUaMniQc/7bGlB8ch
 
-Game*: adhocchessplayer - HowToWinAtChess, Chess.com, 2026.06.24, https://lichess.org/study/gDTJBYjY/3AOmjK8g
+Game: Alekhine, Alexander - Tartakower, Savielly; Kecskemet HUN; 1927.06.28; 1-0; https://lichess.org/study/YuoLOpzE/Rmk4XP6k
 
-Game*: Andras Adorjan - Mikhail A Mukhin, Luhacovice CSR, 1973.05.24, https://lichess.org/study/6nWh4o7P/IhH2lcys
+Game*: Alekhine, Alexander - Wolf, Heinrich; 1922.??.??; *; https://lichess.org/study/57Oq4l6Z/N7G6ltGy
 
-Game fragment*: Afek, Yochanan - Gelfer, Israel, 1980.??.??, https://lichess.org/study/amMc8Mig/Sw7JKTgA
+Game: Alekhine, Alexander - Wolf, Heinrich; Piestany CSR; 1922.04.14; 1-0; https://lichess.org/study/YuoLOpzE/C7J9TM2E
 
-Game fragment*: Akonia - Grau, 1929.??.??, https://lichess.org/study/NHyuBHth/tf8dyEwr
+Game*: Alekhine, Alexander - Yates, Fred Dewhirst; Hastings ENG; 1926.01.01; 1-0; https://lichess.org/study/uUaMniQc/x05wcE5l
 
-Game*: Akopian, Vladimir - Morozevich, Alexander, Bursa TUR, 2010.1.11, https://lichess.org/study/dl0ynDGz/XK8IuJ6D
+Game*: Alexander, Conel Hughes - Pachman, Ludek; Hilversum; 1947.??.??; 1-0; https://lichess.org/study/eD6ECZu4/fdSJfjEE
 
-Game*: Akopian, Vladimir - Pantsulaia, Levan, Dubai UAE, 2013.4.11, https://lichess.org/study/dl0ynDGz/AWwKgW5C
+Game*: Alexander, Conel Hughes - Szabo, Laszlo; Hilversum; 1947.??.??; 1-0; https://lichess.org/study/amMc8Mig/MbwwR1NR
 
-Game*: Akopian, Vladimir - Shimanov, Aleksandr, Plovdiv BUL, 212.03.25, https://lichess.org/study/AxW3sYhA/AHM57c0O
+Game: Almasi, Zoltan - Aagaard, Jacob; Istanbul; 2012.09.07; 1-0; https://lichess.org/study/dl0ynDGz/wSxGiulV
 
-Game fragment*: Alapin - Rubinstein, 1908.??.??, https://lichess.org/study/t6bOK7CT/zPsDUSeT
+Game*: Aloni, Izak - Kotov, Alexander; 1954.??.??; 1-0; https://lichess.org/study/NHyuBHth/DmYKmF4b
 
-Game*: Alapin, Semion - Tarrasch, Siegbert, Manchester, 1890.08.29, https://lichess.org/study/bELN6Owi/F6X0Cv12
+Game*: Aloni, Izak - Matanovic, Aleksandar; 1966.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/rRWD4vvg
 
-Game*: Alatortsev, Vladimir - Levenfish, Grigory, Tbilisi, 1937.??.??, https://lichess.org/study/5mW5ZvOp/uFjQfn3v
+Game: Three Swedish Amateurs - Nimzowitsch, Aron; 1921.??.??; 0-1; https://lichess.org/study/EDmMFcbv/S3FGP8gU
 
-Game*: Alatortsev, Vladimir - Smyslov, Vassily, Moscow, 1942.??.??, https://lichess.org/study/E787KvJ9/ITKh7yND
+Game*: Amos, Bruce - Martz, William; 1971.??.??; *; https://lichess.org/study/amMc8Mig/T9kDWbpX
 
-Game: Albin, A. - Bernstein, O. S., Vienna Chess Club, 1904.??.??, https://lichess.org/study/tmHOF54H/fEwHoYF9
+Game*: Andersen, Mads - Szabo, Krisztian; Budapest HUN; 2013.9.7; 0-1; https://lichess.org/study/wAhu1kg2/KxGd6Vo4
 
-Game: Albin, A. - Shipley, New York, 1894.??.??, https://lichess.org/study/V4VFISZI/W3EKEZTK
+Game: Anderssen, Adolf - Dufresne, Jean; Berlin; 1854.??.??; 1-0; https://lichess.org/study/tmHOF54H/NNbCmhpU
 
-Game: Albin, Adolf - Tarrasch, Siegbert, Dresden, 1892.07.20, https://lichess.org/study/pdteMCe2/gIIWw2Zy
+Game: Anderssen, Adolf - Lange, Max; Breslau; 1859.??.??; 0-1; https://lichess.org/study/OMNHm3q5/5skTGvqG
 
-Game fragment*: Alekhine - Brinkermann, 1927.??.??, https://lichess.org/study/1DTYYVAE/QD0ukJ2f
+Game: Anderssen, Adolf - Morphy, Paul; Paris FRA; 1858.12.??; 0-1; https://lichess.org/study/MNnC56w2/GBWk8L2f
 
-Game fragment*: Alekhine - Capablanca, 1914.??.??, https://lichess.org/study/t6bOK7CT/YqUeKLsd
+Game: Anderssen, Adolf - Morphy, Paul; Paris; 1858.??.??; 1-0; https://lichess.org/study/MNnC56w2/NZpi4reQ
 
-Game*: Alekhine - Poindle, 1936.??.??, https://lichess.org/study/Wn7aMkPy/cfq7ajhX
+Game: Anderssen, Adolf - Paulsen, Louis; Vienna AUH; 1873.08.05; 1-0; https://lichess.org/study/P33p6LIH/yhTw63sS
 
-Game*: Alekhine - Wolf, 1922.??.??, https://lichess.org/study/57Oq4l6Z/N7G6ltGy
+Game: Anderssen, Adolf - Wyvill, M.; London; 1851.??.??; 1-0; https://lichess.org/study/OMNHm3q5/uhRRmjwe
 
-Game fragment*: Alekhine, A. - Borochow, TAOTC, 1932.12.18, https://lichess.org/study/1JWXdF87/z59FRx0P
+Game*: Andersson, Ulf - Medina Garcia, Antonio Angel; Palma de Mallorca; 1972.??.??; 1-0; https://lichess.org/study/NHyuBHth/XIpGxFKM
 
-Game fragment: Alekhine, A. - Freeman, New York, 1924.??.??, https://lichess.org/study/1JWXdF87/xRMDM23C
+Game*: Andersson, Ulf - Gruenfeld, Yehuda; (Switzerland); 1982.??.??; 1-0; https://lichess.org/study/2a0vxusd/4DUnFCE2
 
-Game fragment: Alekhine, A. - Van Mideno, A., Holland, 1931.??.??, https://lichess.org/study/XH8xSdBs/L6THY8W4
+Game*: Andersson, Ulf - Knaak, Rainer; Camaguey; 1974.??.??; 1-0; https://lichess.org/study/6nWh4o7P/1GZaoDYM
 
-Game fragment: Alekhine, A. - NN, TAOTC, 1925.??.??, https://lichess.org/study/OMNHm3q5/vbt70oHb
+Game*: Andersson, Ulf - Larsen, Bent; 1975.??.??; 1-0; https://lichess.org/study/2a0vxusd/uPzcDa9k
 
-Game fragment*: Alekhine, Alexandar - Nimzowitsch, Aron, San Remo, 1930.??.??, https://lichess.org/study/3khu0Xru/U6KmkpS3
+Game*: Andreikin, Dmitry - Kramnik, Vladimir; Dortmund GER; 2013.08.02; 1-0; https://lichess.org/study/AxW3sYhA/kyCYK4gs
 
-Game*: Alekhine, Alexander - Alexander, Conel Hughes, 1936.??.??, https://lichess.org/study/E787KvJ9/JvzqbCj6
+Game*: Areshchenko, Alexander - Vovk, Yuri; Kiev UKR; 2011.06.12; 1-0; https://lichess.org/study/wAhu1kg2/P6wysRsQ
 
-Game*: Alekhine, Alexander - Alexander, Conel Hughes, Margate, 1937.??.??, https://lichess.org/study/NHyuBHth/7FX4aQWb
+Game*: Arkhipov, Vladimir - Bogdanovich, Stanislav; Yuzhny; 2008.09.23; 1-0; https://lichess.org/study/3Aw3IIVA/60GHYAxC
 
-Game*: Alekhine, Alexander - Andersen, Folkstown (England), 1933.??.??, https://lichess.org/study/NHyuBHth/SYBkD6v7
+Game: Arnold - Bohm, Josef; Munich; 1932.??.??; 1-0; https://lichess.org/study/tmHOF54H/7xcNubUv
 
-Game*: Alekhine, Alexander - Capablanca, Jose Raul, Buenos Aires, 1927.11.03, https://lichess.org/study/fxEOlxbq/aSdswJVc
+Game: Aronian, Levon - Carlsen, Magnus; Nice; 2010.03.14; 0-1; https://lichess.org/study/wAhu1kg2/qQPRu6xH
 
-Game fragment*: Alekhine, Alexander - Capablanca, Jose Raul, Buenos Aires, 1927.11.03, https://lichess.org/study/fxEOlxbq/vrMgBuLX
+Game*: Aronian, Levon - Navara, David; Wijk aan Zee NED; 2012.01.27; 0-1; https://lichess.org/study/AxW3sYhA/AaF8H0PD
 
-Game*: Alekhine, Alexander - Capablanca, Jose Raul, Buenos Aires ARG, 1927.11.22, https://lichess.org/study/YuoLOpzE/baYsemYv
+Game*: Aronian, Levon - Stevic, Hrvoje; Porto Carras GRE; 2011.11.06; 1-0; https://lichess.org/study/AxW3sYhA/kbkkyQoo
 
-Game*: Alekhine, Alexander - Capablanca, Jose Raul, Buenos Aires, 1927.??.??, https://lichess.org/study/k4B16BhD/h2nPaxoj
+Game: Aronian, Levon - Tomashevsky, Evgeny; Tromso; 2013.08.17; 0-1; https://lichess.org/study/AxW3sYhA/mbICfKEi
 
-Game*: Alekhine, Alexander - Cartier, Marechal, Winfrey, Montreal, 1923.??.??, https://lichess.org/study/rgKjJhUJ/sJfnln7g
+Game*: Aronian, Levon - Zhao, Zong Yuan; Khanty-Mansiysk; 2010.09.22; 1-0; https://lichess.org/study/AxW3sYhA/IjSHGcK4
 
-Game*: Alekhine, Alexander - Drewitt, John, Fratton ENG, 1923.08.23, https://lichess.org/study/YuoLOpzE/FRGUGOWQ
+Game: Arutinian, Davit - Efimenko, Zahar; Dresden; 2007.04.13; 0-1; https://lichess.org/study/wAhu1kg2/uD5gC5wZ
 
-Game*: Alekhine, Alexander - Euwe, Max, 1922.??.??, https://lichess.org/study/5mW5ZvOp/hziG1iPl
+Game*: Atanasov, Gospodin - Hort, Vlastimil; 1973.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/xXDrNXnP
 
-Game*: Alekhine, Alexander - Euwe, Max, Nottingham, 1936.??.??, https://lichess.org/study/rzdDzNB4/0VeoZ6Q5
+Game*: Atkins, Henry Ernest - Capablanca, Jose Raul; London BCF Congress; 1922.08.14; 0-1 (dup #40); https://lichess.org/study/6AnWFDzO/q6MVKDdP
 
-Game*: Alekhine, Alexander - Euwe, Max, NLD, 1937.??.??, https://lichess.org/study/sDsyelY0/P2unORFz
+Game*: Atkins, Henry Ernest - Capablanca, Jose Raul; London BCF Congress; 1922.08.14; 0-1 (dup #40); https://lichess.org/study/aAtElCsv/yPxj8Ojp
 
-Game*: Alekhine, Alexander - Flohr, Salo, Bled, 1931.??.??, https://lichess.org/study/fxEOlxbq/ddxqzrAz
+Game*: Averbakh, Yuri - Lilienthal, Andor; 1949.??.??; 1-0; https://lichess.org/study/sDsyelY0/LRfsdCMN
 
-Game*: Alekhine, Alexander - Flohr, Salo, Bern, 1932.??.??, https://lichess.org/study/6P90HTwf/m8jmj0a2
+Game*: Averbakh, Yuri - Panov, Vasily; 1950.??.??; 1-0; https://lichess.org/study/sDsyelY0/RTrL7zyD
 
-Game: Alekhine, Alexander - Grigoriev, Nikalai Dmitrievich, Moscow, 1915.??.?? (dup #71), https://lichess.org/study/r1NROPIm/AeLXqm94
+Game: Awet - NN; TAOTC; 1-0; https://lichess.org/study/tmHOF54H/1oyn39ze
 
-Game*: Alekhine, Alexander - Grigoriev, Nikalai Dmitrievich, Moscow, 1915.??.?? (dup #71), https://lichess.org/study/r1NROPIm/eVDB5Nhd
+Game*: Azarov, Sergei - Volke, Karsten; Dresden GER; 2007.04.04; 1-0; https://lichess.org/study/wAhu1kg2/fO8SAOb2
 
-Game*: Alekhine, Alexander - Johner, Hans, 1934.??.??, https://lichess.org/study/uDpA956I/u0pzgiAd
+Game*: Aziz Ortego, Omar Luis - Vazquez Igarza, Renier; Madrid ESP; 2011.9.17; 0-1; https://lichess.org/study/dl0ynDGz/kWMfbk3J
 
-Game fragment*: Alekhine, Alexander - Johner, Hans, Zuerich, 1934.??.??, https://lichess.org/study/fxEOlxbq/WEhF8E4C
+Game: Babaev, Rashad - Burmakin, Vladimir; Balaguer; 2006.07.21; 0-1; https://lichess.org/study/wAhu1kg2/mJs7aitb
 
-Game*: Alekhine, Alexander - Johner, Hans, Zuerich, 1934.??.??, https://lichess.org/study/fxEOlxbq/4map8tN0
+Game*: Bachmann Schiavo, Axel - Cornejo, Max; Asuncion; 2009.07.05; 1-0; https://lichess.org/study/AxW3sYhA/61UjMlKY
 
-Game*: Alekhine, Alexander - Koehnlein, Friedrich, Duesseldorf GER, 1908.08.06, https://lichess.org/study/6P90HTwf/blyRVQCr
+Game*: Bacrot, Etienne - Edouard, Romain; Caen FRA; 2011.08.23; 1-0; https://lichess.org/study/AxW3sYhA/KoQ4mzaj
 
-Game fragment*: Alekhine, Alexander - Lasker, Emanuel, New York, NY USA, 1924.03.18, https://lichess.org/study/1DTYYVAE/GeMqQ26U
+Game*: Bagirov, Vladimir - Gufeld, Eduard; Korovabad; 2019.02.15; 0-1; https://lichess.org/study/drEQ8cYo/VjdDOpOG
 
-Game*: Alekhine, Alexander - Lasker, Emanuel, New York, NY USA, 1924.03.18 (dup #26), https://lichess.org/study/1DTYYVAE/4XtIU8q9
+Game*: Balashov, Yuri - Penrose, Jonathan; Hastings; 1966.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/zGQrSq29
 
-Game: Alekhine, Alexander - Lasker, Emanuel, New York, NY USA, 1924.03.18 (dup #26), https://lichess.org/study/R9GM45QQ/AZkLDUCT
+Game*: Barcza, Gedeon - Simagin, Vladimir; 1949.??.??; 0-1; https://lichess.org/study/NHyuBHth/eU6ynjzQ
 
-Game*: Alekhine, Alexander - Lasker, Emanuel, New York, 1924.??.??, https://lichess.org/study/amMc8Mig/FapZulPL
+Game*: Barda, Olaf - Spassky, Boris; Bucharest; 1953.??.??; 0-1; https://lichess.org/study/eD6ECZu4/0Xdi7KcB
 
-Game*: Alekhine, Alexander - NN, Lodz, POL, 2020.04.29, https://lichess.org/study/YuoLOpzE/wmFKW2oK
+Game: Barnes, Thomas Wilson - Morphy, Paul; London; 1858.??.??; 0-1; https://lichess.org/study/MNnC56w2/EDa9r8EB
 
-Game*: Alekhine, Alexander - Pachman, Ludek, 1943.??.??, https://lichess.org/study/E787KvJ9/rQkRENro
+Game*: Bartholomew, John - Gareev, Timur; USA; 2009.??.??; 0-1; https://lichess.org/study/dl0ynDGz/3l7o8MIM
 
-Game: Alekhine, Alexander - Pomar, Arturo, 1945.??.?? (dup #60), https://lichess.org/study/r1NROPIm/Dib5DAJf
+Game*: Bauer, Christian - McShane, Luke; Germany; 2003.11.02; 0-1 (dup #36); https://lichess.org/study/wAhu1kg2/7CXDrkJZ
 
-Game*: Alekhine, Alexander - Pomar, Arturo, 1945.??.?? (dup #60), https://lichess.org/study/r1NROPIm/kaAlIp97
+Game*: Bauer, Christian - McShane, Luke; Germany; 2003.11.02; 0-1 (dup #36); https://lichess.org/study/wAhu1kg2/9hvWIvTr
 
-Game fragment*: Alekhine, Alexander - Spielmann, Rudolf, Karlsbad, 1923.??.??, https://lichess.org/study/uUaMniQc/14kHVyEK
+Game*: Bauer, Johann Hermann - Tarrasch, Siegbert; Breslau; 1889.??.??; 1/2-1/2; https://lichess.org/study/bELN6Owi/g7t4bVVP
 
-Game*: Alekhine, Alexander - Spielmann, Rudolf, Karlsbad, 1923.??.??, https://lichess.org/study/uUaMniQc/7bGlB8ch
+Game: Becker, Albert - Nimzowitsch, Aron; Breslau; 1925.??.??; 0-1; https://lichess.org/study/EDmMFcbv/CqoMj8A0
 
-Game: Alekhine, Alexander - Tartakower, Savielly, Kecskemet HUN, 1927.06.28, https://lichess.org/study/YuoLOpzE/Rmk4XP6k
+Game*: Beliavsky, Alexander G. - Carlhammar, Magnus; La Caleta GIB; 2009.01.27; 1-0; https://lichess.org/study/dl0ynDGz/xkiP3Ul0
 
-Game: Alekhine, Alexander - Wolf, Heinrich, Piestany CSR, 1922.04.14, https://lichess.org/study/YuoLOpzE/C7J9TM2E
+Game*: Beliavsky, Alexander G. - Kasparov, Garry; Mosca; 1983.??.??; 0-1; https://lichess.org/study/E787KvJ9/WZbs3zKB
 
-Game*: Alekhine, Alexander - Yates, Fred Dewhirst, Hastings ENG, 1926.01.01, https://lichess.org/study/uUaMniQc/x05wcE5l
+Game*: Beliavsky, Alexander G. - Portisch, Lajos; Szirak HUN; 1987.08.05; 0-1; https://lichess.org/study/HU8KOi8j/bddWOEa7
 
-Game fragment*: Alekhine, Alexander - Yates, Fred Dewhirst, Hastings ENG, 1926.01.01, https://lichess.org/study/uUaMniQc/ZCyFInAR
+Game*: Benko, Pal - Keres, Paul; Los Angeles; 1963.??.??; 0-1; https://lichess.org/study/2a0vxusd/L4EPCQWS
 
-Game fragment*: Alexander, Conel Hughes - Pachman, Ludek, Hilversum, 1947.??.??, https://lichess.org/study/eD6ECZu4/WgD81Nla
+Game*: Benko, Pal - Najdorf, Miguel; Los Angeles, CA USA; 1963.07.14; 1-0; https://lichess.org/study/6nWh4o7P/RU45umi7
 
-Game*: Alexander, Conel Hughes - Pachman, Ludek, Hilversum, 1947.??.??, https://lichess.org/study/eD6ECZu4/fdSJfjEE
+Game: Berger, Johann - Frolich; Graz, Austria; 1888.??.??; 1-0; https://lichess.org/study/tmHOF54H/xq6sEKNH
 
-Game*: Alexander, Conel Hughes - Szabo, Laszlo, Hilversum, 1947.??.??, https://lichess.org/study/amMc8Mig/MbwwR1NR
+Game*: Berger, Johann Nepomuk - Tarrasch, Siegbert; Frankfurt; 1887.07.18; 1/2-1/2; https://lichess.org/study/e7ARwPCA/vAD3tQ3i
 
-Game*: Algo31 - HowToWinAtChess, Chess.com, 2026.07.02, https://lichess.org/study/gDTJBYjY/BtaUEtvm
+Game*: Berger, Johann Nepomuk - Tarrasch, Siegbert; Hamburg; 1885.07.13; 1/2-1/2; https://lichess.org/study/e7ARwPCA/kgzleqD6
 
-Game: Allies - Nimzowitsch, A., Leipzig, 1926.??.??, https://lichess.org/study/EDmMFcbv/hzQ6HgUx
+Game: Berger, Johann Nepomuk - Tarrasch, Siegbert; Leipzig GER; 1894.09.04; 0-1; https://lichess.org/study/UQieNXft/HJvEIu4z
 
-Game: Almasi, Zoltan - Aagaard, Jacob, Istanbul, 2012.09.07, https://lichess.org/study/dl0ynDGz/wSxGiulV
+Game*: Bernstein, Bernhard - Mieses, Jacques; 1904.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/ub72vH7N
 
-Game*: Aloni, Izak - Kotov, Alexander, 1954.??.??, https://lichess.org/study/NHyuBHth/DmYKmF4b
+Game: Bernstein, Ossip - Metger, Johannes; Ostend; 1907.??.??; 1-0; https://lichess.org/study/tmHOF54H/RHJ9TQu6
 
-Game*: Aloni, Izak - Matanovic, Aleksandar, 1966.??.??, https://lichess.org/study/5mW5ZvOp/rRWD4vvg
+Game*: Bernstein, Ossip - Mieses, Jacques; Coburg; 1904.??.??; 1-0; https://lichess.org/study/NHyuBHth/E2UQs8lp
 
-Game*: Amateur - Master, CMvCA, https://lichess.org/study/CBbAq8hw/TQf43opt
+Game*: Bernstein, Ossip - Najdorf, Miguel; Montevideo; 1954.??.??; 1-0; https://lichess.org/study/2a0vxusd/uwpAk119
 
-Game*: Amateur - Master, CMvCA, https://lichess.org/study/0YKgx0L1/LqEVSQb9
+Game*: Bertok, Mario - Fischer, Robert James; 1962.??.??; 0-1; https://lichess.org/study/amMc8Mig/gS4x0KcS
 
-Game*: Amateur - Master, CMvCA, https://lichess.org/study/0YKgx0L1/C4Qw8FwA
+Game*: Bhend, Edwin - Petrosian, Tigran; 1961.??.??; 0-1; https://lichess.org/study/E787KvJ9/1k3VEVvw
 
-Game*: Amateur - Master, CMvCA, https://lichess.org/study/CBbAq8hw/EaIZAeAy
+Game*: Bilek, Istvan - Smyslov, Vasily; Polanica Zdroj (Poland); 1968.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/CvHVFFWF
 
-Game*: Amateur - Master, CMvCA, https://lichess.org/study/0YKgx0L1/XvJph4V4
+Game: Bird, Henry Edward - NN; TAOTC; 1880.??.??; 1-0; https://lichess.org/study/OMNHm3q5/XeHf5kIJ
 
-Game*: Amateur - Master, CMvCA, https://lichess.org/study/CBbAq8hw/TaUCXcTs
+Game: Bird, Henry Edward - Morphy, Paul; London; 1858.??.??; 0-1; https://lichess.org/study/MNnC56w2/4RLm7XkV
 
-Game*: Amateur - Master, CMvCA, https://lichess.org/study/0YKgx0L1/WZeNScKh
+Game: Bird, Henry Edward - Tarrasch, Siegbert; Hamburg Kongress; 1885.??.??; 0-1; https://lichess.org/study/PVzIGg2F/oxSjdaP3
 
-Game*: Amateur - Master, CMvCA (dup #18), https://lichess.org/study/0YKgx0L1/3qQfpFzw
+Game*: Bird, Henry Edward - Tarrasch, Siegbert; Manchester; 1890.??.??; 1/2-1/2; https://lichess.org/study/pdteMCe2/1nPlRG60
 
-Game*: Amateur - Master, CMvCA (dup #18), https://lichess.org/study/CBbAq8hw/XkbzsUTB
+Game: Blackburne, Joseph Henry - Schwartz; Berlin; 1881.??.??; 1-0; https://lichess.org/study/XH8xSdBs/87ZKimf0
 
-Game*: Amateur - Master, CMvCA (dup #20), https://lichess.org/study/0YKgx0L1/cZEMJsUa
+Game*: Blackburne, Joseph Henry - Blanchard, George H.; 1891.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/zvkHx9dn
 
-Game*: Amateur - Master, CMvCA (dup #20), https://lichess.org/study/CBbAq8hw/wbmkDD40
+Game: Blackburne, Joseph Henry - Lasker, Emanuel; London ENG; 1892.06.07; 0-1; https://lichess.org/study/P33p6LIH/LQ6ESvxC
 
-Game*: Amateur - Master, CMvCA (dup #4), https://lichess.org/study/0YKgx0L1/om6R6NZk
+Game*: Blackburne, Joseph Henry - Nimzowitsch, Aron; St. Petersburg; 1914.??.??; 1-0; https://lichess.org/study/EDmMFcbv/5acqkzzW
 
-Game*: Amateur - Master, CMvCA (dup #4), https://lichess.org/study/CBbAq8hw/Jl2yoOIK
+Game: Blackburne, Joseph Henry - Steinitz, William; London ENG; 1863.??.??; 0-1; https://lichess.org/study/P33p6LIH/lJTlOkva
 
-Game*: Amateur - Master, CMvCA (dup #5), https://lichess.org/study/0YKgx0L1/Vw5VpUf5
+Game*: Blackburne, Joseph Henry - Steinitz, William; London ENG; 1876.02.24; 0-1; https://lichess.org/study/mj8UtUBc/ltjNIriT
 
-Game*: Amateur - Master, CMvCA (dup #5), https://lichess.org/study/CBbAq8hw/ipqUPplH
+Game: Blackburne, Joseph Henry - Tarrasch, Siegbert; 07.25 R15 GER Breslau; 1889.??.??; 0-1; https://lichess.org/study/bELN6Owi/CFyMkYXh
 
-Game*: Amateur - Master, CMvCA (dup #6), https://lichess.org/study/0YKgx0L1/dz5XCr8y
+Game: Blackburne, Joseph Henry - Tarrasch, Siegbert; 09; 1887.??.??; 1-0; https://lichess.org/study/e7ARwPCA/nSXMiovE
 
-Game*: Amateur - Master, CMvCA (dup #6), https://lichess.org/study/CBbAq8hw/VqbepKNL
+Game: Blackburne, Joseph Henry - Tarrasch, Siegbert; 17; 1885.??.??; 1-0; https://lichess.org/study/e7ARwPCA/RiLGsFzv
 
-Game*: Amateur - Master, CMvCA (dup #7), https://lichess.org/study/0YKgx0L1/NVewWZWO
+Game: Blackburne, Joseph Henry - Tarrasch, Siegbert; Leipzig GER; 1894.09.12; 1-0; https://lichess.org/study/UQieNXft/9r4wIJgn
 
-Game*: Amateur - Master, CMvCA (dup #7), https://lichess.org/study/0YKgx0L1/ecDYTHpX
+Game: Blom, Kees - Jensen, V.; Denmark; 1934.??.??; 1-0; https://lichess.org/study/XH8xSdBs/JoyEJozy
 
-Game*: Amateur - Master, CMvCA (dup #7), https://lichess.org/study/CBbAq8hw/sIJXzvdZ
+Game*: Bluemich, Max - Becker, Albert; Breslau; 1925.??.??; 0-1; https://lichess.org/study/rzdDzNB4/MHmZ1Keq
 
-Game*: Amateur - Master, CMvCA (dup #8), https://lichess.org/study/0YKgx0L1/Rohs4vTT
+Game*: Bobotsov, Milko - Keres, Paul; 1964.??.??; 0-1; https://lichess.org/study/E787KvJ9/NkQf6nr0
 
-Game*: Amateur - Master, CMvCA (dup #8), https://lichess.org/study/CBbAq8hw/Sf0vj8xt
+Game*: Bogoljubov, Efim - Alekhine, Alexander; Karlsbad; 1923.??.??; 0-1; https://lichess.org/study/fxEOlxbq/e23yIDaj
 
-Game*: Amateur - Master, CMvCA (dup #9), https://lichess.org/study/0YKgx0L1/4ZFG5vrW
+Game*: Bogoljubov, Efim - Lasker, Edward; New York; 1924.??.??; 1-0; https://lichess.org/study/NHyuBHth/qxwP0xlS
 
-Game*: Amateur - Master, CMvCA (dup #9), https://lichess.org/study/CBbAq8hw/76CnnrrH
+Game: Bogoljubov, Efim - Mieses, Jacques; Baden-Baden GER; 1925.04.21; 1-0; https://lichess.org/study/P33p6LIH/1CfYjTNq
 
-Game*: Amateur - Master, RTCM, https://lichess.org/study/IDpn2okt/Usme9mBl
+Game*: Bogoljubov, Efim - Monticelli, Mario; San Remo; 1930.??.??; 0-1; https://lichess.org/study/xG5sFI6f/Uk3gVRAK
 
-Game: Amateur - Master, RTCM, https://lichess.org/study/wOzb5Wrb/aATdXMCa
+Game: Bogoljubov, Efim - Nimzowitsch, Aron; London; 1927.??.??; 0-1; https://lichess.org/study/EDmMFcbv/UQuKB6Ff
 
-Game: Amateur - Master, RTCM, https://lichess.org/study/wOzb5Wrb/3HDgDbB7
+Game*: Bogoljubov, Efim - Reti, Richard; 1923.??.??; 0-1; https://lichess.org/study/amMc8Mig/BulfgQmt
 
-Game: Amateur - Master, RTCM, https://lichess.org/study/wOzb5Wrb/rkGJtsNf
+Game*: Bogoljubov, Efim - Reti, Richard; New York; 1924.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/Xe2Qhj5r
 
-Game*: Amateur - Master, RTCM, https://lichess.org/study/IDpn2okt/VQIU4IHr
+Game*: Bogoljubov, Efim - Thomas, George Alan; Hastings; 1922.??.??; 1-0; https://lichess.org/study/NHyuBHth/5xJjsrt9
 
-Game*: Amateur - Master, RTCM, https://lichess.org/study/IDpn2okt/rElIwfeL
+Game: Bogoljubov, Efim - Wolf, Heinrich; Piestany CSR; 1922.04.25; 1-0; https://lichess.org/study/P33p6LIH/ksY61A2e
 
-Game: Amateur - Master, RTCM, https://lichess.org/study/wOzb5Wrb/463BwS0E
+Game*: Boleslavsky, Isaak - Lisitsin, Georgy; Mosca; 1945.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/lGaSELmA
 
-Game*: Amateur - Master, RTCM, https://lichess.org/study/IDpn2okt/VJGVElwP
+Game*: Bologan, Viktor Antonovich - Esen, Baris; Konya TUR; 2012.07.14; 1-0; https://lichess.org/study/AxW3sYhA/LbD1PxT8
 
-Game*: Amateur - Master, RTCM (dup #41), https://lichess.org/study/IDpn2okt/8cgqyBdX
+Game*: Bologan, Viktor Antonovich - Topalov, Veselin; Eilat ISR; 2012.10.17; 0-1; https://lichess.org/study/dl0ynDGz/Re6PlerX
 
-Game: Amateur - Master, RTCM (dup #41), https://lichess.org/study/wOzb5Wrb/4EkSrAbi
+Game*: Bondarevsky, Igor - Botvinnik, Mikhail; Leningrad- Moscow URS; 1941.04.27; 0-1; https://lichess.org/study/1O0UELn6/efkxhMhp
 
-Game*: Amateur - Master, RTCM (dup #42), https://lichess.org/study/IDpn2okt/Jb0qpe5v
+Game*: Bondarevsky, Igor - Lilienthal, Andor; 1941.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/j4SkOEj7
 
-Game: Amateur - Master, RTCM (dup #42), https://lichess.org/study/wOzb5Wrb/nviRpbyl
+Game*: Bondarevsky, Igor - Smyslov, Vasily; 1946.??.??; 0-1; https://lichess.org/study/sDsyelY0/GS5ni9Xa
 
-Game*: Amateur - Master, RTCM (dup #46), https://lichess.org/study/IDpn2okt/xKywDMm5
+Game*: Bosboom, Manuel - Afek, Yochanan; 1987.??.??; 0-1; https://lichess.org/study/E787KvJ9/TCcsg1Y4
 
-Game: Amateur - Master, RTCM (dup #46), https://lichess.org/study/wOzb5Wrb/7vCD7ftb
+Game*: Botvinnik, Mikhail - Alekhine, Alexander; Amsterdam; 1938.??.??; 1-0; https://lichess.org/study/amMc8Mig/oMNbVvoQ
 
-Game*: Amateur - Master, RTCM (dup #47), https://lichess.org/study/IDpn2okt/UR955B8B
+Game*: Botvinnik, Mikhail - Bronstein, David I; Mosca; 1951.??.??; 1-0; https://lichess.org/study/k4B16BhD/BokXncwr
 
-Game: Amateur - Master, RTCM (dup #47), https://lichess.org/study/wOzb5Wrb/1F3ne5Bg
+Game*: Botvinnik, Mikhail - Chekhover, Vitaly; Leningrado; 1973.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/UIYNzHoa
 
-Game: Three Swedish Amateurs - Nimzowitsch, A., 1921.??.??, https://lichess.org/study/EDmMFcbv/S3FGP8gU
+Game*: Botvinnik, Mikhail - Donner, Jan Hein; Amsterdam NED; 1963.12.15; 1-0; https://lichess.org/study/6nWh4o7P/ok8Da846
 
-Game*: Amos - Martz, 1971.??.??, https://lichess.org/study/amMc8Mig/T9kDWbpX
+Game*: Botvinnik, Mikhail - Euwe, Max; Groningen; 1946.??.??; 1/2-1/2; https://lichess.org/study/k4B16BhD/rcEGWbjn
 
-Game*: Andersen, Mads - Szabo, Krisztian, Budapest HUN, 2013.9.7, https://lichess.org/study/wAhu1kg2/KxGd6Vo4
+Game*: Botvinnik, Mikhail - Flohr, Salo; 1936.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/Zr9C83b9
 
-Game fragment*: Anderssen - Kierseritzky, 1851.??.??, https://lichess.org/study/57Oq4l6Z/uYkKKu6s
+Game*: Botvinnik, Mikhail - Golombek, Harry; Moscow URS; 1956.09.10; 1-0; https://lichess.org/study/eUChNfwg/qSLxh942
 
-Game fragment*: Anderssen - Morphy, 1858.??.??, https://lichess.org/study/57Oq4l6Z/HDvzn4Ly
+Game*: Botvinnik, Mikhail - Kan, Ilia Abramovich; Leningrado; 1973.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/sUFiLCvf
 
-Game fragment: Anderssen - NN, TAOTC, https://lichess.org/study/XH8xSdBs/28Yu7ZT4
+Game*: Botvinnik, Mikhail - Keres, Paul; Mosca; 1948.??.??; 1-0; https://lichess.org/study/NHyuBHth/XTKOTDzl
 
-Game fragment*: Anderssen - Zukertort, Barmen, 1869.??.??, https://lichess.org/study/XH8xSdBs/cIeiFEJO
+Game*: Botvinnik, Mikhail - Kholmov, Ratmir; Moscow; 1969.??.??; 1-0; https://lichess.org/study/NHyuBHth/VD2AVTQM
 
-Game: Anderssen, A. - Lange, Max, Breslau, 1859.??.??, https://lichess.org/study/OMNHm3q5/5skTGvqG
+Game*: Botvinnik, Mikhail - Konstantinopolsky, Alexander; Sverdlovsk; 1943.??.??; 1-0; https://lichess.org/study/NHyuBHth/o5H7JUnY
 
-Game: Anderssen, A. - Wyvill, M., London, 1851.??.??, https://lichess.org/study/OMNHm3q5/uhRRmjwe
+Game*: Botvinnik, Mikhail - Levenfish, Grigory; 1937.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/59r2JEY3
 
-Game: Anderssen, Adolf - Dufresne, Jean, Berlin, 1854.??.??, https://lichess.org/study/tmHOF54H/NNbCmhpU
+Game*: Botvinnik, Mikhail - Lilienthal, Andor; 1941.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/vLk9cQuv
 
-Game: Anderssen, Adolf - Morphy, Paul, Paris FRA, 1858.12.??, https://lichess.org/study/MNnC56w2/GBWk8L2f
+Game*: Botvinnik, Mikhail - Pachman, Ludek; 1961.??.??; 1-0; https://lichess.org/study/2a0vxusd/Szn3LlkV
 
-Game: Anderssen, Adolf - Morphy, Paul, Paris, 1858.??.??, https://lichess.org/study/MNnC56w2/NZpi4reQ
+Game*: Botvinnik, Mikhail - Petrosian, Tigran; Mosca; 1963.??.??; 1-0; https://lichess.org/study/uDpA956I/Z7dVPD70
 
-Game: Anderssen, Adolf - Paulsen, Louis, Vienna AUH, 1873.08.05, https://lichess.org/study/P33p6LIH/yhTw63sS
+Game*: Botvinnik, Mikhail - Reshevsky, Samuel Herman; Holland; 1938.??.??; 1-0; https://lichess.org/study/E787KvJ9/69NkYBUn
 
-Game*: Andersson, Ulf - Medina Garcia, Antonio Angel, Palma de Mallorca, 1972.??.??, https://lichess.org/study/NHyuBHth/XIpGxFKM
+Game*: Botvinnik, Mikhail - Pomar Salamanca, Arturo; Varna (Bulgaria); 1962.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/sm0EkzNc
 
-Game*: Andersson, Ulf - Gruenfeld, Yehuda, (Switzerland), 1982.??.??, https://lichess.org/study/2a0vxusd/4DUnFCE2
+Game*: Botvinnik, Mikhail - Smyslov, Vasily; Mosca; 1957.??.??; 0-1; https://lichess.org/study/amMc8Mig/wfaVCgw3
 
-Game*: Andersson, Ulf - Knaak, Rainer, Camaguey, 1974.??.??, https://lichess.org/study/6nWh4o7P/1GZaoDYM
+Game*: Botvinnik, Mikhail - Smyslov, Vasily; Moscow URS; 1954.04.15; 0-1; https://lichess.org/study/1O0UELn6/Vi1pHIHN
 
-Game*: Andersson, Ulf - Larsen, Bent, 1975.??.??, https://lichess.org/study/2a0vxusd/uPzcDa9k
+Game*: Botvinnik, Mikhail - Smyslov, Vasily; Moscow; 1957.03.05; 0-1; https://lichess.org/study/rzdDzNB4/nUnGPFz1
 
-Game*: Andreikin, Dmitry - Kramnik, Vladimir, Dortmund GER, 2013.08.02, https://lichess.org/study/AxW3sYhA/kyCYK4gs
+Game*: Botvinnik, Mikhail - Sorokin, Nikolay; Mosca; 1961.??.??; 1-0; https://lichess.org/study/uDpA956I/ptcAGUtN
 
-Game*: annon - annon, 2021.01.23, https://lichess.org/study/wKvZqliN/xEu1RI1B
+Game*: Botvinnik, Mikhail - Szilagyi, Gyorgy; Amsterdam NED; 1966.07.05; 1-0; https://lichess.org/study/6nWh4o7P/URSeXzlk
 
-Game: annon - annon, 2021.01.23, https://lichess.org/study/wKvZqliN/7s1Lb85U
+Game*: Botvinnik, Mikhail - Tal, Mikhail; Mosca; 1961.??.??; 1-0; https://lichess.org/study/NHyuBHth/S3koHrgy
 
-Game*: annon - annon, 2021.01.23 (dup #52), https://lichess.org/study/1aEGRAvH/8PoixsXv
+Game*: Botvinnik, Mikhail - Tal, Mikhail; Mosca; 1961.??.??; 1-0; https://lichess.org/study/k4B16BhD/1Am5LkHI
 
-Game: annon - annon, 2021.01.23 (dup #52), https://lichess.org/study/4UqvJzgp/g2m1F3l2
+Game*: Botvinnik, Mikhail - Zagoriansky, Evgeny; Sverdlovsk; 1943.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/1wIcVagA
 
-Game*: annon - annon, 2021.01.23 (dup #52), https://lichess.org/study/wKvZqliN/rJepGP4B
+Game*: Bouaziz, Slim - Beliavsky, Alexander G.; Szirak; 1987.??.??; 0-1; https://lichess.org/study/dl0ynDGz/AUMzsOew
 
-Game*: annon - annon, 2021.01.23 (dup #53), https://lichess.org/study/1aEGRAvH/1j04V3sZ
+Game*: Braga, Fernando - Karpov, Anatoly; Mar del Plata; 1982.??.??; 0-1; https://lichess.org/study/NHyuBHth/ltzF5yJn
 
-Game: annon - annon, 2021.01.23 (dup #53), https://lichess.org/study/4UqvJzgp/TWJek1rt
+Game: Brinckmann, Alfred - Nimzowitsch, Aron; Bad Niendorf GER; 1927.08.07; 0-1; https://lichess.org/study/P33p6LIH/HShNUAu5
 
-Game*: annon - annon, 2021.01.23 (dup #53), https://lichess.org/study/wKvZqliN/w2wPdHE0
+Game: Brkic, Ante - Kovacevic, Aleksandar; Zadar; 2010.12.17; 0-1; https://lichess.org/study/wAhu1kg2/GIIT0g4l
 
-Game*: annon - annon, 2021.01.23 (dup #54), https://lichess.org/study/1aEGRAvH/8JuvmDSL
+Game*: Bronstein, David I - Boleslavsky, Isaak; Mosca; 1950.??.??; 1-0; https://lichess.org/study/k4B16BhD/JjzN736w
 
-Game*: annon - annon, 2021.01.23 (dup #54), https://lichess.org/study/4UqvJzgp/bwAgn7QV
+Game*: Bronstein, David I - Byrne, Robert E.; Helsinki; 1952.??.??; 0-1; https://lichess.org/study/fxEOlxbq/pyJrjWCf
 
-Game*: annon - annon, 2021.01.23 (dup #54), https://lichess.org/study/wKvZqliN/E34qEQEU
+Game*: Bronstein, David I - Olafsson, Fridrik; Portoroz; 1958.??.??; 1-0; https://lichess.org/study/2a0vxusd/2rU9pVtZ
 
-Game: annon - annon, 2021.01.27, https://lichess.org/study/wKvZqliN/niqHNQ8r
+Game*: Bronstein, David I - Panno, Oscar; 1954.??.??; 1-0; https://lichess.org/study/k4B16BhD/a5mNFurj
 
-Game*: annon - annon, 2021.01.27, https://lichess.org/study/wKvZqliN/eCfwuZ3P
+Game*: Bronstein, David I - Pilnik, Herman; 1954.??.??; 1-0; https://lichess.org/study/uDpA956I/h8JaaEWb
 
-Game: annon - annon, 2021.01.28, https://lichess.org/study/wKvZqliN/tHUoAQse
+Game*: Bronstein, David I. - Lutikov, Anatoly; 1960.01.27; 1-0; https://lichess.org/study/hnwliF9Y/IG7Kg03C
 
-Game: annon - annon, 2021.01.28, https://lichess.org/study/wKvZqliN/KwbPlaFs
+Game*: Brown, George - Thomas, George Alan; Southsea; 1949.??.??; 0-1; https://lichess.org/study/rgKjJhUJ/FtnWjvn9
 
-Game: annon - annon, 2021.01.29, https://lichess.org/study/4UqvJzgp/NJUJOgrS
+Game: Brown, George Bernard - Essery, Arthur George; TAOTC; 1913.??.??; 1-0; https://lichess.org/study/OMNHm3q5/CaOX85Cz
 
-Game*: annon - annon, 2021.01.30, https://lichess.org/study/1aEGRAvH/TcudbLEn
+Game*: Browne, Walter - Grefe, John; Oberlin; 1975.??.??; 1-0; https://lichess.org/study/NHyuBHth/PygIZehf
 
-Game*: Antonio_Ht_Nave - HowToWinAtChess, Chess.com, 2025.11.09, https://lichess.org/study/P3XM0aKf/65518aIC
+Game*: Brynell, Stellan - Pavlidis, Anastasios; Bugibba MLT; 2012.11.21; 0-1; https://lichess.org/study/wAhu1kg2/yGx0Xy9G
 
-Game*: Areshchenko, Alexander - Vovk, Yuri, Kiev UKR, 2011.06.12, https://lichess.org/study/wAhu1kg2/P6wysRsQ
+Game: Budzinski, Wincenty - Morphy, Paul; Paris FRA; 1858.??.??; 0-1; https://lichess.org/study/MNnC56w2/ZFqeerpm
 
-Game*: arikrnwn - HowToWinAtChess, Chess.com, 2025.10.30, https://lichess.org/study/P3XM0aKf/5NO4LkK0
+Game: Burg, Twan - Cordova, Emilio; Barcelona; 2011.08.24; 0-1; https://lichess.org/study/dl0ynDGz/7oYERjMr
 
-Game*: Arkhipov, Vladimir - Bogdanovich, Stanislav, Yuzhny, 2008.09.23, https://lichess.org/study/3Aw3IIVA/60GHYAxC
+Game*: Burn, Amos - Alekhine, Alexander; Karlsbad; 1911.??.??; 1-0 (dup #8); https://lichess.org/study/sDsyelY0/7tbBi0G9
 
-Game: Arnold - Bohm, Munich, 1932.??.??, https://lichess.org/study/tmHOF54H/7xcNubUv
+Game*: Burn, Amos - Alekhine, Alexander; Karlsbad; 1911.??.??; 1-0 (dup #8); https://lichess.org/study/uUaMniQc/hyO7p8m1
 
-Game: Aronian, Levon - Carlsen, Magnus, Nice, 2010.03.14, https://lichess.org/study/wAhu1kg2/qQPRu6xH
+Game*: Burn, Amos - Marshall, Frank James; Ostend BEL; 1907.06.10; 0-1; https://lichess.org/study/6nWh4o7P/IYy3Wp1R
 
-Game*: Aronian, Levon - Navara, David, Wijk aan Zee NED, 2012.01.27, https://lichess.org/study/AxW3sYhA/AaF8H0PD
+Game*: Burn, Amos - Tarrasch, Siegbert; Breslau; 1889.??.??; 1/2-1/2; https://lichess.org/study/bELN6Owi/1n4ARO4s
 
-Game*: Aronian, Levon - Stevic, Hrvoje, Porto Carras GRE, 2011.11.06, https://lichess.org/study/AxW3sYhA/kbkkyQoo
+Game: Burn, Amos - Tarrasch, Siegbert; DSB-5 Frankfurt; 1887.??.??; 1-0; https://lichess.org/study/e7ARwPCA/tZxCaipI
 
-Game: Aronian, Levon - Tomashevsky, Evgeny, Tromso, 2013.08.17, https://lichess.org/study/AxW3sYhA/mbICfKEi
+Game*: Byrne, David - Benko, Pal; 1958.??.??; 0-1; https://lichess.org/study/InR4tjnm/LdRzBKES
 
-Game*: Aronian, Levon - Zhao, Zong Yuan, Khanty-Mansiysk, 2010.09.22, https://lichess.org/study/AxW3sYhA/IjSHGcK4
+Game*: Byrne, Donald - Fischer, Robert James; New York, NY USA; 1956.10.17; 0-1; https://lichess.org/study/vJTD9Iyi/0wwOVyI4
 
-Game fragment*: Aronin - Boleslavsky, 1952.??.??, https://lichess.org/study/cev86fwf/JPgz5IW3
+Game*: Byrne, Robert E. - Eliskases, Erich Gottlieb; Helsinki; 1952.??.??; 1-0; https://lichess.org/study/xG5sFI6f/o7zVhuOl
 
-Game: Arutinian, David - Efimenko, Zahar, Dresden, 2007.04.13, https://lichess.org/study/wAhu1kg2/uD5gC5wZ
+Game*: Byrne, Robert E. - Fischer, Robert James; New York; 1963.??.??; 0-1; https://lichess.org/study/E787KvJ9/QCMlgRDP
 
-Game*: asphaltchessplayer - HowToWinAtChess, Chess.com, 2026.04.21, https://lichess.org/study/rG6bFitI/43zkN2Ce
+Game*: Byrne, Robert E. - Kotov, Alexander; New York; 1954.??.??; 0-1; https://lichess.org/study/xG5sFI6f/0eXAlGDe
 
-Game*: Atanasov, Gospodin - Hort, Vlastimil, 1973.??.??, https://lichess.org/study/5mW5ZvOp/xXDrNXnP
+Game*: Byrne, Robert E. - Kotov, Alexander; New York; 1954.??.??; 1/2-1/2; https://lichess.org/study/xG5sFI6f/Kfqven0f
 
-Game*: Atkins, Henry Ernest - Capablanca, Jose Raul, London BCF Congress, 1922.08.14, https://lichess.org/study/aAtElCsv/yPxj8Ojp
+Game*: Canal, Esteban - Capablanca, Jose Raul; 1929.??.??; 0-1; https://lichess.org/study/Wn7aMkPy/ctLcv9Xz
 
-Game*: Henry Ernest Atkins - Jose Raul Capablanca, London BCF Congress, 1922.08.14, https://lichess.org/study/6AnWFDzO/q6MVKDdP
+Game*: Canal, Esteban - Rubinstein, Akiba; Karlsbad CSR; 1929.08.20; 0-1 (dup #44); https://lichess.org/study/6AnWFDzO/9WXJ6BYW
 
-Game fragment*: Atkinson - NN, Manchester, 1929.??.??, https://lichess.org/study/tmHOF54H/dxhVTP0r
+Game*: Canal, Esteban - Rubinstein, Akiba; Karlsbad CSR; 1929.08.20; 0-1 (dup #44); https://lichess.org/study/aAtElCsv/E2OpPbk1
 
-Game fragment: Aurbach, A. - NN, Paris, 1913.??.??, https://lichess.org/study/1JWXdF87/wlm8v0GY
+Game*: Canepa, Jose - Alekhine, Alexander; Carrasco; 1938.??.??; 0-1; https://lichess.org/study/rzdDzNB4/Dk9A51nx
 
-Game fragment*: Averbach - Lilienthatl, 1949.??.??, https://lichess.org/study/cev86fwf/Sgmjv3oP
+Game*: Capablanca, Jose Raul - Stahr; Chicago; 1915.03.26; 1-0; https://lichess.org/study/6P90HTwf/rUFBDW1V
 
-Game*: Averbakh, Yuri - Lilienthal, Andor, 1949.??.??, https://lichess.org/study/sDsyelY0/LRfsdCMN
+Game: Capablanca, Jose Raul - Bogoljubov, Efim; Moscow, URS; 1925.12.05; 1-0 (dup #19); https://lichess.org/study/r1NROPIm/VHWBTY7p
 
-Game*: Averbakh, Yuri - Panov, Vasily, 1950.??.??, https://lichess.org/study/sDsyelY0/RTrL7zyD
+Game*: Capablanca, Jose Raul - Bogoljubov, Efim; Moscow, URS; 1925.12.05; 1-0 (dup #19); https://lichess.org/study/r1NROPIm/mwfWWOjQ
 
-Game fragment*: Avner - Gelfer, Israel, 1979.??.??, https://lichess.org/study/NHyuBHth/zc8LDDm3
+Game*: Capablanca, Jose Raul - Bray, Thomas; Birmingham; 1919.10.09; 1-0; https://lichess.org/study/6P90HTwf/1KimMEEX
 
-Game: Awet - NN, TAOTC, https://lichess.org/study/tmHOF54H/1oyn39ze
+Game*: Capablanca, Jose Raul - Dus Chotimirsky, Fedor; 1913.??.??; 1-0; https://lichess.org/study/uDpA956I/EY4Ey3ND
 
-Game*: Azarov, Sergei - Volke, Karsten, Dresden GER, 2007.04.04, https://lichess.org/study/wAhu1kg2/fO8SAOb2
+Game*: Capablanca, Jose Raul - Dus Chotimirsky, Fedor; 2022.01.09; 1-0; https://lichess.org/study/R9GM45QQ/sjRWknja
 
-Game*: Aziz Ortego, Omar Luis - Vazquez Igarza, Renier, Madrid ESP, 2011.9.17, https://lichess.org/study/dl0ynDGz/kWMfbk3J
+Game*: Capablanca, Jose Raul - Dus Chotimirsky, Fedor; 2022.01.22; 1-0; https://lichess.org/study/1DTYYVAE/44eJq1gJ
 
-Game: Babaev, Rashad - Burmakin, Vladimir, Balaguer, 2006.07.21, https://lichess.org/study/wAhu1kg2/mJs7aitb
+Game*: Capablanca, Jose Raul - Corzo, Juan; 1901.??.??; 1-0; https://lichess.org/study/sDsyelY0/yrP2rMub
 
-Game*: Bachmann, Axel - Cornejo, Max, Asuncion, 2009.07.05, https://lichess.org/study/AxW3sYhA/61UjMlKY
+Game*: Capablanca, Jose Raul - Eliskases, Erich Gottlieb; 1936.??.??; 1-0; https://lichess.org/study/k4B16BhD/hkrHEBUK
 
-Game*: Bacrot, Etienne - Edouard, Romain, Caen FRA, 2011.08.23, https://lichess.org/study/AxW3sYhA/KoQ4mzaj
+Game*: Capablanca, Jose Raul - Fine, Reuben; New York; 1931.??.??; 0-1; https://lichess.org/study/k4B16BhD/xJM6Ipky
 
-Game*: Vladimir Bagirov - Eduard Gufeld, Korovabad, 2019.02.15, https://lichess.org/study/drEQ8cYo/VjdDOpOG
+Game*: Capablanca, Jose Raul - Janowski, David; 1913.??.??; 1-0; https://lichess.org/study/amMc8Mig/2w5CRVxW
 
-Game*: Balashov, Yuri - Penrose, Jonathan, Hastings, 1966.??.??, https://lichess.org/study/5mW5ZvOp/zGQrSq29
+Game*: Capablanca, Jose Raul - Janowski, David; Havana; 1913.??.??; 1-0 (dup #43); https://lichess.org/study/6AnWFDzO/ZzkZkr4y
 
-Game fragment*: Balshan - Gutman, Lev, 1980.??.??, https://lichess.org/study/uDpA956I/HpbQjtd9
+Game*: Capablanca, Jose Raul - Janowski, David; Havana; 1913.??.??; 1-0 (dup #43); https://lichess.org/study/aAtElCsv/i01RgQRA
 
-Game*: Barcza, Gideon - Simagin, Vladimir, 1949.??.??, https://lichess.org/study/NHyuBHth/eU6ynjzQ
+Game*: Capablanca, Jose Raul - Janowski, David; New York, NY USA; 1924.04.06; 1-0; https://lichess.org/study/HU8KOi8j/bFx12lRE
 
-Game*: Barda, Olaf - Spassky, Boris V., Bucharest, 1953.??.??, https://lichess.org/study/eD6ECZu4/0Xdi7KcB
+Game*: Capablanca, Jose Raul - Kostic, Borislav; Havana; 1919.??.??; 1-0; https://lichess.org/study/k4B16BhD/lHsD9BLL
 
-Game fragment*: Bardeleben, F. - NN, TAOTC, https://lichess.org/study/1JWXdF87/oTtmin0u
+Game*: Capablanca, Jose Raul - Kupchik, Abraham; Havana CUB; 1913.02.24; 1-0; https://lichess.org/study/h181m9yo/VduAszof
 
-Game fragment*: Barden - NN, 1971.??.??, https://lichess.org/study/amMc8Mig/Pg7sgvBP
+Game*: Capablanca, Jose Raul - Mattison, Hermanis Karlovich; 1929.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/DzYZAgEU
 
-Game: Barnes, Thomas Wilson - Morphy, Paul, London, 1858.??.??, https://lichess.org/study/MNnC56w2/EDa9r8EB
+Game*: Capablanca, Jose Raul - Menchik, Vera; 1935.??.??; 1-0; https://lichess.org/study/uDpA956I/tOGnQHyP
 
-Game: Morphy / Barnes - Staunton / Owen, London ENG, 1858.07.??, https://lichess.org/study/yuifbGYp/nzVzXypr
+Game*: Capablanca, Jose Raul - Reshevsky, Samuel Herman; Nottingham; 1936.??.??; 1-0; https://lichess.org/study/sDsyelY0/nWalBhC0
 
-Game*: Bartholomew, John - Gareev, Timur, USA, 2009.??.??, https://lichess.org/study/dl0ynDGz/3l7o8MIM
+Game*: Capablanca, Jose Raul - Salwe, Georg; 1911.??.??; 1-0; https://lichess.org/study/uDpA956I/0AllVd2B
 
-Game fragment*: Baslavskij - Kondratiev, 1947.??.??, https://lichess.org/study/NHyuBHth/qPflFcJa
+Game: Capablanca, Jose Raul - Spielmann, Rudolf; New York, NY USA; 1927.03.09; 1-0; https://lichess.org/study/P33p6LIH/ezSSF19t
 
-Game*: Bauer, Christian - McShane, Luke, Germany, 2003.11.02 (dup #86), https://lichess.org/study/wAhu1kg2/7CXDrkJZ
+Game*: Capablanca, Jose Raul - Spielmann, Rudolf; New York; 1927.??.??; 1-0 (dup #20); https://lichess.org/study/r1NROPIm/mouExFKp
 
-Game*: Bauer, Christian - McShane, Luke, Germany, 2003.11.02 (dup #86), https://lichess.org/study/wAhu1kg2/9hvWIvTr
+Game: Capablanca, Jose Raul - Spielmann, Rudolf; New York; 1927.??.??; 1-0 (dup #20); https://lichess.org/study/r1NROPIm/pVmeBaZN
 
-Game*: Bauer, Johann Hermann - Tarrasch, Siegbert, Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/g7t4bVVP
+Game: Capablanca, Jose Raul - Tartakower, Savielly; New York, NY USA; 1924.03.23; 1-0; https://lichess.org/study/P33p6LIH/MyjXZsqP
 
-Game: Becker, A. - Nimzowitsch, A., Breslau, 1925.??.??, https://lichess.org/study/EDmMFcbv/CqoMj8A0
+Game*: Capablanca, Jose Raul - Tartakower, Savielly; New York, NY USA; 1924.03.23; 1-0; https://lichess.org/study/ZKVgyPVR/43thg0jS
 
-Game*: Advanced Beginner - Lv.100 Level 1, 2018.12.20, https://lichess.org/study/JRibbCDy/v3IzCXhz
+Game*: Capablanca, Jose Raul - Tartakower, Savielly; New York; 1924.??.??; 1-0; https://lichess.org/study/k4B16BhD/atJAaABe
 
-Game*: Advanced Beginner - Lv.100 Level 10, 2018.12.20, https://lichess.org/study/JRibbCDy/VdVAOfEL
+Game*: Capablanca, Jose Raul - Teichmann, Richard; 1913.??.??; *; https://lichess.org/study/1DTYYVAE/FuGayQs1
 
-Game*: Advanced Beginner - Lv.100 Level 100, 2019.01.18, https://lichess.org/study/JRibbCDy/1O5x2ZOd
+Game*: Capablanca, Jose Raul - Teichmann, Richard; Berlin GER; 1913.11.20; 1-0; https://lichess.org/study/h181m9yo/Re6QroZa
 
-Game*: Advanced Beginner - Lv.100 Level 20, 2018.12.20, https://lichess.org/study/JRibbCDy/m6TW9eW0
+Game*: Capablanca, Jose Raul - Treybal, Karel; Karlsbad CSR; 1929.08.11; 1-0; https://lichess.org/study/lmGZTMl3/aKCp1ELB
 
-Game*: Advanced Beginner - Lv.100 Level 30, 2019.01.14, https://lichess.org/study/JRibbCDy/nYL36JUz
+Game: Capablanca, Jose Raul - Vidmar, Milan Sr; New York, NY USA; 1927.03.08; 1-0; https://lichess.org/study/P33p6LIH/GdB3kQwq
 
-Game*: Advanced Beginner - Lv.100 Level 40, 2019.01.14, https://lichess.org/study/JRibbCDy/H9sQs3CY
+Game*: Capablanca, Jose Raul - Villegas, Benito Higinio; 1914.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/oDgQlf7R
 
-Game*: Advanced Beginner - Lv.100 Level 5, 2018.12.20, https://lichess.org/study/JRibbCDy/u21MELry
+Game*: Capablanca, Jose Raul - Villegas, Benito Higinio; Buenos Aires ARG; 1914.08.19; 1-0; https://lichess.org/study/InR4tjnm/rJP04BOf
 
-Game*: Advanced Beginner - Lv.100 Level 60, 2019.01.16, https://lichess.org/study/JRibbCDy/VBaEkDCm
+Game*: Capablanca, Jose Raul - Zubarev, Nikolay; 1925.??.??; 1-0; https://lichess.org/study/uDpA956I/z2MiwmrH
 
-Game*: Advanced Beginner - Lv.100 Level 70, 2019.01.17, https://lichess.org/study/JRibbCDy/K6Ay0PmT
+Game*: Carlsen, Magnus - Anand, Viswanathan; Moscow RUS; 2013.06.18; 1-0; https://lichess.org/study/AxW3sYhA/rheTQp6u
 
-Game*: Advanced Beginner - Lv.100 Level 8, 2018.12.20, https://lichess.org/study/JRibbCDy/kFRrQllf
+Game: Carlsen, Magnus - McShane, Luke; London; 2009.12.11; 1-0; https://lichess.org/study/dl0ynDGz/neFUhkT8
 
-Game*: Advanced Beginner - Lv.100 Level 80, 2019.01.17, https://lichess.org/study/JRibbCDy/yNfil7qd
+Game*: Carlsen, Magnus - Wang, Hao; Wijk aan Zee; 2011.01.29; 1-0; https://lichess.org/study/wAhu1kg2/BOB0nCq8
 
-Game*: Advanced Beginner - Lv.100 Level 80, 2019.01.17, https://lichess.org/study/JRibbCDy/TZZSF90s
+Game: Carlsen, Magnus - Van Wely, Loek; Wijk aan Zee; 2013.01.14; 1-0; https://lichess.org/study/dl0ynDGz/eE1eCyX3
 
-Game*: Advanced Beginner - Novice, 2018.12.21, https://lichess.org/study/JRibbCDy/Epl8d6jk
+Game*: Carlsen, Magnus - Yue, Wang; Linares ESP; 2009.03.02; 0-1; https://lichess.org/study/AxW3sYhA/MWGqJc7I
 
-Game*: Advanced Beginner - Novice, 2018.12.21, https://lichess.org/study/JRibbCDy/gFwWQYrl
+Game*: Charousek, Rudolf - Pillsbury, Harry Nelson; Budapest; 1896.??.??; 1-0; https://lichess.org/study/k4B16BhD/UPDhxG1M
 
-Game*: Advanced Beginner - Novice, 2018.12.21, https://lichess.org/study/JRibbCDy/jJmowKfL
+Game*: Chekhover, Vitaly - Alatortsev, Vladimir; Leningrado; 1934.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/ouotTvLf
 
-Game*: Beginner - Lv.100 Level 50, 2019.01.15, https://lichess.org/study/JRibbCDy/ZblOYswo
+Game*: Chekhover, Vitaly - Lasker, Emanuel; Moscow; 1935.??.??; 0-1; https://lichess.org/study/sDsyelY0/Gj4zGy8q
 
-Game*: Beginner - Master, CMvCA (dup #2), https://lichess.org/study/0YKgx0L1/oADbB9Dy
+Game*: Chekhover, Vitaly - Rudakovsky, Iosif; 1945.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/ahlELYre
 
-Game*: Beginner - Master, CMvCA (dup #2), https://lichess.org/study/CBbAq8hw/UolXFovZ
+Game*: Chernev, Irving - Hahlbohm, H.; 1942.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/OEYQaPhA
 
-Game*: Alexander Beliavsky - Magnus Carlhammar, La Caleta GIB, 2009.01.27, https://lichess.org/study/dl0ynDGz/xkiP3Ul0
+Game: Cheron, Andre - NN; Leysin, Switzerland; 1929.??.??; 1-0; https://lichess.org/study/tmHOF54H/H4Jsvsdm
 
-Game*: Alexander Beliavsky - Lajos Portisch, Szirak HUN, 1987.08.05, https://lichess.org/study/HU8KOi8j/bddWOEa7
+Game*: Chigorin, Mikhail - Marshall, Frank James; Karlsbad; 1907.??.??; 1-0; https://lichess.org/study/NHyuBHth/EXsqYUsV
 
-Game*: Beliavsky, Alexander - Kasparov, Gary, Mosca, 1983.??.??, https://lichess.org/study/E787KvJ9/WZbs3zKB
+Game*: Chigorin, Mikhail - Tarrasch, Siegbert; Budapest; 1896.??.??; 1-0; https://lichess.org/study/k4B16BhD/AnSdMjmd
 
-Game*: Benjie672422 - HowToWinAtChess, Chess.com, 2026.08.22, https://lichess.org/study/gDTJBYjY/RccJ1Tm4
+Game: Chigorin, Mikhail - Tarrasch, Siegbert; Petersburg (Match); 1893.??.??; 0-1; https://lichess.org/study/UQieNXft/nH49sCqF
 
-Game*: Benko, Pal - Keres, Paul, Los Angeles, 1963.??.??, https://lichess.org/study/2a0vxusd/L4EPCQWS
+Game: Chigorin, Mikhail - Tarrasch, Siegbert; Petersburg (Match); 1893.??.??; 0-1; https://lichess.org/study/UQieNXft/YDlP3C92
 
-Game*: Pal Benko - Miguel Najdorf, Los Angeles, CA USA, 1963.07.14, https://lichess.org/study/6nWh4o7P/RU45umi7
+Game: Chigorin, Mikhail - Tarrasch, Siegbert; Petersburg (Match); 1893.??.??; 0-1; https://lichess.org/study/UQieNXft/OjYpHRZZ
 
-Game fragment*: Bergama - Fischer, 1955.??.??, https://lichess.org/study/cev86fwf/OBEtRiXD
+Game: Chigorin, Mikhail - Tarrasch, Siegbert; Petersburg (Match); 1893.??.??; 1-0; https://lichess.org/study/UQieNXft/oPyUgDZH
 
-Game: Berger, J. - Frolich, Graz, Austria, 1888.??.??, https://lichess.org/study/tmHOF54H/xq6sEKNH
+Game: Chigorin, Mikhail - Tarrasch, Siegbert; Petersburg (Match); 1893.??.??; 1-0; https://lichess.org/study/UQieNXft/iW5Nd0fK
 
-Game*: Berger, Johann Nepomuk - Tarrasch, Siegbert, Hamburg, 1885.07.13, https://lichess.org/study/e7ARwPCA/kgzleqD6
+Game: Chigorin, Mikhail - Tarrasch, Siegbert; Petersburg (Match); 1893.??.??; 1-0; https://lichess.org/study/UQieNXft/5hmuYbHo
 
-Game*: Berger, Johann Nepomuk - Tarrasch, Siegbert, Frankfurt, 1887.07.18, https://lichess.org/study/e7ARwPCA/vAD3tQ3i
+Game: Chigorin, Mikhail - Tarrasch, Siegbert; Petersburg (Match); 1893.??.??; 1-0; https://lichess.org/study/UQieNXft/azbYyb4k
 
-Game: Berger, Johann Nepomuk - Tarrasch, Siegbert, Leipzig GER, 1894.09.04, https://lichess.org/study/UQieNXft/HJvEIu4z
+Game*: Chigorin, Mikhail - Tarrasch, Siegbert; Petersburg (Match); 1893.??.??; 1/2-1/2; https://lichess.org/study/UQieNXft/6PDE9xj3
 
-Game*: Bernstein - Mieses, 1904.??.??, https://lichess.org/study/Wn7aMkPy/ub72vH7N
+Game*: Chigorin, Mikhail - Tarrasch, Siegbert; Petersburg (Match); 1893.??.??; 1/2-1/2; https://lichess.org/study/UQieNXft/S830V6zn
 
-Game fragment*: Bernstein, D. - Murey, 1980.??.??, https://lichess.org/study/k4B16BhD/jdgyj0Ie
+Game*: Chigorin, Mikhail - Tarrasch, Siegbert; Petersburg (Match); 1893.??.??; 1/2-1/2; https://lichess.org/study/UQieNXft/3xXSQuhk
 
-Game: Bernstein, O. S. - Metger, J., Ostend, 1907.??.??, https://lichess.org/study/tmHOF54H/RHJ9TQu6
+Game*: Chigorin, Mikhail - Tarrasch, Siegbert; Petersburg; 1893.??.??; 1-0; https://lichess.org/study/UQieNXft/YhpQs9Cw
 
-Game*: Bernstein, Ossip - Mieses, Jacques, Coburg, 1904.??.??, https://lichess.org/study/NHyuBHth/E2UQs8lp
+Game*: Cintron, Rafael - Botvinnik, Mikhail; 1958.??.??; 0-1; https://lichess.org/study/k4B16BhD/gTxAHhS6
 
-Game*: Bernstein, Ossip - Najdorf, Miguel, Montevideo, 1954.??.??, https://lichess.org/study/2a0vxusd/uwpAk119
+Game*: Ciocaltea, Victor - Barcza, Gedeon; 1956.??.??; 0-1; https://lichess.org/study/uDpA956I/ir1Ttknp
 
-Game*: Bertok, Mario - Fischer, Robert, 1962.??.??, https://lichess.org/study/amMc8Mig/gS4x0KcS
+Game: Cochrane, John - NN; TAOTC; 1-0; https://lichess.org/study/OMNHm3q5/d8VBS6zh
 
-Game fragment*: Betbeder, L. - Tyroler, Hamburg, 1930.??.??, https://lichess.org/study/1JWXdF87/vaSjQAvx
+Game*: Cohn, Erich - Burn, Amos; Karlsbad; 1911.??.??; 1-0; https://lichess.org/study/m0LDLCIA/SyYQx9lK
 
-Game*: Bhend, Edwin - Petrosjan, Tigran, 1961.??.??, https://lichess.org/study/E787KvJ9/1k3VEVvw
+Game*: Cohn, Erich - Rubinstein, Akiba; St. Petersburg RUE; 1909.02.28; 0-1; https://lichess.org/study/LHmryePD/CMlwbJ99
 
-Game*: Bilek, Istvan - Smyslov, Vassily, Polanica Zdroj (Poland), 1968.??.??, https://lichess.org/study/5mW5ZvOp/CvHVFFWF
+Game*: Colle, Edgar - Alekhine, Alexander; San Remo ITA; 1930.02.01; 0-1; https://lichess.org/study/6P90HTwf/fgGgMOU2
 
-Game: Bird, H. E. - NN, TAOTC, 1880.??.??, https://lichess.org/study/OMNHm3q5/XeHf5kIJ
+Game*: Colle, Edgar - Bogoljubov, Efim; Berlin; 1926.??.??; 0-1; https://lichess.org/study/6P90HTwf/W96cSISA
 
-Game: Bird, Henry Edward - Morphy, Paul, London, 1858.??.??, https://lichess.org/study/MNnC56w2/4RLm7XkV
+Game*: Colle, Edgar - Bogoljubov, Efim; London; 1927.??.??; 1/2-1/2; https://lichess.org/study/6P90HTwf/RxRlaQXM
 
-Game: Bird, Henry Edward - Tarrasch, Siegbert, Hamburg Kongress, 1885.??.??, https://lichess.org/study/PVzIGg2F/oxSjdaP3
+Game: Colle, Edgar - Buerger, Victor; Hastings; 1928.01.27; 1-0 (dup #18); https://lichess.org/study/r1NROPIm/2b6gAqmA
 
-Game*: Bird, Henry Edward - Tarrasch, Siegbert, Manchester, 1890.??.??, https://lichess.org/study/pdteMCe2/1nPlRG60
+Game*: Colle, Edgar - Buerger, Victor; Hastings; 1928.01.27; 1-0 (dup #18); https://lichess.org/study/r1NROPIm/9QcIPqFk
 
-Game*: BJSerge - HowToWinAtChess, Chess.com, 2026.04.15, https://lichess.org/study/rG6bFitI/JvYMXjD7
+Game*: Colle, Edgar - Capablanca, Jose Raul; Karlsbad CSR; 1929.08.22; 0-1; https://lichess.org/study/6P90HTwf/41wL1Xtn
 
-Game*: Blackburne - Blanchard, 1891.??.??, https://lichess.org/study/Wn7aMkPy/zvkHx9dn
+Game*: Colle, Edgar - Delvaux, Jean; 1929.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/vraDWkbr
 
-Game fragment*: Blackburne - NN, Kiddermaster, 1863.??.??, https://lichess.org/study/tmHOF54H/agAmrlPo
+Game*: Colle, Edgar - Euwe, Max; Zutphen; 1924.??.??; 1-0; https://lichess.org/study/6P90HTwf/YtNn4KhH
 
-Game: Blackburne - Schwartz, Berlin, 1881.??.??, https://lichess.org/study/XH8xSdBs/87ZKimf0
+Game*: Colle, Edgar - Loman, Rudolf; Scheveningen; 1923.??.??; 1/2-1/2; https://lichess.org/study/6P90HTwf/qeBoOo52
 
-Game*: Blackburne, J. H. - Nimzowitsch, A., St. Petersburg, 1914.??.??, https://lichess.org/study/EDmMFcbv/5acqkzzW
+Game*: Colle, Edgar - Michell, Reginald Pryce; Scarborough; 1930.??.??; 1-0; https://lichess.org/study/6P90HTwf/omQHTftl
 
-Game fragment: Blackburne, J. S. - Lipschutz, New York, 1889.??.??, https://lichess.org/study/1JWXdF87/GV9Ob6Nd
+Game*: Colle, Edgar - O'Hanlon, John James; 1930.??.??; *; https://lichess.org/study/t6bOK7CT/gCDxTWO3
 
-Game fragment: Blackburne, J.H. - NN, TAOTC, https://lichess.org/study/V4VFISZI/acPBpllP
+Game*: Colle, Edgar - O'Hanlon, John James; Nice FRA; 1930.02.??; 1-0 (dup #32); https://lichess.org/study/6P90HTwf/CGy4flIt
 
-Game: Blackburne, Joseph Henry - Lasker, Emanuel, London ENG, 1892.06.07, https://lichess.org/study/P33p6LIH/LQ6ESvxC
+Game*: Colle, Edgar - O'Hanlon, John James; Nice FRA; 1930.02.??; 1-0 (dup #32); https://lichess.org/study/hnwliF9Y/BxqvKBEP
 
-Game: Blackburne, Joseph Henry - Steinitz, Wilhelm, London ENG, 1863.??.??, https://lichess.org/study/P33p6LIH/lJTlOkva
+Game*: Colle, Edgar - Prokes, Ladislav; Budapest; 1929.??.??; 1-0; https://lichess.org/study/6P90HTwf/8wjjmuef
 
-Game: Blackburne, Joseph Henry - Tarrasch, Siegbert, 17, 1885.??.??, https://lichess.org/study/e7ARwPCA/RiLGsFzv
+Game*: Colle, Edgar - Rubinstein, Akiba; San Remo; 1930.??.??; 0-1; https://lichess.org/study/6P90HTwf/ezohuCNS
 
-Game: Blackburne, Joseph Henry - Tarrasch, Siegbert, 09, 1887.??.??, https://lichess.org/study/e7ARwPCA/nSXMiovE
+Game*: Colle, Edgar - Soultanbeieff, Victor Ivanovich; Liege; 1930.08.??; 1-0 (dup #51); https://lichess.org/study/YWzZVLVO/Bo2sW2QU
 
-Game: Blackburne, Joseph Henry - Tarrasch, Siegbert, 07.25 R15 GER Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/CFyMkYXh
+Game*: Colle, Edgar - Soultanbeieff, Victor Ivanovich; Liege; 1930.08.??; 1-0 (dup #51); https://lichess.org/study/YWzZVLVO/QCY1Af1L
 
-Game: Blackburne, Joseph Henry - Tarrasch, Siegbert, Leipzig GER, 1894.09.12, https://lichess.org/study/UQieNXft/9r4wIJgn
+Game*: Colle, Edgar - Soultanbeieff, Victor Ivanovich; Liege; 1930.08.??; 1-0 (dup #51); https://lichess.org/study/YWzZVLVO/VqQS9aMI
 
-Game*: Joseph Henry Blackburne - Wilhelm Steinitz, London ENG, 1876.02.24, https://lichess.org/study/mj8UtUBc/ltjNIriT
+Game*: Colle, Edgar - Soultanbeieff, Victor Ivanovich; Liege; 1930.08.??; 1-0 (dup #51); https://lichess.org/study/YWzZVLVO/hY8J7ol4
 
-Game fragment*: Blau - Golombek, 1955.??.??, https://lichess.org/study/1DTYYVAE/SW33YxnN
+Game*: Colle, Edgar - Soultanbeieff, Victor Ivanovich; Liege; 1930.08.??; 1-0 (dup #51); https://lichess.org/study/YWzZVLVO/lpccdIjY
 
-Game fragment*: Blau - Scheltinga, Van, 1947.??.??, https://lichess.org/study/57Oq4l6Z/Uvw6Q4A5
+Game*: Colle, Edgar - Tarrasch, Siegbert; Baden-Baden; 1925.??.??; 1/2-1/2; https://lichess.org/study/6P90HTwf/J06iU0vl
 
-Game fragment*: Bleiman - Cosulich, 1974.??.??, https://lichess.org/study/E787KvJ9/fDFWEBL9
+Game*: Cordova, Emilio - Naumkin, Igor; Livigno Italy; 2010.09.13; 0-1; https://lichess.org/study/AxW3sYhA/MaoMCJ26
 
-Game fragment*: Bleiman - Veinger, 1984.??.??, https://lichess.org/study/2a0vxusd/533x8LiX
+Game*: Cristia, Jose Maria - Lynch, Julio; Buenos Aires; 1931.??.??; 1-0; https://lichess.org/study/6P90HTwf/sF9MUmJ1
 
-Game: Blom, K. - Jensen, V., Denmark, 1934.??.??, https://lichess.org/study/XH8xSdBs/JoyEJozy
+Game*: Cruz, Raul - Kalkstein, Rodolfo; Tel Aviv; 1964.??.??; 1-0; https://lichess.org/study/uDpA956I/eBLds1a6
 
-Game fragment*: Bluemich, Max - Becker, Albert, Breslau, 1925.??.??, https://lichess.org/study/rzdDzNB4/0noyuiIU
+Game*: Csom, Istvan - Yusupov, Artur; 1982.??.??; 1-0; https://lichess.org/study/2a0vxusd/BPVpFqa0
 
-Game*: Bluemich, Max - Becker, Albert, Breslau, 1925.??.??, https://lichess.org/study/rzdDzNB4/MHmZ1Keq
+Game: Cvitan, Ognjen - Doric, Darko; Rijeka Croatia; 2006.11.16; 1-0; https://lichess.org/study/AxW3sYhA/GTrlydhr
 
-Game*: Bobotsov, Milko - Keres, Paul, 1964.??.??, https://lichess.org/study/E787KvJ9/NkQf6nr0
+Game*: Damjanovic, Mato - Dorfman, Josif; Vilnius; 1978.??.??; 0-1; https://lichess.org/study/2a0vxusd/P0lKVHvF
 
-Game fragment*: Bogatirchuk - Rabinovich, 1923.??.??, https://lichess.org/study/sDsyelY0/nCx0CmBN
+Game*: Damjanovic, Mato - Fischer, Robert James; Buenos Aires; 1970.??.??; 0-1; https://lichess.org/study/sDsyelY0/QgOd9FgB
 
-Game fragment: Bogoljuboff - Monticelli, San Remo, 1930.??.??, https://lichess.org/study/XH8xSdBs/tcjTYRGB
+Game*: Danailov, Silvio - Kasparov, Garry; Dortmund; 1980.08.??; 0-1; https://lichess.org/study/wAhu1kg2/KxkcnBhr
 
-Game: Bogoljubov, Efim - Mieses, Jacques, Baden-Baden GER, 1925.04.21, https://lichess.org/study/P33p6LIH/1CfYjTNq
+Game*: Davidson, Jacques - Alekhine, Alexander; Semmering AUT; 1926.03.14; 0-1; https://lichess.org/study/YuoLOpzE/LVJSHQdM
 
-Game: Bogoljubov, Efim - Wolf, Heinrich, Piestany CSR, 1922.04.25, https://lichess.org/study/P33p6LIH/ksY61A2e
+Game*: Denker, Arnold Sheldon - Feuerstein, Arthur; 1956.??.??; 0-1; https://lichess.org/study/rzdDzNB4/zA8F5Na2
 
-Game*: Bogoljubow, Efim - Alekhine, Alexander, Karlsbad, 1923.??.??, https://lichess.org/study/fxEOlxbq/e23yIDaj
+Game*: Denker, Arnold Sheldon - Fine, Reuben; New York; 1944.04.22; 1-0 (dup #27); https://lichess.org/study/r1NROPIm/0pXGTUaH
 
-Game*: Bogoljubow, Efim - Lasker, Edward, New York, 1924.??.??, https://lichess.org/study/NHyuBHth/qxwP0xlS
+Game: Denker, Arnold Sheldon - Fine, Reuben; New York; 1944.04.22; 1-0 (dup #27); https://lichess.org/study/r1NROPIm/E1ZKKA09
 
-Game*: Bogoljubow, Efim - Monticelli, Mario, San Remo, 1930.??.??, https://lichess.org/study/xG5sFI6f/Uk3gVRAK
+Game*: Denker, Arnold Sheldon - Klein, H. V.; New York; 1944.??.??; 1-0; https://lichess.org/study/1JWXdF87/KNByFTU8
 
-Game*: Bogoljubow, Efim - Reti, Richard, 1923.??.??, https://lichess.org/study/amMc8Mig/BulfgQmt
+Game*: Denker, Arnold Sheldon - Siff, Boris; New York, NY; 1933.02.??; 1-0; https://lichess.org/study/LHmryePD/m1TCnqlb
 
-Game*: Bogoljubow, Efim - Reti, Richard, New York, 1924.??.??, https://lichess.org/study/5mW5ZvOp/Xe2Qhj5r
+Game: Djordjevic, Zoran - Kovacevic, Milorad; Bela Crkva; 1984.??.??; 0-1; https://lichess.org/study/MNnC56w2/QFTiG7Le
 
-Game*: Bogoljubow, Efim - Thomas, George, Hastings, 1922.??.??, https://lichess.org/study/NHyuBHth/5xJjsrt9
+Game*: Dobias, Josef - Podgorny, Frantisek; 1952.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/6dkx28k0
 
-Game fragment*: Bogolyubov - Capablanca, 1924.??.??, https://lichess.org/study/cev86fwf/VEwKWoE9
+Game*: Dominguez Perez, Leinier - Andreikin, Dmitry; Havana CUB; 2011.05.14; 0-1; https://lichess.org/study/dl0ynDGz/8g3HvyxJ
 
-Game fragment*: Bogolyubov - Capablanca, Bad Kissingen, 1928.??.??, https://lichess.org/study/6JAUFQ5p/QeMB93Z7
+Game*: Donner, Johannes - Gligoric, Svetozar; 1968.??.??; 0-1; https://lichess.org/study/E787KvJ9/1jOYtct4
 
-Game: Bogolyubov, E. - Nimzowitsch, A., London, 1927.??.??, https://lichess.org/study/EDmMFcbv/UQuKB6Ff
+Game: Dreev, Alexey - Galic, Ivan; Kallithea; 2008.10.19; 1-0; https://lichess.org/study/40nLE9YK/CeiXPtdv
 
-Game*: Boleslavsky, Isaak - Lisitsin, Georgy, Mosca, 1945.??.??, https://lichess.org/study/5mW5ZvOp/lGaSELmA
+Game: Dubois, Serafino - Steinitz, William; London ENG; 1862.??.??; 0-1; https://lichess.org/study/P33p6LIH/nP5DxfIa
 
-Game*: Bologan, Viktor Antonovich - Esen, Baris, Konya TUR, 2012.07.14, https://lichess.org/study/AxW3sYhA/LbD1PxT8
+Game*: Dzindzichashvili, Roman - Browne, Walter; 1984.??.??; 1-0; https://lichess.org/study/E787KvJ9/dSRSHKcV
 
-Game*: Bologan, Viktor Antonovich - Topalov, Veselin, Eilat ISR, 2012.10.17, https://lichess.org/study/dl0ynDGz/Re6PlerX
+Game*: Dzindzichashvili, Roman - Liberzon, Vladimir; 1978.??.??; 1-0; https://lichess.org/study/2a0vxusd/KUty13A3
 
-Game*: Bondarevsky, Igor - Lilienthal, Andor, 1941.??.??, https://lichess.org/study/5mW5ZvOp/j4SkOEj7
+Game: Eckart, Karl - Tarrasch, Siegbert; Nuremberg; 1890.??.??; 0-1; https://lichess.org/study/pdteMCe2/hMGgJtqm
 
-Game*: Bondarevsky, Igor - Smyslov, Vassily, 1946.??.??, https://lichess.org/study/sDsyelY0/GS5ni9Xa
+Game: Eckart, Karl - Tarrasch, Siegbert; Nuremberg; 1890.??.??; 0-1; https://lichess.org/study/bELN6Owi/2jec4ADT
 
-Game*: Igor Bondarevsky - Mikhail Botvinnik, Leningrad- Moscow URS, 1941.04.27, https://lichess.org/study/1O0UELn6/efkxhMhp
+Game: Eckart, Karl - Tarrasch, Siegbert; Nuremberg; 1890.??.??; 0-1; https://lichess.org/study/bELN6Owi/Xr12csiV
 
-Game*: Bosboom, Manuel - Afek, Yochanan, 1987.??.??, https://lichess.org/study/E787KvJ9/TCcsg1Y4
+Game*: Ehlvest, Jaan - Flores Rios, Mauricio; Sao Paulo BRA; 2009.8.3; 0-1; https://lichess.org/study/wAhu1kg2/sE8lmzWq
 
-Game*: Botvinnik, Mikhail - Alekhine, Alexander, Amsterdam, 1938.??.??, https://lichess.org/study/amMc8Mig/oMNbVvoQ
+Game*: Eliskases, Erich Gottlieb - Canal, Esteban; 1933.??.??; 1-0; https://lichess.org/study/rzdDzNB4/7TkAFxiS
 
-Game*: Botvinnik, Mikhail - Bronstein, David, Mosca, 1951.??.??, https://lichess.org/study/k4B16BhD/BokXncwr
+Game*: Eliskases, Erich Gottlieb - Capablanca, Jose Raul; 1933.??.??; 1-0; https://lichess.org/study/NHyuBHth/hYjCo5OT
 
-Game*: Botvinnik, Mikhail - Chekhover, Vitaly, Leningrado, 1973.??.??, https://lichess.org/study/5mW5ZvOp/UIYNzHoa
+Game*: Eliskases, Erich Gottlieb - Flohr, Salo; Semmering; 1937.??.??; 0-1; https://lichess.org/study/sDsyelY0/jZJRHSCa
 
-Game*: Botvinnik, Mikhail - Euwe, Max, Groningen, 1946.??.??, https://lichess.org/study/k4B16BhD/rcEGWbjn
+Game*: Eliskases, Erich Gottlieb - Gruenfeld, Ernst; Moravska Ostrava; 1933.??.??; 1-0; https://lichess.org/study/eD6ECZu4/7rW4suRf
 
-Game*: Botvinnik, Mikhail - Flohr, Salomon, 1936.??.??, https://lichess.org/study/5mW5ZvOp/Zr9C83b9
+Game: Eljanov, Pavel - Jakovenko, Dmitrij; Tromso; 2013.08.15; 1-0; https://lichess.org/study/dl0ynDGz/eYo4EDeh
 
-Game*: Botvinnik, Mikhail - Kan, Ilya, Leningrado, 1973.??.??, https://lichess.org/study/5mW5ZvOp/sUFiLCvf
+Game: Eljanov, Pavel - Radjabov, Teimour; Wijk aan Zee; 2008.01.17; 0-1; https://lichess.org/study/dl0ynDGz/dqzzUWmY
 
-Game*: Botvinnik, Mikhail - Keres, Paul, Mosca, 1948.??.??, https://lichess.org/study/NHyuBHth/XTKOTDzl
+Game*: Elo, Arpad - Fischer, Robert James; 1957.??.??; 0-1; https://lichess.org/study/NHyuBHth/hVEOhoKc
 
-Game*: Botvinnik, Mikhail - Kholmov, Ratmir, Moscow, 1969.??.??, https://lichess.org/study/NHyuBHth/VD2AVTQM
+Game: Englisch, Berthold - Steinitz, William; London ENG; 1883.06.06; 0-1; https://lichess.org/study/P33p6LIH/zk2ggppu
 
-Game*: Botvinnik, Mikhail - Konstantinopolsky, Alexander, Sverdlovsk, 1943.??.??, https://lichess.org/study/NHyuBHth/o5H7JUnY
+Game: Englisch, Berthold - Tarrasch, Siegbert; Hamburg; 1885.07.13; 1-0; https://lichess.org/study/PVzIGg2F/RkTwCA6K
 
-Game*: Botvinnik, Mikhail - Levenfish, Grigory, 1937.??.??, https://lichess.org/study/5mW5ZvOp/59r2JEY3
+Game: Essery, Arthur George - Warren, F. H.; Great Britain; 1912.??.??; 1-0; https://lichess.org/study/tmHOF54H/hp8pEO5x
 
-Game*: Botvinnik, Mikhail - Lilienthal, Andor, 1941.??.??, https://lichess.org/study/5mW5ZvOp/vLk9cQuv
+Game*: Euwe, Max - Alekhine, Alexander; Bad Nauheim; 1937.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/hc54IODk
 
-Game*: Botvinnik, Mikhail - Pachman, Ludek, 1961.??.??, https://lichess.org/study/2a0vxusd/Szn3LlkV
+Game: Euwe, Max - Alekhine, Alexander; The Hague NED; 1927.01.06; 1-0; https://lichess.org/study/YuoLOpzE/sNtbhbYW
 
-Game*: Botvinnik, Mikhail - Petrosjan, Tigran, Mosca, 1963.??.??, https://lichess.org/study/uDpA956I/Z7dVPD70
+Game*: Euwe, Max - Botvinnik, Mikhail; Nottingham; 1936.??.??; 1/2-1/2; https://lichess.org/study/uUaMniQc/EhfNAgWD
 
-Game*: Botvinnik, Mikhail - Reshevsky, Samuel, Holland, 1938.??.??, https://lichess.org/study/E787KvJ9/69NkYBUn
+Game*: Euwe, Max - Capablanca, Jose Raul; Holland; 1938.??.??; 1-0; https://lichess.org/study/k4B16BhD/FNgbrtpk
 
-Game*: Botvinnik, Mikhail - Pomar Salamanca, Arturo, Varna (Bulgaria), 1962.??.??, https://lichess.org/study/5mW5ZvOp/sm0EkzNc
+Game*: Euwe, Max - Carls, Carl Johan Margot; 1928.??.??; 1-0; https://lichess.org/study/2a0vxusd/mjfFDBIL
 
-Game*: Botvinnik, Mikhail - Smyslov, Vassily, Moscow, 1957.03.05, https://lichess.org/study/rzdDzNB4/nUnGPFz1
+Game*: Euwe, Max - Flohr, Salo; Amsterdam; 1932.??.??; 1-0; https://lichess.org/study/izyugXAJ/pfiRQq2B
 
-Game*: Botvinnik, Mikhail - Smyslov, Vassily, Mosca, 1957.??.??, https://lichess.org/study/amMc8Mig/wfaVCgw3
+Game*: Euwe, Max - Keres, Paul; 1940.??.??; 0-1; https://lichess.org/study/E787KvJ9/vJb58cIu
 
-Game*: Botvinnik, Mikhail - Sorokin, Nikolay, Mosca, 1961.??.??, https://lichess.org/study/uDpA956I/ptcAGUtN
+Game*: Euwe, Max - Keres, Paul; Den Haag/Moscow; 1948.03.02; 0-1; https://lichess.org/study/rgKjJhUJ/FLbytGty
 
-Game*: Botvinnik, Mikhail - Tal, Mikhail, Mosca, 1961.??.??, https://lichess.org/study/NHyuBHth/S3koHrgy
+Game: Euwe, Max - Loman, Rudolf; Rotterdam; 1923.??.??; 1-0; https://lichess.org/study/XH8xSdBs/sSvnaCv6
 
-Game*: Botvinnik, Mikhail - Tal, Mikhail, Mosca, 1961.??.??, https://lichess.org/study/k4B16BhD/1Am5LkHI
+Game*: Euwe, Max - Pirc, Vasja; Bled; 1949.??.??; 1-0; https://lichess.org/study/uUaMniQc/prCjCc2m
 
-Game*: Botvinnik, Mikhail - Zagoriansky, Evgeny, Sverdlovsk, 1943.??.??, https://lichess.org/study/5mW5ZvOp/1wIcVagA
+Game*: Evans, Larry Melvin - Gligoric, Svetozar; USA; 1971.??.??; 0-1; https://lichess.org/study/2a0vxusd/wfZgBoWb
 
-Game*: Mikhail Botvinnik - Jan Hein Donner, Amsterdam NED, 1963.12.15, https://lichess.org/study/6nWh4o7P/ok8Da846
+Game*: Evans, Larry Melvin - Rossolimo, Nicholas; 1955.??.??; 0-1; https://lichess.org/study/eD6ECZu4/pnuKZH4c
 
-Game*: Mikhail Botvinnik - Harry Golombek, Moscow URS, 1956.09.10, https://lichess.org/study/eUChNfwg/qSLxh942
+Game*: Evans, Larry Melvin - Shamkovich, Leonid; Greenville; 1980.??.??; 0-1; https://lichess.org/study/NHyuBHth/OWrYj6Xf
 
-Game*: Mikhail Botvinnik - Vasily Smyslov, Moscow URS, 1954.04.15, https://lichess.org/study/1O0UELn6/Vi1pHIHN
+Game: Falkbeer, Ernst - NN; Vienna; 1847.??.??; 1-0; https://lichess.org/study/tmHOF54H/BKzz173D
 
-Game*: Mikhail Botvinnik - Gyorgy Szilagyi, Amsterdam NED, 1966.07.05, https://lichess.org/study/6nWh4o7P/URSeXzlk
+Odds game: Falkbeer, Ernst - Simpson; London; 1864.??.??; 1-0; https://lichess.org/study/tmHOF54H/h0S3hN9l
 
-Game*: Bouaziz, Slim - Beliavsky, Alexander G, Szirak, 1987.??.??, https://lichess.org/study/dl0ynDGz/AUMzsOew
+Game*: Filip, Miroslav - Euwe, Max; 1955.??.??; *; https://lichess.org/study/t6bOK7CT/6MDmVN3E
 
-Game fragment: Bourdonnais - MacDonnel, TAOTC, 1834.??.??, https://lichess.org/study/OMNHm3q5/Ey6p9xJv
+Game*: Filip, Miroslav - Kortchnoj, Viktor; Siegen; 1970.??.??; 0-1; https://lichess.org/study/amMc8Mig/pm2QjcJn
 
-Game fragment: Bourdonnais, De La - NN, TAOTC, https://lichess.org/study/XH8xSdBs/ePO8RAsp
+Game*: Fine, Reuben - Botvinnik, Mikhail; Holland; 1938.??.??; 1-0; https://lichess.org/study/sDsyelY0/1qossLM9
 
-Game*: Braga, Fernando - Karpov, Anatoly, Mar del Plata, 1982.??.??, https://lichess.org/study/NHyuBHth/ltzF5yJn
+Game: Fine, Reuben - Flohr, Salo; Netherlands; 1938.??.??; 1-0; https://lichess.org/study/r1NROPIm/9yQ3O3e3
 
-Game: Alfred Brinckmann - Aron Nimzowitsch, Bad Niendorf GER, 1927.08.07, https://lichess.org/study/P33p6LIH/HShNUAu5
+Game*: Fine, Reuben - Flohr, Salo; Netherlands; 1938.??.??; 1-0; https://lichess.org/study/r1NROPIm/FA92T8Fd
 
-Game: Brkic, Ante - Kovacevic, Aleksandar, Zadar, 2010.12.17, https://lichess.org/study/wAhu1kg2/GIIT0g4l
+Game*: Fine, Reuben - Winter, William; Nottingham; 1936.??.??; 1-0; https://lichess.org/study/amMc8Mig/gdkj9EaX
 
-Game fragment*: Bronstein - Keres, 1955.??.??, https://lichess.org/study/57Oq4l6Z/H5E1egwD
+Game*: Fischer, Robert James - Andersson, Ulf; Siegen FRG; 1970.09.??; 1-0; https://lichess.org/study/eUChNfwg/QnSTDQPX
 
-Game fragment: Bronstein, D. - Goldenov, V., Kiev, 1944 .??.??, https://lichess.org/study/1JWXdF87/2B3ffqFk
+Game*: Fischer, Robert James - Bisguier, Arthur; New York; 1962.??.??; 1-0; https://lichess.org/study/uDpA956I/XVpRG5YZ
 
-Game*: Bronstein, David - Boleslavsky, Isaak, Mosca, 1950.??.??, https://lichess.org/study/k4B16BhD/JjzN736w
+Game*: Fischer, Robert James - Czerniak, Moshe; 1968.??.??; 1-0; https://lichess.org/study/2a0vxusd/45xZD7ki
 
-Game*: Bronstein, David - Olafsson, Fridrik, Portoroz, 1958.??.??, https://lichess.org/study/2a0vxusd/2rU9pVtZ
+Game*: Fischer, Robert James - Gadia, Olicio; Mar del Plata ARG; 1960.03.31; 1-0; https://lichess.org/study/6nWh4o7P/E748ON8b
 
-Game*: Bronstein, David - Panno, Oscar, 1954.??.??, https://lichess.org/study/k4B16BhD/a5mNFurj
+Game*: Fischer, Robert James - German, Eugenio; 1962.??.??; 1-0; https://lichess.org/study/uDpA956I/PqzuGJk4
 
-Game*: Bronstein, David - Pilnik, Herman, 1954.??.??, https://lichess.org/study/uDpA956I/h8JaaEWb
+Game*: Fischer, Robert James - Gheorghiu, Florin; Buenos Aires ARG; 1970.07.21; 1-0; https://lichess.org/study/6nWh4o7P/FVQVjTzd
 
-Game*: Bronstein, David I. - Byrne, Robert E., Helsinki, 1952.??.??, https://lichess.org/study/fxEOlxbq/pyJrjWCf
+Game*: Fischer, Robert James - Hamann, Svend; 1968.??.??; 1-0; https://lichess.org/study/2a0vxusd/R0VRhYdq
 
-Game*: David Bronstein - Anatoly Slutikov, 1960.01.27, https://lichess.org/study/hnwliF9Y/IG7Kg03C
+Game*: Fischer, Robert James - Kagan, Shimon; Netanya; 1968.??.??; 1-0; https://lichess.org/study/uDpA956I/HBbN40df
 
-Game: Brown, B. G. - Essery, A. G., TAOTC, 1913.??.??, https://lichess.org/study/OMNHm3q5/CaOX85Cz
+Game*: Fischer, Robert James - Keres, Paul; Bled; 1959.??.??; 0-1; https://lichess.org/study/uDpA956I/MCx30Bhl
 
-Game*: Brown, G. - Thomas, Sir George A., Southsea, 1949.??.??, https://lichess.org/study/rgKjJhUJ/FtnWjvn9
+Game*: Fischer, Robert James - Keres, Paul; Curacao; 1962.??.??; 0-1; https://lichess.org/study/uDpA956I/XJ12cNJP
 
-Game*: Browne, Walter - Grefe, John, Oberlin, 1975.??.??, https://lichess.org/study/NHyuBHth/PygIZehf
+Game*: Fischer, Robert James - Larsen, Bent; Portoroz SLO; 1958.08.16; 1-0; https://lichess.org/study/hnwliF9Y/lJLctjsk
 
-Game fragment*: Browne, Walter - Spassky, Boris, 1970.??.??, https://lichess.org/study/5mW5ZvOp/Nh05IggJ
+Game*: Fischer, Robert James - Myagmarsuren, Lhamsuren; Sousse TUN; 1967.10.15; 1-0; https://lichess.org/study/drEQ8cYo/B4GJXDEG
 
-Game*: Brynell, Stellan - Pavlidis, Anastasios, Bugibba MLT, 2012.11.21, https://lichess.org/study/wAhu1kg2/yGx0Xy9G
+Game: Fischer, Robert James - Olafsson, Fridrik; Stockholm; 1962.??.??; 1-0 (dup #26); https://lichess.org/study/r1NROPIm/VnBM3nCQ
 
-Game: Budzinski, Wincenty - Morphy, Paul, Paris FRA, 1858.??.??, https://lichess.org/study/MNnC56w2/ZFqeerpm
+Game*: Fischer, Robert James - Olafsson, Fridrik; Stockholm; 1962.??.??; 1-0 (dup #26); https://lichess.org/study/r1NROPIm/e7NGHahM
 
-Game: Burg, Twan - Cordova, Emilio, Barcelona, 2011.08.24, https://lichess.org/study/dl0ynDGz/7oYERjMr
+Game*: Fischer, Robert James - Petrosian, Tigran; Buenos Aires ARG; 1971.10.19; 1-0; https://lichess.org/study/6nWh4o7P/AAXoSAb4
 
-Game*: Amos Burn - Frank James Marshall, Ostend BEL, 1907.06.10, https://lichess.org/study/6nWh4o7P/IYy3Wp1R
+Game*: Fischer, Robert James - Petrosian, Tigran; Buenos Aires; 1971.??.??; 1-0; https://lichess.org/study/uDpA956I/lIiauQ3R
 
-Game fragment*: Burn, Amos - Alekhine, Alexander, Karlsbad, 1911.??.??, https://lichess.org/study/uUaMniQc/cb6y7pWH
+Game*: Fischer, Robert James - Sherwin, James T.; -; 1957.09.02; 1-0; https://lichess.org/study/drEQ8cYo/pbUltOOo
 
-Game*: Burn, Amos - Alekhine, Alexander, Karlsbad, 1911.??.?? (dup #59), https://lichess.org/study/sDsyelY0/7tbBi0G9
+Game*: Fischer, Robert James - Spassky, Boris; Reykjavik; 1972.??.??; 1-0; https://lichess.org/study/uDpA956I/b8csXK0w
 
-Game*: Burn, Amos - Alekhine, Alexander, Karlsbad, 1911.??.?? (dup #59), https://lichess.org/study/uUaMniQc/hyO7p8m1
+Game*: Fischer, Robert James - Taimanov, Mark E; Palma de Mallorca; 1970.??.??; 1-0; https://lichess.org/study/sDsyelY0/vL3sYJFN
 
-Game: Burn, Amos - Tarrasch, Siegbert, DSB-5 Frankfurt, 1887.??.??, https://lichess.org/study/e7ARwPCA/tZxCaipI
+Game*: Fischer, Robert James - Taimanov, Mark E; Vancouver; 1971.??.??; 1-0; https://lichess.org/study/sDsyelY0/N5dK29eP
 
-Game*: Burn, Amos - Tarrasch, Siegbert, Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/1n4ARO4s
+Game*: Fischer, Robert James - Tal, Mikhail; Curacao; 1962.??.??; 1-0; https://lichess.org/study/sDsyelY0/pdxzIfz0
 
-Game*: Byrne, Robert - Fischer, Robert, New York, 1963.??.??, https://lichess.org/study/E787KvJ9/QCMlgRDP
+Game*: Flohr, Salo - Bogoljubov, Efim; Sliac; 1932.??.??; 1-0; https://lichess.org/study/eD6ECZu4/4ntiNK1I
 
-Game*: Byrne, Robert E - Eliskases, Erich Gottlieb, Helsinki, 1952.??.??, https://lichess.org/study/xG5sFI6f/o7zVhuOl
+Game*: Flohr, Salo - Bondarevsky, Igor; 1949.??.??; 1-0; https://lichess.org/study/NHyuBHth/ACQGj71y
 
-Game*: Byrne, Robert E - Kotov, Alexander, New York, 1954.??.??, https://lichess.org/study/xG5sFI6f/0eXAlGDe
+Game*: Flohr, Salo - Botvinnik, Mikhail; 1933.??.??; 1-0; https://lichess.org/study/k4B16BhD/ArzT9aAW
 
-Game*: Byrne, Robert E. - Kotov, Alexander, New York, 1954.??.??, https://lichess.org/study/xG5sFI6f/Kfqven0f
+Game*: Flohr, Salo - Botvinnik, Mikhail; Leningrad; 1933.??.??; 0-1; https://lichess.org/study/rzdDzNB4/IYrvk3yX
 
-Game*: David Byrne - Paul Benko, 1958, https://lichess.org/study/InR4tjnm/LdRzBKES
+Game*: Flohr, Salo - Capablanca, Jose Raul; 1935.??.??; 1/2-1/2; https://lichess.org/study/sDsyelY0/0YgHefVo
 
-Game*: Donald Byrne - Robert James Fischer, New York, NY USA, 1956.10.17, https://lichess.org/study/vJTD9Iyi/0wwOVyI4
+Game*: Flohr, Salo - Horowitz, Israel Albert; Soviet Union; 1945.??.??; 1-0; https://lichess.org/study/fxEOlxbq/g5m1XGmH
 
-Game*: Canal - Capablanca, 1929.??.??, https://lichess.org/study/Wn7aMkPy/ctLcv9Xz
+Game*: Flohr, Salo - Lustig, Ral; Prague; 1928.??.??; *; https://lichess.org/study/fxEOlxbq/VEcGNRr3
 
-Game*: Canal, Esteban - Rubinstein, Akiba, Karlsbad CSR, 1929.08.20, https://lichess.org/study/aAtElCsv/E2OpPbk1
+Game*: Flohr, Salo - Pirc, Vasja; Podebrady; 1936.??.??; 1-0; https://lichess.org/study/sDsyelY0/u0ovCVfB
 
-Game*: Esteban Canal - Akiba Rubinstein, Karlsbad CSR, 1929.08.20, https://lichess.org/study/6AnWFDzO/9WXJ6BYW
+Game*: Flohr, Salo - Pitschak, Rudolf; 1930.??.??; 0-1; https://lichess.org/study/Wn7aMkPy/ZIB9hrdE
 
-Game*: Canepa, Jose - Alekhine, Alexander, Carrasco, 1938.??.??, https://lichess.org/study/rzdDzNB4/Dk9A51nx
+Game: Flohr, Salo - Pitschak, Rudolf; Bilin; 1930.??.??; 0-1; https://lichess.org/study/OMNHm3q5/vTYQqVLc
 
-Game fragment*: Capablanca - Alekhine, 1913.??.??, https://lichess.org/study/cev86fwf/BHMkDezP
+Game*: Flohr, Salo - Vidmar, Milan Sr; Nottingham; 1936.??.??; 1-0; https://lichess.org/study/k4B16BhD/bmSNpA4J
 
-Game fragment*: Capablanca - Allies, 1914.??.??, https://lichess.org/study/t6bOK7CT/kFqZmxOk
+Game*: Flohr, Salo - Walter, Max; Sliac; 1932.??.??; 1-0; https://lichess.org/study/6P90HTwf/8owQ6QBm
 
-Game fragment*: Capablanca - Bernstein, O., 1911.??.??, https://lichess.org/study/57Oq4l6Z/sxW3kcXR
+Game: Flores Rios, Mauricio - Hayrapetian, Hovik; Sant Marti; 2013.07.21; 1-0 (dup #37); https://lichess.org/study/dl0ynDGz/Exh3w4jz
 
-Game fragment*: Capablanca - Bernstein, 1914.??.??, https://lichess.org/study/cev86fwf/ta0qb9je
+Game*: Flores Rios, Mauricio - Hayrapetian, Hovik; Sant Marti; 2013.07.21; 1-0 (dup #37); https://lichess.org/study/dl0ynDGz/at59QpJL
 
-Game fragment*: Capablanca - Blanco, 1913.??.??, https://lichess.org/study/1DTYYVAE/9OYpDLJq
+Game: Flores Rios, Mauricio - Delgado Ramirez, Neuris; Sao Paulo; 2009.07.28; 1-0; https://lichess.org/study/AxW3sYhA/WCD4emFJ
 
-Game fragment*: Capablanca - Hodges, 1915.??.??, https://lichess.org/study/cev86fwf/nruy3qgG
+Game: Flores Rios, Mauricio - Vasquez, Rodrigo; 2023.09.13; 1-0; https://lichess.org/study/40nLE9YK/4XOjiJz4
 
-Game fragment*: Capablanca - Janowski, 1918.??.??, https://lichess.org/study/1DTYYVAE/xM2WNUTa
+Game*: Florian - Kluger; 1955.??.??; *; https://lichess.org/study/t6bOK7CT/ATuMlcOF
 
-Game*: Capablanca - Mattison, 1929.??.??, https://lichess.org/study/Wn7aMkPy/DzYZAgEU
+Game*: Foltys, Jan - Fine, Reuben; Margate; 1937.??.??; 0-1; https://lichess.org/study/amMc8Mig/TIF9eTbV
 
-Game fragment*: Capablanca - Mieses, 1928.??.??, https://lichess.org/study/1DTYYVAE/6EtFpauO
+Game: Frazer, Persifor - Taubenhaus, Jean; Paris FRA; 1888.??.??; 1-0; https://lichess.org/study/MNnC56w2/Pvzgz7wt
 
-Game fragment*: Capablanca - Tartakover, 1924.??.??, https://lichess.org/study/cev86fwf/twNxoSMJ
+Game*: Frazer, Persifor - Taubenhaus, Jean; Paris; 1888.??.??; *; https://lichess.org/study/BBcV7dAo/eFrb3S63
 
-Game*: Capablanca - Teichmann, 1913.??.??, https://lichess.org/study/1DTYYVAE/FuGayQs1
+Game: Fritz, A. - NN; TAOTC; 1885.??.??; 1-0; https://lichess.org/study/tmHOF54H/wKdMseAm
 
-Game fragment*: Capablanca - Vidmar, 1922.??.??, https://lichess.org/study/cev86fwf/gSxrlP8a
+Game: Fritz, Alexander - Tarrasch, Siegbert; Frankfurt; 1887.07.18; 1-0; https://lichess.org/study/e7ARwPCA/oZsZUkE9
 
-Game fragment*: Capablanca - Villegas, 1914.??.??, https://lichess.org/study/cev86fwf/PbITQObu
+Game*: Fuderer, Andrija - Tartakower, Savielly; Bled; 1950.??.??; 1-0; https://lichess.org/study/fxEOlxbq/EvatH9Zq
 
-Game*: Capablanca - Villegas, 1914.??.??, https://lichess.org/study/Wn7aMkPy/oDgQlf7R
+Game*: Fuster, Geza - Fischer, Robert James; Portorose; 1958.??.??; 0-1; https://lichess.org/study/sDsyelY0/PdtEdAGL
 
-Game*: Capablanca, Jose - Amateur, 1912.??.??, https://lichess.org/study/rzdDzNB4/GhTaHxkU
+Game*: Gabriel, Christian - Kekelidze, Mikheil; GER; 1999.11.7; 1-0; https://lichess.org/study/dl0ynDGz/jc7rX7QA
 
-Game: Capablanca, Jose Raul - Bogoljubow, Efim, Moscow, URS, 1925.12.05 (dup #67), https://lichess.org/study/r1NROPIm/VHWBTY7p
+Game: Galkin, Alexander - Delchev, Aleksander; Ohrid; 2001.06.15; 0-1; https://lichess.org/study/dl0ynDGz/gZ4D076Z
 
-Game*: Capablanca, Jose Raul - Bogoljubow, Efim, Moscow, URS, 1925.12.05 (dup #67), https://lichess.org/study/r1NROPIm/mwfWWOjQ
+Game*: Gelfer, Israel - Pedersen; 1-0; https://lichess.org/study/5mW5ZvOp/kPNkom8l
 
-Game*: Capablanca, Jose Raul - Bray, T., Birmingham, 1919.10.09, https://lichess.org/study/6P90HTwf/1KimMEEX
+Game*: Gelfer, Israel - Czerniak, Moshe; Israel; 1980.??.??; 1-0; https://lichess.org/study/E787KvJ9/z2xLMocB
 
-Game*: Capablanca, Jose Raul - Dus Chotimirsky, Fedor Ivanovich, 2022.01.09, https://lichess.org/study/R9GM45QQ/sjRWknja
+Game*: Geller, Efim - Euwe, Max; Zurigo; 1953.??.??; 0-1; https://lichess.org/study/amMc8Mig/mwUoVf7n
 
-Game*: Capablanca, Jose Raul - Dus Chotimirsky, Fedor Ivanovich, 2022.01.22, https://lichess.org/study/1DTYYVAE/44eJq1gJ
+Game*: Geller, Efim - Fischer, Robert James; 1962.??.??; 1-0; https://lichess.org/study/amMc8Mig/XWIrk43h
 
-Game*: Capablanca, Jose Raul - Duz-Khotimirskij, F., 1913.??.??, https://lichess.org/study/uDpA956I/EY4Ey3ND
+Game*: Geller, Efim - Hort, Vlastimil; 1968.??.??; 1-0; https://lichess.org/study/amMc8Mig/QTxtS9H1
 
-Game*: Capablanca, Jose Raul - Eliskases, Erich, 1936.??.??, https://lichess.org/study/k4B16BhD/hkrHEBUK
+Game*: Geller, Efim - Najdorf, Miguel; Zurigo; 1953.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/aox4wF2I
 
-Game*: Capablanca, Jose Raul - Fine, Reuben, New York, 1931.??.??, https://lichess.org/study/k4B16BhD/xJM6Ipky
+Game*: Geller, Efim - Velimirovic, Dragoljub; L'Avana; 1971.??.??; 1-0; https://lichess.org/study/E787KvJ9/VtPH71Kz
 
-Game*: Capablanca, Jose Raul - Janowski, David, Havana, 1913.??.??, https://lichess.org/study/aAtElCsv/i01RgQRA
+Game*: Getz, Nicolai - Agdestein, Simen; Fagernes NOR; 2013.03.24; 0-1; https://lichess.org/study/AxW3sYhA/238utgMc
 
-Game*: Capablanca, Jose Raul - Janowsky, David, 1913.??.??, https://lichess.org/study/amMc8Mig/2w5CRVxW
+Game*: Getz, Nicolai - Istratescu, Andrei; Chess.com; 2014.06.03; 0-1; https://lichess.org/study/40nLE9YK/zF9IVgS2
 
-Game*: Capablanca, Jose Raul - Kostic, Boris, Havana, 1919.??.??, https://lichess.org/study/k4B16BhD/lHsD9BLL
+Game*: Gibaud, Marcel - Lazard, Fred; Paris; 1924.??.??; *; https://lichess.org/study/BBcV7dAo/HAHWBKff
 
-Game*: Capablanca, Jose Raul - Menchik, Vera, 1935.??.??, https://lichess.org/study/uDpA956I/tOGnQHyP
+Game*: Gligoric, Svetozar - Alexander, Conel Hughes; Dublin; 1957.??.??; 1-0; https://lichess.org/study/NHyuBHth/cXECXvqJ
 
-Game*: Capablanca, Jose Raul - Reshevsky, Samuel, Nottingham, 1936.??.??, https://lichess.org/study/sDsyelY0/nWalBhC0
+Game*: Gligoric, Svetozar - Filip, Miroslav; Zagreb; 1965.??.??; 1-0; https://lichess.org/study/k4B16BhD/DM6Xyglu
 
-Game*: Capablanca, Jose Raul - Salwe, Georg, 1911.??.??, https://lichess.org/study/uDpA956I/0AllVd2B
+Game*: Gligoric, Svetozar - Kotov, Alexander; Zurich SUI; 1953.09.15; 0-1; https://lichess.org/study/1O0UELn6/rDY9RpZ6
 
-Game: Capablanca, Jose Raul - Spielmann, Rudolf, New York, NY USA, 1927.03.09, https://lichess.org/study/P33p6LIH/ezSSF19t
+Game*: Gligoric, Svetozar - Matanovic, Aleksandar; Bled; 1961.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/CiNtU9gF
 
-Game*: Capablanca, Jose Raul - Spielmann, Rudolf, New York, 1927.??.?? (dup #68), https://lichess.org/study/r1NROPIm/mouExFKp
+Game*: Gligoric, Svetozar - Matulovic, Milan; Palma de Mallorca; 1967.??.??; 1-0; https://lichess.org/study/2a0vxusd/dWOWaL2S
 
-Game: Capablanca, Jose Raul - Spielmann, Rudolf, New York, 1927.??.?? (dup #68), https://lichess.org/study/r1NROPIm/pVmeBaZN
+Game*: Gligoric, Svetozar - Smyslov, Vasily; Kiev (Ukraine); 1959.??.??; 0-1; https://lichess.org/study/E787KvJ9/KQ9oimQi
 
-Game*: Capablanca, Jose Raul - Stahr, JM., Chicago, 1915.03.26, https://lichess.org/study/6P90HTwf/rUFBDW1V
+Game*: Gligoric, Svetozar - Tukmakov, Vladimir; 1975.??.??; 1-0; https://lichess.org/study/amMc8Mig/yKSlqwLJ
 
-Game*: Capablanca, Jose Raul - Tartakower, Saviely, New York, 1924.??.??, https://lichess.org/study/k4B16BhD/atJAaABe
+Game*: Golod, Vitali - Klenburg, Mikhail; Israel; 2002.01.19; 1-0; https://lichess.org/study/OCkkydGm/CgtIktFd
 
-Game: Capablanca, Jose Raul - Vidmar, Milan, New York, NY USA, 1927.03.08, https://lichess.org/study/P33p6LIH/GdB3kQwq
+Game: Gopal, Geetha Narayanan - Bologan, Viktor Antonovich; Caleta; 2012.02.01; 0-1; https://lichess.org/study/wAhu1kg2/JST8cfZh
 
-Game*: Capablanca, Jose Raul - Zubarev, Nikolay, 1925.??.??, https://lichess.org/study/uDpA956I/z2MiwmrH
+Game: Gossip, George Hatfeild - Tarrasch, Siegbert; Breslau; 1889.??.??; 0-1; https://lichess.org/study/bELN6Owi/JlAPiYgF
 
-Game*: Jose Raul Capablanca - David Janowski, Havana, 1913.??.??, https://lichess.org/study/6AnWFDzO/ZzkZkr4y
+Game: Granda Zuniga, Julio E - Narciso Dublan, Marc; Zaragoza; 2012.12.30; 1-0; https://lichess.org/study/wAhu1kg2/uAYqkUrx
 
-Game*: Jose Raul Capablanca - David Janowski, New York, NY USA, 1924.04.06, https://lichess.org/study/HU8KOi8j/bFx12lRE
+Game: Greco, Gioachino - NN; TAOTC; 1-0; https://lichess.org/study/OMNHm3q5/OG2CkRxp
 
-Game*: Jose Raul Capablanca - Abraham Kupchik, Havana CUB, 1913.02.24, https://lichess.org/study/h181m9yo/VduAszof
+Game: Greco, Gioachino - NN; TAOTC; 1619.??.??; 1-0; https://lichess.org/study/tmHOF54H/nCpQiJez
 
-Game*: Jose Raul Capablanca - Savielly Tartakower, New York, NY USA, 1924.03.23, https://lichess.org/study/ZKVgyPVR/43thg0jS
+Game*: Grigorjan, Levon - Tal, Mikhail; 1967.??.??; 0-1; https://lichess.org/study/k4B16BhD/dN44fdnj
 
-Game: Jose Raul Capablanca - Savielly Tartakower, New York, NY USA, 1924.03.23, https://lichess.org/study/P33p6LIH/MyjXZsqP
+Game*: Grischuk, Alexander - Zhang, Zhong; Shanghai CHN; 2001.09.10; 1-0; https://lichess.org/study/AxW3sYhA/htV4ksfW
 
-Game*: Jose Raul Capablanca - Richard Teichmann, Berlin GER, 1913.11.20, https://lichess.org/study/h181m9yo/Re6QroZa
+Game*: Gruenfeld, Ernst - Schenkein; 1915.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/9oT0Kaus
 
-Game*: Jose Raul Capablanca - Karel Treybal, Karlsbad CSR, 1929.08.11, https://lichess.org/study/lmGZTMl3/aKCp1ELB
+Game*: Gruenfeld, Ernst - Alekhine, Alexander; Karlsbad CSR; 1923.04.29; 0-1; https://lichess.org/study/YuoLOpzE/SPx8XKZK
 
-Game*: Jose Raul Capablanca - Benito Higinio Villegas, Buenos Aires ARG, 1914.08.19, https://lichess.org/study/InR4tjnm/rJP04BOf
+Game: Gruenfeld, Ernst - Tartakower, Savielly; Semmering; 1926.??.??; 0-1; https://lichess.org/study/EDmMFcbv/haZAtzsP
 
-Game*: Carlsen, Magnus - Anand, Viswanathan, Moscow RUS, 2013.06.18, https://lichess.org/study/AxW3sYhA/rheTQp6u
+Game: Gruenfeld, Ernst - Torre, Carlos; Baden-Baden; 1925.??.??; 0-1; https://lichess.org/study/OMNHm3q5/8fi028a5
 
-Game: Carlsen, Magnus - McShane, Luke, London, 2009.12.11, https://lichess.org/study/dl0ynDGz/neFUhkT8
+Game*: Gruenfeld, Yehuda - Gelfer, Israel; Ramat-Hasharon (Israel); 1980.??.??; 0-1; https://lichess.org/study/uDpA956I/Rlei6qLw
 
-Game*: Carlsen, Magnus - Wang, Hao, Wijk aan Zee, 2011.01.29, https://lichess.org/study/wAhu1kg2/BOB0nCq8
+Game*: Gunsberg, Isidor - Steinitz, William; New York; 1890.12.15; 1-0; https://lichess.org/study/ChLIRMuv/BB0Ws1t9
 
-Game: Carlsen, Magnus - Van Wely, Loek, Wijk aan Zee, 2013.01.14, https://lichess.org/study/dl0ynDGz/eE1eCyX3
+Game: Gunston, William - Tarrasch, Siegbert; Manchester; 1890.09.01; 0-1; https://lichess.org/study/bELN6Owi/lxAJEWJQ
 
-Game*: Carlsen, Magnus - Yue, Wang, Linares ESP, 2009.03.02, https://lichess.org/study/AxW3sYhA/MWGqJc7I
+Game*: Gutman, Lev - Pavlov, Mircea; 1983.??.??; 1-0; https://lichess.org/study/2a0vxusd/qDyeYpoE
 
-Game fragment*: Chajes - Tarrasch, 1923.??.??, https://lichess.org/study/cev86fwf/ulIwHDUJ
+Game: Hahn, Wilhelm - Tarrasch, Siegbert; Nuremberg; 1883.07.16; 0-1; https://lichess.org/study/PVzIGg2F/eLcFv21n
 
-Game*: CHAOS - CHESS 4.0, 1974.??.?? (dup #55), https://lichess.org/study/1h06eBSq/1DEjk3pL
+Game: Hahn, Wilhelm - Tarrasch, Siegbert; Nuremberg; 1888.??.??; 0-1; https://lichess.org/study/e7ARwPCA/RVgdOXxY
 
-Game*: CHAOS - CHESS 4.0, 1974.??.?? (dup #55), https://lichess.org/study/1h06eBSq/7PGYIoG8
+Game*: Hahn, Wilhelm - Tarrasch, Siegbert; Nuremberg; 1890.??.??; 0-1; https://lichess.org/study/pdteMCe2/0JHz5xMS
 
-Game*: Charousek, Rudolf - Pillsbury, Harry Nelson, Budapest, 1896.??.??, https://lichess.org/study/k4B16BhD/UPDhxG1M
+Game*: Hahn, Wilhelm - Tarrasch, Siegbert; Nuremberg; 1891.??.??; 0-1; https://lichess.org/study/pdteMCe2/a4xRWVak
 
-Game*: Chekhover - Rudakowsky, 1945.??.??, https://lichess.org/study/Wn7aMkPy/ahlELYre
+Game*: Hammer, Jon Ludvig - Carlsen, Magnus; Hidle NOR; 2013.05.15; 0-1; https://lichess.org/study/AxW3sYhA/pKor0dXH
 
-Game*: Chekhover, Vitaly - Alatortsev, Vladimir, Leningrado, 1934.??.??, https://lichess.org/study/5mW5ZvOp/ouotTvLf
+Game*: Hammer, Jon Ludvig - Djurhuus, Rune; Norway; 2013.04.06; 1-0; https://lichess.org/study/AxW3sYhA/akqAMyq2
 
-Game*: Chekhover, Vitaly - Lasker, Emanuel, Moscow, 1935.??.??, https://lichess.org/study/sDsyelY0/Gj4zGy8q
+Game: Hammond, George - Morphy, Paul; New York, NY USA; 1857.10.07; 0-1; https://lichess.org/study/yuifbGYp/KDJYMJrs
 
-Game*: Chernev - Hahlbohm, 1942.??.??, https://lichess.org/study/Wn7aMkPy/OEYQaPhA
+Game: Harika, Dronavalli - Adams, Michael; Caleta; 2010.01.27; 0-1; https://lichess.org/study/AxW3sYhA/DccDs8zr
 
-Game: Cheron, A. - NN, Leysin, Switzerland, 1929.??.??, https://lichess.org/study/tmHOF54H/H4Jsvsdm
+Game: Harmonist, Max - Tarrasch, Siegbert; Breslau; 1889.??.??; 0-1; https://lichess.org/study/bELN6Owi/Fy1akjEn
 
-Game*: Chigorin, Mikhail - Marshall, Frank, Karlsbad, 1907.??.??, https://lichess.org/study/NHyuBHth/EXsqYUsV
+Game: Harmonist, Max - Tarrasch, Siegbert; Frankfurt; 1887.07.18; 0-1; https://lichess.org/study/e7ARwPCA/sHEHN2SR
 
-Game: Chigorin, Mikhail - Tarrasch, Siegbert, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/nH49sCqF
+Game: Harmonist, Max - Tarrasch, Siegbert; Nuremberg; 1888.08.08; 1-0; https://lichess.org/study/e7ARwPCA/AcEHs8FQ
 
-Game: Chigorin, Mikhail - Tarrasch, Siegbert, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/oPyUgDZH
+Game: Harmonist, Max - Tarrasch, Siegbert; Nuremberg; 1891.??.??; 0-1; https://lichess.org/study/pdteMCe2/smxdVIMH
 
-Game*: Chigorin, Mikhail - Tarrasch, Siegbert, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/6PDE9xj3
+Game: Harrwitz, Daniel - Morphy, Paul; Paris FRA; 1858.09.09; 0-1; https://lichess.org/study/yuifbGYp/fKIZGspj
 
-Game*: Chigorin, Mikhail - Tarrasch, Siegbert, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/S830V6zn
+Game*: Harrwitz, Daniel - Morphy, Paul; Paris; 1858.??.??; 1/2-1/2; https://lichess.org/study/MNnC56w2/ZNVMbLLK
 
-Game*: Chigorin, Mikhail - Tarrasch, Siegbert, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/3xXSQuhk
+Game: Hausler, H. - Tarrasch, Siegbert; Nuremberg; 1892.??.??; 0-1; https://lichess.org/study/pdteMCe2/Yfx6r1gp
 
-Game: Chigorin, Mikhail - Tarrasch, Siegbert, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/iW5Nd0fK
+Game*: Havasi, Kornel - Monticelli, Mario; Budapest; 1929.??.??; 1-0; https://lichess.org/study/6P90HTwf/S8hLLj6k
 
-Game: Chigorin, Mikhail - Tarrasch, Siegbert, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/5hmuYbHo
+Game*: Havasi, Laszlo - Capablanca, Jose Raul; 1929.??.??; 0-1; https://lichess.org/study/Wn7aMkPy/YPp4gBnK
 
-Game*: Chigorin, Mikhail - Tarrasch, Siegbert, Petersburg, 1893.??.??, https://lichess.org/study/UQieNXft/YhpQs9Cw
+Game: Hecht, Hans-Joachim - Forintos, Gyozo Victor; Wijk aan Zee NED; 1974.01.16; 1-0; https://lichess.org/study/6nWh4o7P/sKHpjCYe
 
-Game: Chigorin, Mikhail - Tarrasch, Siegbert, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/azbYyb4k
+Game*: Hector, Jonny - Rapport, Richard; Malmo SWE; 2013.5.28; 0-1; https://lichess.org/study/AxW3sYhA/5kWaOcxh
 
-Game: Chigorin, Mikhail - Tarrasch, Siegbert, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/YDlP3C92
+Game*: Hellsten, Johan - Cordova, Emilio; Buenos Aires; 2006.10.07; 0-1; https://lichess.org/study/dl0ynDGz/diXvWHnX
 
-Game: Chigorin, Mikhail - Tarrasch, Siegbert, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/OjYpHRZZ
+Game*: Hernandez, Nestor - Berliner, Hans; Southern Champion; 1949.??.??; 0-1; https://lichess.org/study/eUChNfwg/UKmGokiV
 
-Game*: Chigorin, Mikhail - Tarrasch, Siegbert, Budapest, 1896.??.??, https://lichess.org/study/k4B16BhD/AnSdMjmd
+Game: Hernandez Carmenates, Holden - Meier, Georg; Lubbock USA; 2013.12.??; 0-1; https://lichess.org/study/AxW3sYhA/5bgWElPU
 
-Game*: Cintron, Rafael - Botvinnik, Mikhail, 1958.??.??, https://lichess.org/study/k4B16BhD/gTxAHhS6
+Game: Hollander, K. - Tarrasch, Siegbert; Nuremberg; 1892.??.??; 0-1; https://lichess.org/study/UQieNXft/TbpXo9ch
 
-Game*: Ciocaltea, Victor - Barcza, Gideon, 1956.??.??, https://lichess.org/study/uDpA956I/ir1Ttknp
+Game: Hollander, K. - Tarrasch, Siegbert; Nuremberg; 1892.??.??; 0-1; https://lichess.org/study/pdteMCe2/t8r6lAL2
 
-Game: Cochrane, J. - NN, TAOTC, https://lichess.org/study/OMNHm3q5/d8VBS6zh
+Game*: Holt, Conrad - Kamsky, Gata; Saint Louis; 2013.05.06; 0-1; https://lichess.org/study/AxW3sYhA/WA7xgSK5
 
-Game fragment*: Cohn - Rubinstein, 1909.??.??, https://lichess.org/study/1DTYYVAE/PEnevO3f
+Game*: Horowitz, Israel Albert - Bean, James R.; 1957.??.??; 1-0 (dup #47); https://lichess.org/study/6AnWFDzO/aGvkEMM1
 
-Game fragment*: Cohn - Rubinstein, 1909.??.?? (dup #25), https://lichess.org/study/1DTYYVAE/1daEc1WZ
+Game*: Horowitz, Israel Albert - Bean, James R.; 1957.??.??; 1-0 (dup #47); https://lichess.org/study/aAtElCsv/ZYzgsLnA
 
-Game fragment*: Cohn - Rubinstein, 1909.??.?? (dup #25), https://lichess.org/study/R9GM45QQ/GLsPNpr8
+Game*: Horowitz, Israel Albert - Martin, Albert; Boston, MA USA; 1938.07.14; 1-0 (dup #48); https://lichess.org/study/6AnWFDzO/goy4uaNx
 
-Game*: Cohn, Erich - Burn, Amos, Karlsbad, 1911.??.??, https://lichess.org/study/m0LDLCIA/SyYQx9lK
+Game*: Horowitz, Israel Albert - Martin, Albert; Boston, MA USA; 1938.07.14; 1-0 (dup #48); https://lichess.org/study/aAtElCsv/mOj164p1
 
-Game*: Erich Cohn - Akiba Rubinstein, St. Petersburg RUE, 1909.02.28, https://lichess.org/study/LHmryePD/CMlwbJ99
+Game*: Horowitz, Israel Albert - Przepiorka, David; Prague CSR; 1931.07.26; 1-0 (dup #41); https://lichess.org/study/6AnWFDzO/lPamuezU
 
-Game*: Colle - Delvaux, 1929.??.??, https://lichess.org/study/Wn7aMkPy/vraDWkbr
+Game*: Horowitz, Israel Albert - Przepiorka, David; Prague CSR; 1931.07.26; 1-0 (dup #41); https://lichess.org/study/aAtElCsv/5iab4P4K
 
-Game fragment: Colle - Johner, TAOTC, https://lichess.org/study/XH8xSdBs/YTp8bkcy
+Game*: Hort, Vlastimil - Ciocaltea, Victor; Budapest; 1973.??.??; 1-0; https://lichess.org/study/uDpA956I/XMzaq5Ab
 
-Game*: Colle - O'Hanlon, 1930.??.??, https://lichess.org/study/t6bOK7CT/gCDxTWO3
+Game*: Hort, Vlastimil - Dueckstein, Andreas; Czechoslovakia; 1968.??.??; 1-0; https://lichess.org/study/amMc8Mig/VgBVVJGg
 
-Game fragment*: Colle, E. - Grunfeld, E., Berlin, 1926.??.??, https://lichess.org/study/OMNHm3q5/gb689Pp2
+Game*: Hort, Vlastimil - Gligoric, Svetozar; 1970.??.??; 0-1; https://lichess.org/study/E787KvJ9/3mde6WpU
 
-Game*: Colle, Edgar - Alekhine, Alexander, San Remo ITA, 1930.02.01, https://lichess.org/study/6P90HTwf/fgGgMOU2
+Game*: Hort, Vlastimil - Huebner, Robert; Germany; 1982.??.??; 0-1; https://lichess.org/study/k4B16BhD/xXMcN9Z6
 
-Game*: Colle, Edgar - Bogoljubow, Efim, Berlin, 1926.??.??, https://lichess.org/study/6P90HTwf/W96cSISA
+Game*: Hort, Vlastimil - Kagan, Shimon; 1970.??.??; 1/2-1/2; https://lichess.org/study/sDsyelY0/h5Ka2gIh
 
-Game*: Colle, Edgar - Bogoljubow, Efim, London, 1927.??.??, https://lichess.org/study/6P90HTwf/RxRlaQXM
+Game*: Hort, Vlastimil - Ljubojevic, Ljubomir; Montreal; 1979.??.??; 0-1; https://lichess.org/study/amMc8Mig/cOW6tN6K
 
-Game*: Colle, Edgar - Euwe, Max, Zutphen, 1924.??.??, https://lichess.org/study/6P90HTwf/YtNn4KhH
+Game*: Hort, Vlastimil - Petrosian, Tigran; 1961.??.??; 0-1; https://lichess.org/study/2a0vxusd/ekW7b1Re
 
-Game*: Colle, Edgar - Loman, Rudolf, Scheveningen, 1923.??.??, https://lichess.org/study/6P90HTwf/qeBoOo52
+Game: Horwitz, Bernhard - Bledow, Ludwig; Germany; 1837.??.??; 0-1; https://lichess.org/study/tmHOF54H/3Qx17sZl
 
-Game*: Colle, Edgar - Michell, Reginald Pryce, Scarborough, 1930.??.??, https://lichess.org/study/6P90HTwf/omQHTftl
+Game*: Hosp, A. - Lempp, Jakob; Baden-Baden; 1993.??.??; 1-0; https://lichess.org/study/3Aw3IIVA/bly6m8TU
 
-Game*: Colle, Edgar - O'Hanlon, John James, Nice FRA, 1930.02.??, https://lichess.org/study/6P90HTwf/CGy4flIt
+Game: Hracek, Zbynek - Cebalo, Miso; Medulin; 2002.09.11; 0-1; https://lichess.org/study/40nLE9YK/LK9wsgnz
 
-Game*: Colle, Edgar - Prokes, Ladislav, Budapest, 1929.??.??, https://lichess.org/study/6P90HTwf/8wjjmuef
+Game*: Huebner, Robert - Karpov, Anatoly; Tilburg; 1977.??.??; 0-1; https://lichess.org/study/k4B16BhD/y2MvLRQO
 
-Game*: Colle, Edgar - Rubinstein, Akiba, San Remo, 1930.??.??, https://lichess.org/study/6P90HTwf/ezohuCNS
+Game*: Hutchings, Stuart James - Keene, Raymond; Woolacombe ENG; 1973.10.??; 0-1; https://lichess.org/study/6nWh4o7P/Jt5MszSK
 
-Game*: Colle, Edgar - Tarrasch, Siegbert, Baden-Baden, 1925.??.??, https://lichess.org/study/6P90HTwf/J06iU0vl
+Game: Huzman, Alexander - Aronian, Levon; Plovdiv; 2010.10.18; 0-1; https://lichess.org/study/AxW3sYhA/P1aLpQ8T
 
-Game: Colle, Edgard - Buerger, Victor, Hastings, 1928.01.27 (dup #66), https://lichess.org/study/r1NROPIm/2b6gAqmA
+Game*: Inkiov, Ventzislav - Psakhis, Lev; Minsk; 1982.??.??; 1-0; https://lichess.org/study/2a0vxusd/nTkCrJx5
 
-Game*: Colle, Edgard - Buerger, Victor, Hastings, 1928.01.27 (dup #66), https://lichess.org/study/r1NROPIm/9QcIPqFk
+Game: Iturrizaga Bonelli, Eduardo - Berbatov, Kiprian; Pamplona; 2011.07.27; 1-0; https://lichess.org/study/wAhu1kg2/cFDYAxx7
 
-Game*: Colle, Edgard - Capablanca, Jose Raul, Karlsbad CSR, 1929.08.22, https://lichess.org/study/6P90HTwf/41wL1Xtn
+Game*: Ivanisevic, Ivan - Ascic, Pero; Zupanja CRO; 2007.01.06; 1-0; https://lichess.org/study/AxW3sYhA/UNYrwdJg
 
-Game*: Colle, Edgard - Soultanbeieff, Victor Ivanovich, Liege, 1930.08.?? (dup #94), https://lichess.org/study/YWzZVLVO/Bo2sW2QU
+Game*: Ivkov, Boris - Bisguier, Arthur; 1950.??.??; 0-1; https://lichess.org/study/eD6ECZu4/MWmtnAVo
 
-Game*: Colle, Edgard - Soultanbeieff, Victor Ivanovich, Liege, 1930.08.?? (dup #94), https://lichess.org/study/YWzZVLVO/QCY1Af1L
+Game*: Ivkov, Boris - Kortchnoj, Viktor; 1968.??.??; 0-1; https://lichess.org/study/amMc8Mig/0zWDLIzU
 
-Game*: Colle, Edgard - Soultanbeieff, Victor Ivanovich, Liege, 1930.08.?? (dup #94), https://lichess.org/study/YWzZVLVO/VqQS9aMI
+Game*: Ivkov, Boris - Larsen, Bent; 1964.??.??; 0-1; https://lichess.org/study/amMc8Mig/VRGvqHch
 
-Game*: Colle, Edgard - Soultanbeieff, Victor Ivanovich, Liege, 1930.08.?? (dup #94), https://lichess.org/study/YWzZVLVO/hY8J7ol4
+Game*: Ivkov, Boris - Najdorf, Miguel; Wijk aan Zee; 1971.??.??; 1-0; https://lichess.org/study/uDpA956I/tg5kzMVq
 
-Game*: Colle, Edgard - Soultanbeieff, Victor Ivanovich, Liege, 1930.08.?? (dup #94), https://lichess.org/study/YWzZVLVO/lpccdIjY
+Game*: Jacobsen, Ernst - Nimzowitsch, Aron; Copenhagen; 1923.??.??; 0-1; https://lichess.org/study/sDsyelY0/XumcugEI
 
-Game*: Edgar Colle - John James O'Hanlon, Nice FRA, 1930.02.??, https://lichess.org/study/hnwliF9Y/BxqvKBEP
+Game*: Jaffe, Charles - Roething, Otto; Bath Beach; 1909.??.??; 1-0; https://lichess.org/study/6P90HTwf/G3CxNgbl
 
-Game*: Cordova, Emilio - Naumkin, Igor, Livigno Italy, 2010.09.13, https://lichess.org/study/AxW3sYhA/MaoMCJ26
+Game: Jakovljevic, Vlado - Predojevic, Borki; Novi Sad; 2012.12.04; 1-0; https://lichess.org/study/dl0ynDGz/pKwOdfp8
 
-Game fragment*: Corzo - Capablanca, 1913.??.??, https://lichess.org/study/57Oq4l6Z/OuI6pojV
+Game*: Janowski, David - Steel; 1893.??.??; 1-0; https://lichess.org/study/y1wA1JDw/4rVhRzMJ
 
-Game fragment: Courteaud, G. - Seminario, A., Correspondence, 1914.??.??, https://lichess.org/study/XH8xSdBs/AuDdEeBu
+Game*: Janowski, David - Alapin, Simon; https://lichess.org/study/Wn7aMkPy/cbfD3iOy; 1905.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/Z7Kb9e1b
 
-Game*: Cristia, Jose Maria - Lynch, Julio, Buenos Aires, 1931.??.??, https://lichess.org/study/6P90HTwf/sF9MUmJ1
+Game*: Janowski, David - Capablanca, Jose Raul; New York; 1916.??.??; 0-1; https://lichess.org/study/uDpA956I/kVJsWyR6
 
-Game*: Cruz, Raul - Kalkstein, Rodolfo, Tel Aviv, 1964.??.??, https://lichess.org/study/uDpA956I/eBLds1a6
+Game*: Janowski, David - Capablanca, Jose Raul; New York, NY USA; 1916.02.08; 0-1 (dup #45); https://lichess.org/study/6AnWFDzO/JcqYgepM
 
-Game fragment*: Cseshkovskij - Tukmakov, Vladimir, 1982.??.??, https://lichess.org/study/sDsyelY0/mYsmePd1
+Game*: Janowski, David - Capablanca, Jose Raul; New York, NY USA; 1916.02.08; 0-1 (dup #45); https://lichess.org/study/aAtElCsv/RzfD93yd
 
-Game*: Csom, Istvan - Yusupov, Artur, 1982.??.??, https://lichess.org/study/2a0vxusd/BPVpFqa0
+Game*: Jansa, Vlastimil - Polugaevsky, Lev; 1980.??.??; 0-1; https://lichess.org/study/2a0vxusd/zDCckhOK
 
-Game: Cvitan, Ognjen - Doric, Darko, Rijeka Croatia, 2006.11.16, https://lichess.org/study/AxW3sYhA/GTrlydhr
+Game*: Jimenez Zerquera, Eleazar - Larsen, Bent; Palma de Mallorca; 1967.??.??; 0-1; https://lichess.org/study/uDpA956I/Dv6Uk65N
 
-Game fragment*: Byrne. D. - Benko, 1958.??.??, https://lichess.org/study/cev86fwf/DI8CwDDy
+Game: Jobava, Baadur - Nisipeanu, Liviu Dieter; Burgas; 2012.09.17; 0-1; https://lichess.org/study/dl0ynDGz/Va1iuvql
 
-Game fragment*: Damiano - NN, TAOTC, https://lichess.org/study/1JWXdF87/v2PLsICC
+Game: Johner, Paul - Bogoljubov, Efim; Berlin GER; 1928.09.22; 0-1; https://lichess.org/study/P33p6LIH/zv7Ey2Ul
 
-Game fragment*: Damiano, P. - NN, TAOTC, 1512.??.??, https://lichess.org/study/1JWXdF87/7G6Kb4x2
+Game: Johner, Paul - Nimzowitsch, Aron; Dresden GER; 1926.04.05; 0-1; https://lichess.org/study/P33p6LIH/KPEnxcF0
 
-Game fragment*: Damiano, P. - NN, TAOTC, 1512.??.??, https://lichess.org/study/tmHOF54H/eVBh2xCu
+Game: Johner, Paul - Nimzowitsch, Aron; Dresden; 1926.??.??; 0-1; https://lichess.org/study/EDmMFcbv/658y7jbi
 
-Game fragment*: Damiano, P. - NN, TAOTC, 1512.??.??, https://lichess.org/study/1JWXdF87/zo4LQrTb
+Game*: Journoud - Morphy, Paul; 1858.??.??; *; https://lichess.org/study/57Oq4l6Z/sTZxb2aB
 
-Game*: Damjanovic, Mato - Dorfman, Josif, Vilnius, 1978.??.??, https://lichess.org/study/2a0vxusd/P0lKVHvF
+Game*: Kacheishvili, Giorgi - Fernandez, Daniel; Mesa USA; 2009.5.29; 0-1; https://lichess.org/study/dl0ynDGz/kihYW477
 
-Game*: Damjanovic, Mato - Fischer, Robert, Buenos Aires, 1970.??.??, https://lichess.org/study/sDsyelY0/QgOd9FgB
+Game*: Kamishev, Mikhail - Zagoriansky, Evgeny; 1938.??.??; 1-0; https://lichess.org/study/amMc8Mig/Tt3aiszd
 
-Game*: Danailov, Silvio - Kasparov, Garry, Dortmund, 1980.08.??, https://lichess.org/study/wAhu1kg2/KxkcnBhr
+Game*: Kan, Ilia Abramovich - Bondarevsky, Igor; Tbilisi; 1937.04.25; 1-0; https://lichess.org/study/LHmryePD/8hEch3FU
 
-Game*: danevebel - HowToWinAtChess, Chess.com, 2026.08.31, https://lichess.org/study/gDTJBYjY/F1B9EETg
+Game*: Kan, Ilia Abramovich - Capablanca, Jose Raul; 1936.??.??; 0-1; https://lichess.org/study/amMc8Mig/lstq2Mc6
 
-Game*: danielr7z - HowToWinAtChess, Chess.com, 2026.06.12, https://lichess.org/study/gDTJBYjY/kvzDLawa
+Game*: Kaplan, Julio - Larsen, Bent; San Antonio, TX; 1972.11.23; 0-1; https://lichess.org/study/ChLIRMuv/aXFxNqUg
 
-Game fragment*: Darga - Toran, 1955.??.??, https://lichess.org/study/1DTYYVAE/aeRPHbvI
+Game*: Karjakin, Sergey - Carlsen, Magnus; Wijk aan Zee; 2010.01.27; 0-1; https://lichess.org/study/wAhu1kg2/xgWr8acK
 
-Game*: Davidson, Jacques - Alekhine, Alexander, Semmering AUT, 1926.03.14, https://lichess.org/study/YuoLOpzE/LVJSHQdM
+Game*: Karjakin, Sergey - Sevian, Samuel; Douglas IMN; 2018.10.24; 1-0; https://lichess.org/study/R5KRklvA/Sc8CUzTx
 
-Game*: DavinceMind - HowToWinAtChess, Chess.com, 2025.12.13, https://lichess.org/study/P3XM0aKf/mHQsE3FV
+Game*: Karpov, Anatoly - Andersson, Ulf; Madrid; 1973.??.??; 1-0; https://lichess.org/study/uDpA956I/A0EmcfaG
 
-Game: De Riviere, Jules Arnous - Morphy, Paul, Paris FRA, 1858.??.??, https://lichess.org/study/yuifbGYp/TurHfWSx
+Game*: Karpov, Anatoly - Browne, Walter; San Antonio, TX USA; 1972.11.20; 1-0; https://lichess.org/study/6nWh4o7P/ig2qAoOE
 
-Game: De Riviere, Jules Arnous - Morphy, Paul, Paris, 1863.??.??, https://lichess.org/study/MNnC56w2/kVAnEAwH
+Game*: Karpov, Anatoly - Hort, Vlastimil; Budapest; 1973.??.??; 1-0; https://lichess.org/study/NHyuBHth/v3KYbU2L
 
-Game: De Riviere, Jules Arnous - Morphy, Paul, Paris, 1863.??.??, https://lichess.org/study/MNnC56w2/jdaRj2hC
+Game*: Karpov, Anatoly - Hort, Vlastimil; Bugojno; 1978.??.??; 1-0; https://lichess.org/study/2a0vxusd/PiNXOk5a
 
-Game*: delightmakuku - HowToWinAtChess, Chess.com, 2025.09.23, https://lichess.org/study/P3XM0aKf/5sFA3I9y
+Game*: Karpov, Anatoly - Huebner, Robert; Montreal; 1979.??.??; 1/2-1/2; https://lichess.org/study/NHyuBHth/oQakQQz6
 
-Game*: Demonn86 - HowToWinAtChess, Chess.com, 2025.10.08, https://lichess.org/study/P3XM0aKf/zBRDOz3H
+Game*: Karpov, Anatoly - Huebner, Robert; Tilburg; 1982.??.??; 1-0; https://lichess.org/study/2a0vxusd/6bkv5P3Q
 
-Game*: Arnold Denker - Boris Siff, New York, NY, 1933.02.??, https://lichess.org/study/LHmryePD/m1TCnqlb
+Game: Karpov, Anatoly - Kasparov, Garry; Lyon/New York; 1990.12.05; 1-0; https://lichess.org/study/AxW3sYhA/Z1NOeUf3
 
-Game fragment*: Denker - Kashdan, 1932.??.??, https://lichess.org/study/57Oq4l6Z/A18AQtFc
+Game*: Karpov, Anatoly - Kasparov, Garry; Mosca; 1985.??.??; 1-0; https://lichess.org/study/NHyuBHth/onBL1pFL
 
-Game fragment*: Denker - Pinkus, 1940.??.??, https://lichess.org/study/1DTYYVAE/d9ADmxT2
+Game*: Karpov, Anatoly - Kasparov, Garry; Moscow; 1984.??.??; 1-0; https://lichess.org/study/sDsyelY0/XvaWvSsg
 
-Game fragment*: Denker - Polland, 1933.??.??, https://lichess.org/study/cev86fwf/XutVejiy
+Game*: Karpov, Anatoly - Larsen, Bent; Tilburg; 1980.??.??; 0-1; https://lichess.org/study/NHyuBHth/k8yNCy7R
 
-Game fragment*: Denker - Schwartz, 1930.??.??, https://lichess.org/study/57Oq4l6Z/YFCprdMU
+Game*: Karpov, Anatoly - Mecking, Henrique; Hastings; 1971.??.??; 1-0; https://lichess.org/study/NHyuBHth/Hk2AkA24
 
-Game fragment*: Denker - Siff, 1933.??.??, https://lichess.org/study/1DTYYVAE/7rc09q0k
+Game*: Karpov, Anatoly - Miles, Anthony; 1985.??.??; 1-0; https://lichess.org/study/amMc8Mig/yckykxaE
 
-Game*: Denker, Arnold - Feuerstein, Author, 1956.??.??, https://lichess.org/study/rzdDzNB4/zA8F5Na2
+Game*: Karpov, Anatoly - Miles, Anthony; Bugojno; 1978.??.??; 1-0; https://lichess.org/study/k4B16BhD/BGcQZuJa
 
-Game*: Denker, Arnold S. - Fine, Reuben C., New York, 1944.04.22 (dup #75), https://lichess.org/study/r1NROPIm/0pXGTUaH
+Game*: Karpov, Anatoly - Polugaevsky, Lev; Mosca; 1974.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/Daqb2XHG
 
-Game: Denker, Arnold S. - Fine, Reuben C., New York, 1944.04.22 (dup #75), https://lichess.org/study/r1NROPIm/E1ZKKA09
+Game*: Karpov, Anatoly - Ribli, Zoltan; Bath (England); 1973.??.??; 1-0; https://lichess.org/study/NHyuBHth/13Uz6Lrn
 
-Game*: dhankharjatin - HowToWinAtChess, Chess.com, 2026.07.18, https://lichess.org/study/gDTJBYjY/64WSoyDt
+Game*: Karpov, Anatoly - Pomar Salamanca, Arturo; 1974.??.??; 1-0; https://lichess.org/study/amMc8Mig/pJdX3zTO
 
-Game*: diegomunizz - HowToWinAtChess, Chess.com, 2026.02.24, https://lichess.org/study/rG6bFitI/ikI9Odu3
+Game*: Karpov, Anatoly - Sax, Gyula; Linares; 1983.??.??; 1-0; https://lichess.org/study/2a0vxusd/Z2xLpu1u
 
-Game*: Diyarart - HowToWinAtChess, Chess.com, 2026.08.17, https://lichess.org/study/gDTJBYjY/M8plCkye
+Game*: Karpov, Anatoly - Spassky, Boris; 1974.??.??; 1-0; https://lichess.org/study/uDpA956I/jt0EP4qy
 
-Game: Djordjevic, Zoran - Kovacevic, Milorad, Bela Crkva, 1984.??.??, https://lichess.org/study/MNnC56w2/QFTiG7Le
+Game*: Karpov, Anatoly - Spassky, Boris; Riga LAT; 1975.07.??; 1-0; https://lichess.org/study/6nWh4o7P/BwxFNMYB
 
-Game*: Dobias - Podgorny, 1952.??.??, https://lichess.org/study/Wn7aMkPy/6dkx28k0
+Game*: Karpov, Anatoly - Taimanov, Mark E; URS; 1972.??.??; 1-0; https://lichess.org/study/sDsyelY0/qv721pia
 
-Game*: Dominguez Perez, Leinier - Andreikin, Dmitry, Havana CUB, 2011.05.14, https://lichess.org/study/dl0ynDGz/8g3HvyxJ
+Game*: Karpov, Anatoly - Uhlmann, Wolfgang; Madrid ESP; 1973.12.11; 1-0; https://lichess.org/study/6nWh4o7P/NaBApb29
 
-Game*: Donner, Johannes - Gligoric, Svetozar, 1968.??.??, https://lichess.org/study/E787KvJ9/1jOYtct4
+Game*: Karpov, Anatoly - Unzicker, Wolfgang; 1974.??.??; 1-0; https://lichess.org/study/uDpA956I/GRxF5WnF
 
-Game: Dreev, Alexey - Galic, Ivan, Kallithea, 2008.10.19, https://lichess.org/study/40nLE9YK/CeiXPtdv
+Game*: Karpov, Anatoly - Unzicker, Wolfgang; Nice FRA; 1974.06.18; 1-0; https://lichess.org/study/40nLE9YK/RpNptv9q
 
-Game: Dubois, Serafino - Steinitz, Wilhelm, London ENG, 1862.??.??, https://lichess.org/study/P33p6LIH/nP5DxfIa
+Game*: Karpov, Anatoly - Westerinen, Heikki; Nice FRA; 1974.06.25; 1-0; https://lichess.org/study/6nWh4o7P/6hNgLMGR
 
-Game fragment*: Duras - Olland, Carlsbad, 1907.??.??, https://lichess.org/study/V4VFISZI/hucIXFWk
+Game*: Kashdan, Isaac - Gligoric, Svetozar; Hollywood; 1952.??.??; 0-1; https://lichess.org/study/eD6ECZu4/tV2VV7Ud
 
-Game fragment*: Dus-Chotiminirsky - Capablanca, 1925.??.??, https://lichess.org/study/t6bOK7CT/y4qFfUsP
+Game*: Kashdan, Isaac - Horowitz, Israel Albert; Philadelphia, PA USA; 1936.08.24; 0-1 (dup #49); https://lichess.org/study/6AnWFDzO/Ky1NhBjD
 
-Game fragment*: Duz-Khotimirskij, F. - Kan, Ilya, 1933.??.??, https://lichess.org/study/NHyuBHth/EINHrgB5
+Game*: Kashdan, Isaac - Horowitz, Israel Albert; Philadelphia, PA USA; 1936.08.24; 0-1 (dup #49); https://lichess.org/study/aAtElCsv/944GGDcd
 
-Game*: Dzindzichashvili, Roman - Browne, Walter, 1984.??.??, https://lichess.org/study/E787KvJ9/dSRSHKcV
+Game*: Kashdan, Isaac - Reshevsky, Samuel Herman; New York; 1938.??.??; 0-1; https://lichess.org/study/k4B16BhD/avcGv8dV
 
-Game*: Dzindzichashvili, Roman - Liberzon, Vladimir, 1978.??.??, https://lichess.org/study/2a0vxusd/KUty13A3
+Game*: Kashdan, Isaac - Steiner, Herman; Pasadena; 1932.??.??; 1-0; https://lichess.org/study/6P90HTwf/FxXyrdZs
 
-Game fragment*: Ebralidze - Ragozin, Tbilisi, 1937.??.??, https://lichess.org/study/ONYKV9a1/12IYsL9F
+Game*: Kasparov, Garry - Andersson, Ulf; 1981.??.??; 1-0; https://lichess.org/study/E787KvJ9/cNpFCcWx
 
-Game fragment*: Eckart, Karl - Tarrasch, Siegbert, Nuremberg, 1888.??.??, https://lichess.org/study/e7ARwPCA/RVr5FvsE
+Game*: Kasparov, Garry - Chiburdanidze, Maia; Baku; 1980.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/KORC0rgi
 
-Game fragment*: Eckart, Karl - Tarrasch, Siegbert, Nuremberg, 1889.??.??, https://lichess.org/study/bELN6Owi/PRYohXQp
+Game*: Kasparov, Garry - Gheorghiu, Florin; Moscow; 1982.??.??; 1-0; https://lichess.org/study/E787KvJ9/cfcuAzua
 
-Game: Eckart, Karl - Tarrasch, Siegbert, Nuremberg, 1890.??.??, https://lichess.org/study/pdteMCe2/hMGgJtqm
+Game*: Kasparov, Garry - Huebner, Robert; Hamburg; 1985.07.??; 1-0; https://lichess.org/study/NHyuBHth/FrH5Jc8w
 
-Game: Eckart, Karl - Tarrasch, Siegbert, Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/2jec4ADT
+Game*: Kasparov, Garry - Kramnik, Vladimir; Moscow RUS; 2001.12.02; 1/2-1/2; https://lichess.org/study/dl0ynDGz/rpMlVfdz
 
-Game: Eckart, Karl - Tarrasch, Siegbert, Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/Xr12csiV
+Game*: Kasparov, Garry - Najdorf, Miguel; 1982.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/RT6R3VW2
 
-Game fragment: Eckart, Karl - Tarrasch, Siegbert, Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/dwIyc222
+Game*: Kasparov, Garry - Natsis, Trifon; 1980.??.??; 1-0; https://lichess.org/study/amMc8Mig/vTAnFybH
 
-Game fragment*: Eckart, Karl - Tarrasch, Siegbert, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/Zr3wSYNL
+Game*: Kasparov, Garry - Nunn, John; Lucerne SUI; 1982.11.08; 1-0; https://lichess.org/study/HU8KOi8j/X5p4szeH
 
-Game fragment: Eckart, Karl - Tarrasch, Siegbert, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/Po6Wvppi
+Game*: Kasparov, Garry - Portisch, Lajos; Niksic; 1983.??.??; 1-0; https://lichess.org/study/E787KvJ9/mSbCPlhu
 
-Game fragment*: Karl Eckart - Tarrasch, Siegbert, Nuremberg, 1887.??.??, https://lichess.org/study/e7ARwPCA/NiTxVeV9
+Game*: Kasparov, Garry - Smyslov, Vasily; Vilnius; 1984.??.??; 1-0; https://lichess.org/study/k4B16BhD/r9q0a5uH
 
-Game*: Ehlvest, Jaan - Flores Rios, Mauricio, Sao Paulo BRA, 2009.8.3, https://lichess.org/study/wAhu1kg2/sE8lmzWq
+Game*: Kavalek, Lubomir - Rogoff, Kenneth; Oberlin; 1975.??.??; 0-1; https://lichess.org/study/amMc8Mig/TrtgotPd
 
-Game*: Eliskases - Canal, 1933.??.??, https://lichess.org/study/rzdDzNB4/7TkAFxiS
+Game*: Keene, Raymond - Kovacevic, Vlatko; 1973.??.??; 1-0; https://lichess.org/study/amMc8Mig/yXoukTkT
 
-Game fragment*: Eliskases - Flohr, 1937.??.??, https://lichess.org/study/cev86fwf/YGrtg8qJ
+Game*: Keene, Raymond - Miles, Anthony; Hastings ENG; 1976.01.12; 1-0; https://lichess.org/study/LHmryePD/z2KNlURj
 
-Game fragment*: Eliskases - Landau, 1938.??.??, https://lichess.org/study/1DTYYVAE/VVCG6kdB
+Game*: Keene, Raymond - Miles, Anthony; Torquay; 1982.??.??; 0-1; https://lichess.org/study/sDsyelY0/pjXFYt85
 
-Game fragment*: Eliskases, Erich - Broyer, 1933.??.??, https://lichess.org/study/NHyuBHth/ZPj7YkOp
+Game: Kennicott, Hiram - Morphy, Paul; New York, NY USA; 1857.??.??; 0-1; https://lichess.org/study/MNnC56w2/u1IM2gBB
 
-Game*: Eliskases, Erich - Capablanca, Jose Raul, 1933.??.??, https://lichess.org/study/NHyuBHth/hYjCo5OT
+Game: Keres, Paul - Alekhine, Alexander; Margate; 1937.??.??; 1-0; https://lichess.org/study/OMNHm3q5/u3Yzlwq8
 
-Game*: Eliskases, Erich - Flohr, Salomon, Semmering, 1937.??.??, https://lichess.org/study/sDsyelY0/jZJRHSCa
+Game*: Keres, Paul - Eliskases, Erich Gottlieb; 1937.??.??; 1-0; https://lichess.org/study/amMc8Mig/1irXA0VQ
 
-Game fragment*: Eliskases, Erich Gottlieb - Gruenfeld, Ernst, Moravska Ostrava, 1933.??.??, https://lichess.org/study/eD6ECZu4/OSa11SDC
+Game*: Keres, Paul - Euwe, Max; Zandvoort; 1936.??.??; 0-1; https://lichess.org/study/rzdDzNB4/O9RsyRDB
 
-Game*: Eliskases, Erich Gottlieb - Gruenfeld, Ernst, Moravska Ostrava, 1933.??.??, https://lichess.org/study/eD6ECZu4/7rW4suRf
+Game*: Keres, Paul - Geller, Efim; Mosca; 1962.??.??; 1-0; https://lichess.org/study/E787KvJ9/nrsluYKI
 
-Game: Eljanov, Pavel - Jakovenko, Dmitrij, Tromso, 2013.08.15, https://lichess.org/study/dl0ynDGz/eYo4EDeh
+Game*: Keres, Paul - Karpov, Anatoly; Mosca; 1973.??.??; 1/2-1/2; https://lichess.org/study/uDpA956I/I09ye492
 
-Game: Eljanov, Pavel - Radjabov, Teimour, Wijk aan Zee, 2008.01.17, https://lichess.org/study/dl0ynDGz/dqzzUWmY
+Game*: Keres, Paul - Lilienthal, Andor; Leningrad; 1941.??.??; 1-0; https://lichess.org/study/NHyuBHth/mZn5GCrc
 
-Game*: Elo, Arpad - Fischer, Robert, 1957.??.??, https://lichess.org/study/NHyuBHth/hVEOhoKc
+Game*: Keres, Paul - Petrovs, Vladimir; Mosca; 1940.??.??; 1-0; https://lichess.org/study/E787KvJ9/jTb1iSxX
 
-Game: Englisch, Berthold - Steinitz, Wilhelm, London ENG, 1883.06.06, https://lichess.org/study/P33p6LIH/zk2ggppu
+Game*: Keres, Paul - Reshevsky, Samuel Herman; *; https://lichess.org/study/1DTYYVAE/EWG93Rw3
 
-Game: Englisch, Berthold - Tarrasch, Siegbert, Hamburg, 1885.07.13, https://lichess.org/study/PVzIGg2F/RkTwCA6K
+Game*: Keres, Paul - Schmid, Lothar; Bamberg; 1968.??.??; 1-0; https://lichess.org/study/2a0vxusd/nbsQPMqt
 
-Game*: esavoie - HowToWinAtChess, Chess.com, 2025.12.13, https://lichess.org/study/P3XM0aKf/dEgyegGf
+Game*: Keres, Paul - Spassky, Boris; 1955.??.??; 1-0; https://lichess.org/study/E787KvJ9/QIb9Iwx3
 
-Game: Essery, A. G. - Warren, F. H., Great Britain, 1912.??.??, https://lichess.org/study/tmHOF54H/hp8pEO5x
+Game*: Keres, Paul - Szabo, Laszlo; Budapest; 1955.??.??; 1-0; https://lichess.org/study/E787KvJ9/7TNDEzLh
 
-Game fragment*: Estrin - Ivashin, 1947.??.??, https://lichess.org/study/NHyuBHth/jedI2ND2
+Game*: Keres, Paul - Westerinen, Heikki; Tallinn; 1973.??.??; 1-0; https://lichess.org/study/2a0vxusd/w4B7U48F
 
-Game fragment*: Euwe - Bogolyubov, 1928.??.??, https://lichess.org/study/t6bOK7CT/41p7FMwZ
+Game*: Kevitz, Alexander - Capablanca, Jose Raul; 1931.??.??; 0-1; https://lichess.org/study/amMc8Mig/QuhIsm5x
 
-Game: Euwe, M. - Loman, R., Rotterdam, 1923.??.??, https://lichess.org/study/XH8xSdBs/sSvnaCv6
+Game*: Kevitz, Alexander - Kotov, Alexander; 1955; 0-1; https://lichess.org/study/vJTD9Iyi/kGo10UKZ
 
-Game: Euwe, Max - Alekhine, Alexander, The Hague NED, 1927.01.06, https://lichess.org/study/YuoLOpzE/sNtbhbYW
+Game*: Khan, Sultan - Mattison, Hermanis Karlovich; Prague CSR; 1931.07.14; 1-0; https://lichess.org/study/eUChNfwg/h6NgKodc
 
-Game*: Euwe, Max - Alekhine, Alexander, Bad Nauheim, 1937.??.??, https://lichess.org/study/5mW5ZvOp/hc54IODk
+Game: Kirdetzoff - Kahn, V.; Copenhagen; 1918.??.??; 0-1; https://lichess.org/study/1JWXdF87/PIcxQwRo
 
-Game fragment*: Euwe, Max - Botvinnik, Mikhail, Nottingham, 1936.??.??, https://lichess.org/study/uUaMniQc/lQeOghde
+Game*: Kirillov, Vladimir - Furman, Semion; 1949.??.??; 0-1; https://lichess.org/study/E787KvJ9/vqNa948b
 
-Game*: Euwe, Max - Botvinnik, Mikhail, Nottingham, 1936.??.??, https://lichess.org/study/uUaMniQc/EhfNAgWD
+Game*: Klein, Ernst - Reshevsky, Samuel Herman; 1935.??.??; 0-1; https://lichess.org/study/NHyuBHth/ZgUPoH2k
 
-Game*: Euwe, Max - Capablanca, Jose Raul, Holland, 1938.??.??, https://lichess.org/study/k4B16BhD/FNgbrtpk
+Game*: Kline, H. - Capablanca, Jose Raul; New York; 1913.??.??; 0-1; https://lichess.org/study/EDmMFcbv/TWjvDydP
 
-Game*: Euwe, Max - Carls, Carl, 1928.??.??, https://lichess.org/study/2a0vxusd/mjfFDBIL
+Game*: Klundt, Klaus - Dautov, Rustem; Bad Wiessee GER; 2001.10.31; 0-1; https://lichess.org/study/40nLE9YK/oKWJs3z2
 
-Game fragment*: Euwe, Max - Flohr, Salo, Amsterdam, 1932.??.??, https://lichess.org/study/izyugXAJ/L0b0VxF8
+Game*: Kmoch, Hans - Alekhine, Alexander; Holland; 1937.??.??; 0-1; https://lichess.org/study/eD6ECZu4/uspKyBR0
 
-Game*: Euwe, Max - Flohr, Salo, Amsterdam, 1932.??.??, https://lichess.org/study/izyugXAJ/pfiRQq2B
+Game*: Koenig, Imre - Smyslov, Vasily; 1946.??.??; 0-1; https://lichess.org/study/k4B16BhD/zdAFgS9a
 
-Game*: Euwe, Max - Keres, Paul, 1940.??.??, https://lichess.org/study/E787KvJ9/vJb58cIu
+Game: Koltanowski, George - NN; Antwerp; 1931.??.??; 1-0; https://lichess.org/study/tmHOF54H/87wHezpg
 
-Game fragment*: Euwe, Max - Keres, Paul, Den Haag/Moscow, 1948.03.02, https://lichess.org/study/rgKjJhUJ/nMBVdC5R
+Game*: Koltanowski, George - Feigins, Movsas; Hastings; 1936.??.??; 0-1; https://lichess.org/study/6P90HTwf/8LiCSujP
 
-Game*: Euwe, Max - Keres, Paul, Den Haag/Moscow, 1948.03.02, https://lichess.org/study/rgKjJhUJ/FLbytGty
+Game*: Kopylov - Taimanov, Mark E; 1949.??.??; *; https://lichess.org/study/t6bOK7CT/4xNp7dij
 
-Game*: Euwe, Max - Pirc, Vasja, Bled, 1949.??.??, https://lichess.org/study/uUaMniQc/prCjCc2m
+Game*: Korneev, Oleg - Kasimdzhanov, Rustam; Melilla ESP; 2011.11.24; 0-1; https://lichess.org/study/AxW3sYhA/ytHn68NS
 
-Game fragment*: Euwe, Max - Pirc, Vasja, Bled, 1949.??.??, https://lichess.org/study/uUaMniQc/nOF8DRcz
+Game*: Kortchnoj, Viktor - Botvinnik, Mikhail; Moscow; 1960.??.??; 1-0; https://lichess.org/study/NHyuBHth/ozryOWAc
 
-Game fragment*: Evans - Larsen, 1949.??.??, https://lichess.org/study/cev86fwf/hnTUwh3b
+Game*: Kortchnoj, Viktor - Fischer, Robert James; Curacao; 1962.??.??; 1/2-1/2; https://lichess.org/study/amMc8Mig/YD52kT7h
 
-Game*: Evans, Larry - Gligoric, Svetozar, USA, 1971.??.??, https://lichess.org/study/2a0vxusd/wfZgBoWb
+Game*: Kortchnoj, Viktor - Karpov, Anatoly; Baguio City; 1978.??.??; 1-0; https://lichess.org/study/sDsyelY0/lGCIaRPh
 
-Game*: Evans, Larry - Shamkovich, Leonid, Greenville, 1980.??.??, https://lichess.org/study/NHyuBHth/OWrYj6Xf
+Game*: Kortchnoj, Viktor - Karpov, Anatoly; Baguio City; 1978.??.??; 1-0; https://lichess.org/study/k4B16BhD/ZYpXrp5i
 
-Game*: Evans, Larry Melvin - Rossolimo, Nicholas, 1955.??.??, https://lichess.org/study/eD6ECZu4/pnuKZH4c
+Game*: Kortchnoj, Viktor - Karpov, Anatoly; Mosca; 1973.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/2z4jPtcI
 
-Game*: Expert - Master, RTCM, https://lichess.org/study/IDpn2okt/4qnLzyLc
+Game*: Kortchnoj, Viktor - Matanovic, Aleksandar; Palma de Mallorca; 1968.??.??; 1-0; https://lichess.org/study/k4B16BhD/PoWkRodi
 
-Game: Expert - Master, RTCM, https://lichess.org/study/wOzb5Wrb/4lC3MZww
+Game*: Kortchnoj, Viktor - Petrosian, Tigran; Moscow; 1975.??.??; 1-0; https://lichess.org/study/uDpA956I/7htNRlg5
 
-Game*: Expert - Master, RTCM (dup #48), https://lichess.org/study/IDpn2okt/LaZXQ267
+Game*: Kortchnoj, Viktor - Spassky, Boris; Kiev; 1968.??.??; 1-0; https://lichess.org/study/2a0vxusd/3S4g1EvL
 
-Game: Expert - Master, RTCM (dup #48), https://lichess.org/study/wOzb5Wrb/Ckv9rcdA
+Game*: Kortchnoj, Viktor - Tal, Mikhail; Wijk aan Zee; 1968.??.??; 1-0; https://lichess.org/study/k4B16BhD/R0pHAzkh
 
-Game*: Expert - Master, RTCM (dup #49), https://lichess.org/study/IDpn2okt/62pXsNYz
+Game*: Kortchnoj, Viktor - Timman, Jan; Hilversum; 1982.??.??; 1-0; https://lichess.org/study/k4B16BhD/299vLQtg
 
-Game*: Expert - Master, RTCM (dup #49), https://lichess.org/study/wOzb5Wrb/dg1InUeQ
+Game*: Kortchnoj, Viktor - Tringov, Georgi; Lucerne (Switzerland); 1982.??.??; 1-0; https://lichess.org/study/uDpA956I/5QJVxpi2
 
-Game*: Expert - Master, RTCM (dup #50), https://lichess.org/study/IDpn2okt/j1AjqTtl
+Game*: Kosilov, Roman - Denisov, Evgeny; Tula; 2005.09.10; 1-0; https://lichess.org/study/3Aw3IIVA/CthaUFCO
 
-Game: Expert - Master, RTCM (dup #50), https://lichess.org/study/wOzb5Wrb/RqdfexF6
+Game*: Kostic, Borislav - Gruenfeld, Ernst; Teplice-Sanov CSR; 1922.10.13; 0-1; https://lichess.org/study/InR4tjnm/ucsmXHKM
 
-Game fragment*: Faehndrich - Kaufmann, 1914.??.??, https://lichess.org/study/1DTYYVAE/Q1hh5qsO
+Game: Kostic, Borislav - Gruenfeld, Ernst; Teplitz-Schoenau; 1922.??.??; 0-1 (dup #4); https://lichess.org/study/WTO993dw/TwVv4tKO
 
-Game fragment*: Fairhurst - Reshevsky, S., Hastings, 1938.??.??, https://lichess.org/study/tmHOF54H/heQr114g
+Game*: Kostic, Borislav - Gruenfeld, Ernst; Teplitz-Schoenau; 1922.??.??; 0-1 (dup #4); https://lichess.org/study/cev86fwf/aTVDf83R
 
-Game: Falkbeer, E. - NN, Vienna, 1847.??.??, https://lichess.org/study/tmHOF54H/BKzz173D
+Game*: Kotov, Alexander - Botvinnik, Mikhail; 1955.??.??; 0-1; https://lichess.org/study/NHyuBHth/bdfMyOyq
 
-Odds game: Falkbeer, E. - Simpsonn, London, 1864.??.??, https://lichess.org/study/tmHOF54H/h0S3hN9l
+Game*: Kotov, Alexander - Gligoric, Svetozar; Zurigo; 1953.??.??; 1/2-1/2; https://lichess.org/study/5mW5ZvOp/wV6lynOP
 
-Game fragment*: Farberh, Isaac - Wallach, 1955.??.??, https://lichess.org/study/izyugXAJ/XZHMcNlg
+Game*: Kotov, Alexander - Kashdan, Isaac; Moscow RUS and New York USA; 1945.09.03; 1-0; https://lichess.org/study/1O0UELn6/IZWd8NUo
 
-Game*: Fazlulloh_1 - HowToWinAtChess, Chess.com, 2025.10.18, https://lichess.org/study/P3XM0aKf/pkrpvGR8
+Game*: Kotov, Alexander - Steiner, Herman; Moscow; 1955.??.??; 1-0; https://lichess.org/study/rzdDzNB4/Pn5uR4ih
 
-Game*: Fedor0554 - HowToWinAtChess, Chess.com, 2026.03.09, https://lichess.org/study/rG6bFitI/3HKcJZse
+Game*: Kotov, Alexander - Szabo, Laszlo; Zurigo; 1953.??.??; 1-0; https://lichess.org/study/uDpA956I/z5eDLfFk
 
-Game*: Filip - Euwe, 1955.??.??, https://lichess.org/study/t6bOK7CT/6MDmVN3E
+Game*: Kotov, Alexander - Taimanov, Mark E; Zurich SUI; 1953.09.16; 1-0; https://lichess.org/study/1O0UELn6/GOyufLml
 
-Game*: Filip, Miroslav - Kortchnoj, Viktor, Siegen, 1970.??.??, https://lichess.org/study/amMc8Mig/pm2QjcJn
+Game*: Kovchan, Alexander - Khismatullin, Denis; St Petersburg RUS; 2011.8.18; 0-1; https://lichess.org/study/dl0ynDGz/FaeNSaMk
 
-Game fragment: Fine, R. - Dake, A. W., New York, 1933.??.??, https://lichess.org/study/V4VFISZI/sTAukrIz
+Game*: Krogius, Nikolai - Stein; 1960.??.??; 0-1; https://lichess.org/study/uDpA956I/ugOagT3Z
 
-Game*: Fine, Reuben - Botvinnik, Mikhail, Holland, 1938.??.??, https://lichess.org/study/sDsyelY0/1qossLM9
+Game*: Krogius, Nikolai - Smyslov, Vasily; 1967.??.??; 0-1; https://lichess.org/study/2a0vxusd/GZLOH8Jw
 
-Game*: Fine, Reuben - Winter, William, Nottingham, 1936.??.??, https://lichess.org/study/amMc8Mig/gdkj9EaX
+Game*: Kudrin, Sergey - Reshevsky, Samuel Herman; 1985.??.??; 0-1; https://lichess.org/study/2a0vxusd/FN5KTEXU
 
-Game: Fine, Reuben C. - Flohr, Salo, Netherlands, 1938.??.??, https://lichess.org/study/r1NROPIm/9yQ3O3e3
+Game: Kuljasevic, Davorin - Golubovic, Boris; Bol na Bracu; 2013.05.26; 1-0; https://lichess.org/study/dl0ynDGz/08qUfAzb
 
-Game*: Fine, Reuben C. - Flohr, Salo, Netherlands, 1938.??.??, https://lichess.org/study/r1NROPIm/FA92T8Fd
+Game*: Kunze - Tarrasch, Siegbert; Halle; 1883.??.??; 0-1; https://lichess.org/study/PVzIGg2F/WzwlhlLp
 
-Game fragment*: Fischer, R. - Bisguier, 1957.??.??, https://lichess.org/study/6JAUFQ5p/kKTOdthh
+Game*: Kupper, Josef - Tal, Mikhail; 1959.??.??; 0-1; https://lichess.org/study/2a0vxusd/N8dEaZ9w
 
-Game*: Fischer, Robert - Bisguier, Arthur, New York, 1962.??.??, https://lichess.org/study/uDpA956I/XVpRG5YZ
+Game*: Kurschner, Max - Tarrasch, Siegbert; Nuremberg (Germany); 1890.??.??; 0-1; https://lichess.org/study/pdteMCe2/2lEKMTDM
 
-Game*: Fischer, Robert - Czerniak, Moshe, 1968.??.??, https://lichess.org/study/2a0vxusd/45xZD7ki
+Game: Kurschner, Max - Tarrasch, Siegbert; Nuremberg-cc; 1890.??.??; 0-1; https://lichess.org/study/pdteMCe2/6kBvHmJh
 
-Game*: Fischer, Robert - German, Eugenio, 1962.??.??, https://lichess.org/study/uDpA956I/PqzuGJk4
+Game: Kurschner, Max - Tarrasch, Siegbert; Nuremberg; 1887.??.??; 0-1; https://lichess.org/study/e7ARwPCA/NN1WsniN
 
-Game*: Fischer, Robert - Hamann, Svend, 1968.??.??, https://lichess.org/study/2a0vxusd/R0VRhYdq
+Game: Kurschner, Max - Tarrasch, Siegbert; Nuremberg; 1887.??.??; 0-1; https://lichess.org/study/e7ARwPCA/cEhpKSg3
 
-Game*: Fischer, Robert - Kagan, Shimon, Netanya, 1968.??.??, https://lichess.org/study/uDpA956I/HBbN40df
+Game: Kurschner, Max - Tarrasch, Siegbert; Nuremberg; 1887.??.??; 0-1; https://lichess.org/study/e7ARwPCA/XuIVfexl
 
-Game*: Fischer, Robert - Keres, Paul, Bled, 1959.??.??, https://lichess.org/study/uDpA956I/MCx30Bhl
+Game: Kurschner, Max - Tarrasch, Siegbert; Nuremberg; 1888.??.??; 0-1; https://lichess.org/study/e7ARwPCA/jLQHnwba
 
-Game*: Fischer, Robert - Keres, Paul, Curacao, 1962.??.??, https://lichess.org/study/uDpA956I/XJ12cNJP
+Game: Kurschner, Max - Tarrasch, Siegbert; Nuremberg; 1888.??.??; 0-1; https://lichess.org/study/e7ARwPCA/WhxdIs6s
 
-Game*: Fischer, Robert - Petrosjan, Tigran, Buenos Aires, 1971.??.??, https://lichess.org/study/uDpA956I/lIiauQ3R
+Game: Kurschner, Max - Tarrasch, Siegbert; Nuremberg; 1889.??.??; 0-1; https://lichess.org/study/bELN6Owi/hhD1Lwii
 
-Game*: Fischer, Robert - Spassky, Boris, Reykjavik, 1972.??.??, https://lichess.org/study/uDpA956I/b8csXK0w
+Game: Kurschner, Max - Tarrasch, Siegbert; Nuremberg; 1889.??.??; 0-1; https://lichess.org/study/bELN6Owi/zmGwcaJn
 
-Game*: Fischer, Robert - Tajmanov, Mark, Palma de Mallorca, 1970.??.??, https://lichess.org/study/sDsyelY0/vL3sYJFN
+Game: Kurschner, Max - Tarrasch, Siegbert; Nuremberg; 1889.??.??; 0-1; https://lichess.org/study/bELN6Owi/2cTP8eKG
 
-Game*: Fischer, Robert - Tajmanov, Mark, Vancouver, 1971.??.??, https://lichess.org/study/sDsyelY0/N5dK29eP
+Game: Kurschner, Max - Tarrasch, Siegbert; Nuremberg; 1889.??.??; 0-1; https://lichess.org/study/bELN6Owi/RIkwyFd1
 
-Game*: Fischer, Robert - Tal, Mikhail, Curacao, 1962.??.??, https://lichess.org/study/sDsyelY0/pdxzIfz0
+Game: Kurschner, Max - Tarrasch, Siegbert; Nuremberg; 1890.??.??; 0-1; https://lichess.org/study/bELN6Owi/hOQs6oLV
 
-Game: Fischer, Robert James - Fridrik, Olafsson, Stockholm, 1962.??.?? (dup #74), https://lichess.org/study/r1NROPIm/VnBM3nCQ
+Game*: Kurschner, Max - Tarrasch, Siegbert; Nuremberg; 1891.??.??; 0-1; https://lichess.org/study/pdteMCe2/otpZ3pi2
 
-Game*: Fischer, Robert James - Fridrik, Olafsson, Stockholm, 1962.??.?? (dup #74), https://lichess.org/study/r1NROPIm/e7NGHahM
+Game: Kurschner, Max - Tarrasch, Siegbert; Nuremberg; 1892.??.??; 0-1; https://lichess.org/study/UQieNXft/MJglDJ7V
 
-Game*: Robert James Fischer - Ulf Andersson, Siegen FRG, 1970.09.??, https://lichess.org/study/eUChNfwg/QnSTDQPX
+Game*: Kushnir, Alla - Gaprindashvili, Nona; Riga; 1972.??.??; 1-0; https://lichess.org/study/sDsyelY0/L8TzdmES
 
-Game*: Robert James Fischer - Olicio Gadia, Mar del Plata ARG, 1960.03.31, https://lichess.org/study/6nWh4o7P/E748ON8b
+Game*: Kuzmin, Gennadi - Sveshnikov, Evgeny; Mosca; 1973.??.??; 1-0; https://lichess.org/study/E787KvJ9/2DR13YPs
 
-Game*: Robert James Fischer - Florin Gheorghiu, Buenos Aires ARG, 1970.07.21, https://lichess.org/study/6nWh4o7P/FVQVjTzd
+Game*: Kuzubov, Yuriy - Efimenko, Zahar; Kiev UKR; 2012.08.03; 0-1; https://lichess.org/study/AxW3sYhA/SAIiIIvc
 
-Game*: Robert James Fischer - Bent Larsen, Portoroz SLO, 1958.08.16, https://lichess.org/study/hnwliF9Y/lJLctjsk
+Game*: Landau, Salo - Book, Eero; Kemeri; 1937.06.??; 1-0; https://lichess.org/study/6P90HTwf/BuMhjSSl
 
-Game*: Robert James Fischer - Lhamsuren Myagmarsuren, Sousse TUN, 1967.10.15, https://lichess.org/study/drEQ8cYo/B4GJXDEG
+Game: Laroche, Jean Adolphe - Morphy, Paul; Paris; 1858.10.??; 0-1; https://lichess.org/study/MNnC56w2/y6fjwyM2
 
-Game*: Robert James Fischer - Tigran Vartanovich Petrosian, Buenos Aires ARG, 1971.10.19, https://lichess.org/study/6nWh4o7P/AAXoSAb4
+Game*: Larsen, Bent - Fischer, Robert James; Santa Monica; 1966.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/BSi5Cka7
 
-Game*: Robert James Fischer - James T Sherwin, -, 1957.09.02, https://lichess.org/study/drEQ8cYo/pbUltOOo
+Game*: Larsen, Bent - Gligoric, Svetozar; 1956.??.??; 1-0; https://lichess.org/study/k4B16BhD/DuZicCPr
 
-Game fragment*: Flohr - Euwe, 1932.??.??, https://lichess.org/study/cev86fwf/pR7PCFHj
+Game*: Larsen, Bent - Torre, Eugenio; Bruxelles; 1987.??.??; 1-0; https://lichess.org/study/sDsyelY0/i9LHeCZg
 
-Game*: Flohr - Pitschak, 1930.??.??, https://lichess.org/study/Wn7aMkPy/ZIB9hrdE
+Game*: Lascano, J. - Bahamonde, Antonio; Argentina; 1936.??.??; 1-0; https://lichess.org/study/6P90HTwf/pRBqdJqu
 
-Game: Flohr, S. - Pitschak, R., Bilin, 1930.??.??, https://lichess.org/study/OMNHm3q5/vTYQqVLc
+Game: Lasker, Berthold - Tarrasch, Siegbert; Berlin; 1882.??.??; 0-1; https://lichess.org/study/PVzIGg2F/KBcrTYFJ
 
-Game*: Flohr, Salo - Bogoljubow, Efim, Sliac, 1932.??.??, https://lichess.org/study/eD6ECZu4/4ntiNK1I
+Game: Lasker, Edward - Burn, Amos; St. Petersburg; 1909.??.??; 1-0; https://lichess.org/study/EDmMFcbv/yd1xDDz2
 
-Game*: Flohr, Salo - Botvinnik, Mikhail, Leningrad, 1933.??.??, https://lichess.org/study/rzdDzNB4/IYrvk3yX
+Game: Lasker, Edward - Englund, Fritz; Scheveningen; 1913.??.??; 1-0; https://lichess.org/study/OMNHm3q5/2hrx0gva
 
-Game*: Flohr, Salo - Horowitz, Israel Albert, Soviet Union, 1945.??.??, https://lichess.org/study/fxEOlxbq/g5m1XGmH
+Game: Lasker, Edward - Thomas, George Alan; London; 1912.??.??; 1-0; https://lichess.org/study/tmHOF54H/FZyl0F4V
 
-Game*: Flohr, Salo - Lustig, Ral, Prague, 1928.??.??, https://lichess.org/study/fxEOlxbq/VEcGNRr3
+Game: Lasker, Emanuel - NN; TAOTC; 1894.??.??; 1-0; https://lichess.org/study/OMNHm3q5/4XZeSYO0
 
-Game*: Flohr, Salo - Walter, Max, Sliac, 1932.??.??, https://lichess.org/study/6P90HTwf/8owQ6QBm
+Game*: Lasker, Emanuel - Bauer, Johann Hermann; Amsterdam; 1889.??.??; 1-0; https://lichess.org/study/E787KvJ9/2HJbflOc
 
-Game fragment*: Flohr, Salomon - Bolbochan, 1937.??.??, https://lichess.org/study/NHyuBHth/nto3pO8J
+Game*: Lasker, Emanuel - Bohatirchuk, Fedor Parfenovich; Moscow; 1935.??.??; 1/2-1/2; https://lichess.org/study/fxEOlxbq/5ZtvMeub
 
-Game*: Flohr, Salomon - Bondarevsky, Igor, 1949.??.??, https://lichess.org/study/NHyuBHth/ACQGj71y
+Game*: Lasker, Emanuel - Capablanca, Jose Raul; St Petersburg; 1914.??.??; 1-0 (dup #31); https://lichess.org/study/5mW5ZvOp/4QALfPes
 
-Game*: Flohr, Salomon - Botvinnik, Mikhail, 1933.??.??, https://lichess.org/study/k4B16BhD/ArzT9aAW
+Game*: Lasker, Emanuel - Capablanca, Jose Raul; St Petersburg; 1914.??.??; 1-0 (dup #31); https://lichess.org/study/fxEOlxbq/YUgzSbzx
 
-Game*: Flohr, Salomon - Capablanca, Jose Raul, 1935.??.??, https://lichess.org/study/sDsyelY0/0YgHefVo
+Game: Lasker, Emanuel - Capablanca, Jose Raul; St. Petersburg  RUE; 1914.05.18; 1-0; https://lichess.org/study/P33p6LIH/0YpxHqDZ
 
-Game*: Flohr, Salomon - Pirc, Vasja, Podebrady, 1936.??.??, https://lichess.org/study/sDsyelY0/u0ovCVfB
+Game*: Lasker, Emanuel - Cohn, Erich; St Petersburg; 1909.??.??; 1-0; https://lichess.org/study/uUaMniQc/qHqE3knb
 
-Game*: Flohr, Salomon - Vidmar, Milan, Nottingham, 1936.??.??, https://lichess.org/study/k4B16BhD/bmSNpA4J
+Game*: Lasker, Emanuel - Janowski, David; Paris; 1909.10.22; 1-0; https://lichess.org/study/uUaMniQc/muXXANw2
 
-Game: Flores Rios, Mauricio - Hayrapetian, Hovik, Sant Marti, 2013.07.21 (dup #83), https://lichess.org/study/dl0ynDGz/Exh3w4jz
+Game: Lasker, Emanuel - Napier, William Ewart; Cambridge Springs, PA USA; 1904.04.28; 1-0; https://lichess.org/study/P33p6LIH/MA0CqOlO
 
-Game*: Flores Rios, Mauricio - Hayrapetian, Hovik, Sant Marti, 2013.07.21 (dup #83), https://lichess.org/study/dl0ynDGz/at59QpJL
+Game*: Lasker, Emanuel - Nimzowitsch, Aron; 1934.??.??; 0-1; https://lichess.org/study/NHyuBHth/EddHYBHt
 
-Game: Flores Rios, Mauricio - Delgado Ramirez, Neuris, Sao Paulo, 2009.07.28, https://lichess.org/study/AxW3sYhA/WCD4emFJ
+Game*: Lasker, Emanuel - Reshevsky, Samuel Herman; Nottingham; 1936.??.??; 0-1; https://lichess.org/study/amMc8Mig/5JUFIKR5
 
-Game: Flores Rios, Mauricio - Vasquez, Rodrigo, 2023.09.13, https://lichess.org/study/40nLE9YK/4XOjiJz4
+Game*: Lasker, Emanuel - Rubinstein, Akiba; St Petersburg; 1914.??.??; 1-0; https://lichess.org/study/k4B16BhD/mVJ9kgAn
 
-Game*: Florian - Kluger, 1955.??.??, https://lichess.org/study/t6bOK7CT/ATuMlcOF
+Game: Lasker, Emanuel - Spielmann, Rudolf; Moscow URS; 1925.12.02; 1-0; https://lichess.org/study/P33p6LIH/F8tUdPEG
 
-Game*: Foltys, Jan - Fine, Reuben, Margate, 1937.??.??, https://lichess.org/study/amMc8Mig/TIF9eTbV
+Game*: Lasker, Emanuel - Steinitz, William; Moscow; 1896.12.11; 1-0; https://lichess.org/study/ChLIRMuv/wiAw7EU5
 
-Game fragment: Forgacs - Tartakower, St. Petersburg, 1909.??.??, https://lichess.org/study/OMNHm3q5/txDW1tiw
+Game: Lazard, Fred - Crepeaux, R.; Strasbourg; 1924.09.04; 1-0; https://lichess.org/study/tmHOF54H/rg6Vwhev
 
-Game*: Frazer - Taubenhaus, Paris, 1888.??.??, https://lichess.org/study/BBcV7dAo/eFrb3S63
+Game*: Lee, F. J. - Nimzowitsch, Aron; Ostend; 1907.??.??; 0-1; https://lichess.org/study/EDmMFcbv/qam3ibDY
 
-Game: Frazer, Persifor - Taubenhaus, Jean, Paris FRA, 1888.??.??, https://lichess.org/study/MNnC56w2/Pvzgz7wt
+Game: Legal, Kermur - NN; Paris; 1750.??.??; 1-0; https://lichess.org/study/tmHOF54H/UGjBMOvN
 
-Game: Fritz, A. - NN, TAOTC, 1885.??.??, https://lichess.org/study/tmHOF54H/wKdMseAm
+Game*: Leko, Peter - Anand, Viswanathan; Leon ESP; 2001.6.9; 0-1; https://lichess.org/study/40nLE9YK/ggYLDff6
 
-Game: Fritz, Alexander - Tarrasch, Siegbert, Frankfurt, 1887.07.18, https://lichess.org/study/e7ARwPCA/oZsZUkE9
+Game*: Leonhardt, Paul Saladin - Burn, Amos; Karlsbad (Karlovy Vary) AUH; 1911.09.01; 1-0; https://lichess.org/study/1O0UELn6/fh6EmDl6
 
-Game*: Fuderer, Andrija - Tartakower, Saviely, Bled, 1950.??.??, https://lichess.org/study/fxEOlxbq/EvatH9Zq
+Game: Leonhardt, Paul Saladin - Nimzowitsch, Aron; San Sebastian; 1912.??.??; 0-1; https://lichess.org/study/EDmMFcbv/Inn88I5i
 
-Game fragment*: Furman - Smyslov, 1949.??.??, https://lichess.org/study/57Oq4l6Z/kQR0zkhi
+Game*: Levenfish, Grigory - Botvinnik, Mikhail; Leningrad RUS; 1937.10.05; 0-1; https://lichess.org/study/49AuOOCo/a3UrCdo3
 
-Game*: Fuster, Geza - Fischer, Robert, Portorose, 1958.??.??, https://lichess.org/study/sDsyelY0/PdtEdAGL
+Game*: Levenfish, Grigory - Keres, Paul; Leningrad; 1939.??.??; 0-1; https://lichess.org/study/2a0vxusd/3TZfuAMq
 
-Game*: Gabriel, Christian - Kekelidze, Mikheil, GER, 1999.11.7, https://lichess.org/study/dl0ynDGz/jc7rX7QA
+Game*: Liberzon, Vladimir - Larsen, Bent; Biel; 1976.??.??; 0-1; https://lichess.org/study/uDpA956I/aHxOrHue
 
-Game: Galkin, Alexander - Delchev, Aleksander, Ohrid, 2001.06.15, https://lichess.org/study/dl0ynDGz/gZ4D076Z
+Game: Lichtenhein, Theodor - Morphy, Paul; New York, NY USA; 1857.10.22; 0-1; https://lichess.org/study/P33p6LIH/9PG48Mrj
 
-Game fragment*: Gelfer, Israel - Banks, 1985.??.??, https://lichess.org/study/k4B16BhD/JPwOTRme
+Game: Lichtenhein, Theodor - Morphy, Paul; New York; 1857.??.??; 0-1; https://lichess.org/study/MNnC56w2/UGhJ4TFL
 
-Game*: Gelfer, Israel - Czerniak, Moshe, Israel, 1980.??.??, https://lichess.org/study/E787KvJ9/z2xLMocB
+Game*: Lilienthal, Andor - Bondarevsky, Igor; Mosca; 1940.??.??; 1-0; https://lichess.org/study/k4B16BhD/RrLY5lGn
 
-Game fragment*: Gelfer, Israel - Ein Dor, 1980.??.??, https://lichess.org/study/k4B16BhD/f1L0Ljfb
+Game*: Lilienthal, Andor - Flohr, Salo; 1935.??.??; 1/2-1/2; https://lichess.org/study/5mW5ZvOp/C3npCfSO
 
-Game fragment*: Gelfer, Israel - English, 1985.??.??, https://lichess.org/study/sDsyelY0/Bmm1wsLx
+Game*: Lilienthal, Andor - Smyslov, Vasily; 1941.??.??; 1/2-1/2; https://lichess.org/study/k4B16BhD/EyANOwBC
 
-Game fragment*: Gelfer, Israel - Grinberg, 1984.??.??, https://lichess.org/study/amMc8Mig/t426sxvM
+Game: Lipke, Paul - Tarrasch, Siegbert; Leipzig GER; 1894.09.14; 1-0; https://lichess.org/study/UQieNXft/SdDSBobG
 
-Game fragment*: Gelfer, Israel - Manievich, 1985.??.??, https://lichess.org/study/amMc8Mig/JUMgaAZA
+Game*: Lipnitskij, Isaak - Smyslov, Vasily; Mosca; 1951.??.??; 0-1; https://lichess.org/study/uDpA956I/qm6ywrmp
 
-Game*: Gelfer, Israel - Pedersen, 1500.??.??, https://lichess.org/study/5mW5ZvOp/kPNkom8l
+Game*: Liubarski - Soultanbeieff, Victor Ivanovich; 1928.??.??; 0-1 (dup #35); https://lichess.org/study/Fya8BLe7/ePjQZRFY
 
-Game fragment*: Gelfer, Isral - Kraidman, 1981.??.??, https://lichess.org/study/2a0vxusd/bWsfRB0Z
+Game*: Liubarski - Soultanbeieff, Victor Ivanovich; 1928.??.??; 0-1 (dup #35); https://lichess.org/study/Wn7aMkPy/ijfMfzyt
 
-Game*: Geller, Efim - Euwe, Max, Zurigo, 1953.??.??, https://lichess.org/study/amMc8Mig/mwUoVf7n
+Game*: Ljublinskij, Victor - Botvinnik, Mikhail; 1943.??.??; 0-1; https://lichess.org/study/2a0vxusd/oO3cEcAv
 
-Game*: Geller, Efim - Fischer, Robert, 1962.??.??, https://lichess.org/study/amMc8Mig/XWIrk43h
+Game*: Ljubojevic, Ljubomir - Huebner, Robert; Tilburg; 1985.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/Z1vV1y8k
 
-Game*: Geller, Efim - Hort, Vlastimil, 1968.??.??, https://lichess.org/study/amMc8Mig/QTxtS9H1
+Game*: Ljubojevic, Ljubomir - Karpov, Anatoly; Linares; 1981.??.??; 0-1; https://lichess.org/study/amMc8Mig/Kcf2krYi
 
-Game*: Geller, Efim - Najdorf, Miguel, Zurigo, 1953.??.??, https://lichess.org/study/5mW5ZvOp/aox4wF2I
+Game*: Ljubojevic, Ljubomir - Kasparov, Garry; Niksic YUG; 1983.08.29; 0-1; https://lichess.org/study/drEQ8cYo/cLaf5Cx7
 
-Game*: Geller, Efim - Velimirovic, Dragoljub, L'Avana, 1971.??.??, https://lichess.org/study/E787KvJ9/VtPH71Kz
+Game*: Ljubojevic, Ljubomir - Portisch, Lajos; Luzern; 1982.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/dURS5Bb3
 
-Game*: Getz, Nicolai - Agdestein, Simen, Fagernes NOR, 2013.03.24, https://lichess.org/study/AxW3sYhA/238utgMc
+Game*: Llado Lumbera, Jaime - Capablanca, Jose Raul; Barcelona ESP; 1935.12.14; 0-1; https://lichess.org/study/m0LDLCIA/69H90usc
 
-Game*: Getz, Nicolai - Istratescu, Andrei, Chess.com, 2014.06.03, https://lichess.org/study/40nLE9YK/zF9IVgS2
+Game*: Lobron, Eric - Gruenfeld, Yehuda; Ramat-Hasharon (Israel); 1982.??.??; 1-0; https://lichess.org/study/2a0vxusd/dcNy6cfz
 
-Game*: gg-gautam - HowToWinAtChess, Chess.com, 2026.01.06, https://lichess.org/study/rG6bFitI/7Se2tsy8
+Game: Locock, Charles Dealtry - Tarrasch, Siegbert; Manchester; 1890.08.27; 0-1; https://lichess.org/study/bELN6Owi/ebFJJb19
 
-Game fragment*: Gheorghiu, Florin - Timman, Jan, 1982.??.??, https://lichess.org/study/k4B16BhD/L2A5uss8
+Game*: Lokvenc, Josef - Feigin, Movsa; Hamburg (Germany); 1930.??.??; 1-0; https://lichess.org/study/uDpA956I/FOHQNVfr
 
-Game fragment*: Ghinda - Ungureanu, 1975.??.??, https://lichess.org/study/sDsyelY0/UQ0TPHc9
+Game: Loye, Charles Victor - Beamish, Frederick Urquhart; Cheltenham; 1913.??.??; 1-0; https://lichess.org/study/OMNHm3q5/fagFceO0
 
-Game*: Gibaud - Lazard, Paris, 1924.??.??, https://lichess.org/study/BBcV7dAo/HAHWBKff
+Game*: Lundin, Erik - Stahlberg, Gideon; Margate; 1936.??.??; 1-0; https://lichess.org/study/49AuOOCo/wDhs2brZ
 
-Game fragment*: Giplis - Klasup, 1954.??.??, https://lichess.org/study/57Oq4l6Z/9PpI3SEg
+Game*: Macieja, Bartlomiej - Hernandez Carmenates, Holden; Mexico City MEX; 2012.11.25; 1-0; https://lichess.org/study/AxW3sYhA/5uYYkPJS
 
-Game fragment*: Gligoric - Rabar, 1955.??.??, https://lichess.org/study/cev86fwf/CyAPrNm9
+Game*: Macieja, Bartlomiej - Hernandez Carmenates, Holden; Mexico City MEX; 2012.11.25; 1-0; https://lichess.org/study/AxW3sYhA/Rz6vsJUN
 
-Game*: Gligoric, Svetozar - Alexander, Conel Hughes, Dublin, 1957.??.??, https://lichess.org/study/NHyuBHth/cXECXvqJ
+Game*: Macieja, Bartlomiej - Nogueiras, Jesus; Puebla MEX; 2013.03.30; 1-0; https://lichess.org/study/AxW3sYhA/lCvF2SFS
 
-Game fragment*: Gligoric, Svetozar - Domnitz, 1966.??.??, https://lichess.org/study/2a0vxusd/2zx6h6xU
+Game: Mackenzie, George Henry - Boden, Samuel Standidge; London; 1869.??.??; 0-1; https://lichess.org/study/1JWXdF87/fW10V9SN
 
-Game*: Gligoric, Svetozar - Filip, Miroslav, Zagreb, 1965.??.??, https://lichess.org/study/k4B16BhD/DM6Xyglu
+Game: Mackenzie, George Henry - Perrin, F.; New York; 1868.??.??; 1-0; https://lichess.org/study/tmHOF54H/Ta468vEu
 
-Game*: Gligoric, Svetozar - Matanovic, Aleksandar, Bled, 1961.??.??, https://lichess.org/study/5mW5ZvOp/CiNtU9gF
+Game: Mackenzie, George Henry - Tarrasch, Siegbert; Frankfurt; 1887.07.18; 1-0; https://lichess.org/study/e7ARwPCA/r4ryIdBq
 
-Game*: Gligoric, Svetozar - Matulovic, Milan, Palma de Mallorca, 1967.??.??, https://lichess.org/study/2a0vxusd/dWOWaL2S
+Game: Mackenzie, George Henry - Tarrasch, Siegbert; Hamburg; 1885.07.13; 1-0; https://lichess.org/study/e7ARwPCA/6euc4Jlx
 
-Game*: Gligoric, Svetozar - Smyslov, Vassily, Kiev (Ukraine), 1959.??.??, https://lichess.org/study/E787KvJ9/KQ9oimQi
+Game*: Makogonov, Vladimir - Botvinnik, Mikhail; Sverdlovsk; 1943.??.??; 0-1; https://lichess.org/study/uDpA956I/7kuGRlkV
 
-Game*: Gligoric, Svetozar - Tukmakov, Vladimir, 1975.??.??, https://lichess.org/study/amMc8Mig/yKSlqwLJ
+Game*: Malakhov, Vladimir - Grischuk, Alexander; Moscow RUS; 2010.12.18; 0-1 (dup #39); https://lichess.org/study/dl0ynDGz/2UmHusyH
 
-Game*: Svetozar Gligoric - Alexander Kotov, Zurich SUI, 1953.09.15, https://lichess.org/study/1O0UELn6/rDY9RpZ6
+Game*: Malakhov, Vladimir - Grischuk, Alexander; Moscow RUS; 2010.12.18; 0-1 (dup #39); https://lichess.org/study/dl0ynDGz/zONFaW70
 
-Game fragment: Golmayo - Loyd, TAOTC, https://lichess.org/study/XH8xSdBs/xrnhyD6I
+Game: Malakhov, Vladimir - Jobava, Baadur; Burgas; 2012.09.16; 1-0; https://lichess.org/study/wAhu1kg2/xZifQgi1
 
-Game*: Golod, Vitali - Klenburg, Mikhail, Israel, 2002.01.19, https://lichess.org/study/OCkkydGm/CgtIktFd
+Game*: Marache, Napoleon - Morphy, Paul; New Orleans, LA USA; 1857.??.??; 0-1; https://lichess.org/study/MNnC56w2/T6SeJHf5
 
-Game: Gopal, Geetha Narayanan - Bologan, Viktor, Caleta, 2012.02.01, https://lichess.org/study/wAhu1kg2/JST8cfZh
+Game*: Mareco, Sandro - Chithambaram, Aravindh; Golden Sands BUL; 2013.06.17; 1-0; https://lichess.org/study/AxW3sYhA/mLmKIB18
 
-Game: Gossip, George Hatfeild - Tarrasch, Siegbert, Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/JlAPiYgF
+Game: Mareco, Sandro - Bachmann Schiavo, Axel; Santos; 2010.08.17; 1-0; https://lichess.org/study/wAhu1kg2/XIOqVNPM
 
-Game fragment: Gottschall - NN, TAOTC, https://lichess.org/study/XH8xSdBs/MrYqbgte
+Game*: Mareco, Sandro - Cori Tello, Jorge Moises; Buenos Aires; 2009.08.29; 1-0; https://lichess.org/study/wAhu1kg2/k8OQzrmX
 
-Game: Granda Zuniga, Julio E - Narciso Dublan, Marc, Zaragoza, 2012.12.30, https://lichess.org/study/wAhu1kg2/uAYqkUrx
+Game: Mareco, Sandro - Cori Tello, Jorge Moises; Buenos Aires; 2009.08.29; 1-0; https://lichess.org/study/wAhu1kg2/UVcEc02B
 
-Game: Greco, G. - NN, TAOTC, 1619.??.??, https://lichess.org/study/tmHOF54H/nCpQiJez
+Game*: Mareco, Sandro - Toth, Christian; Osasco BRA; 2012.04.27; 1-0; https://lichess.org/study/AxW3sYhA/aK9tQvuq
 
-Game: Greco, G. - NN, TAOTC, https://lichess.org/study/OMNHm3q5/OG2CkRxp
+Game*: Maroczy, Geza - Capablanca, Jose Raul; Lake Hopatcong, NJ USA; 1926.07.11; 0-1; https://lichess.org/study/hnwliF9Y/dDVA31U0
 
-Game fragment*: Grefe, John - Byrne, Robert, 1973.??.??, https://lichess.org/study/amMc8Mig/5FeniSb1
+Game: Maroczy, Geza - Euwe, Max; Scheveningen NED; 1923.07.24; 1-0; https://lichess.org/study/P33p6LIH/bMLJN7Pm
 
-Game: Gregory, B. - Nimzowitsch, A., St. Petersburg, 1913.??.??, https://lichess.org/study/EDmMFcbv/kD8tNiQr
+Game: Maroczy, Geza - Suechting, Hugo; Barmen; 1905.??.??; 1-0; https://lichess.org/study/EDmMFcbv/sQI1BRYi
 
-Game*: Grigorjan, Levon - Tal, Mikhail, 1967.??.??, https://lichess.org/study/k4B16BhD/dN44fdnj
+Game: Maroczy, Geza - Tartakower, Savielly; Teplice-Sanov CSR; 1922.10.05; 0-1; https://lichess.org/study/P33p6LIH/rG7y5ASc
 
-Game*: Grischuk, Alexander - Zhang, Zhong, Shanghai CHN, 2001.09.10, https://lichess.org/study/AxW3sYhA/htV4ksfW
+Game*: Maroczy, Geza - Weenink, Henri Gerard; Netherlands; 1930.??.??; 1-0; https://lichess.org/study/6P90HTwf/KVdD1arO
 
-Game fragment*: Gruenfeld - Lokvenc, 1926.??.??, https://lichess.org/study/t6bOK7CT/3J7zBj3N
+Game*: Marshall, Frank James - Burn, Amos; Paris FRA; 1900.06.12; 1-0; https://lichess.org/study/P33p6LIH/lsRumHqf
 
-Game: Gruenfeld, E. - Tartakower, Dr. S, Semmering, 1926.??.??, https://lichess.org/study/EDmMFcbv/haZAtzsP
+Game*: Marshall, Frank James - Capablanca, Jose Raul; New York, NY USA; 1909.06.23; 0-1; https://lichess.org/study/InR4tjnm/J5en4uQA
 
-Game*: Gruenfeld, Ernst - Alekhine, Alexander, Karlsbad CSR, 1923.04.29, https://lichess.org/study/YuoLOpzE/SPx8XKZK
+Game*: Marshall, Frank James - Chigorin, Mikhail; Barmen; 1905.??.??; 0-1; https://lichess.org/study/k4B16BhD/f9OScm6a
 
-Game*: Gruenfeld, Yehuda - Gelfer, Israel, Ramat-Hasharon (Israel), 1980.??.??, https://lichess.org/study/uDpA956I/Rlei6qLw
+Game: Marshall, Frank James - Kline, Harry; New York, NY USA; 1913.01.29; 1-0; https://lichess.org/study/P33p6LIH/7EVjupwa
 
-Game*: Grunfeld - Schenkein, 1915.??.??, https://lichess.org/study/Wn7aMkPy/9oT0Kaus
+Game: Marshall, Frank James - Lasker, Emanuel; USA; 1907.01.26; 0-1; https://lichess.org/study/P33p6LIH/Uf8CJdv4
 
-Game: Grunfeld, E. - Torre, C., Baden-Baden, 1925.??.??, https://lichess.org/study/OMNHm3q5/8fi028a5
+Game*: Marshall, Frank James - Rubinstein, Akiba; Lodz RUE; 1908.10.??; 0-1; https://lichess.org/study/P33p6LIH/sFzAZk7s
 
-Game*: GSant21 - HowToWinAtChess, Chess.com, 2026.01.11, https://lichess.org/study/rG6bFitI/ynysF0Zt
+Game: Marshall, Frank James - Spielmann, Rudolf; Duesseldorf, GER; 1908.08.10; 1-0 (dup #17); https://lichess.org/study/r1NROPIm/IsqBtsoN
 
-Game fragment: Guinet, L. - NN, France, https://lichess.org/study/1JWXdF87/x0azcA8g
+Game*: Marshall, Frank James - Spielmann, Rudolf; Duesseldorf, GER; 1908.08.10; 1-0 (dup #17); https://lichess.org/study/r1NROPIm/UhPAfm4G
 
-Game fragment*: Gunsberg, I. - Schallop, London, 1886.??.??, https://lichess.org/study/XH8xSdBs/TYe29hlN
+Game*: Marshall, Frank James - Tarrasch, Siegbert; 1905.??.??; 0-1; https://lichess.org/study/Wn7aMkPy/6vMqbVRk
 
-Game*: Gunsberg, Isidor - Steinitz, William, New York, 1890.12.15, https://lichess.org/study/ChLIRMuv/BB0Ws1t9
+Game: Mason, James - Tarrasch, Siegbert; Hamburg; 1885.07.13; 0-1; https://lichess.org/study/e7ARwPCA/b94CAXDV
 
-Game: Gunston, William - Tarrasch, Siegbert, Manchester, 1890.09.01, https://lichess.org/study/bELN6Owi/lxAJEWJQ
+Game*: Matulovic, Milan - Kortchnoj, Viktor; Ohrid (Yugoslavia); 1972.??.??; 0-1; https://lichess.org/study/sDsyelY0/fXY0Tazf
 
-Game fragment*: Gusev, N. - Averbakh, Yuri, 1948.??.??, https://lichess.org/study/sDsyelY0/pqAtmFWT
+Game: Maze, Sebastien - Ni, Hua; Biel; 2011.07.23; 0-1; https://lichess.org/study/wAhu1kg2/s9C5rfU9
 
-Game*: GusPue - HowToWinAtChess, Chess.com, 2026.02.17, https://lichess.org/study/rG6bFitI/NSW5Vg6v
+Game*: McConnell, James - Morphy, Paul; New Orleans; 1849.??.??; 0-1; https://lichess.org/study/KrLT8eS5/d87WLADs
 
-Game*: Gutman, Lev - Pavlov, Mircea, 1983.??.??, https://lichess.org/study/2a0vxusd/qDyeYpoE
+Game: McConnell, James - Morphy, Paul; New Orleans; 1850.??.??; 0-1; https://lichess.org/study/MNnC56w2/nhkBB47f
 
-Game: Hahn, Wilhelm - Tarrasch, Siegbert, Nuremberg, 1883.07.16, https://lichess.org/study/PVzIGg2F/eLcFv21n
+Game*: McConnell, James - Morphy, Paul; New Orleans; 1852.??.??; 0-1; https://lichess.org/study/KrLT8eS5/qz1XDyEW
 
-Game: Hahn, Wilhelm - Tarrasch, Siegbert, Nuremberg, 1888.??.??, https://lichess.org/study/e7ARwPCA/RVgdOXxY
+Game*: Mecking, Henrique - Mareco, Sandro; Campinas BRA; 2001.01.25; 1-0 (dup #34); https://lichess.org/study/AxW3sYhA/nARV0Cfc
 
-Game*: Hahn, Wilhelm - Tarrasch, Siegbert, Nuremberg, 1890.??.??, https://lichess.org/study/pdteMCe2/0JHz5xMS
+Game*: Mecking, Henrique - Mareco, Sandro; Campinas BRA; 2001.01.25; 1-0 (dup #34); https://lichess.org/study/royrjgMZ/2Di9fRhv
 
-Game*: Hahn, Wilhelm - Tarrasch, Siegbert, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/a4xRWVak
+Game: Meek, Alexander Beaufort - NN; U. S. A.; 1859.??.??; 1-0; https://lichess.org/study/tmHOF54H/FU9TmSYk
 
-Game fragment: Hahn, Wilhelm - Tarrasch, Siegbert, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/jg1fZRMa
+Game: Meek, Alexander Beaufort - Morphy, Paul; Mobile, AL USA; 1855.03.01; 0-1; https://lichess.org/study/P33p6LIH/hzH2S1Lk
 
-Game fragment*: Hahn, Wilhelm - Tarrasch, Siegbert, Nuremberg, 1892.??.??, https://lichess.org/study/pdteMCe2/gvzmLRSH
+Game: Meek, Alexander Beaufort - Morphy, Paul; Mobile; 1855.??.??; 0-1; https://lichess.org/study/MNnC56w2/kcGVQpdL
 
-Game*: Hammer, Jon Ludvig - Carlsen, Magnus, Hidle NOR, 2013.05.15, https://lichess.org/study/AxW3sYhA/pKor0dXH
+Game: Meier, Georg - Feller, Sebastien; Lubbock USA; 2011.10.19; 1-0; https://lichess.org/study/wAhu1kg2/OwnwoShX
 
-Game*: Hammer, Jon Ludvig - Djurhuus, Rune, Norway, 2013.04.06, https://lichess.org/study/AxW3sYhA/akqAMyq2
+Game*: Menchik, Vera - Becker, Albert; Karlsbad; 1929.??.??; 1-0; https://lichess.org/study/rzdDzNB4/0ucOmaX5
 
-Game: Hammond, George - Morphy, Paul, New York, NY USA, 1857.10.07, https://lichess.org/study/yuifbGYp/KDJYMJrs
+Game*: Menchik, Vera - Thomas, George Alan; London; 1932.??.??; 1-0; https://lichess.org/study/eD6ECZu4/2Rl9qF0x
 
-Game: Hans-Joachim Hecht - Gyozo Victor Forintos, Wijk aan Zee NED, 1974.01.16, https://lichess.org/study/6nWh4o7P/sKHpjCYe
+Game: Mendelson, Jozsef - Tarrasch, Siegbert; Breslau; 1880.??.??; 0-1; https://lichess.org/study/PVzIGg2F/hUjLRIx6
 
-Game: Harika, Dronavalli - Adams, Michael, Caleta, 2010.01.27, https://lichess.org/study/AxW3sYhA/DccDs8zr
+Game*: Merenyi, Lajos - Capablanca, Jose Raul; Budapest; 1928.??.??; 0-1; https://lichess.org/study/2a0vxusd/W2igA7fH
 
-Game: Harmonist, Max - Tarrasch, Siegbert, Frankfurt, 1887.07.18, https://lichess.org/study/e7ARwPCA/sHEHN2SR
+Game*: Metger, Johannes - Tarrasch, Siegbert; Breslau; 1889.??.??; 1/2-1/2; https://lichess.org/study/bELN6Owi/Ebnllr0F
 
-Game: Harmonist, Max - Tarrasch, Siegbert, Nuremberg, 1888.08.08, https://lichess.org/study/e7ARwPCA/AcEHs8FQ
+Game: Metger, Johannes - Tarrasch, Siegbert; Frankfurt; 1887.07.18; 0-1; https://lichess.org/study/e7ARwPCA/h1Yn4tks
 
-Game: Harmonist, Max - Tarrasch, Siegbert, Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/Fy1akjEn
+Game: Metger, Johannes - Tarrasch, Siegbert; Nuremberg; 1887.08.09; 0-1; https://lichess.org/study/e7ARwPCA/tH4HnfH1
 
-Game: Harmonist, Max - Tarrasch, Siegbert, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/smxdVIMH
+Game: Mieses, Jacques - Maroczy, Geza; Monte Carlo MNC; 1903.03.03; 0-1; https://lichess.org/study/P33p6LIH/T7N2kyd6
 
-Game fragment: Harrwitz - Healey, F., TAOTC, 1865.??.??, https://lichess.org/study/OMNHm3q5/0wQpLWl5
+Game: Mieses, Jacques - Oehquist, John; Nuremberg; 1895.??.??; 1-0; https://lichess.org/study/tmHOF54H/SKX5IfuZ
 
-Game: Harrwitz, Daniel - Morphy, Paul, Paris FRA, 1858.09.09, https://lichess.org/study/yuifbGYp/fKIZGspj
+Game*: Mieses, Jacques - Tarrasch, Siegbert; Berlin; 1916.??.??; 0-1; https://lichess.org/study/mj8UtUBc/sHkiK18m
 
-Game*: Harrwitz, Daniel - Morphy, Paul, Paris, 1858.??.??, https://lichess.org/study/MNnC56w2/ZNVMbLLK
+Game: Mieses, Jacques - Tarrasch, Siegbert; Breslau; 1889.??.??; 0-1; https://lichess.org/study/bELN6Owi/lG7ErYEM
 
-Game fragment: Hartlaub - Wahle, Bremen, 1923.03.??, https://lichess.org/study/V4VFISZI/j1lhayS9
+Game: Mieses, Jacques - Tarrasch, Siegbert; Leipzig GER; 1894.09.08; 1-0; https://lichess.org/study/UQieNXft/iDbqh4Zq
 
-Game*: harunfettahoglu - HowToWinAtChess, Chess.com, 2025.11.18, https://lichess.org/study/P3XM0aKf/SaqLyPxr
+Game: Mieses, Jacques - Tarrasch, Siegbert; Leipzig Olympiad Fin; 1888.??.??; 1-0; https://lichess.org/study/e7ARwPCA/jWCufuXF
 
-Game: Hausler, H. - Tarrasch, Siegbert, Nuremberg, 1892.??.??, https://lichess.org/study/pdteMCe2/Yfx6r1gp
+Game: Mieses, Jacques - Tarrasch, Siegbert; Nuremberg; 1888.??.??; 1-0; https://lichess.org/study/e7ARwPCA/leTOhhmK
 
-Game*: Havasi - Capablanca, 1929.??.??, https://lichess.org/study/Wn7aMkPy/YPp4gBnK
+Game: Mikenas, Vladas - Lebedev, Sergey; 1941.??.??; 1-0 (dup #24); https://lichess.org/study/r1NROPIm/Igqz2FrE
 
-Game fragment*: Havasi - Sacconi, Folkestone, 1933.??.??, https://lichess.org/study/V4VFISZI/yoHOv9Wu
+Game*: Mikenas, Vladas - Lebedev, Sergey; 1941.??.??; 1-0 (dup #24); https://lichess.org/study/r1NROPIm/VNMKcIPl
 
-Game*: Havasi, Kornel - Monticelli, Mario, Budapest, 1929.??.??, https://lichess.org/study/6P90HTwf/S8hLLj6k
+Game*: Mikhalevski, Victor Markovich - Guseinov, Gadir; Novi Sad SRB; 2009.10.25; 1-0; https://lichess.org/study/dl0ynDGz/40bwgChX
 
-Game fragment: Head, A. J. - NN, Correspondence, 1923.??.??, https://lichess.org/study/V4VFISZI/fDbkIlRJ
+Game*: Miles, Anthony - Beliavsky, Alexander G.; Wijk aan Zee; 1984.??.??; 0-1; https://lichess.org/study/2a0vxusd/vPRKz0Y3
 
-Game*: Hector, Jonny - Rapport, Richard, Malmo SWE, 2013.5.28, https://lichess.org/study/AxW3sYhA/5kWaOcxh
+Game*: Miles, Anthony - Browne, Walter; 1982.??.??; 1-0; https://lichess.org/study/E787KvJ9/UdH0JGXv
 
-Game*: Hellsten, Johan - Cordova, Emilio, Buenos Aires, 2006.10.07, https://lichess.org/study/dl0ynDGz/diXvWHnX
+Game*: Miles, Anthony - Dzindzichashvili, Roman; Tilburg; 1978.??.??; 1-0; https://lichess.org/study/sDsyelY0/C9dUkJfI
 
-Game*: hendofendo25 - HowToWinAtChess, Chess.com, 2026.06.25, https://lichess.org/study/gDTJBYjY/sUPTbzIS
+Game*: Miles, Anthony - Ribli, Zoltan; Tilburg; 1978.??.??; 1-0; https://lichess.org/study/uDpA956I/y2zBy19M
 
-Game fragment: Henneberger, W. - Bernstein, Zurich, 1934.??.??, https://lichess.org/study/XH8xSdBs/TJ6rmKCl
+Game*: Milos, Gilberto - Narciso Dublan, Marc; Mexico City MEX; 2010.11.21; 1-0; https://lichess.org/study/AxW3sYhA/S1cf8a6j
 
-Game fragment*: Hennenberg - Nimzowitsch, Aaron, 1931.??.??, https://lichess.org/study/sDsyelY0/t1CQT2M5
+Game*: Minev, Nikolay - Portisch, Lajos; 1967.??.??; 0-1; https://lichess.org/study/amMc8Mig/huiDNYJr
 
-Game: Hernandez, Holden Carmenates - Meier, George, Lubbock USA, 2013.12.??, https://lichess.org/study/AxW3sYhA/5bgWElPU
+Game*: Mongredien, Augustus - Morphy, Paul; 1895.??.??; 0-1; https://lichess.org/study/KrLT8eS5/Cgqp6CsY
 
-Game*: Nestor Hernandez - Hans Berliner, Southern Champion, 1949.??.??, https://lichess.org/study/eUChNfwg/UKmGokiV
+Game*: Morovic Fernandez, Ivan - Mahmood Lodhi; Khanty-Mansiysk RUS; 2010.09.21; 1-0; https://lichess.org/study/dl0ynDGz/IyKCGU86
 
-Game*: hieucheck - HowToWinAtChess, Chess.com, 2026.07.02, https://lichess.org/study/gDTJBYjY/wwkadClw
+Game: Morovic Fernandez, Ivan - Eid, Fadi; Khanty-Mansiysk; 2010.09.28; 1-0; https://lichess.org/study/40nLE9YK/Lv1IB8Kq
 
-Game*: Himanshu_ei - HowToWinAtChess, Chess.com, 2025.09.23, https://lichess.org/study/P3XM0aKf/Wj8wGFm4
+Game*: Morozevich, Alexander - Mamedyarov, Shakhriyar; Beijing CHN; 2013.07.15; 1-0; https://lichess.org/study/AxW3sYhA/9F4NV9vl
 
-Game: Hollander, K. - Tarrasch, Siegbert, Nuremberg, 1892.??.??, https://lichess.org/study/UQieNXft/TbpXo9ch
+Game: Morphy, Paul - NN; New Orleans; 1858.??.??; 1-0; https://lichess.org/study/1JWXdF87/DTZegNpK
 
-Game: Hollander, K. - Tarrasch, Siegbert, Nuremberg, 1892.??.??, https://lichess.org/study/pdteMCe2/t8r6lAL2
+Odds game: Morphy, Paul - NN; New York; 1857.??.??; 1-0; https://lichess.org/study/MNnC56w2/ycMcgES4
 
-Game*: Holt, Conrad - Kamsky, Gata, Saint Louis, 2013.05.06, https://lichess.org/study/AxW3sYhA/WA7xgSK5
+Game*: Morphy, Paul - Schrufer; 1859.??.??; 1-0; https://lichess.org/study/KrLT8eS5/kVWSXKvk
 
-Game*: Horowitz, Israel Albert - Bean, 1957.??.?? (dup #29), https://lichess.org/study/6AnWFDzO/aGvkEMM1
+Game: Morphy, Paul - Seguin; Paris; 1858.??.??; 1-0; https://lichess.org/study/MNnC56w2/baRqXB2Y
 
-Game*: Horowitz, Israel Albert - Bean, 1957.??.?? (dup #29), https://lichess.org/study/aAtElCsv/ZYzgsLnA
+Game*: Morphy, Paul - Guibert; Paris; 1858.??.??; 1/2-1/2; https://lichess.org/study/MNnC56w2/7sCAy4Vp
 
-Game*: Horowitz, Israel Albert - Martin, Albert, Boston, MA USA, 1938.07.14, https://lichess.org/study/aAtElCsv/mOj164p1
+Game*: Morphy, Paul - Anderssen, Adolf; 1858.??.??; 1-0; https://lichess.org/study/KrLT8eS5/TTogLvy5
 
-Game*: Horowitz, Israel Albert - Przepiorka, David, Prague CSR, 1931.07.26, https://lichess.org/study/aAtElCsv/5iab4P4K
+Game*: Morphy, Paul - Baucher, Henri; Paris, Blindfold Simul; ??.??.1858; 1-0; https://lichess.org/study/KrLT8eS5/g0BHd302
 
-Game*: Israel Albert Horowitz - Albert Martin, Boston, MA USA, 1938.07.14, https://lichess.org/study/6AnWFDzO/goy4uaNx
+Game*: Morphy, Paul - Baucher, Henri; Paris FRA; 1858.09.27; 1-0; https://lichess.org/study/MNnC56w2/pCdpd1if
 
-Game*: Israel Albert Horowitz - David Przepiorka, Prague CSR, 1931.07.26, https://lichess.org/study/6AnWFDzO/lPamuezU
+Game: Morphy, Paul - Bird, Henry Edward; London ENG; 1859.04.26; 1-0; https://lichess.org/study/MNnC56w2/nmOf5zd9
 
-Game*: Hort, Vlastimil - Ciocaltea, Victor, Budapest, 1973.??.??, https://lichess.org/study/uDpA956I/XMzaq5Ab
+Game*: Morphy, Paul - Bonford, Pierre; 1858.??.??; 1-0; https://lichess.org/study/KrLT8eS5/j53jkDwy
 
-Game*: Hort, Vlastimil - Dueckstein, Andreas, Czechoslovakia, 1968.??.??, https://lichess.org/study/amMc8Mig/VgBVVJGg
+Odds game: Morphy, Paul - Bryan, Thomas Jefferson; New York, NY USA; 1859.??.??; 1-0; https://lichess.org/study/MNnC56w2/K0PBntC1
 
-Game*: Hort, Vlastimil - Gligoric, Svetozar, 1970.??.??, https://lichess.org/study/E787KvJ9/3mde6WpU
+Game: Morphy, Paul - Budzinski, Wincenty; Paris; 1859.??.??; 1-0; https://lichess.org/study/MNnC56w2/qamvaHp9
 
-Game*: Hort, Vlastimil - Huebner, Robert, Germany, 1982.??.??, https://lichess.org/study/k4B16BhD/xXMcN9Z6
+Game*: Morphy, Paul - Carr, J.; Birmingham; 1858.??.??; 1-0; https://lichess.org/study/MNnC56w2/Nz4h4QaM
 
-Game*: Hort, Vlastimil - Kagan, Shimon, 1970.??.??, https://lichess.org/study/sDsyelY0/h5Ka2gIh
+Game: Morphy, Paul - Chamouillet, M.; Paris; 1858.??.??; 1-0; https://lichess.org/study/MNnC56w2/R1q6Wnxj
 
-Game*: Hort, Vlastimil - Ljubojevic, Ljubomir, Montreal, 1979.??.??, https://lichess.org/study/amMc8Mig/cOW6tN6K
+Game*: Morphy, Paul - Hampton, TJ.; London; 1858.??.??; 1-0; https://lichess.org/study/MNnC56w2/U7qxngH7
 
-Game*: Hort, Vlastimil - Petrosjan, Tigran, 1961.??.??, https://lichess.org/study/2a0vxusd/ekW7b1Re
+Game: Morphy, Paul - Harrwitz, Daniel; Paris FRA; 1858.09.18; 1-0; https://lichess.org/study/MNnC56w2/Z5UQP0QE
 
-Game: Horwitz, B. - Bledow, L., Germany, 1837.??.??, https://lichess.org/study/tmHOF54H/3Qx17sZl
+Game: Morphy, Paul - Knott, Simon JB; New York; 1859.??.??; 1-0; https://lichess.org/study/MNnC56w2/lzLHNmvv
 
-Game*: Hosp, A. - Lempp, Jakob, Baden-Baden, 1993.??.??, https://lichess.org/study/3Aw3IIVA/bly6m8TU
+Game: Morphy, Paul - Lewis, S.; USA; 1859.??.??; 1-0; https://lichess.org/study/MNnC56w2/Lsu0gxIz
 
-Game*: HowToWinAtChess - 03Tarun_04, Chess.com, 2025.11.18, https://lichess.org/study/P3XM0aKf/azfhyiu2
+Game*: Morphy, Paul - Lichtenhein, Theodor; New York, NY USA; 1857.11.19; 1-0; https://lichess.org/study/MNnC56w2/9n07XyEb
 
-Game*: HowToWinAtChess - 19Francisco57, Chess.com, 2026.01.06, https://lichess.org/study/rG6bFitI/ZJ0qzhiW
+Game*: Morphy, Paul - Lichtenhein, Theodor; New York; 1857.??.??; 1-0; https://lichess.org/study/KrLT8eS5/0uhdhJYN
 
-Game*: HowToWinAtChess - 1Touchtone, Chess.com, 2025.12.13, https://lichess.org/study/P3XM0aKf/kTq7BGwy
+Game: Morphy, Paul - Loewenthal, Johann Jacob; London ENG; 1859.04.13; 1-0; https://lichess.org/study/MNnC56w2/9r7MmizT
 
-Game*: HowToWinAtChess - 67abdooooo12, Chess.com, 2026.02.17, https://lichess.org/study/rG6bFitI/slpk83GO
+Game: Morphy, Paul - Loewenthal, Johann Jacob; London; 1858.??.??; 1-0; https://lichess.org/study/yuifbGYp/qIHd9Pky
 
-Game*: HowToWinAtChess - AGH1122, Chess.com, 2025.10.08, https://lichess.org/study/P3XM0aKf/gAAoV9Q6
+Game*: Morphy, Paul - Loewenthal, Johann Jacob; London; 1859.??.??; 1-0; https://lichess.org/study/KrLT8eS5/cLSWKTar
 
-Game*: HowToWinAtChess - aghiles1234, Chess.com, 2026.01.02, https://lichess.org/study/P3XM0aKf/AimBKBQi
+Game: Morphy, Paul - Lyttelton, George Williams; Birmingham; 1858.??.??; 1-0; https://lichess.org/study/MNnC56w2/I0qzNvDc
 
-Game*: HowToWinAtChess - ang12307, Chess.com, 2026.05.08, https://lichess.org/study/rG6bFitI/rCPVU4I2
+Game: Morphy, Paul - Maude, George; London ENG; 1859.04.13; 1-0; https://lichess.org/study/MNnC56w2/OOiDvV1b
 
-Game*: HowToWinAtChess - Antonio19750, Chess.com, 2026.01.02, https://lichess.org/study/P3XM0aKf/XYDkRelr
+Odds game: Morphy, Paul - Maurian, Charles; New Orleans; 1857.??.??; 1-0; https://lichess.org/study/MNnC56w2/IywKlEgI
 
-Game*: HowToWinAtChess - Anyisfine, Chess.com, 2026.03.09, https://lichess.org/study/rG6bFitI/KIO0DXgr
+Odds game: Morphy, Paul - Maurian, Charles; New Orleans; 1866.??.??; 1-0; https://lichess.org/study/MNnC56w2/r1FE8Hez
 
-Game*: HowToWinAtChess - Arloheehee, Chess.com, 2026.01.26, https://lichess.org/study/rG6bFitI/DEdkQjMH
+Game*: Morphy, Paul - McConnell, James; New Orleans, LA USA; 1849.??.??; 1-0; https://lichess.org/study/MNnC56w2/mo0XXK0F
 
-Game*: HowToWinAtChess - AyeItsJun, Chess.com, 2025.12.16, https://lichess.org/study/P3XM0aKf/x35MKDgG
+Game*: Morphy, Paul - Meek, Alexander Beaufort; 2024.09.19; 1-0; https://lichess.org/study/KrLT8eS5/1jgWO77g
 
-Game*: HowToWinAtChess - bfil15, Chess.com, 2026.08.01, https://lichess.org/study/gDTJBYjY/QZdR6Rm1
+Game: Morphy, Paul - Meek, Alexander Beaufort; New York, NY USA; 1857.??.??; 1-0; https://lichess.org/study/P33p6LIH/UBycfyY6
 
-Game*: HowToWinAtChess - Carboran, Chess.com, 2026.03.16, https://lichess.org/study/rG6bFitI/e8XKUCrl
+Game: Morphy, Paul - Mongredien, Augustus; Paris; 1859.??.??; 1-0; https://lichess.org/study/MNnC56w2/h7unpg6B
 
-Game*: HowToWinAtChess - chessreal10, Chess.com, 2026.08.07, https://lichess.org/study/gDTJBYjY/vH4YkF4R
+Game*: Morphy, Paul - Morphy, Alonzo; 1848.??.??; 1-0; https://lichess.org/study/KrLT8eS5/sxCCwerx
 
-Game*: HowToWinAtChess - chuyghe, Chess.com, 2026.01.26, https://lichess.org/study/rG6bFitI/eU4HvDD1
+Game: Morphy, Paul - Morphy, Alonzo; New Orleans, LA USA; 1848.??.??; 1-0; https://lichess.org/study/MNnC56w2/wZjtEDtZ
 
-Game*: HowToWinAtChess - completenooob, Chess.com, 2026.08.07, https://lichess.org/study/gDTJBYjY/SDgtnE5Q
+Game*: Morphy, Paul - Morphy, Alonzo; New Orleans, LA USA; 1849.??.??; 1-0; https://lichess.org/study/MNnC56w2/Mh0ayr9I
 
-Game*: HowToWinAtChess - cuciroman1133, Chess.com, 2026.05.08, https://lichess.org/study/rG6bFitI/bbkfuOM7
+Game*: Morphy, Paul - Morphy, Alonzo; New Orleans, LA USA; 1849.??.??; 1-0; https://lichess.org/study/MNnC56w2/caLao27H
 
-Game*: HowToWinAtChess - danielemessere, Chess.com, 2025.10.30, https://lichess.org/study/P3XM0aKf/kTxgOJsW
+Game*: Morphy, Paul - Morphy, Ernest; New Orleans, LA USA; 1856.11.??; 1-0; https://lichess.org/study/MNnC56w2/rJ0eh1JA
 
-Game*: HowToWinAtChess - davidbellidoruiz, Chess.com, 2025.10.30, https://lichess.org/study/P3XM0aKf/ZjWWM9JR
+Game: Morphy, Paul - NN; New Orleans, LA USA; 1858.03.17; 1-0; https://lichess.org/study/yuifbGYp/9rbDqZ6w
 
-Game*: HowToWinAtChess - dirtysouth23, Chess.com, 2026.07.20, https://lichess.org/study/gDTJBYjY/g5dNdrmj
+Game: Morphy, Paul - NN; New Orleans, LA USA; 1858.03.24; 1-0; https://lichess.org/study/MNnC56w2/zYyZ1wP9
 
-Game*: HowToWinAtChess - doktor51, Chess.com, 2026.06.10, https://lichess.org/study/gDTJBYjY/BB4Ik9ol
+Game: Morphy, Paul - NN; New Orleans, LA USA; 1858.03.24; 1-0 (dup #2); https://lichess.org/study/MNnC56w2/bV66hsQs
 
-Game*: HowToWinAtChess - EduardoE59, Chess.com, 2026.08.07, https://lichess.org/study/gDTJBYjY/Koy4UI1E
+Game: Morphy, Paul - NN; New Orleans, LA USA; 1858.03.24; 1-0 (dup #2); https://lichess.org/study/P33p6LIH/2SY8oK14
 
-Game*: HowToWinAtChess - Ergest01, Chess.com, 2025.12.16, https://lichess.org/study/P3XM0aKf/SglwS16i
+Game: Morphy, Paul - Preti, Giovanni; Paris; 1858.??.??; 1-0; https://lichess.org/study/MNnC56w2/UkONrJkF
 
-Game*: HowToWinAtChess - flo4655, Chess.com, 2026.08.07, https://lichess.org/study/gDTJBYjY/N9fC5g6w
+Game*: Morphy, Paul - Rousseau, Eugene; New Orleans; 1894.??.??; 1-0; https://lichess.org/study/KrLT8eS5/aYzxx038
 
-Game*: HowToWinAtChess - gagrik221, Chess.com, 2025.12.05, https://lichess.org/study/P3XM0aKf/1MFZx95s
+Game: Morphy, Paul - Salmon, G.; Birmingham; 1858.??.??; 1-0; https://lichess.org/study/MNnC56w2/vcZNgiM2
 
-Game*: HowToWinAtChess - Gcinikhaya, Chess.com, 2026.07.18, https://lichess.org/study/gDTJBYjY/FEcOgHH3
+Game: Morphy, Paul - Schulten, John William; New York, NY USA; 1857.??.??; 1-0; https://lichess.org/study/MNnC56w2/yuRaH0Bq
 
-Game*: HowToWinAtChess - Glaudius, Chess.com, 2026.08.17, https://lichess.org/study/gDTJBYjY/YTIkPcIy
+Odds game: Morphy, Paul - Thompson, James; 1859.??.??; 1-0; https://lichess.org/study/KrLT8eS5/kmFnHxrA
 
-Game*: HowToWinAtChess - gotnrot, Chess.com, 2026.06.04, https://lichess.org/study/gDTJBYjY/p2rNKJpI
+Odds game: Morphy, Paul - Thompson, James; 1859.??.??; 1-0; https://lichess.org/study/KrLT8eS5/TEIFOviy
 
-Game*: HowToWinAtChess - HatSadig, Chess.com, 2026.01.06, https://lichess.org/study/rG6bFitI/Z4Fw2NN6
+Odds game: Morphy, Paul - Thompson, James; 1859.??.??; 1-0; https://lichess.org/study/KrLT8eS5/PR8aLgVj
 
-Game*: HowToWinAtChess - Ikky88, Chess.com, 2026.02.17, https://lichess.org/study/rG6bFitI/7zErbb4a
+Odds game: Morphy, Paul - Thompson, James; 1859.??.??; 1-0; https://lichess.org/study/KrLT8eS5/g5nWUAnr
 
-Game*: HowToWinAtChess - inimigo777, Chess.com, 2025.10.18, https://lichess.org/study/P3XM0aKf/YdZWiMzs
+Game: Morphy, Paul - Thompson, James; New York, NY USA; 1857.10.06; 1-0; https://lichess.org/study/yuifbGYp/BqtDdxyx
 
-Game*: HowToWinAtChess - jackssmirror, Chess.com, 2026.04.21, https://lichess.org/study/rG6bFitI/K9iZwwkI
+Game: Morphy, Paul - Tilghman, Benjamin Chew; Philadelphia, PA USA; 1859.11.11; 1-0; https://lichess.org/study/MNnC56w2/0RSAycCn
 
-Game*: HowToWinAtChess - jdvawells83, Chess.com, 2025.09.23, https://lichess.org/study/P3XM0aKf/4HasdcWx
+Odds game: Morphy, Paul - Worrall, Thomas Herbert; New Orleans, LA USA; 1858.??.??; 1-0; https://lichess.org/study/MNnC56w2/nXuQU9Oj
 
-Game*: HowToWinAtChess - jonwontonw, Chess.com, 2026.06.12, https://lichess.org/study/gDTJBYjY/cbrEybIj
+Game: Morphy, Paul - Golmayo Zupide, Celso; Havana; 1864.??.??; 1-0; https://lichess.org/study/MNnC56w2/CUKcQhEs
 
-Game*: HowToWinAtChess - JordanPNW, Chess.com, 2026.03.12, https://lichess.org/study/rG6bFitI/Og2TlqJZ
+Game: Mortimer, James - Tarrasch, Siegbert; Manchester; 1890.09.06; 0-1; https://lichess.org/study/pdteMCe2/18qSF4jZ
 
-Game*: HowToWinAtChess - KIRIJA354, Chess.com, 2025.11.14, https://lichess.org/study/P3XM0aKf/fMt5ntLt
+Game: Mueller, Oscar Conrad - Tarrasch, Siegbert; Manchester; 1890.08.26; 0-1; https://lichess.org/study/bELN6Owi/SZEni3pv
 
-Game*: HowToWinAtChess - KnightArmourNans, Chess.com, 2026.08.31, https://lichess.org/study/gDTJBYjY/sW5rWywy
+Game: Munoz Pantoja, Miguel - Granda Zuniga, Julio E; La Roda; 2013.03.29; 0-1; https://lichess.org/study/dl0ynDGz/xkC3oc6g
 
-Game*: HowToWinAtChess - kodeks65, Chess.com, 2026.06.25, https://lichess.org/study/gDTJBYjY/ngw0NFfX
+Game*: Naegeli, Oskar - Euwe, Max; Bern SUI; 1932.07.27; 0-1; https://lichess.org/study/hnwliF9Y/cK8j08pK
 
-Game*: HowToWinAtChess - Lancio-88, Chess.com, 2025.12.13, https://lichess.org/study/P3XM0aKf/pL7JLq29
+Game*: Najdorf, Miguel - Averbakh, Yuri; Zuerich; 1953.??.??; 0-1; https://lichess.org/study/uDpA956I/5btU9y6Z
 
-Game*: HowToWinAtChess - Leon12451, Chess.com, 2025.11.14, https://lichess.org/study/P3XM0aKf/AldnKaPB
+Game*: Najdorf, Miguel - Fischer, Robert James; 1966.??.??; 0-1; https://lichess.org/study/E787KvJ9/G1PX8yvq
 
-Game*: HowToWinAtChess - LeSang972, Chess.com, 2026.01.26, https://lichess.org/study/rG6bFitI/u0WksTUj
+Game*: Najdorf, Miguel - Ilivitzki, Georgi A.; Gothenburg; 1955.??.??; 1-0 (dup #9); https://lichess.org/study/57Oq4l6Z/miSPE8iP
 
-Game*: HowToWinAtChess - Louis08031, Chess.com, 2025.09.27, https://lichess.org/study/P3XM0aKf/TFfrvfyg
+Game: Najdorf, Miguel - Ilivitzki, Georgi A.; Gothenburg; 1955.??.??; 1-0 (dup #9); https://lichess.org/study/TggWKjlC/pvq9bzMp
 
-Game*: HowToWinAtChess - Lukecos, Chess.com, 2026.06.25, https://lichess.org/study/gDTJBYjY/7yiUwdB1
+Game*: Najdorf, Miguel - Kashdan, Isaac; La Plata; 1947.??.??; 1-0; https://lichess.org/study/izyugXAJ/vr0rUu7J
 
-Game*: HowToWinAtChess - lukesefton04, Chess.com, 2026.05.23, https://lichess.org/study/rG6bFitI/K1VqvURv
+Game*: Najdorf, Miguel - Keres, Paul; Los Angeles; 1963.??.??; 1-0; https://lichess.org/study/E787KvJ9/a9pXlSPf
 
-Game*: HowToWinAtChess - Lulkoekje, Chess.com, 2026.08.22, https://lichess.org/study/gDTJBYjY/0Lieoipy
+Game: Najer, Evgeniy - Jurcik, Mari; Lysa nad Labem CZE; 2014.01.18; 1-0; https://lichess.org/study/wAhu1kg2/gAWfx0ds
 
-Game*: HowToWinAtChess - Marcelo-Kaizen, Chess.com, 2026.03.20, https://lichess.org/study/rG6bFitI/MgrLu7Hs
+Game: Narciso Dublan, Marc - Gonzalez Vidal, Yuri; Badalona ESP; 2005.8.9; 0-1; https://lichess.org/study/AxW3sYhA/9CeBYDwY
 
-Game*: HowToWinAtChess - melka13700, Chess.com, 2026.01.06, https://lichess.org/study/rG6bFitI/n0HfPXDv
+Game*: Navara, David - Jirovsky, Milos; Luhacovice CZE; 2003.02.22; 0-1 (dup #38); https://lichess.org/study/dl0ynDGz/JY3YJHba
 
-Game*: HowToWinAtChess - mitros73, Chess.com, 2026.02.01, https://lichess.org/study/rG6bFitI/9Kz9cBBG
+Game*: Navara, David - Jirovsky, Milos; Luhacovice CZE; 2003.02.22; 0-1 (dup #38); https://lichess.org/study/dl0ynDGz/MwmjKpJY
 
-Game*: HowToWinAtChess - mjtoff22, Chess.com, 2026.02.24, https://lichess.org/study/rG6bFitI/qipRDnpG
+Game*: Navara, David - Sokolov, Ivan; Reykjavik; 2014.06.03; 0-1; https://lichess.org/study/40nLE9YK/J3jS6qdI
 
-Game*: HowToWinAtChess - MomoMinji, Chess.com, 2026.04.15, https://lichess.org/study/rG6bFitI/zXFdBIL1
+Game*: Neishtadt, Yakov Isaevich - Kotov, Alexander; Leningrad URS; 1956.??.??; 0-1; https://lichess.org/study/1O0UELn6/RHyLds3Y
 
-Game*: HowToWinAtChess - monitot13, Chess.com, 2026.01.11, https://lichess.org/study/rG6bFitI/hsXVqfoJ
+Game*: Nguyen, Van Huy - Le, Quang Liem; Ho Chi Minh City VIE; 2012.5.8; 0-1; https://lichess.org/study/40nLE9YK/BAyFNaRK
 
-Game*: HowToWinAtChess - myoung985, Chess.com, 2025.10.18, https://lichess.org/study/P3XM0aKf/3ZP6H60E
+Game*: Nikolic, Predrag - Ribli, Zoltan; Ljubljana; 1985.??.??; 0-1; https://lichess.org/study/E787KvJ9/4WN0J67f
 
-Game*: HowToWinAtChess - Mzee105, Chess.com, 2025.09.27, https://lichess.org/study/P3XM0aKf/QIB8JQhG
+Game*: Nimzowitsch, Aron - Fluess; 1906.??.??; *; https://lichess.org/study/57Oq4l6Z/RQqkzR6i
 
-Game*: HowToWinAtChess - nabel963, Chess.com, 2025.12.05, https://lichess.org/study/P3XM0aKf/rIPbDzNz
+Odds game: Nimzowitsch, Aron - NN; TAOTC; 1-0; https://lichess.org/study/XH8xSdBs/HeVtmurs
 
-Game*: HowToWinAtChess - Ndyy_27, Chess.com, 2025.10.18, https://lichess.org/study/P3XM0aKf/R1lEiyYU
+Game: Nimzowitsch, Aron - Pritzel; Copenhagen; 1922.??.??; 1-0; https://lichess.org/study/EDmMFcbv/3msdPN5J
 
-Game*: HowToWinAtChess - newkam, Chess.com, 2025.10.08, https://lichess.org/study/P3XM0aKf/iFgrQm0z
+Game*: Nimzowitsch, Aron - Alapin, Simon; Riga; 1911.??.??; 1-0; https://lichess.org/study/EDmMFcbv/sMOxbNcv
 
-Game*: HowToWinAtChess - nithin9795, Chess.com, 2026.02.24, https://lichess.org/study/rG6bFitI/b3tfdDUt
+Game*: Nimzowitsch, Aron - Alapin, Simon; St. Petersburg RUE; 1914.??.??; 1-0; https://lichess.org/study/ONYKV9a1/NFrF6gN0
 
-Game*: HowToWinAtChess - offamoeba, Chess.com, 2026.03.12, https://lichess.org/study/rG6bFitI/eLIONnk9
+Game: Nimzowitsch, Aron - Alekhine, Alexander; Semmering; 1926.??.??; 1-0; https://lichess.org/study/EDmMFcbv/jyxbYYTU
 
-Game*: HowToWinAtChess - Onno_kr, Chess.com, 2025.11.25, https://lichess.org/study/P3XM0aKf/DpWEAFxj
+Game: Nimzowitsch, Aron - Behting, Charles; Riga; 1919.??.??; 1-0 (dup #10); https://lichess.org/study/EDmMFcbv/2L0TtmrH
 
-Game*: HowToWinAtChess - ORSnip, Chess.com, 2026.03.09, https://lichess.org/study/rG6bFitI/bRfH3ZHQ
+Game*: Nimzowitsch, Aron - Behting, Charles; Riga; 1919.??.??; 1-0 (dup #10); https://lichess.org/study/r1NROPIm/KDOEboSt
 
-Game*: HowToWinAtChess - Pegazo26, Chess.com, 2026.02.24, https://lichess.org/study/rG6bFitI/YtqNgJ5N
+Game: Nimzowitsch, Aron - Behting, Charles; Riga; 1919.??.??; 1-0 (dup #10); https://lichess.org/study/r1NROPIm/TIHQYJZ6
 
-Game*: HowToWinAtChess - Ravhet, Chess.com, 2025.12.13, https://lichess.org/study/P3XM0aKf/vQQILHzz
+Game*: Nimzowitsch, Aron - Capablanca, Jose Raul; New York; 1927.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/UgfygTsa
 
-Game*: HowToWinAtChess - RebeccaAnnLeeman, Chess.com, 2026.07.21, https://lichess.org/study/gDTJBYjY/Es6FK5EM
+Game*: Nimzowitsch, Aron - Capablanca, Jose Raul; St Petersburg; 1914.??.??; 0-1; https://lichess.org/study/sDsyelY0/AULW1LFq
 
-Game*: HowToWinAtChess - Rhomano2, Chess.com, 2025.11.25, https://lichess.org/study/P3XM0aKf/8vaRua8g
+Game: Nimzowitsch, Aron - Capablanca, Jose Raul; New York, NY USA; 1927.03.13; 0-1; https://lichess.org/study/P33p6LIH/kUETxr2J
 
-Game*: HowToWinAtChess - rohitgoyal77, Chess.com, 2025.10.18, https://lichess.org/study/P3XM0aKf/4m2MuXRS
+Game*: Nimzowitsch, Aron - Chajes, Oscar; Karlsbad; 1911.??.??; 1-0; https://lichess.org/study/2a0vxusd/b3VoxIa6
 
-Game*: HowToWinAtChess - sergioflaviopadilha, Chess.com, 2026.07.08, https://lichess.org/study/gDTJBYjY/G9j1G4zr
+Game: Nimzowitsch, Aron - Fluss, Georg; Correspondence; 1913.??.??; 1-0; https://lichess.org/study/EDmMFcbv/rkCTotgn
 
-Game*: HowToWinAtChess - Sjoerd975, Chess.com, 2026.04.21, https://lichess.org/study/rG6bFitI/GsbYOyuf
+Game*: Nimzowitsch, Aron - Von Freymann, Siegfried; Vilna; 1912.??.??; 1-0; https://lichess.org/study/EDmMFcbv/IcW8oCfx
 
-Game*: HowToWinAtChess - slimzzerr, Chess.com, 2025.09.21, https://lichess.org/study/P3XM0aKf/diQ4wJiu
+Game: Nimzowitsch, Aron - Von Gottschall, Hermann; Breslau; 1925.??.??; 1-0; https://lichess.org/study/EDmMFcbv/3177ulHf
 
-Game*: HowToWinAtChess - soyoltyrtunts, Chess.com, 2025.12.05, https://lichess.org/study/P3XM0aKf/RNZVBRTV
+Game*: Nimzowitsch, Aron - Hakansson, A.; Kristianstad; 1922.??.??; 1-0; https://lichess.org/study/EDmMFcbv/kfWGC3Je
 
-Game*: HowToWinAtChess - Spudzilla14, Chess.com, 2025.10.30, https://lichess.org/study/P3XM0aKf/LdjLcu4x
+Game*: Nimzowitsch, Aron - Leonhardt, Paul Saladin; San Sebastian; 1911.??.??; 1-0; https://lichess.org/study/EDmMFcbv/x4sNt3lv
 
-Game*: HowToWinAtChess - surajhetc1, Chess.com, 2026.07.08, https://lichess.org/study/gDTJBYjY/5F9bQzAw
+Game: Nimzowitsch, Aron - Marshall, Frank James; New York; 1927.??.??; 1-0; https://lichess.org/study/EDmMFcbv/ZIstOpHi
 
-Game*: HowToWinAtChess - Sutadi69, Chess.com, 2026.04.15, https://lichess.org/study/rG6bFitI/qyX0lqV4
+Game*: Nimzowitsch, Aron - Marshall, Frank James; New York, NY USA; 1927.03.17; 1-0; https://lichess.org/study/HU8KOi8j/ZoSTWNmH
 
-Game*: HowToWinAtChess - SWGGA08, Chess.com, 2025.11.09, https://lichess.org/study/P3XM0aKf/cHRsR3Lv
+Game*: Nimzowitsch, Aron - Menchik, Vera; Karlsbad; 1929.??.??; 1-0; https://lichess.org/study/rzdDzNB4/cSGrrXb1
 
-Game*: HowToWinAtChess - The-Great-White, Chess.com, 2026.07.21, https://lichess.org/study/gDTJBYjY/Vu9IapaY
+Game: Nimzowitsch, Aron - Michel, Wilhelm; Semmering; 1926.??.??; 1-0; https://lichess.org/study/EDmMFcbv/QTPgsvRF
 
-Game*: HowToWinAtChess - urw4i, Chess.com, 2026.06.04, https://lichess.org/study/gDTJBYjY/hQO7RygF
+Game*: Nimzowitsch, Aron - Mieses, Jacques; 1920.??.??; *; https://lichess.org/study/t6bOK7CT/QA8EMl3y
 
-Game*: HowToWinAtChess - Visi0naria, Chess.com, 2025.10.02, https://lichess.org/study/P3XM0aKf/LjVm4gS2
+Game*: Nimzowitsch, Aron - Olson, A.; Copenhagen; 1924.??.??; 1-0; https://lichess.org/study/EDmMFcbv/BfpgJz0M
 
-Game*: HowToWinAtChess - Yemisli, Chess.com, 2026.06.25, https://lichess.org/study/gDTJBYjY/8dPCRbhF
+Game*: Nimzowitsch, Aron - Rubinstein, Akiba; Dresden; 1926.??.??; 1-0; https://lichess.org/study/EDmMFcbv/ZGJirrBc
 
-Game*: HowToWinAtChess - Yusuferhuy, Chess.com, 2026.05.23, https://lichess.org/study/rG6bFitI/RoHxakOk
+Game: Nimzowitsch, Aron - Salwe, Georg; Carlsbad; 1911.??.??; 1-0; https://lichess.org/study/EDmMFcbv/0fQhMPcE
 
-Game*: HowToWinAtChess - zamzami1, Chess.com, 2026.03.16, https://lichess.org/study/rG6bFitI/7voWjx9r
+Game*: Nimzowitsch, Aron - Salwe, Georg; Karlsbad (Karlovy Vary) AUH; 1911.09.09; 1-0 (dup #3); https://lichess.org/study/6AnWFDzO/73ZSNhNB
 
-Game*: HowToWinAtChess - ZeroEbsilom, Chess.com, 2026.03.20, https://lichess.org/study/rG6bFitI/7p6xOlwg
+Game: Nimzowitsch, Aron - Salwe, Georg; Karlsbad (Karlovy Vary) AUH; 1911.09.09; 1-0 (dup #3); https://lichess.org/study/P33p6LIH/XFWxr2ze
 
-Game*: HowToWinAtChess - zerothday, Chess.com, 2026.01.11, https://lichess.org/study/rG6bFitI/XBOdJunz
+Game*: Nimzowitsch, Aron - Salwe, Georg; Karlsbad (Karlovy Vary) AUH; 1911.09.09; 1-0 (dup #3); https://lichess.org/study/aAtElCsv/MfZ4toos
 
-Game: Hracek, Zbynek - Cebalo, Miso, Medulin, 2002.09.11, https://lichess.org/study/40nLE9YK/LK9wsgnz
+Game: Nimzowitsch, Aron - Spielmann, Rudolf; Hamburg; 1910.??.??; 1-0 (dup #28); https://lichess.org/study/r1NROPIm/2zACjbTQ
 
-Game*: Huebner, Robert - Karpov, Anatoly, Tilburg, 1977.??.??, https://lichess.org/study/k4B16BhD/y2MvLRQO
+Game*: Nimzowitsch, Aron - Spielmann, Rudolf; Hamburg; 1910.??.??; 1-0 (dup #28); https://lichess.org/study/r1NROPIm/yESlcmbI
 
-Game*: Human - Mac Hack VI, 1967.??.?? (dup #32), https://lichess.org/study/Dw5rZPMK/IEA26LUo
+Game*: Nimzowitsch, Aron - Spielmann, Rudolf; San Sebastian; 1912.??.??; 1-0; https://lichess.org/study/EDmMFcbv/7mJoTfBL
 
-Game*: Human - Mac Hack VI, 1967.??.?? (dup #32), https://lichess.org/study/Dw5rZPMK/tkGGqezb
+Game: Nimzowitsch, Aron - Tarrasch, Siegbert; Breslau; 1925.??.??; 1-0; https://lichess.org/study/EDmMFcbv/YUaIvLCt
 
-Game*: Stuart James Hutchings - Raymond Keene, Woolacombe ENG, 1973.10.??, https://lichess.org/study/6nWh4o7P/Jt5MszSK
+Game*: Nimzowitsch, Aron - Tarrasch, Siegbert; San Sebastian ESP; 1912.02.27; 1-0; https://lichess.org/study/mj8UtUBc/ktx25afY
 
-Game: Huzman, Alexander - Aronian, Levon, Plovdiv, 2010.10.18, https://lichess.org/study/AxW3sYhA/P1aLpQ8T
+Game: Nimzowitsch, Aron - Tarrasch, Siegbert; San Sebastian; 1912.??.??; 1-0; https://lichess.org/study/EDmMFcbv/tpWMq4iT
 
-Game*: Ibrahem_0998 - HowToWinAtChess, Chess.com, 2026.08.17, https://lichess.org/study/gDTJBYjY/jyczU6o2
+Game*: Nimzowitsch, Aron - Tarrasch, Siegbert; St Petersburg; 1914.??.??; 0-1; https://lichess.org/study/E787KvJ9/sdPUN27x
 
-Game*: Ifeconto - HowToWinAtChess, Chess.com, 2026.03.16, https://lichess.org/study/rG6bFitI/AVtINLK6
+Game*: Nimzowitsch, Aron - Tartakower, Savielly; Karlsbad; 1929.??.??; 1-0; https://lichess.org/study/eD6ECZu4/Dys22sKJ
 
-Game fragment*: Ignatieva - Zatulovskaya, 1955.??.??, https://lichess.org/study/E787KvJ9/CiNgjqJY
+Game: Nimzowitsch, Aron - Tartakower, Savielly; St. Petersburg; 1913.??.??; 1-0; https://lichess.org/study/EDmMFcbv/RiRRw8m2
 
-Game*: Igor_Semak - HowToWinAtChess, Chess.com, 2026.04.15, https://lichess.org/study/rG6bFitI/Mf905Tid
+Game: Ninov, Nikolai - Velimirovic, Dragoljub; Belgrade; 2009.10.10; 1-0; https://lichess.org/study/dl0ynDGz/tBzEt3rM
 
-Game*: igrokBD - HowToWinAtChess, Chess.com, 2026.01.11, https://lichess.org/study/rG6bFitI/0FNsTAaQ
+Game: NN - NN; 0-1; https://lichess.org/study/tmHOF54H/L9MQvdnz
 
-Game fragment*: COKO III - GENIE, Chicago, 1971.08.03 (dup #34), https://lichess.org/study/Dw5rZPMK/smxngRqS
+Game: NN - NN; 1-0; https://lichess.org/study/tmHOF54H/J3uqpTja
 
-Game fragment*: COKO III - GENIE, Chicago, 1971.08.03 (dup #34), https://lichess.org/study/Dw5rZPMK/z9cqW9Vv
+Game: NN - NN; Bulletin Ouvrier des Echecs; 1937.03.??; 1-0; https://lichess.org/study/OMNHm3q5/27NNqGU3
 
-Game*: COKO III - TECH, 1971.??.??, https://lichess.org/study/Dw5rZPMK/Inflp1yC
+Game: NN - Bird, Henry Edward; England; 0-1; https://lichess.org/study/V4VFISZI/9d4O0UC0
 
-Game*: COKO III - TECH, https://lichess.org/study/Dw5rZPMK/Inflp1yC, 1971.??.??, https://lichess.org/study/Dw5rZPMK/aVUYDKZr
+Game: NN - Blackburne, Joseph Henry; London; 1880.??.??; 0-1; https://lichess.org/study/OMNHm3q5/PVRCl9s0
 
-Game*: ilibilisandali - HowToWinAtChess, Chess.com, 2025.11.14, https://lichess.org/study/P3XM0aKf/jxGmkbsv
+Game: NN - Greco, Gioachino; TAOTC; 1-0; https://lichess.org/study/tmHOF54H/vBpRHxAM
 
-Game*: Inkiov, Ventzislav - Psakhis, Lev, Minsk, 1982.??.??, https://lichess.org/study/2a0vxusd/nTkCrJx5
+Game: NN - Kahn, V.; Nice; 1941.??.??; 0-1; https://lichess.org/study/OMNHm3q5/MCHbTKmC
 
-Game: Iturrizaga Bonelli, Eduardo - Berbatov, Kiprian, Pamplona, 2011.07.27, https://lichess.org/study/wAhu1kg2/cFDYAxx7
+Game: NN - NN; On board Piriapolis, between Antwerp and Buenos Aires; 1939.08.??; 1-0; https://lichess.org/study/XH8xSdBs/wY7mRxPf
 
-Game*: Ivanisevic, Ivan - Ascic, Pero, Zupanja CRO, 2007.01.06, https://lichess.org/study/AxW3sYhA/UNYrwdJg
+Game: NN - Richter, Bernhard; TAOTC; 1900.??.??; 0-1; https://lichess.org/study/OMNHm3q5/2xhoyNJD
 
-Game*: Ivkov, Boris - Bisguier, Arthur, 1950.??.??, https://lichess.org/study/eD6ECZu4/MWmtnAVo
+Game: NN - Tarrasch, Siegbert; Munich; 1932.??.??; 0-1; https://lichess.org/study/OMNHm3q5/xpEKRNZU
 
-Game*: Ivkov, Borislav - Kortchnoj, Viktor, 1968.??.??, https://lichess.org/study/amMc8Mig/0zWDLIzU
+Game: Noa, Josef - Tarrasch, Siegbert; Dresden; 1892.07.18; 0-1; https://lichess.org/study/pdteMCe2/hqp9c8l5
 
-Game*: Ivkov, Borislav - Larsen, Bent, 1964.??.??, https://lichess.org/study/amMc8Mig/VRGvqHch
+Game*: Noteboom, Daniel - Van Doesburgh, Gerrit RD; 1931.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/4puIavau
 
-Game*: Ivkov, Borislav - Najdorf, Miguel, Wijk aan Zee, 1971.??.??, https://lichess.org/study/uDpA956I/tg5kzMVq
+Game*: Nudelman, Lea - Justo, Damian; Malta; 1980.??.??; 1-0; https://lichess.org/study/sDsyelY0/6eQ2THxm
 
-Game fragment*: Ivok - Letelier, 1955.??.??, https://lichess.org/study/57Oq4l6Z/0WQZQ3S1
+Game*: Ogaard, Leif - Niklasson, Christer; Oslo; 1976.??.??; 0-1; https://lichess.org/study/1O0UELn6/R1NKBrG6
 
-Game*: j1k1s - HowToWinAtChess, Chess.com, 2025.10.18, https://lichess.org/study/P3XM0aKf/ahw7xD62
+Game*: Olafsson, Fridrik - Fischer, Robert James; Portoroz; 1958.??.??; 1-0; https://lichess.org/study/2a0vxusd/LtBXQYXJ
 
-Game*: jacky1306 - HowToWinAtChess, Chess.com, 2025.12.05, https://lichess.org/study/P3XM0aKf/VmUxv0nd
+Game*: Olafsson, Fridrik - Karpov, Anatoly; Tilburg; 1977.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/TrtGE0h0
 
-Game fragment*: Jacobs - Evans, 1955.??.??, https://lichess.org/study/57Oq4l6Z/vDBJkLnB
+Game*: Onischuk, Alexander - Dominguez Perez, Leinier; Tromso NOR; 2013.08.15; 1/2-1/2; https://lichess.org/study/AxW3sYhA/EuyQFqhX
 
-Game*: Jacobsen, Ernst - Nimzowitsch, Aaron, Copenhagen, 1923.??.??, https://lichess.org/study/sDsyelY0/XumcugEI
+Game*: Onischuk, Alexander - Dominguez Perez, Leinier; Tromso NOR; 2013.08.15; 1/2-1/2; https://lichess.org/study/AxW3sYhA/4neJjlJ1
 
-Game*: Jaffe, Charles - Roething, Otto, Bath Beach, 1909.??.??, https://lichess.org/study/6P90HTwf/G3CxNgbl
+Game: Opocensky, Karel - Nimzowitsch, Aron; Marienbad; 1925.??.??; 0-1; https://lichess.org/study/EDmMFcbv/3QsxKVIC
 
-Game: Jakovljevic, Vlado - Predojevic, Borki, Novi Sad, 2012.12.04, https://lichess.org/study/dl0ynDGz/pKwOdfp8
+Game*: Ornstein, Axel - Friedgood, David; Nice; 1970.??.??; 0-1; https://lichess.org/study/D2A7wMDE/pKVZxNkX
 
-Game*: David Janowski - Jose Raul Capablanca, New York, NY USA, 1916.02.08, https://lichess.org/study/6AnWFDzO/JcqYgepM
+Game*: Ortiz Suarez, Isan Reynaldo - Leon Hoyos, Manuel; Havana CUB; 2011.5.18; 0-1; https://lichess.org/study/40nLE9YK/Ctqb6XEe
 
-Game*: David Janowski - Steel, 1893.??.??, https://lichess.org/study/y1wA1JDw/4rVhRzMJ
+Game: Oskam, Gerrit - Demmendal, W.; Rotterdam-Leyde; 1933.??.??; 1-0; https://lichess.org/study/tmHOF54H/7T5sndTx
 
-Game fragment*: Janowski - Lasker, Ed., 1924.??.??, https://lichess.org/study/57Oq4l6Z/nXNfb6LE
+Game: Owen, John - Morphy, Paul; London; 1858.??.??; 0-1; https://lichess.org/study/yuifbGYp/cpacVRz3
 
-Game fragment*: Janowski, D. - Marco, G., Vienna, 1896.??.??, https://lichess.org/study/V4VFISZI/RXV1Fdnn
+Game*: Pachman, Ludek - Petrosian, Tigran; 1958.??.??; 0-1; https://lichess.org/study/2a0vxusd/sUrYaunF
 
-Game fragment*: Janowski, D. - Marshall, F. J., Biarritz, 1912.??.??, https://lichess.org/study/1JWXdF87/go4oPTB8
+Game*: Padevsky, Nikola - Botvinnik, Mikhail; Mosca; 1956.??.??; 0-1; https://lichess.org/study/2a0vxusd/lpO3CIsj
 
-Game*: Janowski, David - Capablanca, Jose Raul, New York, NY USA, 1916.02.08, https://lichess.org/study/aAtElCsv/RzfD93yd
+Game: Paichadze, Luka - Jobava, Baadur; Tbilisi; 2012.05.23; 0-1; https://lichess.org/study/wAhu1kg2/F7MnQGWt
 
-Game*: Janowsky - Alapin, https://lichess.org/study/Wn7aMkPy/cbfD3iOy, 1905.??.??, https://lichess.org/study/Wn7aMkPy/Z7Kb9e1b
+Game*: Panno, Oscar - Keres, Paul; Los Angeles; 1963.??.??; 0-1; https://lichess.org/study/k4B16BhD/2kfqyGi4
 
-Game*: Janowsky, David - Capablanca, Jose Raul, New York, 1916.??.??, https://lichess.org/study/uDpA956I/kVJsWyR6
+Game*: Panno, Oscar - Polugaevsky, Lev; Petropolis; 1973.??.??; 1-0; https://lichess.org/study/k4B16BhD/wx3JVm6r
 
-Game*: Jansa, Vlastimil - Polugaevskij, Lev, 1980.??.??, https://lichess.org/study/2a0vxusd/zDCckhOK
+Game*: Panno, Oscar - Tempone, Marcelo; Buenos Aires; 1980.??.??; 1-0; https://lichess.org/study/E787KvJ9/XYgOBCDu
 
-Game*: jeremyah8 - HowToWinAtChess, Chess.com, 2026.04.15, https://lichess.org/study/rG6bFitI/p0cCIp95
+Game*: Panov, Vasily - Mudrev, Sergei Alexandrovich; Moscow; 1929.??.??; 1-0; https://lichess.org/study/eUChNfwg/A85lT0at
 
-Game*: Jimenez Zerquera, Eleazar - Larsen, Bent, Palma de Mallorca, 1967.??.??, https://lichess.org/study/uDpA956I/Dv6Uk65N
+Game*: Pantsulaia, Levan - Erdogdu, Mert; Konya TUR; 2010.07.08; 1-0; https://lichess.org/study/wAhu1kg2/HmOE7zGs
 
-Game*: Joan-RC - HowToWinAtChess, Chess.com, 2026.08.22, https://lichess.org/study/gDTJBYjY/NDcNbwVD
+Game*: Parligras, Mircea-Emilian - Nepomniachtchi, Ian; Aix-les-Bains FRA; 2011.03.24; 1-0; https://lichess.org/study/AxW3sYhA/2Bep52QI
 
-Game: Jobava, Baadur - Nisipeanu, Liviu Dieter, Burgas, 2012.09.17, https://lichess.org/study/dl0ynDGz/Va1iuvql
+Game*: Parma, Bruno - Larsen, Bent; Thornaby-on-Tees ENG; 1972.05.05; 1-0; https://lichess.org/study/A0fSLRgx/58Ocxfp2
 
-Game*: jobsonlemos - HowToWinAtChess, Chess.com, 2026.06.04, https://lichess.org/study/gDTJBYjY/p3dZ5C1J
+Game*: Paulsen, Louis - Anderssen, Adolf; Leipzig GER; 1877.07.23; 0-1; https://lichess.org/study/mj8UtUBc/4iW2IoBY
 
-Game fragment*: Johner - Euwe, 1934.??.??, https://lichess.org/study/cev86fwf/1IcYDxx1
+Game*: Paulsen, Louis - Morphy, Paul; New York; 1857.??.??; 0-1 (dup #5); https://lichess.org/study/1JWXdF87/eDytyG2G
 
-Game fragment*: Johner - Nimzowitsch, 1926.??.??, https://lichess.org/study/1DTYYVAE/rWNQ0jrP
+Game: Paulsen, Louis - Morphy, Paul; New York; 1857.??.??; 0-1 (dup #5); https://lichess.org/study/MNnC56w2/e5cj63dU
 
-Game: Johner, P. - Nimzowitsch, A., Dresden, 1926.??.??, https://lichess.org/study/EDmMFcbv/658y7jbi
+Game*: Paulsen, Louis - Steinitz, William; Baden-Baden GER; 1870.08.02; 0-1; https://lichess.org/study/YuoLOpzE/ayAvgP7t
 
-Game: Johner, Paul F - Bogoljubov, Efim, Berlin GER, 1928.09.22, https://lichess.org/study/P33p6LIH/zv7Ey2Ul
+Game: Paulsen, Louis - Tarrasch, Siegbert; Breslau; 1889.??.??; 0-1; https://lichess.org/study/bELN6Owi/AplYmvi0
 
-Game: Johner, Paul F - Nimzowitsch, Aron, Dresden GER, 1926.04.05, https://lichess.org/study/P33p6LIH/KPEnxcF0
+Game: Paulsen, Louis - Tarrasch, Siegbert; Nuremberg; 1888.08.14; 0-1; https://lichess.org/study/e7ARwPCA/hDX9YGL2
 
-Game: Johnson - Marshall, F. J., Chicago, 1899.??.??, https://lichess.org/study/OMNHm3q5/JHSo8NrQ
+Game*: Paulsen, Louis - Tarrasch, Siegbert; Nuremberg; 1888.??.??; 0-1; https://lichess.org/study/EDmMFcbv/uZxtS90I
 
-Game fragment*: jomega - Lv.100 Level 100, 2024.04.29, https://lichess.org/study/3Aw3IIVA/DKfbMKxL
+Game: Paulsen, Wilfried - Tarrasch, Siegbert; Dresden; 1892.07.18; 0-1; https://lichess.org/study/pdteMCe2/HGWWO7YC
 
-Game fragment*: jomega - Lv.100 Level 30, 2024.04.28, https://lichess.org/study/3Aw3IIVA/0KzOKHLQ
+Game: Paulsen, Wilfried - Tarrasch, Siegbert; Hamburg; 1885.07.13; 0-1; https://lichess.org/study/PVzIGg2F/4f6SB23T
 
-Game fragment*: jomega - Lv.100 Level 40, 2024.04.28, https://lichess.org/study/3Aw3IIVA/uIpmu18E
+Game: Pavlovic, Milos M. - Leon Hoyos, Manuel; Richardson UTD USA; 2012.03.11; 0-1; https://lichess.org/study/dl0ynDGz/ZlYnHXTe
 
-Game fragment*: jomega - Lv.100 Level 50, 2024.04.28, https://lichess.org/study/3Aw3IIVA/FWMK7Kh7
+Game*: Penrose, Jonathan - Tal, Mikhail; Leipzig; 1960.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/NJOwPJpj
 
-Game fragment*: jomega - Lv.100 Level 70, 2024.04.29, https://lichess.org/study/3Aw3IIVA/uaPYD6A4
+Game*: Petrosian, Tigran - Zeinaly; 1946.??.??; 1-0; https://lichess.org/study/NHyuBHth/2mV26XDl
 
-Game fragment*: jomega - Lv.100 Level 70, 2024.04.29, https://lichess.org/study/3Aw3IIVA/BDg9oWNB
+Game*: Petrosian, Tigran - Botvinnik, Mikhail; Mosca; 1963.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/XNQNypI8
 
-Game: Jones, J. - Tanassy Jr., C., U. S. A., 1944.??.??, https://lichess.org/study/1JWXdF87/Qkmj2hTb
+Game*: Petrosian, Tigran - Donner, Jan Hein; Santa Monica; 1966.??.??; 1-0; https://lichess.org/study/E787KvJ9/W0hAvuKX
 
-Game*: Journoud - Morphy, 1858.??.??, https://lichess.org/study/57Oq4l6Z/sTZxb2aB
+Game*: Petrosian, Tigran - Euwe, Max; Zurich SUI; 1953.09.15; 1-0; https://lichess.org/study/1O0UELn6/C4zHMbKM
 
-Game*: Kacheishvili, Giorgi - Fernandez, Daniel, Mesa USA, 2009.5.29, https://lichess.org/study/dl0ynDGz/kihYW477
+Game*: Petrosian, Tigran - Fischer, Robert James; Bled/Zagreb/Belgrade; 1959.??.??; 1-0; https://lichess.org/study/uDpA956I/3bUr9ck0
 
-Game*: KAISSA - CHAOS, 1974.??.?? (dup #56), https://lichess.org/study/1h06eBSq/7v54wAVs
+Game*: Petrosian, Tigran - Lutikov, Anatoly; Tbilisi; 1959.??.??; 1-0; https://lichess.org/study/uDpA956I/GOYZCzr3
 
-Game*: KAISSA - CHAOS, 1974.??.?? (dup #56), https://lichess.org/study/1h06eBSq/FWa959FV
+Game*: Petrosian, Tigran - Mecking, Henrique; Palma ESP; 1969.11.27; 1-0; https://lichess.org/study/6nWh4o7P/RHGHxoux
 
-Game*: KAISSA - FRANTZ, 1974.??.?? (dup #39), https://lichess.org/study/Dw5rZPMK/Z2UVTcau
+Game*: Petrosian, Tigran - Portisch, Lajos; Palma ESP; 1974.01.27; 1-0; https://lichess.org/study/6nWh4o7P/yxM53YCq
 
-Game*: KAISSA - FRANTZ, 1974.??.?? (dup #39), https://lichess.org/study/Dw5rZPMK/kDJbNRFv
+Game*: Petrosian, Tigran - Portisch, Lajos; Palma ESP; 1974.02.05; 1-0; https://lichess.org/study/6nWh4o7P/VvoQnEWP
 
-Game*: KAISSA - Readers, 1972.??.?? (dup #36), https://lichess.org/study/Dw5rZPMK/6D5zxy61
+Game*: Petrosian, Tigran - Portisch, Lajos; Palme de Mallorca; 1974.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/CCCbFwd5
 
-Game*: KAISSA - Readers, 1972.??.?? (dup #36), https://lichess.org/study/Dw5rZPMK/xflSr9jw
+Game*: Petrosian, Tigran - Ree, Hans; Skopje; 1972.??.??; 1-0; https://lichess.org/study/E787KvJ9/q0kuNWNC
 
-Game fragment*: Kamishev, Mikhail - Shamaev, 1936.??.??, https://lichess.org/study/NHyuBHth/8y3X7uy3
+Game*: Petrosian, Tigran - Smyslov, Vasily; 1961.??.??; 0-1; https://lichess.org/study/2a0vxusd/KjG2XRmF
 
-Game*: Kamishev, Mikhail - Zagoriansky, Evgeny, 1938.??.??, https://lichess.org/study/amMc8Mig/Tt3aiszd
+Game*: Petrosian, Tigran - Smyslov, Vasily; Mosca; 1949.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/A3Y3NmCb
 
-Game*: Ilia Abramovich Kan - Igor Bondarevsky, Tbilisi, 1937.04.25, https://lichess.org/study/LHmryePD/8hEch3FU
+Game*: Petrosian, Tigran - Yuchtman, Jacob; Tbilisi URS; 1959.01.13; 1-0; https://lichess.org/study/6nWh4o7P/AnIFzIAa
 
-Game fragment*: Kan - Bondarevsky, 1937.??.??, https://lichess.org/study/1DTYYVAE/DDvZmbpn
+Game*: Pfeiffer, G. - Guimard, C.; Dubrovnik; 1950.??.??; 1-0; https://lichess.org/study/k4B16BhD/z77kR2dx
 
-Game*: Kan, Ilya - Capablanca, Jose Raul, 1936.??.??, https://lichess.org/study/amMc8Mig/lstq2Mc6
+Game*: Pfleger, Helmut - Domnitz, Zadok; Tel Aviv; 1964.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/rNgaAdBv
 
-Game*: Kaplan, Julio - Larsen, Bent, San Antonio, TX, 1972.11.23, https://lichess.org/study/ChLIRMuv/aXFxNqUg
+Game*: Piazzini, Luis Roberto - Da Silva Rocha, Adhemar; Buenos Aires; 1935.??.??; 1-0; https://lichess.org/study/6P90HTwf/mfGxnoIF
 
-Game*: karimrashwan - HowToWinAtChess, Chess.com, 2025.12.05, https://lichess.org/study/P3XM0aKf/YggGGCgn
+Game*: Pillsbury, Harry Nelson - Gunsberg, Isidor; Hastings; 1895.??.??; 1-0; https://lichess.org/study/uDpA956I/PwsaC1Fy
 
-Game*: Karjakin, Sergey - Carlsen, Magnus, Wijk aan Zee, 2010.01.27, https://lichess.org/study/wAhu1kg2/xgWr8acK
+Game: Pillsbury, Harry Nelson - Gunsberg, Isidor; Monte Carlo MNC; 1902.02.22; 1-0; https://lichess.org/study/P33p6LIH/2pNeNEot
 
-Game*: Sergey Karjakin - Samuel Sevian, Douglas IMN, 2018.10.24, https://lichess.org/study/R5KRklvA/Sc8CUzTx
+Game: Pillsbury, Harry Nelson - Lasker, Emanuel; Nuremberg GER; 1896.07.29; 1-0; https://lichess.org/study/P33p6LIH/qh9rn0vc
 
-Game*: Anatoly Karpov - Walter Shawn Browne, San Antonio, TX USA, 1972.11.20, https://lichess.org/study/6nWh4o7P/ig2qAoOE
+Game*: Pillsbury, Harry Nelson - Marco, Georg; 1900.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/AeKJURj7
 
-Game*: Anatoly Karpov - Boris Spassky, Riga LAT, 1975.07.??, https://lichess.org/study/6nWh4o7P/BwxFNMYB
+Game: Pillsbury, Harry Nelson - Marco, Georg; Paris FRA; 1900.06.08; 1-0; https://lichess.org/study/P33p6LIH/IqbReOFY
 
-Game*: Anatoly Karpov - Wolfgang Uhlmann, Madrid ESP, 1973.12.11, https://lichess.org/study/6nWh4o7P/NaBApb29
+Game*: Pillsbury, Harry Nelson - Marco, Georg; Paris; 1900.??.??; 1-0; https://lichess.org/study/royrjgMZ/FGjhhhC4
 
-Game*: Anatoly Karpov - Heikki Westerinen, Nice FRA, 1974.06.25, https://lichess.org/study/6nWh4o7P/6hNgLMGR
+Game*: Pillsbury, Harry Nelson - Mason, James; 1895.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/vv0T6v7K
 
-Game*: Karpov, Anatoly - Andersson, Ulf, Madrid, 1973.??.??, https://lichess.org/study/uDpA956I/A0EmcfaG
+Game: Pillsbury, Harry Nelson - Tarrasch, Siegbert; Hastings; 1895.??.??; 1-0; https://lichess.org/study/P33p6LIH/U8gxlvVJ
 
-Game*: Karpov, Anatoly - Hort, Vlastimil, Budapest, 1973.??.??, https://lichess.org/study/NHyuBHth/v3KYbU2L
+Game*: Pillsbury, Harry Nelson - Wolf, Heinrich; Monte Carlo, Manaco; 1902.??.??; 1-0 (dup #13); https://lichess.org/study/r1NROPIm/mV89s8UH
 
-Game*: Karpov, Anatoly - Hort, Vlastimil, Bugojno, 1978.??.??, https://lichess.org/study/2a0vxusd/PiNXOk5a
+Game: Pillsbury, Harry Nelson - Wolf, Heinrich; Monte Carlo, Manaco; 1902.??.??; 1-0 (dup #13); https://lichess.org/study/r1NROPIm/v8tDpTDC
 
-Game*: Karpov, Anatoly - Huebner, Robert, Montreal, 1979.??.??, https://lichess.org/study/NHyuBHth/oQakQQz6
+Game*: Pilnik, Herman - Geller, Efim; Gothenburg; 1955.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/KK4LjRM8
 
-Game*: Karpov, Anatoly - Huebner, Robert, Tilburg, 1982.??.??, https://lichess.org/study/2a0vxusd/6bkv5P3Q
+Game*: Pilnik, Herman - Olafsson, Fridrik; Reykjavik; 1955.??.??; 0-1 (dup #46); https://lichess.org/study/6AnWFDzO/PWiwoccT
 
-Game*: Karpov, Anatoly - Kasparov, Gary, Moscow, 1984.??.??, https://lichess.org/study/sDsyelY0/XvaWvSsg
+Game*: Pilnik, Herman - Olafsson, Fridrik; Reykjavik; 1955.??.??; 0-1 (dup #46); https://lichess.org/study/aAtElCsv/S5OiGWCd
 
-Game*: Karpov, Anatoly - Kasparov, Gary, Mosca, 1985.??.??, https://lichess.org/study/NHyuBHth/onBL1pFL
+Game: Piorun, Kacper - Hillarp Persson, Tiger; Stockholm; 2014.01.05; 0-1; https://lichess.org/study/wAhu1kg2/WTrwdlAG
 
-Game: Karpov, Anatoly - Kasparov, Garry, Lyon/New York, 1990.12.05, https://lichess.org/study/AxW3sYhA/Z1NOeUf3
+Game*: Pitschak, Rudolf - Flohr, Salo; 1934.??.??; 0-1; https://lichess.org/study/Wn7aMkPy/CAu9snB7
 
-Game*: Karpov, Anatoly - Larsen, Bent, Tilburg, 1980.??.??, https://lichess.org/study/NHyuBHth/k8yNCy7R
+Game*: Plater, Kazimierz - Botvinnik, Mikhail; Moscow URS; 1947.12.03; 0-1; https://lichess.org/study/1O0UELn6/2DrdjkKg
 
-Game*: Karpov, Anatoly - Mecking, Henrique, Hastings, 1971.??.??, https://lichess.org/study/NHyuBHth/Hk2AkA24
+Game: Polgar, Judit - Dominguez Perez, Leinier; Khanty-Mansiysk; 2011.09.06; 0-1; https://lichess.org/study/AxW3sYhA/gYjtaGnt
 
-Game*: Karpov, Anatoly - Miles, Anthony, Bugojno, 1978.??.??, https://lichess.org/study/k4B16BhD/BGcQZuJa
+Game*: Polugaevsky, Lev - Balashov, Yuri; Leningrad; 1977.??.??; 1-0; https://lichess.org/study/NHyuBHth/Dfouv34E
 
-Game*: Karpov, Anatoly - Miles, Anthony, 1985.??.??, https://lichess.org/study/amMc8Mig/yckykxaE
+Game*: Polugaevsky, Lev - Ftacnik, Lubomir; 1982.??.??; 0-1; https://lichess.org/study/amMc8Mig/Od5RyRBG
 
-Game*: Karpov, Anatoly - Polugaevskij, Lev, Mosca, 1974.??.??, https://lichess.org/study/5mW5ZvOp/Daqb2XHG
+Game*: Polugaevsky, Lev - Gulko, Boris; Mosca; 1976.??.??; 1-0; https://lichess.org/study/amMc8Mig/vZAxL7Dm
 
-Game*: Karpov, Anatoly - Ribli, Zoltan, Bath (England), 1973.??.??, https://lichess.org/study/NHyuBHth/13Uz6Lrn
+Game*: Polugaevsky, Lev - Ivkov, Boris; 1969.??.??; 1-0; https://lichess.org/study/k4B16BhD/HbsjjBgZ
 
-Game*: Karpov, Anatoly - Pomar Salamanca, Arturo, 1974.??.??, https://lichess.org/study/amMc8Mig/pJdX3zTO
+Game*: Polugaevsky, Lev - Ivkov, Boris; Belgrade; 1969.??.??; 1-0; https://lichess.org/study/dl0ynDGz/vgUqToe4
 
-Game*: Karpov, Anatoly - Sax, Gyula, Linares, 1983.??.??, https://lichess.org/study/2a0vxusd/Z2xLpu1u
+Game*: Polugaevsky, Lev - Kortchnoj, Viktor; Buenos Aires; 1980.??.??; 1-0; https://lichess.org/study/E787KvJ9/02bY008O
 
-Game*: Karpov, Anatoly - Spassky, Boris, 1974.??.??, https://lichess.org/study/uDpA956I/jt0EP4qy
+Game*: Polugaevsky, Lev - Mecking, Henrique; Mar del Plata; 1971.??.??; 1-0; https://lichess.org/study/NHyuBHth/AIghi9BI
 
-Game*: Karpov, Anatoly - Tajmanov, Mark, URS, 1972.??.??, https://lichess.org/study/sDsyelY0/qv721pia
+Game*: Polugaevsky, Lev - Padevsky, Nikola; La Habana; 1966.??.??; 1-0; https://lichess.org/study/uDpA956I/kEpKdSG7
 
-Game*: Karpov, Anatoly - Unzicker, Wolfgang, Nice FRA, 1974.06.18, https://lichess.org/study/40nLE9YK/RpNptv9q
+Game*: Polugaevsky, Lev - Petrosian, Tigran; Mosca; 1969.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/Yo2rMWFi
 
-Game*: Karpov, Anatoly - Unzicker, W., 1974.??.??, https://lichess.org/study/uDpA956I/GRxF5WnF
+Game*: Polugaevsky, Lev - Petrosian, Tigran; Mosca; 1983.??.??; 0-1; https://lichess.org/study/2a0vxusd/NLq3HkjF
 
-Game*: Isaac Kashdan - Israel Albert Horowitz, Philadelphia, PA USA, 1936.08.24, https://lichess.org/study/6AnWFDzO/Ky1NhBjD
+Game*: Polugaevsky, Lev - Romanishin, Oleg; Tbilisi; 1978.??.??; 1-0; https://lichess.org/study/2a0vxusd/aH5NqCsg
 
-Game*: Kashdan, Isaac - Gligoric, Svetozar, Hollywood, 1952.??.??, https://lichess.org/study/eD6ECZu4/tV2VV7Ud
+Game*: Polugaevsky, Lev - Tal, Mikhail; Leningrado; 1971.??.??; 1-0; https://lichess.org/study/amMc8Mig/XFmkGyvd
 
-Game*: Kashdan, Isaac - Horowitz, Israel Albert, Philadelphia, PA USA, 1936.08.24, https://lichess.org/study/aAtElCsv/944GGDcd
+Game*: Polugaevsky, Lev - Tal, Mikhail; Mosca; 1969.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/fUZNzUKw
 
-Game*: Kashdan, Isaac - Reshevsky, Samuel, New York, 1938.??.??, https://lichess.org/study/k4B16BhD/avcGv8dV
+Game*: Polugaevsky, Lev - Torre, Eugenio; 1981.??.??; 1-0; https://lichess.org/study/2a0vxusd/E5Ux9lA9
 
-Game*: Kashdan, Isaac - Steiner, Herman, Pasadena, 1932.??.??, https://lichess.org/study/6P90HTwf/FxXyrdZs
+Game: Ponomariov, Ruslan - Radjabov, Teimour; Medias; 2010.06.16; 0-1; https://lichess.org/study/dl0ynDGz/UoZmK12g
 
-Game*: Garry Kasparov - John Nunn, Lucerne SUI, 1982.11.08, https://lichess.org/study/HU8KOi8j/X5p4szeH
+Game*: Porges, Moritz - Tarrasch, Siegbert; 1892.??.??; *; https://lichess.org/study/cev86fwf/rzgNMWrz
 
-Game*: Kasparov, Garry - Kramnik, Vladimir, Moscow RUS, 2001.12.02, https://lichess.org/study/dl0ynDGz/rpMlVfdz
+Game: Porges, Moritz - Tarrasch, Siegbert; Dresden; 1892.07.18; 0-1; https://lichess.org/study/pdteMCe2/tLePh4FB
 
-Game*: Kasparov, Gary - Andersson, Ulf, 1981.??.??, https://lichess.org/study/E787KvJ9/cNpFCcWx
+Game*: Portisch, Lajos - Dzindzichashvili, Roman; 1978.??.??; 1-0; https://lichess.org/study/amMc8Mig/FrwU4uKH
 
-Game*: Kasparov, Gary - Chiburdanidze, Maia, Baku, 1980.??.??, https://lichess.org/study/5mW5ZvOp/KORC0rgi
+Game*: Portisch, Lajos - Radulov, Ivan; 1977.??.??; 1-0; https://lichess.org/study/amMc8Mig/9tQdXwoc
 
-Game*: Kasparov, Gary - Gheorghiu, Florin, Moscow, 1982.??.??, https://lichess.org/study/E787KvJ9/cfcuAzua
+Game*: Portisch, Lajos - Reshevsky, Samuel Herman; Palma de Mallorca; 1970.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/msqQjKu5
 
-Game*: Kasparov, Gary - Huebner, Robert, Hamburg, 1985.07.??, https://lichess.org/study/NHyuBHth/FrH5Jc8w
+Game*: Portisch, Lajos - Reshevsky, Samuel Herman; Petropolis BRA; 1973.08.12; 1-0; https://lichess.org/study/6nWh4o7P/UUwuKqd9
 
-Game*: Kasparov, Gary - Najdorf, Miguel, 1982.??.??, https://lichess.org/study/5mW5ZvOp/RT6R3VW2
+Game: Predojevic, Borki - Nestorovic, Dejan; Sarajevo; 2013.06.07; 1-0; https://lichess.org/study/dl0ynDGz/bp0jRPKQ
 
-Game*: Kasparov, Gary - Natsis, Trifon, 1980.??.??, https://lichess.org/study/amMc8Mig/vTAnFybH
+Game: Pruijssers, Roeland - Izsak, Gyula; Germany; 2012.10.21; 1-0; https://lichess.org/study/dl0ynDGz/mRoJIY69
 
-Game*: Kasparov, Gary - Portisch, Lajos, Niksic, 1983.??.??, https://lichess.org/study/E787KvJ9/mSbCPlhu
+Game: Pruijssers, Roeland - Reinderman, Dimitri; Amsterdam; 2013.07.11; 0-1; https://lichess.org/study/wAhu1kg2/LzMyWE3e
 
-Game*: Kasparov, Gary - Smyslov, Vassily, Vilnius, 1984.??.??, https://lichess.org/study/k4B16BhD/r9q0a5uH
+Game*: Przepiorka, David - Gottesdiener; 1924.??.??; 1-0; https://lichess.org/study/rzdDzNB4/RwvoJ4AO
 
-Game fragment*: Katalymov, M. N. - Bazarov, A., St. Petersburg, 1905.??.??, https://lichess.org/study/1JWXdF87/jfkreeA7
+Game*: Przepiorka, David - Havasi, Kornel; Budapest; 1929.??.??; 1-0; https://lichess.org/study/6P90HTwf/muxna7cx
 
-Game fragment*: Katetov - Golombek, 1946.??.??, https://lichess.org/study/57Oq4l6Z/sk5z8xVu
+Game*: Przepiorka, David - Prokes, Ladislav; 1929.??.??; 1-0; https://lichess.org/study/WLE9ibAW/K0zIQv9n
 
-Game fragment*: Kavalek, Lubomir - Kaplan, 1500.??.??, https://lichess.org/study/k4B16BhD/JQ7TG3mD
+Game*: Przepiorka, David - Prokes, Ladislav; 1929.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/Mbju5XYQ
 
-Game*: Kavalek, Lubomir - Rogoff, Kenneth, Oberlin, 1975.??.??, https://lichess.org/study/amMc8Mig/TrtgotPd
+Game*: Przepiorka, David - Prokes, Ladislav; Budapest; 1929.??.??; 1-0; https://lichess.org/study/6P90HTwf/qBikZar4
 
-Game*: KCHES56 - TECH II, 1974.??.?? (dup #37), https://lichess.org/study/Dw5rZPMK/aB5uwLDR
+Game*: Psakhis, Lev - Romanishin, Oleg; 1986.??.??; 1-0; https://lichess.org/study/uDpA956I/egwYbjn5
 
-Game*: KCHES56 - TECH II, 1974.??.?? (dup #37), https://lichess.org/study/Dw5rZPMK/r5jMwzSq
+Game*: Pytlakowski, Andrzej - Smyslov, Vasily; Helsinki; 1952.??.??; 0-1; https://lichess.org/study/2a0vxusd/h0qG0Bum
 
-Game*: Keene, Raymond - Kovacevic, Vlatko, 1973.??.??, https://lichess.org/study/amMc8Mig/yXoukTkT
+Game*: Quinteros, Miguel - Larsen, Bent; 1973.??.??; 0-1; https://lichess.org/study/sDsyelY0/KsPj6neq
 
-Game*: Keene, Raymond - Miles, Anthony, Hastings ENG, 1976.01.12, https://lichess.org/study/LHmryePD/z2KNlURj
+Game*: Quinteros, Miguel - Ribli, Zoltan; 1974.??.??; 0-1; https://lichess.org/study/2a0vxusd/KuKVudX1
 
-Game*: Keene, Raymond - Miles, Anthony, Torquay, 1982.??.??, https://lichess.org/study/sDsyelY0/pjXFYt85
+Game*: Rabar, Braslav - Barcza, Gedeon; Helsinki; 1952.??.??; 1-0; https://lichess.org/study/xG5sFI6f/9UNRItt1
 
-Game*: kellarrob98 - HowToWinAtChess, Chess.com, 2026.03.20, https://lichess.org/study/rG6bFitI/ifshBfBp
+Game: Rabinovich, Efim - Goglidze, S.; Russia; 1939.??.??; 1-0; https://lichess.org/study/1JWXdF87/KkrHN8NQ
 
-Game fragment*: Keltz, Chr - Epstein, Dr, Nuremberg (Germany), 1890.??.??, https://lichess.org/study/bELN6Owi/L7mleynK
+Game: Rabinovich, Efim - Nimzowitsch, Aron; Baden-Baden; 1925.??.??; 0-1; https://lichess.org/study/EDmMFcbv/wFff2UQ1
 
-Game: Kennicott, Hiram - Morphy, Paul, New York, NY USA, 1857.??.??, https://lichess.org/study/MNnC56w2/u1IM2gBB
+Game*: Rahman, Ziaur - Areshchenko, Alexander; Chennai IND; 2011.1.24; 0-1; https://lichess.org/study/40nLE9YK/BfwQHJpj
 
-Game fragment*: Keres - Byrne, R., 1955.??.??, https://lichess.org/study/57Oq4l6Z/9hgBF5Dk
+Game*: Ree, Hans - Beliavsky, Alexander G.; Lucerna; 1982.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/tJMezMC8
 
-Game fragment*: Keres - Fuderer, 1955.??.??, https://lichess.org/study/57Oq4l6Z/BM3RGgoO
+Game: Renaud, Georges - NN; Nice Chess Club; 1923.06.16; 1-0; https://lichess.org/study/tmHOF54H/OR1jIQCg
 
-Game*: Keres - Reshevsky, https://lichess.org/study/1DTYYVAE/EWG93Rw3
+Game: Renaud, Georges - NN; Nice; 1940.12.??; 1-0; https://lichess.org/study/1JWXdF87/4YNG3wJI
 
-Game fragment*: Keres - Szabo, 1955.??.??, https://lichess.org/study/t6bOK7CT/7RpPW57o
+Game: Renet, Olivier - Giri, Anish; Mulhouse; 2011.05.27; 0-1; https://lichess.org/study/wAhu1kg2/M6hDrckx
 
-Game: Keres, P. - Alekhine, A., Margate, 1937.??.??, https://lichess.org/study/OMNHm3q5/u3Yzlwq8
+Game: Renold, Q. - Agassiz, Jean Louis Rodolphe; Lausanne; 1903.??.??; 1-0; https://lichess.org/study/tmHOF54H/1EHl57yZ
 
-Game fragment: Keres, P. - Gauffin, T., Helsingfors, 1936.??.??, https://lichess.org/study/1JWXdF87/VLroyQbM
+Game*: Reshevsky, Samuel Herman - Benko, Pal; Los Angeles; 1963.??.??; 1-0; https://lichess.org/study/E787KvJ9/QYWcBNBe
 
-Game*: Keres, Paul - Eliskases, Erich, 1937.??.??, https://lichess.org/study/amMc8Mig/1irXA0VQ
+Game*: Reshevsky, Samuel Herman - Fine, Reuben; 1933.??.??; 1-0; https://lichess.org/study/2a0vxusd/dx61CvX7
 
-Game*: Keres, Paul - Euwe, Max, Zandvoort, 1936.??.??, https://lichess.org/study/rzdDzNB4/O9RsyRDB
+Game*: Reshevsky, Samuel Herman - Fischer, Robert James; Los Angeles; 1961.??.??; 0-1; https://lichess.org/study/k4B16BhD/ZU5rjWEr
 
-Game*: Keres, Paul - Geller, Efim, Mosca, 1962.??.??, https://lichess.org/study/E787KvJ9/nrsluYKI
+Game*: Reshevsky, Samuel Herman - Gligoric, Svetozar; New York; 1952.??.??; 1-0; https://lichess.org/study/eD6ECZu4/Bsh6q4Jf
 
-Game*: Keres, Paul - Karpov, Anatoly, Mosca, 1973.??.??, https://lichess.org/study/uDpA956I/I09ye492
+Game*: Reshevsky, Samuel Herman - Horowitz, Israel Albert; New York; 1956.??.??; 0-1 (dup #50); https://lichess.org/study/6AnWFDzO/wtt5Eeau
 
-Game*: Keres, Paul - Lilienthal, Andor, Leningrad, 1941.??.??, https://lichess.org/study/NHyuBHth/mZn5GCrc
+Game*: Reshevsky, Samuel Herman - Horowitz, Israel Albert; New York; 1956.??.??; 0-1 (dup #50); https://lichess.org/study/aAtElCsv/o0smFUwT
 
-Game*: Keres, Paul - Petrovs, Vladimir, Mosca, 1940.??.??, https://lichess.org/study/E787KvJ9/jTb1iSxX
+Game*: Reshevsky, Samuel Herman - Myagmarsuren, Lhamsuren; Sousse TUN; 1967.10.16; 1-0; https://lichess.org/study/FlL0kWtQ/CwKsUMMI
 
-Game*: Keres, Paul - Schmid, Lothar, Bamberg, 1968.??.??, https://lichess.org/study/2a0vxusd/nbsQPMqt
+Game*: Reshevsky, Samuel Herman - Olafsson, Fridrik; Dallas; 1957.??.??; 1-0; https://lichess.org/study/uUaMniQc/Ut8hLoyd
 
-Game*: Keres, Paul - Spassky, Boris, 1955.??.??, https://lichess.org/study/E787KvJ9/QIb9Iwx3
+Game*: Reshevsky, Samuel Herman - Petrosian, Tigran; Zuerich; 1953.??.??; 1/2-1/2; https://lichess.org/study/2a0vxusd/xzcBStRZ
 
-Game*: Keres, Paul - Szabo, Laszlo, Budapest, 1955.??.??, https://lichess.org/study/E787KvJ9/7TNDEzLh
+Game*: Reshevsky, Samuel Herman - Tartakower, Savielly; Kemeri; 1937.06.??; 1/2-1/2; https://lichess.org/study/uUaMniQc/IYr1Q6sq
 
-Game*: Keres, Paul - Westerinen, Heikki, Tallinn, 1973.??.??, https://lichess.org/study/2a0vxusd/w4B7U48F
+Game*: Reshevsky, Samuel Herman - Thomas, George Alan; Hastings; 1937.??.??; 1-0; https://lichess.org/study/k4B16BhD/EZQVLzXz
 
-Game fragment*: Kevitz - Kotov, 1955.??.??, https://lichess.org/study/1DTYYVAE/3bgVjAWu
+Game*: Reshevsky, Samuel Herman - Woliston, Philip; New York; 1940.??.??; 1-0; https://lichess.org/study/k4B16BhD/3KwAEedx
 
-Game*: Kevitz, Alexander - Capablanca, Jose Raul, 1931.??.??, https://lichess.org/study/amMc8Mig/QuhIsm5x
+Game*: Reti, Richard - Bogoljubov, Efim; New York; 1924.??.??; 1-0; https://lichess.org/study/rzdDzNB4/yV8zU6GX
 
-Game*: Kevitz, Alexander - Kotov, Alexander, 1955, https://lichess.org/study/vJTD9Iyi/kGo10UKZ
+Game: Reti, Richard - Capablanca, Jose Raul; New York; 1924.??.??; 1-0 (dup #14); https://lichess.org/study/r1NROPIm/tkBGOcX8
 
-Game*: Mir Sultan Khan - Hermanis Karlovich Mattison, Prague CSR, 1931.07.14, https://lichess.org/study/eUChNfwg/h6NgKodc
+Game*: Reti, Richard - Capablanca, Jose Raul; New York; 1924.??.??; 1-0 (dup #14); https://lichess.org/study/r1NROPIm/uyGpLcOr
 
-Game fragment*: Kholmov, Ratmir - Vasjukov, 1971.??.??, https://lichess.org/study/sDsyelY0/9aDYKCsn
+Game*: Reti, Richard - Carls, Carl Johan Margot; Baden-Baden; 1925.??.??; 1-0; https://lichess.org/study/uDpA956I/aJ3KrYXI
 
-Game: Kirdetzoff - Kahn, V., Copenhagen, 1918.??.??, https://lichess.org/study/1JWXdF87/PIcxQwRo
+Game*: Reti, Richard - Lasker, Edward; 1924.??.??; *; https://lichess.org/study/t6bOK7CT/vBRnELtQ
 
-Game*: Kirillov, Vladimir - Furman, Semjon, 1949.??.??, https://lichess.org/study/E787KvJ9/vqNa948b
+Game: Reti, Richard - Romanovsky, Peter Arsenievich; Moscow URS; 1925.11.25; 1-0; https://lichess.org/study/YuoLOpzE/pUiGpiSz
 
-Game fragment*: Kitto - Wallace, 1955.??.??, https://lichess.org/study/t6bOK7CT/X6OdVJ98
+Game*: Reti, Richard - Rubinstein, Akiba; 1920.??.??; 0-1; https://lichess.org/study/sDsyelY0/BEV0RmqP
 
-Game*: Klein, Ernst - Reshevsky, Samuel, 1935.??.??, https://lichess.org/study/NHyuBHth/ZgUPoH2k
+Game: Reti, Richard - Rubinstein, Akiba; Karlsbad CSR; 1923.05.04; 1-0; https://lichess.org/study/P33p6LIH/Gc0ReXhP
 
-Game fragment: Kliefoth - Schliemann, TAOTC, https://lichess.org/study/XH8xSdBs/HjgcOksg
+Game: Reti, Richard - Tartakower, Savielly; Berlin; 1920.??.??; 0-1 (dup #30); https://lichess.org/study/r1NROPIm/WoNN7tid
 
-Game*: Kline, H. - Capablanca, J. R., New York, 1913.??.??, https://lichess.org/study/EDmMFcbv/TWjvDydP
+Game*: Reti, Richard - Tartakower, Savielly; Berlin; 1920.??.??; 0-1 (dup #30); https://lichess.org/study/r1NROPIm/lrdwxoOf
 
-Game*: Klundt, Klaus - Dautov, Rustem, Bad Wiessee GER, 2001.10.31, https://lichess.org/study/40nLE9YK/oKWJs3z2
+Game*: Ribli, Zoltan - Karpov, Anatoly; Amsterdam; 1980.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/y3cBT99y
 
-Game*: Kmoch, Hans - Alekhine, Alexander, Holland, 1937.??.??, https://lichess.org/study/eD6ECZu4/uspKyBR0
+Game: Richter, Bernhard - Tarrasch, Siegbert; Halle; 1883.??.??; 0-1; https://lichess.org/study/PVzIGg2F/XtYfPZbz
 
-Game*: Koenig, Imre - Smyslov, Vassily, 1946.??.??, https://lichess.org/study/k4B16BhD/zdAFgS9a
+Game*: Richter, Bernhard - Tarrasch, Siegbert; Nuremberg GER; 1888.??.??; 0-1 (dup #42); https://lichess.org/study/ChLIRMuv/dmfZjAIg
 
-Game fragment*: Kolb, F. - Tarrasch, Siegbert, Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/cgjpDpsS
+Game*: Richter, Bernhard - Tarrasch, Siegbert; Nuremberg GER; 1888.??.??; 0-1 (dup #42); https://lichess.org/study/aAtElCsv/74Roty83
 
-Game fragment*: Kolb, Herren F - Schroeder, Chr, Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/uNycoRs5
+Game: Richter, Bernhard - Tarrasch, Siegbert; Nuremberg; 1888.??.??; 0-1; https://lichess.org/study/e7ARwPCA/evym9eBQ
 
-Game: Koltanowski, G. - NN, Antwerp, 1931.??.??, https://lichess.org/study/tmHOF54H/87wHezpg
+Game: Riemann, Fritz - Tarrasch, Siegbert; Breslau; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/WykB9yMn
 
-Game*: Koltanowski, George - Feigins, Movsas, Hastings, 1936.??.??, https://lichess.org/study/6P90HTwf/8LiCSujP
+Game: Riemann, Fritz - Tarrasch, Siegbert; Hamburg; 1885.07.13; 0-1; https://lichess.org/study/e7ARwPCA/LjcgMHHr
 
-Game*: Kopylov - Taimanov, 1949.??.??, https://lichess.org/study/t6bOK7CT/4xNp7dij
+Game*: Riemann, Fritz - Tarrasch, Siegbert; Leipzig m; 1883.??.??; 0-1; https://lichess.org/study/PVzIGg2F/Y7hz9H3k
 
-Game*: Korneev, Oleg - Kasimdzhanov, Rustam, Melilla ESP, 2011.11.24, https://lichess.org/study/AxW3sYhA/ytHn68NS
+Game*: Riumin, Nikolay Nikolaevich - Budo, Alexander Semionovich; Moscow; 1931.??.??; 1-0; https://lichess.org/study/6P90HTwf/f64CA29q
 
-Game*: Kortchnoj, Viktor - Botvinnik, Mikhail, Moscow, 1960.??.??, https://lichess.org/study/NHyuBHth/ozryOWAc
+Game*: Riumin, Nikolay Nikolaevich - Poliak, Abram Borisovich; Odessa; 1929.??.??; 0-1; https://lichess.org/study/6P90HTwf/BLZNdAIS
 
-Game*: Kortchnoj, Viktor - Fischer, Robert, Curacao, 1962.??.??, https://lichess.org/study/amMc8Mig/YD52kT7h
+Game*: Roedl, Ludwig - Hermann, Hans; Bad Pyrmont GER; 1949.05.07; 1-0; https://lichess.org/study/vJTD9Iyi/eO4pUsLd
 
-Game*: Kortchnoj, Viktor - Karpov, Anatoly, Mosca, 1973.??.??, https://lichess.org/study/5mW5ZvOp/2z4jPtcI
+Game*: Romanishin, Oleg - Petrosian, Tigran; 1975.??.??; 1-0; https://lichess.org/study/E787KvJ9/zlmyk25i
 
-Game*: Kortchnoj, Viktor - Karpov, Anatoly, Baguio City, 1978.??.??, https://lichess.org/study/sDsyelY0/lGCIaRPh
+Game*: Romanovsky, Peter Arsenievich - Smorodsky, Andrey Alexandrovic; Moscow URS; 1924.09.??; 1-0; https://lichess.org/study/1O0UELn6/WSL5QMD1
 
-Game*: Kortchnoj, Viktor - Karpov, Anatoly, Baguio City, 1978.??.??, https://lichess.org/study/k4B16BhD/ZYpXrp5i
+Game*: Romanovsky, Peter Arsenievich - Stahlberg, Gideon; 1925.??.??; 1-0; https://lichess.org/study/amMc8Mig/C6XuFeO6
 
-Game*: Kortchnoj, Viktor - Matanovic, Aleksandar, Palma de Mallorca, 1968.??.??, https://lichess.org/study/k4B16BhD/PoWkRodi
+Game*: Romanovsky, Peter Arsenievich - Verlinsky, Boris; Moscow; 1925.??.??; 1-0; https://lichess.org/study/sDsyelY0/WXkIW6jB
 
-Game*: Kortchnoj, Viktor - Petrosjan, Tigran, Moscow, 1975.??.??, https://lichess.org/study/uDpA956I/7htNRlg5
+Game*: Rosanes, Jakob - Anderssen, Adolf; Breslau GER; 1863.??.??; 0-1; https://lichess.org/study/P33p6LIH/CTEKv1Ui
 
-Game*: Kortchnoj, Viktor - Spassky, Boris, Kiev, 1968.??.??, https://lichess.org/study/2a0vxusd/3S4g1EvL
+Game: Rosanes, Jakob - Anderssen, Adolf; Breslau; 1862.??.??; 0-1; https://lichess.org/study/P33p6LIH/7U7MmNir
 
-Game*: Kortchnoj, Viktor - Tal, Mikhail, Wijk aan Zee, 1968.??.??, https://lichess.org/study/k4B16BhD/R0pHAzkh
+Game: Rosenbaum - Tarrasch, Siegbert; Halle; 1883.??.??; 0-1; https://lichess.org/study/PVzIGg2F/IM3zlqbu
 
-Game*: Kortchnoj, Viktor - Timman, Jan, Hilversum, 1982.??.??, https://lichess.org/study/k4B16BhD/299vLQtg
+Game: Rosenthal, Samuel - Steinitz, William; Vienna AUH; 1873.08.04; 0-1; https://lichess.org/study/P33p6LIH/dbx6Zwav
 
-Game*: Kortchnoj, Viktor - Tringov, Georgi, Lucerne (Switzerland), 1982.??.??, https://lichess.org/study/uDpA956I/5QJVxpi2
+Game*: Rotlewi, Gersz - Rubinstein, Akiba; Lodz; 1907.??.??; 0-1; https://lichess.org/study/E787KvJ9/1wMO0IP1
 
-Game*: Kosilov, Roman - Denisov, Evgeny, Tula, 2005.09.10, https://lichess.org/study/3Aw3IIVA/CthaUFCO
+Game*: Rubinstein, Akiba - Alekhine, Alexander; Karlsbad; 1911.??.??; 1-0; https://lichess.org/study/k4B16BhD/xaYDXhIl
 
-Game*: Borislav Kostic - Ernst Gruenfeld, Teplice-Sanov CSR, 1922.10.13, https://lichess.org/study/InR4tjnm/ucsmXHKM
+Game*: Rubinstein, Akiba - Carls, Carl Johan Margot; Baden-Baden; 1925.??.??; 1-0; https://lichess.org/study/m0LDLCIA/eeHUWMNm
 
-Game fragment*: Kostic - Gruenfeld, 1922.??.??, https://lichess.org/study/cev86fwf/CAISYQav
+Game*: Rubinstein, Akiba - Dus Chotimirsky, Fedor; Karlsbad; 1911.??.??; 1/2-1/2; https://lichess.org/study/izyugXAJ/9f8VMJWt
 
-Game: Kostic, Boris - Gruenfeld, Ernst, Teplitz-Schoenau, 1922.??.?? (dup #27), https://lichess.org/study/WTO993dw/TwVv4tKO
+Game: Rubinstein, Akiba - Duras, Oldrich; Carlsbad; 1911.??.??; 1-0; https://lichess.org/study/EDmMFcbv/NE5uWfoX
 
-Game*: Kostic, Boris - Gruenfeld, Ernst, Teplitz-Schoenau, 1922.??.?? (dup #27), https://lichess.org/study/cev86fwf/aTVDf83R
+Game: Rubinstein, Akiba - Hromadka, Karel; Ostrava CSR; 1923.07.05; 1-0; https://lichess.org/study/P33p6LIH/4TvVVeJ2
 
-Game*: Kostya_1111 - HowToWinAtChess, Chess.com, 2025.11.25, https://lichess.org/study/P3XM0aKf/FU1bnmYm
+Game*: Rubinstein, Akiba - Johner, Paul; Karlsbad; 1929.??.??; 1-0; https://lichess.org/study/sDsyelY0/IpS3kIwL
 
-Game*: Alexander Kotov - Isaac Kashdan, Moscow RUS and New York USA, 1945.09.03, https://lichess.org/study/1O0UELn6/IZWd8NUo
+Game: Rubinstein, Akiba - Lasker, Emanuel; Moscow URS; 1925.11.16; 0-1; https://lichess.org/study/P33p6LIH/sK8cWY28
 
-Game*: Alexander Kotov - Mark Taimanov, Zurich SUI, 1953.09.16, https://lichess.org/study/1O0UELn6/GOyufLml
+Game: Rubinstein, Akiba - Levenfish, Grigory; Carlsbad; 1911.??.??; 1-0; https://lichess.org/study/EDmMFcbv/cndK0xv5
 
-Game*: Kotov, Alexander - Botvinnik, Mikhail, 1955.??.??, https://lichess.org/study/NHyuBHth/bdfMyOyq
+Game*: Rubinstein, Akiba - Maroczy, Geza; 1920.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/QB7bsnxe
 
-Game*: Kotov, Alexander - Gligoric, Svetozar, Zurigo, 1953.??.??, https://lichess.org/study/5mW5ZvOp/wV6lynOP
+Game*: Rubinstein, Akiba - Maroczy, Geza; Gothenburg; 1920.??.??; 1-0; https://lichess.org/study/amMc8Mig/tPHYQ3ad
 
-Game*: Kotov, Alexander - Steiner, Herman, Moscow, 1955.??.??, https://lichess.org/study/rzdDzNB4/Pn5uR4ih
+Game*: Rubinstein, Akiba - Marshall, Frank James; 1912.??.??; *; https://lichess.org/study/1DTYYVAE/mJvOFl7X
 
-Game fragment*: Kotov, Alexander - Steiner, Herman, Moscow, 1955.??.??, https://lichess.org/study/rzdDzNB4/hCK0xRHc
+Game*: Rubinstein, Akiba - Marshall, Frank James; Breslau GER; 1912.08.01; 1-0; https://lichess.org/study/LHmryePD/me74Zv8L
 
-Game*: Kotov, Alexander - Szabo, Laszlo, Zurigo, 1953.??.??, https://lichess.org/study/uDpA956I/z5eDLfFk
+Game*: Rubinstein, Akiba - Mieses, Jacques; Bad Kissingen; 1928.??.??; 1-0; https://lichess.org/study/eD6ECZu4/37dXJgPW
 
-Game*: Kovchan, Alexander - Khismatullin, Denis, St Petersburg RUS, 2011.8.18, https://lichess.org/study/dl0ynDGz/FaeNSaMk
+Game*: Rubinstein, Akiba - Nimzowitsch, Aron; Marienbad; 1925.??.??; 0-1; https://lichess.org/study/EDmMFcbv/ZyIiEa8n
 
-Game fragment*: Kramer - Busek, 1955.??.??, https://lichess.org/study/57Oq4l6Z/kqGw5mWr
+Game*: Rubinstein, Akiba - Salwe, Georg; 1908.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/DpmKghBP
 
-Game*: kremplenov - HowToWinAtChess, Chess.com, 2026.07.08, https://lichess.org/study/gDTJBYjY/esa9hBV3
+Game*: Rubinstein, Akiba - Salwe, Georg; Lodz; 1908.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/yddisqCv
 
-Game*: krishnaarjun1 - HowToWinAtChess, Chess.com, 2026.06.24, https://lichess.org/study/gDTJBYjY/0xQWLiOP
+Game*: Rubinstein, Akiba - Schlechter, Carl; Berlin GER; 1918.01.26; 1-0; https://lichess.org/study/vJTD9Iyi/lDcvMb9i
 
-Game fragment*: Kristol - Wu, 1980.??.??, https://lichess.org/study/amMc8Mig/aQoHQToy
+Game*: Rubinstein, Akiba - Tarrasch, Siegbert; Karlsbad; 1923.??.??; 1-0; https://lichess.org/study/k4B16BhD/8C2GBo7x
 
-Game*: Krogius - Stein, 1960.??.??, https://lichess.org/study/uDpA956I/ugOagT3Z
+Game*: Rubinstein, Akiba - Tartakower, Savielly; Marianske Lazne CSR; 1925.05.25; 1-0; https://lichess.org/study/LHmryePD/o9nZxPZf
 
-Game*: Krogius, Nikolai - Smyslov, Vassily, 1967.??.??, https://lichess.org/study/2a0vxusd/GZLOH8Jw
+Game*: Rubinstein, Akiba - Treybal, Karel; Karlsbad; 1929.??.??; 1-0; https://lichess.org/study/NHyuBHth/zB01rmCJ
 
-Game*: Kudrin, Sergey - Reshevsky, Samuel, 1985.??.??, https://lichess.org/study/2a0vxusd/FN5KTEXU
+Game: Rubinstein, Akiba - Vidmar, Milan Sr; Berlin DEU; 1918.04.22; 0-1; https://lichess.org/study/P33p6LIH/ITcp3Ufe
 
-Game: Kuljasevic, Davorin - Golubovic, Boris, Bol na Bracu, 2013.05.26, https://lichess.org/study/dl0ynDGz/08qUfAzb
+Game: Rubinstein, Akiba - Znosko-Borovsky, Eugene; St. Petersburg; 1909.??.??; 1-0; https://lichess.org/study/EDmMFcbv/BohKlYBF
 
-Game*: Kunze - Tarrasch, Siegbert, Halle, 1883.??.??, https://lichess.org/study/PVzIGg2F/WzwlhlLp
+Game*: Ruger - Gebhard, Hans; 1915.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/NgIzWrk4
 
-Game fragment*: Kupfertisch - Andreasen, 1953.??.??, https://lichess.org/study/sDsyelY0/WjPc7W7d
+Game*: Sadjjadi, Anahita - Grzeca, Pascal; 2005.??.??; 0-1; https://lichess.org/study/IB6tbWsz/IoXy1EFl
 
-Game*: Kupper, Josef - Tal, Mikhail, 1959.??.??, https://lichess.org/study/2a0vxusd/N8dEaZ9w
+Game*: Saemisch, Friedrich - Alekhine, Alexander; 1926.??.??; 0-1; https://lichess.org/study/amMc8Mig/BAwq3ZWS
 
-Game: Kurschner, Max - Tarrasch, Siegbert, Nuremberg, 1887.??.??, https://lichess.org/study/e7ARwPCA/NN1WsniN
+Game: Saemisch, Friedrich - Engel, Jindrich; Brno CSR; 1928.09.??; 1-0; https://lichess.org/study/YuoLOpzE/QEhR895j
 
-Game: Kurschner, Max - Tarrasch, Siegbert, Nuremberg, 1887.??.??, https://lichess.org/study/e7ARwPCA/cEhpKSg3
+Game: Saemisch, Friedrich - Nimzowitsch, Aron; Copenhagen; 1923.??.??; 0-1; https://lichess.org/study/EDmMFcbv/2MWyTlbY
 
-Game: Kurschner, Max - Tarrasch, Siegbert, Nuremberg, 1887.??.??, https://lichess.org/study/e7ARwPCA/XuIVfexl
+Game*: Saidy, Anthony - Fischer, Robert James; New York; 1963.??.??; 0-1; https://lichess.org/study/k4B16BhD/k2w1eEMO
 
-Game: Kurschner, Max - Tarrasch, Siegbert, Nuremberg, 1888.??.??, https://lichess.org/study/e7ARwPCA/jLQHnwba
+Game*: Saidy, Anthony - Fischer, Robert James; New York; 1965.??.??; 0-1; https://lichess.org/study/sDsyelY0/tgpijsnM
 
-Game: Kurschner, Max - Tarrasch, Siegbert, Nuremberg, 1888.??.??, https://lichess.org/study/e7ARwPCA/WhxdIs6s
+Game*: Salwe, Georg - Alapin, Simon; Vienna; 1908.??.??; 1-0; https://lichess.org/study/6P90HTwf/TSQw6fzo
 
-Game: Kurschner, Max - Tarrasch, Siegbert, Nuremberg, 1889.??.??, https://lichess.org/study/bELN6Owi/hhD1Lwii
+Game: Sasikiran, Krishnan - Satyapragyan, Swayangsu; Kolkata; 2009.12.23; 1-0; https://lichess.org/study/wAhu1kg2/TONLRNjB
 
-Game: Kurschner, Max - Tarrasch, Siegbert, Nuremberg, 1889.??.??, https://lichess.org/study/bELN6Owi/zmGwcaJn
+Game*: Savon, Vladimir - Spassky, Boris; Baku; 1961.??.??; 0-1; https://lichess.org/study/uDpA956I/uKknW5gr
 
-Game: Kurschner, Max - Tarrasch, Siegbert, Nuremberg, 1889.??.??, https://lichess.org/study/bELN6Owi/2cTP8eKG
+Game: Schallopp, Emil - Gossip, George Hatfeild; Manchester; 1900.??.??; 1-0; https://lichess.org/study/XH8xSdBs/uZmnmcQe
 
-Game: Kurschner, Max - Tarrasch, Siegbert, Nuremberg, 1889.??.??, https://lichess.org/study/bELN6Owi/RIkwyFd1
+Game: Schallopp, Emil - Tarrasch, Siegbert; Berlin; 1882.??.??; 0-1; https://lichess.org/study/PVzIGg2F/YrSaxG00
 
-Game: Kurschner, Max - Tarrasch, Siegbert, Nuremberg-cc, 1890.??.??, https://lichess.org/study/pdteMCe2/6kBvHmJh
+Game: Schallopp, Emil - Tarrasch, Siegbert; Breslau; 1889.??.??; 0-1; https://lichess.org/study/bELN6Owi/6WBxtCUd
 
-Game*: Kurschner, Max - Tarrasch, Siegbert, Nuremberg (Germany), 1890.??.??, https://lichess.org/study/pdteMCe2/2lEKMTDM
+Game: Schallopp, Emil - Tarrasch, Siegbert; Manchester; 1890.08.30; 0-1; https://lichess.org/study/bELN6Owi/u9wMAB17
 
-Game: Kurschner, Max - Tarrasch, Siegbert, Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/hOQs6oLV
+Game: Scheve - Teichmann, Richard; 1907.??.??; 0-1; https://lichess.org/study/Wn7aMkPy/CbCCUZWm
 
-Game fragment: Kurschner, Max - Tarrasch, Siegbert, Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/nszLZ8tK
+Game: Schiffers, Emmanuel - Tarrasch, Siegbert; Leipzig GER; 1894.09.13; 0-1; https://lichess.org/study/UQieNXft/TsvGAtj5
 
-Game*: Kurschner, Max - Tarrasch, Siegbert, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/otpZ3pi2
+Game*: Schiffers, Emmanuel - Tarrasch, Siegbert; Leipzig GER; 1894.09.13; 0-1; https://lichess.org/study/mj8UtUBc/Sr6jjofy
 
-Game: Kurschner, Max - Tarrasch, Siegbert, Nuremberg, 1892.??.??, https://lichess.org/study/UQieNXft/MJglDJ7V
+Game*: Schlechter, Carl - Janowski, David; 1900.??.??; 1-0; https://lichess.org/study/uDpA956I/H1S2hkzP
 
-Game*: Kushnir, Alla - Gaprindashvili, Nona, Riga, 1972.??.??, https://lichess.org/study/sDsyelY0/L8TzdmES
+Game: Schlechter, Carl - John, Walter; Barmen GER; 1905.08.22; 1-0; https://lichess.org/study/P33p6LIH/41yT5BwM
 
-Game*: kushu279 - HowToWinAtChess, Chess.com, 2026.01.11, https://lichess.org/study/rG6bFitI/fY31KJpJ
+Game: Schlechter, Carl - Marco, Georg; Monte Carlo MNC; 1904.02.18; 1-0; https://lichess.org/study/P33p6LIH/mbgkaPzu
 
-Game*: Kuzmin, Gennadi - Sveshnikov, Evgeny, Mosca, 1973.??.??, https://lichess.org/study/E787KvJ9/2DR13YPs
+Game*: Schlosser, Philipp - Van Wely, Loek; Belfort FRA; 2012.06.10; 0-1; https://lichess.org/study/AxW3sYhA/dscB0YmR
 
-Game*: Kuzubov, Yuri Aleksandrovich - Efimenko, Zahar, Kiev UKR, 2012.08.03, https://lichess.org/study/AxW3sYhA/SAIiIIvc
+Game*: Schmidt, Wlodzimierz - Kasparov, Garry; Dubai (United Arab Emirates); 1986.??.??; 0-1; https://lichess.org/study/NHyuBHth/RH2N38Yo
 
-Game fragment: Labonne - NN, TAOTC, https://lichess.org/study/XH8xSdBs/aq5jOjsS
+Game: Schottlaender, Arnold - Tarrasch, Siegbert; Dresden; 1892.07.18; 0-1; https://lichess.org/study/pdteMCe2/NYNZyze7
 
-Game fragment*: Labourdonnais, C. M. - NN, TAOTC', 1833.??.??, https://lichess.org/study/tmHOF54H/HcCfll1Z
+Game*: Schubert, Christian - Georgiev, Krum; 1977.??.??; 0-1; https://lichess.org/study/2a0vxusd/yQz1vrOd
 
-Game fragment*: Labourdonnais, C.M. - NN, TAOTC, 1833.??.??, https://lichess.org/study/XH8xSdBs/ZS4ZfKAw
+Game: Schubert, Frantisek - Schlechter, Carl; Vienna AUH; 1915.12.??; 0-1; https://lichess.org/study/P33p6LIH/y6DrOAWE
 
-Game*: Landau, Salo - Book, Eero, Kemeri, 1937.06.??, https://lichess.org/study/6P90HTwf/BuMhjSSl
+Game: Schulten, John William - Horwitz, Bernhard; London; 1846.??.??; 0-1; https://lichess.org/study/tmHOF54H/eSuHaneV
 
-Game: Laroche, Jean Adolphe - Morphy, Paul, Paris, 1858.10.??, https://lichess.org/study/MNnC56w2/y6fjwyM2
+Game: Schulten, John William - Morphy, Paul; New York, NY USA; 1857.11.??; 0-1; https://lichess.org/study/MNnC56w2/jg8O4DTS
 
-Game*: Larsen, Bent - Fischer, Robert, Santa Monica, 1966.??.??, https://lichess.org/study/5mW5ZvOp/BSi5Cka7
+Game*: Schulten, John William - Morphy, Paul; New York, NY USA; 1857.??.??; 0-1 (dup #1); https://lichess.org/study/MNnC56w2/XjuTEvQZ
 
-Game*: Larsen, Bent - Gligoric, Svetozar, 1956.??.??, https://lichess.org/study/k4B16BhD/DuZicCPr
+Game: Schulten, John William - Morphy, Paul; New York, NY USA; 1857.??.??; 0-1 (dup #1); https://lichess.org/study/P33p6LIH/jzCUQHW4
 
-Game*: Larsen, Bent - Torre, Eugenio, Bruxelles, 1987.??.??, https://lichess.org/study/sDsyelY0/i9LHeCZg
+Game*: Schulten, John William - Morphy, Paul; 1857.??.??; 0-1; https://lichess.org/study/2a0vxusd/6Mrk69Kh
 
-Game*: Lascano, J. - Bahamonde, Antonio, Argentina, 1936.??.??, https://lichess.org/study/6P90HTwf/pRBqdJqu
+Game*: Schulten, John William - Morphy, Paul; New York; 1857.??.??; 0-1; https://lichess.org/study/KrLT8eS5/6oRg5gfJ
 
-Game: Emanuel Lasker - Rudolf Spielmann, Moscow URS, 1925.12.02, https://lichess.org/study/P33p6LIH/F8tUdPEG
+Game*: Schulten, John William - Morphy, Paul; New York; 1857.??.??; 0-1; https://lichess.org/study/KrLT8eS5/fuAkePjF
 
-Game: Lasker, Berthold - Tarrasch, Siegbert, Berlin, 1882.??.??, https://lichess.org/study/PVzIGg2F/KBcrTYFJ
+Game*: Schwarz, Jacques - Tarrasch, Siegbert; Nuremberg; 1883.07.15; 0-1; https://lichess.org/study/PVzIGg2F/OlcAAVfy
 
-Game fragment*: Lasker, Dr. - Capablanca, 1914.??.??, https://lichess.org/study/1DTYYVAE/SuA3KtPH
+Game*: Schwietzer, George J. - Shrader, Eugene Wesley; St Louis; 1904.??.??; 1-0; https://lichess.org/study/6P90HTwf/bnjCvU7E
 
-Game: Lasker, Dr. E - Burn, A., St. Petersburg, 1909.??.??, https://lichess.org/study/EDmMFcbv/yd1xDDz2
+Game*: Seirawan, Yasser - Tal, Mikhail; Montpellier; 1985.??.??; 1-0; https://lichess.org/study/amMc8Mig/Wtrzy2zZ
 
-Game fragment*: Lasker, Ed. - Capablanca, 1915.??.??, https://lichess.org/study/cev86fwf/qUEAWnC7
+Game*: Shahade, Gregory P - Akobian, Varuzhan; Philadelphia; 2012.04.06; 0-1; https://lichess.org/study/wAhu1kg2/ghsnzoEB
 
-Game: Lasker, Edward - Englund, F., Scheveningen, 1913.??.??, https://lichess.org/study/OMNHm3q5/2hrx0gva
+Game*: Shaw, Terrey - Keene, Raymond; Brisbane; 1979.??.??; 0-1; https://lichess.org/study/NHyuBHth/Lu3JKu6U
 
-Game: Lasker, Edward - Thomas, George, London, 1912.??.??, https://lichess.org/study/tmHOF54H/FZyl0F4V
+Game*: Sherwin, James T. - Pavey, Max; 1955.??.??; 1-0; https://lichess.org/study/rzdDzNB4/csfebQRJ
 
-Game*: Lasker, Emanuel - Bauer, J., Amsterdam, 1889.??.??, https://lichess.org/study/E787KvJ9/2HJbflOc
+Game*: Sherwin, James T. - Reshevsky, Samuel Herman; New York; 1957.??.??; 1-0; https://lichess.org/study/eD6ECZu4/38xapBhL
 
-Game*: Lasker, Emanuel - Bohatirchuk, Fedor Parfenovich, Moscow, 1935.??.??, https://lichess.org/study/fxEOlxbq/5ZtvMeub
+Game*: Shishkin, Vadim - Nyzhnyk, Illya; Mamaia ROU; 2013.09.03; 0-1; https://lichess.org/study/wAhu1kg2/ANugFz3P
 
-Game fragment*: Lasker, Emanuel - Bohatirchuk, Fedor Parfenovich, Moscow, 1935.??.??, https://lichess.org/study/fxEOlxbq/cvK79ZeH
+Game*: Short, Nigel D - Karpov, Anatoly; Linares; 1992.??.??; 1-0; https://lichess.org/study/49AuOOCo/q889DSLW
 
-Game: Lasker, Emanuel - Capablanca, Jose Raul, St. Petersburg  RUE, 1914.05.18, https://lichess.org/study/P33p6LIH/0YpxHqDZ
+Game*: Shrentzel, Israel - Shvidler, Eliahu; Israel; 1985.??.??; 0-1; https://lichess.org/study/E787KvJ9/QPgRcLL9
 
-Game fragment*: Lasker, Emanuel - Capablanca, Jose Raul, St Petersburg, 1914.??.??, https://lichess.org/study/fxEOlxbq/9sToZ92x
+Game*: Simacek, Pavel - Jobava, Baadur; Legnica; 2013.05.07; 0-1; https://lichess.org/study/AxW3sYhA/5YJUPqpR
 
-Game*: Lasker, Emanuel - Capablanca, Jose Raul, St Petersburg, 1914.??.?? (dup #30), https://lichess.org/study/5mW5ZvOp/4QALfPes
+Game*: Simacek, Pavel - Kanovsky, David; Ostrava CZE; 2010.5.8; 1-0; https://lichess.org/study/dl0ynDGz/OQ0SCIdy
 
-Game*: Lasker, Emanuel - Capablanca, Jose Raul, St Petersburg, 1914.??.?? (dup #30), https://lichess.org/study/fxEOlxbq/YUgzSbzx
+Game*: Singh, D. P. - Navalgund, Niranjan; New Delhi; 2008.01.16; 1-0; https://lichess.org/study/3Aw3IIVA/GpmKHE9a
 
-Game*: Lasker, Emanuel - Cohn, Erich, St Petersburg, 1909.??.??, https://lichess.org/study/uUaMniQc/qHqE3knb
+Game: Smeets, Jan - Tiviakov, Sergei; Netherlands NED; 2014.12.??; 1-0; https://lichess.org/study/dl0ynDGz/S7XtuwcR
 
-Game fragment*: Lasker, Emanuel - Cohn, Erich, St Petersburg, 1909.??.??, https://lichess.org/study/uUaMniQc/SPh5hzHS
+Odds game: Smith, C. F. - NN; TAOTC; 1852.??.??; 1-0; https://lichess.org/study/tmHOF54H/ZxS44dYx
 
-Game fragment*: Lasker, Emanuel - Janowski, Dawid Markelowicz, Paris, 1909.10.22, https://lichess.org/study/uUaMniQc/1JFM7Wen
+Game*: Smyslov, Vasily - Bisguier, Arthur; Moscow; 1955.??.??; 1-0; https://lichess.org/study/amMc8Mig/aebrXT7g
 
-Game*: Lasker, Emanuel - Janowski, Dawid Markelowicz, Paris, 1909.10.22, https://lichess.org/study/uUaMniQc/muXXANw2
+Game*: Smyslov, Vasily - Botvinnik, Mikhail; 1954.??.??; *; https://lichess.org/study/mGhYXeXs/4Zb1YDAJ
 
-Game: Lasker, Emanuel - Napier, William Ewart, Cambridge Springs, PA USA, 1904.04.28, https://lichess.org/study/P33p6LIH/MA0CqOlO
+Game*: Smyslov, Vasily - Botvinnik, Mikhail; Mosca; 1957.??.??; 1-0; https://lichess.org/study/uDpA956I/sNS2V0NF
 
-Game*: Lasker, Emanuel - Nimzowitsch, Aaron, 1934.??.??, https://lichess.org/study/NHyuBHth/EddHYBHt
+Game*: Smyslov, Vasily - Botvinnik, Mikhail; Mosca; 1958.??.??; 1/2-1/2; https://lichess.org/study/2a0vxusd/SUhowcUq
 
-Game: Lasker, Emanuel - NN, TAOTC, 1894.??.??, https://lichess.org/study/OMNHm3q5/4XZeSYO0
+Game*: Smyslov, Vasily - Denker, Arnold Sheldon; Moskau, UdSSR - USA; 1946.09.12; 1-0; https://lichess.org/study/l1syl1IJ/sDPFWayO
 
-Game*: Lasker, Emanuel - Reshevsky, Samuel, Nottingham, 1936.??.??, https://lichess.org/study/amMc8Mig/5JUFIKR5
+Game*: Smyslov, Vasily - Donner, Jan Hein; Venice; 1950.??.??; 1-0 (dup #21); https://lichess.org/study/r1NROPIm/3wm92qhI
 
-Game*: Lasker, Emanuel - Rubinstein, Akiba, St Petersburg, 1914.??.??, https://lichess.org/study/k4B16BhD/mVJ9kgAn
+Game: Smyslov, Vasily - Donner, Jan Hein; Venice; 1950.??.??; 1-0 (dup #21); https://lichess.org/study/r1NROPIm/5Sv2qekz
 
-Game*: Lasker, Emanuel - Steinitz, William, Moscow, 1896.12.11, https://lichess.org/study/ChLIRMuv/wiAw7EU5
+Game*: Smyslov, Vasily - Gudmundsson, Kristjan; Reykjavik ISL; 1974.02.??; 1-0; https://lichess.org/study/6nWh4o7P/o7ENA9so
 
-Game fragment*: Laurentis - Keres, Paul, 1937.??.??, https://lichess.org/study/amMc8Mig/1lHQXahV
+Game*: Smyslov, Vasily - Kasparov, Garry; 1981.??.??; 0-1; https://lichess.org/study/amMc8Mig/4PTBX63L
 
-Game: Lazard, Fred - Crepeaux, R., Strasbourg, 1924.09.04, https://lichess.org/study/tmHOF54H/rg6Vwhev
+Game*: Smyslov, Vasily - Keres, Paul; The Hague NED; 1948.03.16; 0-1; https://lichess.org/study/49AuOOCo/gs829rtA
 
-Game*: Lee, F. J. - Nimzowitsch, A., Ostend, 1907.??.??, https://lichess.org/study/EDmMFcbv/qam3ibDY
+Game*: Smyslov, Vasily - Liberzon, Vladimir; Riga; 1968.??.??; 1-0; https://lichess.org/study/2a0vxusd/q0Pe5t5L
 
-Game: Legal, Kermur - NN, Paris, 1750.??.??, https://lichess.org/study/tmHOF54H/UGjBMOvN
+Game*: Smyslov, Vasily - Portisch, Lajos; Tilburg; 1984.??.??; 1-0; https://lichess.org/study/2a0vxusd/0c4FT7le
 
-Game fragment*: Leko - Kramnik, 2004.??.??, https://lichess.org/study/8u8uZ7TC/Zjew3EzK
+Game*: Smyslov, Vasily - Reshevsky, Samuel Herman; Moscow; 1948.??.??; 1-0; https://lichess.org/study/k4B16BhD/quymJUw8
 
-Game*: Leko, Peter - Anand, Viswanathan, Leon ESP, 2001.6.9, https://lichess.org/study/40nLE9YK/ggYLDff6
+Game*: Smyslov, Vasily - Rudakovsky, Iosif; Mosca; 1945.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/K682kK4g
 
-Game*: Lenneth - HowToWinAtChess, Chess.com, 2026.08.01, https://lichess.org/study/gDTJBYjY/X455RW5f
+Game*: Smyslov, Vasily - Sax, Gyula; Tilburg; 1979.??.??; 0-1; https://lichess.org/study/NHyuBHth/CO4vR1Sb
 
-Game: Leonhardt, P. S. - Nimzowitsch, A., San Sebastian, 1912.??.??, https://lichess.org/study/EDmMFcbv/Inn88I5i
+Game*: Smyslov, Vasily - Tal, Mikhail; 1964.??.??; 0-1; https://lichess.org/study/sDsyelY0/hmSvHrx5
 
-Game*: Paul Saladin Leonhardt - Amos Burn, Karlsbad (Karlovy Vary) AUH, 1911.09.01, https://lichess.org/study/1O0UELn6/fh6EmDl6
+Game*: Smyslov, Vasily - Tal, Mikhail; Mosca; 1969.??.??; 1-0; https://lichess.org/study/uDpA956I/Mu6SRbyb
 
-Game fragment*: Lev - Bruk, 1985.??.??, https://lichess.org/study/k4B16BhD/9EmI7vN2
+Game*: Smyslov, Vasily - Timman, Jan; Moscow; 1981.??.??; 1-0; https://lichess.org/study/E787KvJ9/mMzgcfNI
 
-Game*: Grigory Levenfish - Mikhail Botvinnik, Leningrad RUS, 1937.10.05, https://lichess.org/study/49AuOOCo/a3UrCdo3
+Game*: Smyslov, Vasily - Trifunovic, Petar; 1955.??.??; 1-0; https://lichess.org/study/2a0vxusd/7vINkEaO
 
-Game*: Levenfish, Grigory - Keres, Paul, Leningrad, 1939.??.??, https://lichess.org/study/2a0vxusd/3TZfuAMq
+Game: So, Wesley - Flores Rios, Mauricio; Princeton USA; 2012.12.28; 1-0; https://lichess.org/study/AxW3sYhA/ufw0m2hu
 
-Game*: Liberzon, Vladimir - Larsen, Bent, Biel, 1976.??.??, https://lichess.org/study/uDpA956I/aHxOrHue
+Game*: Sokolsky, Alexey Pavlovich - Botvinnik, Mikhail; Leningrad URS; 1938.05.20; 0-1; https://lichess.org/study/1O0UELn6/5QlETP34
 
-Game: Lichtenhein, Theodor - Morphy, Paul, New York, 1857.??.??, https://lichess.org/study/MNnC56w2/UGhJ4TFL
+Game*: Spassky, Boris - Arutiunian, Lev; 1967.??.??; 1-0; https://lichess.org/study/E787KvJ9/KGTOh76R
 
-Game: Lichtenhein, Theodore - Morphy, Paul, New York, NY USA, 1857.10.22, https://lichess.org/study/P33p6LIH/9PG48Mrj
+Game*: Spassky, Boris - Avtonomov, Sergey; Leningrad; 1950.??.??; 1-0; https://lichess.org/study/2a0vxusd/EoUtubTE
 
-Game*: Lilienthal, Andor - Bondarevsky, Igor, Mosca, 1940.??.??, https://lichess.org/study/k4B16BhD/RrLY5lGn
+Game*: Spassky, Boris - Byrne, Robert E.; San Juan di Portorico; 1974.??.??; 1-0; https://lichess.org/study/amMc8Mig/6ZZICEiN
 
-Game*: Lilienthal, Andor - Flohr, Salomon, 1935.??.??, https://lichess.org/study/5mW5ZvOp/C3npCfSO
+Game*: Spassky, Boris - Fischer, Robert James; Reykjavik ISL; 1972.07.20; 0-1; https://lichess.org/study/6nWh4o7P/ctFpLmiL
 
-Game*: Lilienthal, Andor - Smyslov, Vassily, 1941.??.??, https://lichess.org/study/k4B16BhD/EyANOwBC
+Game*: Spassky, Boris - Fischer, Robert James; Santa Monica; 1966.??.??; 1-0; https://lichess.org/study/sDsyelY0/gUGgtInK
 
-Game: Lipke, Paul - Tarrasch, Siegbert, Leipzig GER, 1894.09.14, https://lichess.org/study/UQieNXft/SdDSBobG
+Game*: Spassky, Boris - Fischer, Robert James; Sveti Stefan / Belgrade YUG; 1992.10.29; 1-0; https://lichess.org/study/dl0ynDGz/fDry0EG1
 
-Game*: Lipnitskij, Isaak - Smyslov, Vassily, Mosca, 1951.??.??, https://lichess.org/study/uDpA956I/qm6ywrmp
+Game*: Spassky, Boris - Liberzon, Vladimir; 1960.??.??; 1-0; https://lichess.org/study/uDpA956I/6gcvqtAE
 
-Game fragment*: Lissner - Loyd, J.S., New Jersey, 1895.??.??, https://lichess.org/study/XH8xSdBs/gp6HkaIm
+Game*: Spassky, Boris - Ljubojevic, Ljubomir; 1979.??.??; 1-0; https://lichess.org/study/sDsyelY0/pzgysvAA
 
-Game*: Liu, Wenzhe - Ljubojevic, Ljubomir, Lucerne (Switzerland), 1982.??.??, https://lichess.org/study/NHyuBHth/wgp0KWjn
+Game*: Spassky, Boris - Petrosian, Tigran; Mosca; 1966.??.??; 0-1; https://lichess.org/study/amMc8Mig/OFc8HQ7r
 
-Game*: Liubarski - Soultanbeieff, 1928.??.?? (dup #80), https://lichess.org/study/Fya8BLe7/ePjQZRFY
+Game*: Spassky, Boris - Portisch, Lajos; 1967.??.??; 1-0; https://lichess.org/study/2a0vxusd/B7jdPCAQ
 
-Game*: Liubarski - Soultanbeieff, 1928.??.?? (dup #80), https://lichess.org/study/Wn7aMkPy/ijfMfzyt
+Game*: Spassky, Boris - Tal, Mikhail; 1971.??.??; 1/2-1/2; https://lichess.org/study/E787KvJ9/umCkvFwi
 
-Game*: Ljublinskij, Victor - Botvinnik, Mikhail, 1943.??.??, https://lichess.org/study/2a0vxusd/oO3cEcAv
+Game*: Spassky, Boris - Tal, Mikhail; Montreal; 1979.??.??; 0-1; https://lichess.org/study/E787KvJ9/vI3Ajb3f
 
-Game*: Ljubojevic, Ljubomir - Huebner, Robert, Tilburg, 1985.??.??, https://lichess.org/study/5mW5ZvOp/Z1vV1y8k
+Game*: Spassky, Boris - Tal, Mikhail; Tallinn; 1973.??.??; 0-1; https://lichess.org/study/E787KvJ9/jDVfmIpT
 
-Game*: Ljubojevic, Ljubomir - Karpov, Anatoly, Linares, 1981.??.??, https://lichess.org/study/amMc8Mig/Kcf2krYi
+Game*: Spielmann, Rudolf - Wahle; 1926.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/m5pYBnNL
 
-Game*: Ljubojevic, Ljubomir - Portisch, Lajos, Luzern, 1982.??.??, https://lichess.org/study/5mW5ZvOp/dURS5Bb3
+Game: Spielmann, Rudolf - Colle, Edgar; Dortmund GER; 1928.08.04; 0-1; https://lichess.org/study/YuoLOpzE/4JjQ5mls
 
-Game*: Ljubomir Ljubojevic - Garry Kasparov, Niksic YUG, 1983.08.29, https://lichess.org/study/drEQ8cYo/cLaf5Cx7
+Game: Spielmann, Rudolf - Flamberg, Alexander; Mannheim GER; 1914.07.20; 1-0; https://lichess.org/study/P33p6LIH/Nj0RzP0L
 
-Game*: Lobron, Eric - Gruenfeld, Yehuda, Ramat-Hasharon (Israel), 1982.??.??, https://lichess.org/study/2a0vxusd/dcNy6cfz
+Game: Spielmann, Rudolf - Hoenlinger, B.; Vienna; 1929.02.??; 1-0; https://lichess.org/study/XH8xSdBs/6odgIFdj
 
-Game: Locock, Charles Dealtry - Tarrasch, Siegbert, Manchester, 1890.08.27, https://lichess.org/study/bELN6Owi/ebFJJb19
+Game*: Spielmann, Rudolf - Keres, Paul; Noordwijk; 1938.??.??; 0-1; https://lichess.org/study/rzdDzNB4/XJbF7wiR
 
-Game*: Lokvenc, Josef - Feigin, Movsa, Hamburg (Germany), 1930.??.??, https://lichess.org/study/uDpA956I/FOHQNVfr
+Game*: Spielmann, Rudolf - Lokvenc, Josef; 1936.??.??; *; https://lichess.org/study/rzdDzNB4/ZyflMc62
 
-Game fragment*: Lolli, G. - NN, TAOTC, 2024.02.28, https://lichess.org/study/XH8xSdBs/vG9YOfxM
+Game: Spielmann, Rudolf - Nimzowitsch, Aron; San Sebastian; 1911.??.??; 0-1 (dup #11); https://lichess.org/study/EDmMFcbv/VY7TOflM
 
-Game fragment*: Lombardy - Horowitz, 1955.??.??, https://lichess.org/study/cev86fwf/RbL52pwo
+Game*: Spielmann, Rudolf - Nimzowitsch, Aron; San Sebastian; 1911.??.??; 0-1 (dup #11); https://lichess.org/study/k4B16BhD/NrNW971S
 
-Game fragment*: Lombardy, William - Ree, Hans, 1976.??.??, https://lichess.org/study/amMc8Mig/eMTy9U4N
+Game*: Spielmann, Rudolf - Walter, Max; Trentschin-Teplitz; 1928.??.??; 1-0; https://lichess.org/study/fxEOlxbq/VRwARHTO
 
-Game fragment: Loyd, S. - Rosenthal, S., TAOTC, 1967.??.??, https://lichess.org/study/V4VFISZI/d4vJx0hF
+Game*: Springe, Werner - Gebhardt, Hans; Munich; 1927.??.??; 1-0; https://lichess.org/study/MNnC56w2/Rvkxo0X4
 
-Game: Loye, C. V. - Beamish, F. U., Cheltenham, 1913.??.??, https://lichess.org/study/OMNHm3q5/fagFceO0
+Game: Staunton, Howard - Morphy, Paul; London; 1858.??.??; 0-1; https://lichess.org/study/MNnC56w2/QsdeQgI6
 
-Game fragment*: Lucena - NN, TAOTC, 1497.??.??, https://lichess.org/study/tmHOF54H/ZEYNa6Di
+Game*: Stean, Michael Francis - Filguth, Rubens; Sao Paulo; 1979.??.??; 1-0; https://lichess.org/study/E787KvJ9/LT07xkao
 
-Game*: Jaime Llado Lumbera - Jose Raul Capablanca, Barcelona ESP, 1935.12.14, https://lichess.org/study/m0LDLCIA/69H90usc
+Game*: Stean, Michael Francis - Mestel, Jonathan; Canterbury; 1973.??.??; 1/2-1/2; https://lichess.org/study/6nWh4o7P/7dB9PE3K
 
-Game*: Lundin - Stahlberg, Margate, 1936.??.??, https://lichess.org/study/49AuOOCo/wDhs2brZ
+Game*: Stean, Michael Francis - Planinc, Albin; Moscow URS; 1975.10.??; 1-0; https://lichess.org/study/6nWh4o7P/157ffNhy
 
-Game*: lvantorin - HowToWinAtChess, Chess.com, 2025.12.05, https://lichess.org/study/P3XM0aKf/q6JSIDyq
+Game: Steif, A. - Tarrasch, Siegbert; Nuremberg; 1891.??.??; 0-1; https://lichess.org/study/pdteMCe2/yt3XlZji
 
-Game: MacDonnel,  G. - Boden, S., London, 1869.??.??, https://lichess.org/study/1JWXdF87/fW10V9SN
+Game*: Steiner, Herman - Botvinnik, Mikhail; Groningen; 1946.??.??; 0-1; https://lichess.org/study/rzdDzNB4/qSC9kSSL
 
-Game*: Macieja, B - Nogueiras Santiago, J, Puebla MEX, 2013-03-30, https://lichess.org/study/AxW3sYhA/lCvF2SFS
+Game*: Steinitz, William - Von Bardeleben, Curt; Hastings ENG; 1895.08.17; 1-0; https://lichess.org/study/P33p6LIH/SmnGnFn0
 
-Game*: Macieja, Bartlomiej - Hernandez Carmenates, Holden, Mexico City MEX, 2012.11.25, https://lichess.org/study/AxW3sYhA/5uYYkPJS
+Game*: Steinitz, William - Von Bardeleben, Curt; Hastings; 1895.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/jxMhNAv5
 
-Game*: Macieja, Bartlomiej - Hernandez Carmenates, Holden, Mexico City MEX, 2012.11.25, https://lichess.org/study/AxW3sYhA/Rz6vsJUN
+Game: Steinitz, William - Blackburne, Joseph Henry; London ENG; 1876.02.17; 1-0; https://lichess.org/study/P33p6LIH/3xO1iwMN
 
-Game fragment: Mackenzie - NN, TAOTC, https://lichess.org/study/XH8xSdBs/YCZ1izF3
+Game: Steinitz, William - Chigorin, Mikhail; Havana CUB; 1892.01.07; 1-0; https://lichess.org/study/P33p6LIH/V1z437N9
 
-Game fragment: Mackenzie, A. F. - NN, TAOTC, https://lichess.org/study/1JWXdF87/t1tuapUl
+Game: Steinitz, William - Chigorin, Mikhail; Havana CUB; 1892.01.07; 1-0 (dup #15); https://lichess.org/study/r1NROPIm/7CfU7dIZ
 
-Game: Mackenzie, G. H. - Perrin, F., New York, 1868.??.??, https://lichess.org/study/tmHOF54H/Ta468vEu
+Game*: Steinitz, William - Chigorin, Mikhail; Havana CUB; 1892.01.07; 1-0 (dup #15); https://lichess.org/study/r1NROPIm/OFhguMyL
 
-Game: Mackenzie, George Henry - Tarrasch, Siegbert, Hamburg, 1885.07.13, https://lichess.org/study/e7ARwPCA/6euc4Jlx
+Game: Steinitz, William - MacDonnell, George Alcock; Dublin IRL; 1865.??.??; 1-0; https://lichess.org/study/P33p6LIH/oxKImcX8
 
-Game: Mackenzie, George Henry - Tarrasch, Siegbert, Frankfurt, 1887.07.18, https://lichess.org/study/e7ARwPCA/r4ryIdBq
+Game: Steinitz, William - Mongredien, Augustus; London ENG; 1863.??.??; 1-0; https://lichess.org/study/P33p6LIH/UdfgcYYF
 
-Game: Maczuski - Kolish, I., Paris, 1864.??.??, https://lichess.org/study/tmHOF54H/YybWarcJ
+Game: Stojanovic, Dalibor - Ding, Liren; Istanbul; 2012.09.03; 0-1; https://lichess.org/study/dl0ynDGz/PAjsDZ3V
 
-Game: Made-up - Example, https://lichess.org/study/tmHOF54H/8ahWQFBo
+Game*: Suetin, Alexey - Matanovic, Aleksandar; 1974.??.??; 1-0; https://lichess.org/study/NHyuBHth/7T6ainO9
 
-Game: Made-up - Variation, https://lichess.org/study/tmHOF54H/KAvaVeP6
+Game: Szabo, Laszlo - Book, Eero; Saltsjoebaden, Sweden; 1948.??.??; 1-0 (dup #29); https://lichess.org/study/r1NROPIm/RnyFq1qJ
 
-Game*: Makogonov, Vladimir - Botvinnik, Mikhail, Sverdlovsk, 1943.??.??, https://lichess.org/study/uDpA956I/7kuGRlkV
+Game*: Szabo, Laszlo - Book, Eero; Saltsjoebaden, Sweden; 1948.??.??; 1-0 (dup #29); https://lichess.org/study/r1NROPIm/yznfKeHa
 
-Game*: Malakhov, Vladimir - Grischuk, Alexander, Moscow RUS, 2010.12.18 (dup #85), https://lichess.org/study/dl0ynDGz/2UmHusyH
+Game*: Szabo, Laszlo - Ivkov, Boris; Buenos Aires; 1955.??.??; 1-0; https://lichess.org/study/eD6ECZu4/sZZbFACW
 
-Game*: Malakhov, Vladimir - Grischuk, Alexander, Moscow RUS, 2010.12.18 (dup #85), https://lichess.org/study/dl0ynDGz/zONFaW70
+Game*: Szabo, Laszlo - Kotov, Alexander; Zurigo; 1953.??.??; 1-0; https://lichess.org/study/k4B16BhD/GNU1GSdK
 
-Game: Malakhov, Vladimir - Jobava, Baadur, Burgas, 2012.09.16, https://lichess.org/study/wAhu1kg2/xZifQgi1
+Game*: Szabo, Laszlo - Muhring, Willem Jan; Zaandam, Netherlands; 1946.??.??; 1-0 (dup #22); https://lichess.org/study/r1NROPIm/RjVB6MpY
 
-Game fragment: Marache, Napoleon - Morphy, Paul, New York, 1857.??.??, https://lichess.org/study/MNnC56w2/J12jyOiY
+Game: Szabo, Laszlo - Muhring, Willem Jan; Zaandam, Netherlands; 1946.??.??; 1-0 (dup #22); https://lichess.org/study/r1NROPIm/yhv4MMvg
 
-Game*: Marache, Napoleon - Morphy, Paul, New Orleans, LA USA, 1857.??.??, https://lichess.org/study/MNnC56w2/T6SeJHf5
+Game*: Szabo, Laszlo - Spassky, Boris; Bucharest; 1953.??.??; 0-1; https://lichess.org/study/eD6ECZu4/VXHlKG6H
 
-Game*: Mareco, Sandro - Aravindh, Chithambaram VR, Golden Sands BUL, 2013.06.17, https://lichess.org/study/AxW3sYhA/mLmKIB18
+Game*: Taimanov, Mark E - Trifunovich; 1957.??.??; *; https://lichess.org/study/t6bOK7CT/6IO3nfhk
 
-Game: Mareco, Sandro - Bachmann Schiavo, Axel, Santos, 2010.08.17, https://lichess.org/study/wAhu1kg2/XIOqVNPM
+Game*: Taimanov, Mark E - Karaklajic, Nikola; Leningrad; 1957.??.??; 1-0; https://lichess.org/study/rzdDzNB4/Wi5D4JQJ
 
-Game*: Mareco, Sandro - Cori Tello, Jorge Moises, Buenos Aires, 2009.08.29, https://lichess.org/study/wAhu1kg2/k8OQzrmX
+Game*: Taimanov, Mark E - Karpov, Anatoly; 1973.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/F2dRJbBo
 
-Game: Mareco, Sandro - Cori Tello, Jorge Moises, Buenos Aires, 2009.08.29, https://lichess.org/study/wAhu1kg2/UVcEc02B
+Game*: Taimanov, Mark E - Najdorf, Miguel; Zuerich; 1953.09.05; 0-1; https://lichess.org/study/wAhu1kg2/dMGQIRp0
 
-Game*: Mareco, Sandro - Toth, Christian, Osasco BRA, 2012.04.27, https://lichess.org/study/AxW3sYhA/aK9tQvuq
+Game*: Taimanov, Mark E - Nezhmetdinov, Rashid; Kiev UKR; 1954.01.13; 1/2-1/2; https://lichess.org/study/6nWh4o7P/wXHBDV35
 
-Game fragment: Marin, V. - NN, TAOTC, 1904.??.??, https://lichess.org/study/OMNHm3q5/mFO6MeUr
+Game*: Taimanov, Mark E - Trifunovic, Petar; Leningrad; 1957.??.??; 1-0; https://lichess.org/study/eD6ECZu4/PouDU3zr
 
-Game*: Marly_R - HowToWinAtChess, Chess.com, 2026.01.26, https://lichess.org/study/rG6bFitI/ZpjNtTTN
+Game*: Tal, Mikhail - Bronstein, David I.; Tbilisi URS; 1959.01.28; 1-0; https://lichess.org/study/6nWh4o7P/fsqZXxym
 
-Game*: Geza Maroczy - Jose Raul Capablanca, Lake Hopatcong, NJ USA, 1926.07.11, https://lichess.org/study/hnwliF9Y/dDVA31U0
+Game*: Tal, Mikhail - Kupreichik, Viktor; Mosca; 1969.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/F4RAGDm0
 
-Game fragment: Maroczy, C - NN, TAOTC, 1904.??.??, https://lichess.org/study/OMNHm3q5/75nRwe58
+Game*: Tal, Mikhail - Lisitsin, Georgy; Leningrad URS; 1956.01.28; 1-0; https://lichess.org/study/6nWh4o7P/wdkyHSoY
 
-Game: Maroczy, G. - Suechting, H., Barmen, 1905.??.??, https://lichess.org/study/EDmMFcbv/sQI1BRYi
+Game*: Tal, Mikhail - Lisitsin, Georgy; Leningrado; 1956.??.??; 1-0; https://lichess.org/study/amMc8Mig/ekXnU57O
 
-Game: Maroczy, Geza - Euwe, Max, Scheveningen NED, 1923.07.24, https://lichess.org/study/P33p6LIH/bMLJN7Pm
+Game*: Tal, Mikhail - Spassky, Boris; Sochi; 1973.??.??; 1/2-1/2; https://lichess.org/study/amMc8Mig/Y4dp53v4
 
-Game: Maroczy, Geza - Tartakower, Savielly, Teplice-Sanov CSR, 1922.10.05, https://lichess.org/study/P33p6LIH/rG7y5ASc
+Game*: Tal, Mikhail - Spassky, Boris; Tilburg; 1980.??.??; 1-0; https://lichess.org/study/E787KvJ9/UhGU9ufJ
 
-Game*: Maroczy, Geza - Weenink, Henri Gerard, Netherlands, 1930.??.??, https://lichess.org/study/6P90HTwf/KVdD1arO
+Game: Tarrasch, Siegbert - Hirschler; Nuremberg; 1893.??.??; 1-0; https://lichess.org/study/UQieNXft/jntFQhYs
 
-Game*: Frank James Marshall - Jose Raul Capablanca, New York, NY USA, 1909.06.23, https://lichess.org/study/InR4tjnm/J5en4uQA
+Odds game: Tarrasch, Siegbert - Kolb; Nuremberg; 1892.??.??; 1-0; https://lichess.org/study/pdteMCe2/O6RU3ybn
 
-Game fragment*: Marshall - Capablanca, 1909.??.??, https://lichess.org/study/cev86fwf/Q267HLqK
+Odds game: Tarrasch, Siegbert - Kolb; Nuremberg; 1894.??.??; 1-0; https://lichess.org/study/UQieNXft/iZDKuIDg
 
-Game*: Marshall - Tarrasch, 1905.??.??, https://lichess.org/study/Wn7aMkPy/6vMqbVRk
+Game: Tarrasch, Siegbert - Kunze; Halle; 1882.??.??; 1-0; https://lichess.org/study/PVzIGg2F/kvUJDsdy
 
-Game fragment: Marshall, F.J.. - NN, TAOTC, https://lichess.org/study/XH8xSdBs/eBFp8S3F
+Game*: Tarrasch, Siegbert - Landau; Breslau; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/9ggaMEE2
 
-Game*: Marshall, Frank - Chigorin, Mikhail, Barmen, 1905.??.??, https://lichess.org/study/k4B16BhD/f9OScm6a
+Game: Tarrasch, Siegbert - NN; Berlin; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/unboxLtX
 
-Game: Marshall, Frank - Spielmann, Rudolph, Duesseldorf, GER, 1908.08.10 (dup #65), https://lichess.org/study/r1NROPIm/IsqBtsoN
+Game: Tarrasch, Siegbert - Schwartz; Nuremberg Fr.P.; 1890.??.??; 1-0; https://lichess.org/study/pdteMCe2/qPWt3pJU
 
-Game*: Marshall, Frank - Spielmann, Rudolph, Duesseldorf, GER, 1908.08.10 (dup #65), https://lichess.org/study/r1NROPIm/UhPAfm4G
+Game: Tarrasch, Siegbert - Schwarz; Nuremberg; 1891.??.??; 1-0; https://lichess.org/study/pdteMCe2/0AbFny6J
 
-Game*: Marshall, Frank James - Burn, Amos, Paris FRA, 1900.06.12, https://lichess.org/study/P33p6LIH/lsRumHqf
+Odds game: Tarrasch, Siegbert - Vogt; Breslau; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/eixH4gv8
 
-Game: Marshall, Frank James - Kline, Harry, New York, NY USA, 1913.01.29, https://lichess.org/study/P33p6LIH/7EVjupwa
+Odds game: Tarrasch, Siegbert - Vogt; Breslau; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/29yWOh0C
 
-Game: Marshall, Frank James - Lasker, Emanuel, USA, 1907.01.26, https://lichess.org/study/P33p6LIH/Uf8CJdv4
+Odds game: Tarrasch, Siegbert - Winitzer; Nuremberg; 1892.??.??; 1-0; https://lichess.org/study/pdteMCe2/GFVbWH2a
 
-Game*: Marshall, Frank James - Rubinstein, Akiba, Lodz RUE, 1908.10.??, https://lichess.org/study/P33p6LIH/sFzAZk7s
+Game: Tarrasch, Siegbert - Alapin, Simon; Breslau; 1889.??.??; 1-0; https://lichess.org/study/bELN6Owi/0xosJkiI
 
-Game*: MarushkovAnatolii - HowToWinAtChess, Chess.com, 2026.07.18, https://lichess.org/study/gDTJBYjY/efvlFpXz
+Game: Tarrasch, Siegbert - Alapin, Simon; Frankfurt; 1887.07.18; 1-0; https://lichess.org/study/e7ARwPCA/gwbme8vN
 
-Game fragment: Mason - Gunsberg, I., TAOTC, https://lichess.org/study/V4VFISZI/snGjGyFn
+Game: Tarrasch, Siegbert - Alapin, Simon; Nuremberg; 1892.07.09; 1-0; https://lichess.org/study/pdteMCe2/j4LpSPQs
 
-Game: Mason, James - Tarrasch, Siegbert, Hamburg, 1885.07.13, https://lichess.org/study/e7ARwPCA/b94CAXDV
+Game: Tarrasch, Siegbert - Alapin, Simon; Nuremberg; 1892.07.11; 1-0; https://lichess.org/study/pdteMCe2/VGTcjaLx
 
-Game*: Master - Amateur, CMvCA, https://lichess.org/study/0YKgx0L1/JRZ4PTeN
+Game*: Tarrasch, Siegbert - Alekhine, Alexander; Piestany CSR; 1922.04.07; 0-1; https://lichess.org/study/YuoLOpzE/QCGTpI3T
 
-Game*: Master - Amateur, CMvCA, https://lichess.org/study/0YKgx0L1/mpAyRBgr
+Game: Tarrasch, Siegbert - Baird, John Washington; Leipzig GER; 1894.09.12; 1-0; https://lichess.org/study/UQieNXft/iEdckPPP
 
-Game*: Master - Amateur, CMvCA, https://lichess.org/study/CBbAq8hw/Ebypne4D
+Game*: Tarrasch, Siegbert - Von Bardeleben, Curt; Breslau; 1889.??.??; 1/2-1/2; https://lichess.org/study/bELN6Owi/z9XPxspr
 
-Game*: Master - Amateur, CMvCA, https://lichess.org/study/CBbAq8hw/4hWUpOco
+Game*: Tarrasch, Siegbert - Von Bardeleben, Curt; Dresden; 1892.07.18; 1/2-1/2; https://lichess.org/study/pdteMCe2/JCWSA8i4
 
-Game*: Master - Amateur, CMvCA, https://lichess.org/study/0YKgx0L1/Y8dR0ccX
+Game*: Tarrasch, Siegbert - Von Bardeleben, Curt; Frankfurt; 1887.07.18; 1/2-1/2; https://lichess.org/study/e7ARwPCA/4Mn9A9mk
 
-Game*: Master - Amateur, CMvCA, https://lichess.org/study/CBbAq8hw/ynM7OpKe
+Game: Tarrasch, Siegbert - Bartmann, Gustav; Nuremberg; 1883.07.19; 1-0; https://lichess.org/study/PVzIGg2F/gFO90MFl
 
-Game*: Master - Amateur, CMvCA (dup #10), https://lichess.org/study/0YKgx0L1/GAxISdb5
+Game: Tarrasch, Siegbert - Berger, Johann Nepomuk; Breslau; 1889.??.??; 1-0; https://lichess.org/study/bELN6Owi/EKYsqq34
 
-Game*: Master - Amateur, CMvCA (dup #10), https://lichess.org/study/0YKgx0L1/LlHgKeh7
+Game*: Tarrasch, Siegbert - Berger, Johann; Breslau; 1889.??.??; 1-0; https://lichess.org/study/EDmMFcbv/L1JhukIh
 
-Game*: Master - Amateur, CMvCA (dup #10), https://lichess.org/study/CBbAq8hw/RAZ8gadt
+Game: Tarrasch, Siegbert - Bier, Martin; Hamburg; 1885.07.13; 1-0; https://lichess.org/study/PVzIGg2F/KlEL7CZN
 
-Game*: Master - Amateur, CMvCA (dup #11), https://lichess.org/study/0YKgx0L1/cnGhvhIE
+Game: Tarrasch, Siegbert - Blackburne, Joseph Henry; Manchester; 1890.??.??; 1-0; https://lichess.org/study/pdteMCe2/QqTMFt7h
 
-Game*: Master - Amateur, CMvCA (dup #11), https://lichess.org/study/CBbAq8hw/V7ubNLik
+Game: Tarrasch, Siegbert - Chigorin, Mikhail; Petersbrurg (Match); 1893.??.??; 1-0; https://lichess.org/study/UQieNXft/NXbfUdEY
 
-Game*: Master - Amateur, CMvCA (dup #12), https://lichess.org/study/0YKgx0L1/kxusydZ2
+Game: Tarrasch, Siegbert - Chigorin, Mikhail; Petersburg (Match); 1893.??.??; 0-1; https://lichess.org/study/UQieNXft/PLd6t4iz
 
-Game*: Master - Amateur, CMvCA (dup #12), https://lichess.org/study/CBbAq8hw/PX6fHPZ8
+Game: Tarrasch, Siegbert - Chigorin, Mikhail; Petersburg (Match); 1893.??.??; 0-1; https://lichess.org/study/UQieNXft/sPD24T9B
 
-Game*: Master - Amateur, CMvCA (dup #13), https://lichess.org/study/0YKgx0L1/jJGKCiKn
+Game: Tarrasch, Siegbert - Chigorin, Mikhail; Petersburg (Match); 1893.??.??; 0-1; https://lichess.org/study/UQieNXft/J9xcu9ix
 
-Game*: Master - Amateur, CMvCA (dup #13), https://lichess.org/study/CBbAq8hw/yPFrwiXa
+Game: Tarrasch, Siegbert - Chigorin, Mikhail; Petersburg (Match); 1893.??.??; 0-1; https://lichess.org/study/UQieNXft/9J0GN26E
 
-Game*: Master - Amateur, CMvCA (dup #14), https://lichess.org/study/0YKgx0L1/8Y81ltc3
+Game: Tarrasch, Siegbert - Chigorin, Mikhail; Petersburg (Match); 1893.??.??; 1-0; https://lichess.org/study/UQieNXft/GIJpmjXg
 
-Game*: Master - Amateur, CMvCA (dup #14), https://lichess.org/study/CBbAq8hw/5wFgwpKO
+Game: Tarrasch, Siegbert - Chigorin, Mikhail; Petersburg (Match); 1893.??.??; 1-0; https://lichess.org/study/UQieNXft/BMgkKD4n
 
-Game*: Master - Amateur, CMvCA (dup #15), https://lichess.org/study/0YKgx0L1/54jgHTuJ
+Game: Tarrasch, Siegbert - Chigorin, Mikhail; Petersburg (Match); 1893.??.??; 1-0; https://lichess.org/study/UQieNXft/QIfEPHd2
 
-Game*: Master - Amateur, CMvCA (dup #15), https://lichess.org/study/CBbAq8hw/zLrZi30c
+Game*: Tarrasch, Siegbert - Chigorin, Mikhail; Petersburg (Match); 1893.??.??; 1/2-1/2; https://lichess.org/study/UQieNXft/y3Gsbj8g
 
-Game*: Master - Amateur, CMvCA (dup #16), https://lichess.org/study/0YKgx0L1/unqa17GD
+Game: Tarrasch, Siegbert - Chigorin, Mikhail; Petersburg; 1893.??.??; 1-0; https://lichess.org/study/UQieNXft/WqT97GxK
 
-Game*: Master - Amateur, CMvCA (dup #16), https://lichess.org/study/CBbAq8hw/1PyWIOs1
+Game: Tarrasch, Siegbert - Chigorin, Mikhail; Petersburg; 1893.??.??; 1-0; https://lichess.org/study/UQieNXft/hjP0AcuV
 
-Game*: Master - Amateur, CMvCA (dup #17), https://lichess.org/study/0YKgx0L1/AfJhBPrC
+Game: Tarrasch, Siegbert - Cohn, Wilhelm; Berlin; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/XVj3Vf34
 
-Game*: Master - Amateur, CMvCA (dup #17), https://lichess.org/study/0YKgx0L1/X4QTrDqc
+Game: Tarrasch, Siegbert - Cohn, Wilhelm; Berlin; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/unLEvNFy
 
-Game*: Master - Amateur, CMvCA (dup #17), https://lichess.org/study/CBbAq8hw/lV5PuC2I
+Game: Tarrasch, Siegbert - Cohn, Wilhelm; Berlin; 1882.??.??; 1-0; https://lichess.org/study/PVzIGg2F/kiazobCs
 
-Game*: Master - Amateur, CMvCA (dup #19), https://lichess.org/study/0YKgx0L1/tvo05pQV
+Game*: Tarrasch, Siegbert - Eckart, Karl; 1889.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/YlK2ItiZ
 
-Game*: Master - Amateur, CMvCA (dup #19), https://lichess.org/study/CBbAq8hw/x8k6i4sN
+Game: Tarrasch, Siegbert - Eckart, Karl; Nuremberg; 1890.??.??; 1-0; https://lichess.org/study/bELN6Owi/pvreHa2w
 
-Game*: Master - Amateur, CMvCA (dup #3), https://lichess.org/study/0YKgx0L1/kjOgGtMc
+Game: Tarrasch, Siegbert - Eckart, Karl; Nuremberg; 1890.??.??; 1-0; https://lichess.org/study/bELN6Owi/t1JES0Ol
 
-Game*: Master - Amateur, CMvCA (dup #3), https://lichess.org/study/CBbAq8hw/NILyM8wi
+Game: Tarrasch, Siegbert - Eckart, Karl; Nuremberg; 1890.??.??; 1-0; https://lichess.org/study/bELN6Owi/zxnaabGq
 
-Game: Master - Amateur, RTCM, https://lichess.org/study/wOzb5Wrb/mjdyPHqA
+Game: Tarrasch, Siegbert - Eckart, Karl; Nuremberg; 1891.??.??; 1-0; https://lichess.org/study/pdteMCe2/Jxaruy4i
 
-Game: Master - Amateur, RTCM, https://lichess.org/study/wOzb5Wrb/ZPy4HkF3
+Game: Tarrasch, Siegbert - Eckart, Karl; Nuremberg; 1891.??.??; 1-0; https://lichess.org/study/pdteMCe2/5z0lSa99
 
-Game*: Master - Amateur, RTCM, https://lichess.org/study/IDpn2okt/Uuu7fw6E
+Game: Tarrasch, Siegbert - Eckart, Karl; Nuremburg; 1889.??.??; 1-0; https://lichess.org/study/bELN6Owi/YszEVc5M
 
-Game*: Master - Amateur, RTCM, https://lichess.org/study/IDpn2okt/mYvkiEOM
+Game*: Tarrasch, Siegbert - Fritz, Alexander; Breslau; 1889.??.??; 1/2-1/2; https://lichess.org/study/bELN6Owi/EH6e5mEc
 
-Game*: Master - Amateur, RTCM, https://lichess.org/study/IDpn2okt/QfB5m9yT
+Game: Tarrasch, Siegbert - Gossip, George Hatfeild; Manchester; 1890.09.03; 1-0; https://lichess.org/study/pdteMCe2/QV92lSNE
 
-Game*: Master - Amateur, RTCM, https://lichess.org/study/IDpn2okt/nLIOpjUY
+Game: Tarrasch, Siegbert - Von Gottschall, Hermann; Dresden; 1892.07.18; 1-0; https://lichess.org/study/pdteMCe2/IcaqblEF
 
-Game: Master - Amateur, RTCM, https://lichess.org/study/wOzb5Wrb/M5iXBqf3
+Game: Tarrasch, Siegbert - Von Gottschall, Hermann; Hamburg; 1885.07.13; 1-0; https://lichess.org/study/e7ARwPCA/BBH4VsrW
 
-Game: Master - Amateur, RTCM, https://lichess.org/study/wOzb5Wrb/Gh1deBwS
+Game: Tarrasch, Siegbert - Gunsberg, Isidor; Manchester, England; 1890.??.??; 1-0; https://lichess.org/study/bELN6Owi/k6CUCn2f
 
-Game*: Master - Amateur, RTCM, https://lichess.org/study/IDpn2okt/8UZnKfOU
+Game: Tarrasch, Siegbert - Gunsberg, Isidor; 07.18 R08 GER Hamburg; 1885.??.??; 0-1; https://lichess.org/study/PVzIGg2F/jlXtszjj
 
-Game: Master - Amateur, RTCM, https://lichess.org/study/wOzb5Wrb/BGx7XQZN
+Game: Tarrasch, Siegbert - Gunsberg, Isidor; 07.25 R10 GER Frankfurt; 1887.??.??; 1-0; https://lichess.org/study/e7ARwPCA/b7lv7BVf
 
-Game: Master - Amateur, RTCM, https://lichess.org/study/wOzb5Wrb/a3d8knWY
+Game: Tarrasch, Siegbert - Gunsberg, Isidor; 07.26 R16 GER Breslau; 1889.??.??; 1-0; https://lichess.org/study/bELN6Owi/JdoVJr5G
 
-Game: Master - Amateur, RTCM, https://lichess.org/study/wOzb5Wrb/6aURacgI
+Game: Tarrasch, Siegbert - Hahn, Wilhelm; Nuremberg; 1891.??.??; 1-0; https://lichess.org/study/pdteMCe2/mg7M08Xe
 
-Game*: Master - Amateur, RTCM, https://lichess.org/study/IDpn2okt/TfVfYPsF
+Game*: Tarrasch, Siegbert - Harmonist, Max; Nuremberg; 1888.08.13; 1/2-1/2; https://lichess.org/study/e7ARwPCA/pI5vN9cI
 
-Game*: Master - Amateur, RTCM, https://lichess.org/study/IDpn2okt/Gu6R37iT
+Game: Tarrasch, Siegbert - Harmonist, Max; Nuremberg; 1891.??.??; 1-0; https://lichess.org/study/pdteMCe2/sYHxeQxM
 
-Game: Master - Amateur, RTCM, https://lichess.org/study/wOzb5Wrb/kujANz2F
+Game: Tarrasch, Siegbert - Hollander, K.; Nuremberg; 1892.??.??; 1-0; https://lichess.org/study/UQieNXft/1DAa4xsR
 
-Game*: Master - Amateur, RTCM, https://lichess.org/study/IDpn2okt/v8Nlk1XQ
+Game: Tarrasch, Siegbert - Hollander, K.; Nuremberg; 1892.??.??; 1-0; https://lichess.org/study/UQieNXft/0kIcEbyU
 
-Game*: Master - Amateur, RTCM (dup #40), https://lichess.org/study/IDpn2okt/5pVDAOQ0
+Game: Tarrasch, Siegbert - Irion, Georg; Nuremberg; 1887.??.??; 1-0; https://lichess.org/study/e7ARwPCA/nt8ow22I
 
-Game*: Master - Amateur, RTCM (dup #40), https://lichess.org/study/wOzb5Wrb/TPlmi8UM
+Game: Tarrasch, Siegbert - Janowski, David; Leipzig GER; 1894.09.11; 1-0; https://lichess.org/study/UQieNXft/XsII3KMQ
 
-Game*: Master - Amateur, RTCM (dup #43), https://lichess.org/study/IDpn2okt/l0j43VL1
+Game: Tarrasch, Siegbert - Kelz, Chr; Nuremberg (Germany); 1890.??.??; 1-0; https://lichess.org/study/bELN6Owi/a9CuTud1
 
-Game: Master - Amateur, RTCM (dup #43), https://lichess.org/study/wOzb5Wrb/uMUIaxVI
+Game*: Tarrasch, Siegbert - Kurschner, Max; 1889.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/pqSiK2nY
 
-Game*: Master - Amateur, RTCM (dup #44), https://lichess.org/study/IDpn2okt/DbaVtpLM
+Game: Tarrasch, Siegbert - Kurschner, Max; Nuremberg; 1887.??.??; 1-0; https://lichess.org/study/e7ARwPCA/fJ11zGNr
 
-Game: Master - Amateur, RTCM (dup #44), https://lichess.org/study/wOzb5Wrb/wtPMTuRp
+Game: Tarrasch, Siegbert - Kurschner, Max; Nuremberg; 1887.??.??; 1-0; https://lichess.org/study/e7ARwPCA/Wgb5bufY
 
-Game*: Master - Amateur, RTCM (dup #45), https://lichess.org/study/IDpn2okt/O4Ino6R4
+Game: Tarrasch, Siegbert - Kurschner, Max; Nuremberg; 1889.??.??; 1-0; https://lichess.org/study/bELN6Owi/ZRMxXqc1
 
-Game: Master - Amateur, RTCM (dup #45), https://lichess.org/study/wOzb5Wrb/sH2LWoWu
+Game*: Tarrasch, Siegbert - Kurschner, Max; Nuremberg; 1889.??.??; 1-0; https://lichess.org/study/bELN6Owi/pVts99w1
 
-Game*: Master - Amateur, https://lichess.org/study/CBbAq8hw/4hWUpOco, https://lichess.org/study/0YKgx0L1/GKGUU08H
+Game: Tarrasch, Siegbert - Kurschner, Max; Nuremberg; 1889.??.??; 1-0; https://lichess.org/study/bELN6Owi/qP8QM9Pp
 
-Game: Master - Expert, RTCM, https://lichess.org/study/wOzb5Wrb/6PPiQr9f
+Game: Tarrasch, Siegbert - Kurschner, Max; Nuremberg; 1890.??.??; 1-0; https://lichess.org/study/bELN6Owi/LzDNHnLJ
 
-Game*: Master - Expert, RTCM, https://lichess.org/study/IDpn2okt/sk5lqGNO
+Game*: Tarrasch, Siegbert - Kurschner, Max; Nuremberg; 1890.??.??; 1-0; https://lichess.org/study/bELN6Owi/45R9AqID
 
-Game fragment*: Matanovich - Kieniger, 1955.??.??, https://lichess.org/study/57Oq4l6Z/mVofelUO
+Game: Tarrasch, Siegbert - Kurschner, Max; Nuremberg; 1890.??.??; 1-0; https://lichess.org/study/bELN6Owi/yxck94fs
 
-Game*: mateocruz00 - HowToWinAtChess, Chess.com, 2025.11.18, https://lichess.org/study/P3XM0aKf/ttaEORrc
+Game: Tarrasch, Siegbert - Kurschner, Max; Nuremberg; 1891.??.??; 1-0; https://lichess.org/study/pdteMCe2/dfKHkhyA
 
-Game*: Matulovic, Milan - Kortchnoj, Viktor, Ohrid (Yugoslavia), 1972.??.??, https://lichess.org/study/sDsyelY0/fXY0Tazf
+Game: Tarrasch, Siegbert - Kurschner, Max; Nuremberg; 1891.??.??; 1-0; https://lichess.org/study/pdteMCe2/LzWIvYGm
 
-Game fragment: Maurian, Ch. - NN, TAOTC, 1860.??.??, https://lichess.org/study/OMNHm3q5/3qWr5JRL
+Game: Tarrasch, Siegbert - Kurschner, Max; Nuremberg; 1892.??.??; 1-0; https://lichess.org/study/pdteMCe2/oDW0VsG2
 
-Game fragment*: Mayet, C. - Anderssen, A., Berlin, 1859.??.??, https://lichess.org/study/1JWXdF87/sYoasfos
+Game*: Tarrasch, Siegbert - Kurschner, Max; Nuremberg; 1892.??.??; 1-0; https://lichess.org/study/UQieNXft/lsi2JE9c
 
-Game: Maze, Sebastien - Ni, Hua, Biel, 2011.07.23, https://lichess.org/study/wAhu1kg2/s9C5rfU9
+Game: Tarrasch, Siegbert - Lasker, Berthold; Berlin; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/2T26wrtD
 
-Game: Mc Connell, J. - Morphy, Paul, New Orleans, 1850.??.??, https://lichess.org/study/MNnC56w2/nhkBB47f
+Game: Tarrasch, Siegbert - Lasker, Berthold; Berlin; 1882.??.??; 1-0; https://lichess.org/study/PVzIGg2F/wG4Vle8Z
 
-Game fragment*: McConnell - Morphy, 1850.??.??, https://lichess.org/study/57Oq4l6Z/CeBpR2Dp
+Game: Tarrasch, Siegbert - Lasker, Emanuel; Duesseldorf GER; 1908.08.19; 0-1; https://lichess.org/study/P33p6LIH/vYtdrlm3
 
-Game*: McConnell, James - Morphy, Paul, New Orleans, 1849.??.??, https://lichess.org/study/KrLT8eS5/d87WLADs
+Game*: Tarrasch, Siegbert - Lasker, Emanuel; Germany; 1908.08.24; 0-1; https://lichess.org/study/rgKjJhUJ/1JPqhRLm
 
-Game*: McConnell, James - Morphy, Paul, New Orleans, 1852.??.??, https://lichess.org/study/KrLT8eS5/qz1XDyEW
+Game: Tarrasch, Siegbert - Lasker, Emanuel; Munich GER; 1908.09.14; 1-0; https://lichess.org/study/P33p6LIH/fvIWiNfc
 
-Game fragment*: Mecking, Henrique - Mareco, Sandro, Campinas BRA, 2001.01.25, https://lichess.org/study/royrjgMZ/qWPUMwXo
+Game*: Tarrasch, Siegbert - Lasker, Emanuel; St Petersburg; 1914.??.??; 1/2-1/2; https://lichess.org/study/rzdDzNB4/KXJ0A2si
 
-Game*: Mecking, Henrique - Mareco, Sandro, Campinas BRA, 2001.01.25 (dup #22), https://lichess.org/study/AxW3sYhA/nARV0Cfc
+Game: Tarrasch, Siegbert - Loewenthal, Johann Jacob; Nuremburg; 1883.??.??; 1-0; https://lichess.org/study/PVzIGg2F/IkRkZqd9
 
-Game*: Mecking, Henrique - Mareco, Sandro, Campinas BRA, 2001.01.25 (dup #22), https://lichess.org/study/royrjgMZ/2Di9fRhv
+Game*: Tarrasch, Siegbert - Mackenzie, George Henry; Manchester; 1890.09.01; 1/2-1/2; https://lichess.org/study/bELN6Owi/P4Xh67JK
 
-Game: Meek, A. B. - NN, U. S. A., 1859.??.??, https://lichess.org/study/tmHOF54H/FU9TmSYk
+Game*: Tarrasch, Siegbert - Makovetz, Gyula; Dresden; 1892.07.18; 1/2-1/2; https://lichess.org/study/pdteMCe2/nWGJMYaV
 
-Game: Meek, Alexander Beaufort - Morphy, Paul, Mobile, AL USA, 1855.03.01, https://lichess.org/study/P33p6LIH/hzH2S1Lk
+Game: Tarrasch, Siegbert - Mannheimer, Nathan; Breslau; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/ybpw6dTd
 
-Game: Meek, Alexander Beaufort - Morphy, Paul, Mobile, 1855.??.??, https://lichess.org/study/MNnC56w2/kcGVQpdL
+Game: Tarrasch, Siegbert - Mannheimer, Nathan; Breslau; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/VDSlBvRB
 
-Game*: Megawobsz - HowToWinAtChess, Chess.com, 2025.12.16, https://lichess.org/study/P3XM0aKf/BmysWCdZ
+Game: Tarrasch, Siegbert - Mannheimer, Nathan; Breslau; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/x5vIdGOG
 
-Game: Meier, Georg - Feller, Sebastien, Lubbock USA, 2011.10.19, https://lichess.org/study/wAhu1kg2/OwnwoShX
+Game: Tarrasch, Siegbert - Marco, Georg; Dresden; 1892.07.18; 1-0; https://lichess.org/study/pdteMCe2/honwFiPx
 
-Game fragment: Meisels - Clerc, Regence, 1872.09.??, https://lichess.org/study/V4VFISZI/9FeJ9qhV
+Game: Tarrasch, Siegbert - Marco, Georg; Leipzig GER; 1894.09.14; 1-0; https://lichess.org/study/UQieNXft/fJFDgJIa
 
-Game fragment*: Meiser, K. - Tarrasch, Siegbert, Nuremberg, 1887.??.??, https://lichess.org/study/e7ARwPCA/7sVBpliT
+Game: Tarrasch, Siegbert - Marco, Georg; Vienna AUH; 1898.07.12; 1-0; https://lichess.org/study/P33p6LIH/Ua6bRQqA
 
-Game*: HS Club Members - Lv.100 Level 30, 2019.09.19, https://lichess.org/study/Uw4P5qvl/OE8IjSqO
+Game: Tarrasch, Siegbert - Mason, James; Breslau; 1889.??.??; 1-0; https://lichess.org/study/bELN6Owi/HLYLRGmL
 
-Game*: HS Club Members - Lv.100 Level 30, https://lichess.org/study/Uw4P5qvl/OE8IjSqO, 2019.09.19, https://lichess.org/study/pEF9QCic/umydfvUv
+Game: Tarrasch, Siegbert - Mason, James; Manchester; 1890.08.29; 1-0; https://lichess.org/study/bELN6Owi/XSy3V3tT
 
-Game*: HS Club Members - Lv.100 Level 50, https://lichess.org/study/Uw4P5qvl/oZQjQEdx, 2018.11.29, https://lichess.org/study/pEF9QCic/Z76dYrws
+Odds game: Tarrasch, Siegbert - Meiser, Kurt; Nuremberg; 1890.??.??; 1-0; https://lichess.org/study/bELN6Owi/nBsMxhG0
 
-Game*: HS Club Members - Lv.100 Level 50, 2018.11.29, https://lichess.org/study/Uw4P5qvl/oZQjQEdx
+Game*: Tarrasch, Siegbert - Mendelson, Jozsef; Breslau; 1879.??.??; 1-0; https://lichess.org/study/PVzIGg2F/fUaeSX5X
 
-Game*: Menchik, Vera - Becker, Albert, Karlsbad, 1929.??.??, https://lichess.org/study/rzdDzNB4/0ucOmaX5
+Game: Tarrasch, Siegbert - Mendelson, Jozsef; Breslau; 1879.??.??; 1-0; https://lichess.org/study/PVzIGg2F/hB5Wbwnl
 
-Game fragment*: Menchik, Vera - Thomas, George Alan, London, 1932.??.??, https://lichess.org/study/eD6ECZu4/2EfCgtqd
+Game: Tarrasch, Siegbert - Mendelson, Jozsef; Breslau; 1879.??.??; 1-0; https://lichess.org/study/PVzIGg2F/lvMhuY23
 
-Game*: Menchik, Vera - Thomas, George Alan, London, 1932.??.??, https://lichess.org/study/eD6ECZu4/2Rl9qF0x
+Game: Tarrasch, Siegbert - Mendelson, Jozsef; Breslau; 1879.??.??; 1-0; https://lichess.org/study/PVzIGg2F/wAzULawW
 
-Game: Mendelson, Jozsef - Tarrasch, Siegbert, Breslau, 1880.??.??, https://lichess.org/study/PVzIGg2F/hUjLRIx6
+Game: Tarrasch, Siegbert - Mendelson, Jozsef; Breslau; 1879.??.??; 1-0; https://lichess.org/study/PVzIGg2F/a10OkZIh
 
-Game*: Merenyi, Lajos - Capablanca, Jose Raul, Budapest, 1928.??.??, https://lichess.org/study/2a0vxusd/W2igA7fH
+Game: Tarrasch, Siegbert - Mendelson, Jozsef; Breslau; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/bfKbrVfC
 
-Game: Metger, Johannes - Tarrasch, Siegbert, Frankfurt, 1887.07.18, https://lichess.org/study/e7ARwPCA/h1Yn4tks
+Game: Tarrasch, Siegbert - Mendelson, Jozsef; Breslau; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/NO6obTdo
 
-Game: Metger, Johannes - Tarrasch, Siegbert, Nuremberg, 1887.08.09, https://lichess.org/study/e7ARwPCA/tH4HnfH1
+Game: Tarrasch, Siegbert - Metger, Johannes; Nuremberg; 1888.08.06; 1-0; https://lichess.org/study/e7ARwPCA/dkSGxp2S
 
-Game*: Metger, Johannes - Tarrasch, Siegbert, Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/Ebnllr0F
+Game*: Tarrasch, Siegbert - Mieses, Jacques; 1916.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/Qt5iDAJc
 
-Game fragment: Michelson, Dr. - NN, TAOTC, https://lichess.org/study/tmHOF54H/geqf3bKr
+Game: Tarrasch, Siegbert - Mieses, Jacques; 1916.??.??; 1-0 (dup #16); https://lichess.org/study/r1NROPIm/5DMsswQT
 
-Game: Jacques Mieses - Geza Maroczy, Monte Carlo MNC, 1903.03.03, https://lichess.org/study/P33p6LIH/T7N2kyd6
+Game*: Tarrasch, Siegbert - Mieses, Jacques; 1916.??.??; 1-0 (dup #16); https://lichess.org/study/r1NROPIm/EFauVofD
 
-Game: Mieses, J. - Oehquist, J., Nuremberg, 1895.??.??, https://lichess.org/study/tmHOF54H/SKX5IfuZ
+Game*: Tarrasch, Siegbert - Mieses, Jacques; 1920.??.??; 1-0; https://lichess.org/study/k4B16BhD/lrzXsmRS
 
-Game: Mieses, Jacques - Tarrasch, Siegbert, Leipzig Olympiad Fin, 1888.??.??, https://lichess.org/study/e7ARwPCA/jWCufuXF
+Game*: Tarrasch, Siegbert - Mieses, Jacques; 1920.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/SY0nIkZ8
 
-Game: Mieses, Jacques - Tarrasch, Siegbert, Nuremberg, 1888.??.??, https://lichess.org/study/e7ARwPCA/leTOhhmK
+Game: Tarrasch, Siegbert - Mieses, Jacques; Berlin; 1916.??.??; 1-0; https://lichess.org/study/EDmMFcbv/xnEMhOwQ
 
-Game: Mieses, Jacques - Tarrasch, Siegbert, Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/lG7ErYEM
+Game*: Tarrasch, Siegbert - Mieses, Jacques; Dresden; 1892.07.18; 1/2-1/2; https://lichess.org/study/pdteMCe2/VHCgVuEa
 
-Game: Mieses, Jacques - Tarrasch, Siegbert, Leipzig GER, 1894.09.08, https://lichess.org/study/UQieNXft/iDbqh4Zq
+Game: Tarrasch, Siegbert - Mieses, Jacques; It; 1916.??.??; 1-0; https://lichess.org/study/P33p6LIH/shihCz5k
 
-Game*: Mieses, Jacques - Tarrasch, Siegbert, Berlin, 1916.??.??, https://lichess.org/study/mj8UtUBc/sHkiK18m
+Game: Tarrasch, Siegbert - Mieses, Jacques; Nuremberg; 1888.08.07; 1-0; https://lichess.org/study/e7ARwPCA/v2yVSThn
 
-Game: Mikenas, Vladas - Lebedev, Sergey, 1941.??.?? (dup #72), https://lichess.org/study/r1NROPIm/Igqz2FrE
+Game*: Tarrasch, Siegbert - Mieses, Jacques; https://lichess.org/study/NlPpNb7p/2ZiHFxqq; 1916.??.??; 1-0; https://lichess.org/study/WLE9ibAW/uyDVvOSw
 
-Game*: Mikenas, Vladas - Lebedev, Sergey, 1941.??.?? (dup #72), https://lichess.org/study/r1NROPIm/VNMKcIPl
+Game*: Tarrasch, Siegbert - Von Minckwitz, Johannes; Breslau; 1889.??.??; 1/2-1/2; https://lichess.org/study/bELN6Owi/DcSkI8W4
 
-Game*: Mikhalevski, Victor Markovich - Guseinov, Gadir, Novi Sad SRB, 2009.10.25, https://lichess.org/study/dl0ynDGz/40bwgChX
+Game: Tarrasch, Siegbert - Von Minckwitz, Johannes; Hamburg; 1885.07.13; 0-1; https://lichess.org/study/e7ARwPCA/CKal577e
 
-Game fragment*: Milat - Silman, 1998.??.??, https://lichess.org/study/NtBIPe8m/RJEz4FI6
+Game: Tarrasch, Siegbert - Muenchhoff, Fritz; Berlin; 1881.??.??; 1-0; https://lichess.org/study/PVzIGg2F/m7c5huF5
 
-Game fragment*: Miles - Nunn, 1976.??.??, https://lichess.org/study/xgbCnfQm/hWzCivaJ
+Game: Tarrasch, Siegbert - Naumann, Max; Berlin; 1881.??.??; 1-0; https://lichess.org/study/PVzIGg2F/KXhx6Cvx
 
-Game*: Miles, Anthony - Beliavsky, Alexander, Wijk aan Zee, 1984.??.??, https://lichess.org/study/2a0vxusd/vPRKz0Y3
+Game: Tarrasch, Siegbert - Noa, Josef; Frankfurt; 1887.07.18; 1-0; https://lichess.org/study/e7ARwPCA/tvKtQaok
 
-Game*: Miles, Anthony - Browne, Walter, 1982.??.??, https://lichess.org/study/E787KvJ9/UdH0JGXv
+Game: Tarrasch, Siegbert - Noa, Josef; Hamburg GER; 1885.07.13; 1-0; https://lichess.org/study/P33p6LIH/UDhefCG4
 
-Game*: Miles, Anthony - Dzindzichashvili, Roman, Tilburg, 1978.??.??, https://lichess.org/study/sDsyelY0/C9dUkJfI
+Game: Tarrasch, Siegbert - Noa, Josef; Hamburg; 1885.??.??; 1-0; https://lichess.org/study/PVzIGg2F/SjBDAnhm
 
-Game*: Miles, Anthony - Ribli, Zoltan, Tilburg, 1978.??.??, https://lichess.org/study/uDpA956I/y2zBy19M
+Game: Tarrasch, Siegbert - Owen, John; Manchester; 1890.08.28; 1-0; https://lichess.org/study/bELN6Owi/yH5LTEpA
 
-Game fragment*: Milner-Barry - Znosko-Borovsky, 1928.??.??, https://lichess.org/study/57Oq4l6Z/Y3VS2RMn
+Game*: Tarrasch, Siegbert - Paulsen, Louis; 1889.??.??; 1/2-1/2; https://lichess.org/study/xG5sFI6f/ZwzJhWnz
 
-Game*: Milos, Gilberto - Dublan, Marc Narciso, Mexico City MEX, 2010.11.21, https://lichess.org/study/AxW3sYhA/S1cf8a6j
+Game*: Tarrasch, Siegbert - Paulsen, Louis; Breslau; 1889.??.??; 1/2-1/2; https://lichess.org/study/bELN6Owi/6BaX7WE9
 
-Game*: Minev, Nikolay - Portisch, Lajos, 1967.??.??, https://lichess.org/study/amMc8Mig/huiDNYJr
+Game: Tarrasch, Siegbert - Paulsen, Louis; Frankfurt; 1887.07.18; 1-0; https://lichess.org/study/e7ARwPCA/r4wMDIrR
 
-Game*: Mistertzu - HowToWinAtChess, Chess.com, 2025.11.18, https://lichess.org/study/P3XM0aKf/jOrGnGOt
+Game*: Tarrasch, Siegbert - Paulsen, Louis; Nuremberg; 1888.08.08; 1/2-1/2; https://lichess.org/study/e7ARwPCA/NpVRrAH3
 
-Game fragment*: Mitchell - Scheltinga, Van, 1937.??.??, https://lichess.org/study/cev86fwf/tmlERL9f
+Game: Tarrasch, Siegbert - Paulsen, Wilfried; Leipzig; 1888.??.??; 0-1; https://lichess.org/study/e7ARwPCA/cXQq7sXy
 
-Game fragment: Mittelmann - Clausen, Altona, 1928.??.??, https://lichess.org/study/V4VFISZI/77WzCnDn
+Game: Tarrasch, Siegbert - Pribulsky, Jan; Berlin; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/KklwYF2S
 
-Game*: Mongredien, Augustus - Morphy, Paul, 1895.??.??, https://lichess.org/study/KrLT8eS5/Cgqp6CsY
+Game*: Tarrasch, Siegbert - Richter, Bernhard; Halle (Resort/Spa); 1883.??.??; 0-1; https://lichess.org/study/PVzIGg2F/jzZa3CaU
 
-Game*: Morovic-Fernandez, Ivan Eduardo - Lodhim, Mahmood, Khanty-Mansiysk RUS, 2010.09.21, https://lichess.org/study/dl0ynDGz/IyKCGU86
+Game: Tarrasch, Siegbert - Richter, Bernhard; Halle; 1883.??.??; 0-1; https://lichess.org/study/PVzIGg2F/1tQJRkcI
 
-Game: Morovic Fernandez, Ivan - Eid, Fadi, Khanty-Mansiysk, 2010.09.28, https://lichess.org/study/40nLE9YK/Lv1IB8Kq
+Game: Tarrasch, Siegbert - Richter, Bernhard; Halle; 1883.??.??; 1-0; https://lichess.org/study/PVzIGg2F/xDxAuH4e
 
-Game*: Morozevich, Alexander - Mamedyarov, Shakhriyar, Beijing CHN, 2013.07.15, https://lichess.org/study/AxW3sYhA/9F4NV9vl
+Game: Tarrasch, Siegbert - Riemann, Fritz; Leipzig; 1883.??.??; 1-0; https://lichess.org/study/PVzIGg2F/GKMwgz5R
 
-Game fragment*: Morphy - Meek, 1857.??.?? (dup #24), https://lichess.org/study/1DTYYVAE/2uqYDszb
+Game: Tarrasch, Siegbert - Riemann, Fritz; Leipzig; 1888.??.??; 0-1; https://lichess.org/study/bELN6Owi/xVww7370
 
-Game fragment*: Morphy - Meek, 1857.??.?? (dup #24), https://lichess.org/study/R9GM45QQ/9Uxc3bZe
+Game: Tarrasch, Siegbert - Rubinstein, Akiba; San Sebastian ESP; 1912.03.11; 0-1; https://lichess.org/study/P33p6LIH/GPZ7VHJj
 
-Game fragment*: Morphy - Seguin, 1858.??.??, https://lichess.org/study/cev86fwf/io4rAOpX
+Game*: Tarrasch, Siegbert - Rubinstein, Akiba; San Sebastian; 1911.??.??; 1/2-1/2; https://lichess.org/study/k4B16BhD/dDUH3L7K
 
-Game fragment: Morphy, P. - Amateur, New York, 1857.??.??, https://lichess.org/study/tmHOF54H/1IcvPqKo
+Game: Tarrasch, Siegbert - Schallopp, Emil; Frankfurt; 1887.07.18; 0-1; https://lichess.org/study/e7ARwPCA/j11ZxsgS
 
-Game*: Morphy, Paul - Anderssen, Adolf, 1858.??.??, https://lichess.org/study/KrLT8eS5/TTogLvy5
+Game: Tarrasch, Siegbert - Schallopp, Emil; Hamburg; 1885.07.13; 1-0; https://lichess.org/study/PVzIGg2F/PQt7NnAh
 
-Game*: Morphy, Paul - Baucher, Henri, Paris FRA, 1858.09.27, https://lichess.org/study/MNnC56w2/pCdpd1if
+Game: Tarrasch, Siegbert - Von Scheve, Theodor; Berlin; 1887.??.??; 1-0; https://lichess.org/study/e7ARwPCA/S4M0QGhr
 
-Game*: Morphy, Paul - Baucher, Henri, Paris, Blindfold Simul, ??.??.1858, https://lichess.org/study/KrLT8eS5/g0BHd302
+Game*: Tarrasch, Siegbert - Von Scheve, Theodor; Breslau; 1879.??.??; 1-0; https://lichess.org/study/PVzIGg2F/XG53UksR
 
-Game: Morphy, Paul - Bird, Henry Edward, London ENG, 1859.04.26, https://lichess.org/study/MNnC56w2/nmOf5zd9
+Game: Tarrasch, Siegbert - Von Scheve, Theodor; Leipzig GER; 1894.09.06; 1-0; https://lichess.org/study/UQieNXft/3jcs0Y22
 
-Game*: Morphy, Paul - Bonford, Pierre, 1858.??.??, https://lichess.org/study/KrLT8eS5/j53jkDwy
+Game*: Tarrasch, Siegbert - Von Scheve, Theodor; Manchester; 1890.08.25; 1/2-1/2; https://lichess.org/study/bELN6Owi/XvdOEr35
 
-Odds game: Morphy, Paul - Bryan, Thomas Jefferson, New York, NY USA, 1859.??.??, https://lichess.org/study/MNnC56w2/K0PBntC1
+Game: Tarrasch, Siegbert - Von Scheve, Theodor; Nuremberg; 1883.07.24; 1-0; https://lichess.org/study/PVzIGg2F/L3hHJ4k2
 
-Game: Morphy, Paul - Budzinski, Wincenty, Paris, 1859.??.??, https://lichess.org/study/MNnC56w2/qamvaHp9
+Game*: Tarrasch, Siegbert - Schiffers, Emmanuel; Breslau; 1889.??.??; 1/2-1/2; https://lichess.org/study/bELN6Owi/Sjt1R7Yg
 
-Game*: Morphy, Paul - Carr, J., Birmingham, 1858.??.??, https://lichess.org/study/MNnC56w2/Nz4h4QaM
+Game*: Tarrasch, Siegbert - Schiffers, Emmanuel; Frankfurt; 1887.07.18; 1-0; https://lichess.org/study/e7ARwPCA/zPxcc9b9
 
-Game: Morphy, Paul - Chamouillet, M., Paris, 1858.??.??, https://lichess.org/study/MNnC56w2/R1q6Wnxj
+Game: Tarrasch, Siegbert - Schlechter, Carl; Leipzig GER; 1894.09.03; 1-0; https://lichess.org/study/UQieNXft/5KFnhcLZ
 
-Game*: Morphy, Paul - Dominguez, Havana, 1864.??.??, https://lichess.org/study/MNnC56w2/U3hzVWS4
+Game: Tarrasch, Siegbert - Schottlaender, Arnold; Breslau; 1879.??.??; 0-1; https://lichess.org/study/PVzIGg2F/UIXY979x
 
-Game*: Morphy, Paul - Guibert, Paris, 1858.??.??, https://lichess.org/study/MNnC56w2/7sCAy4Vp
+Game: Tarrasch, Siegbert - Schottlaender, Arnold; Breslau; 1879.??.??; 1-0; https://lichess.org/study/PVzIGg2F/eY8PTmfI
 
-Game*: Morphy, Paul - Hampton, TJ., London, 1858.??.??, https://lichess.org/study/MNnC56w2/U7qxngH7
+Game: Tarrasch, Siegbert - Schottlaender, Arnold; Hamburg; 1885.07.13; 1-0; https://lichess.org/study/e7ARwPCA/rI6IDeu7
 
-Game: Morphy, Paul - Harrwitz, Daniel, Paris FRA, 1858.09.18, https://lichess.org/study/MNnC56w2/Z5UQP0QE
+Odds game: Tarrasch, Siegbert - Schroeder, Christoph; Nuremberg; 1894.??.??; 1-0; https://lichess.org/study/UQieNXft/19UyuhfK
 
-Game*: Morphy, Paul - Hart, 1854.??.??, https://lichess.org/study/KrLT8eS5/naMp0KH3
+Game: Tarrasch, Siegbert - Simonson, Gustave; Berlijn; 1887.??.??; 1-0; https://lichess.org/study/e7ARwPCA/AxBaridx
 
-Game*: Morphy, Paul - Duke Karl / Count Isouard, Paris FRA, 1858.??.??, https://lichess.org/study/P33p6LIH/wBkoA8pJ
+Game: Tarrasch, Siegbert - Steif, A.; Nuremberg; 1891.??.??; 1-0; https://lichess.org/study/pdteMCe2/i8pzB9F6
 
-Game*: Morphy, Paul - Duke Karl Count Isouard, Paris, 1858.??.??, https://lichess.org/study/MNnC56w2/dztaPQ77
+Game: Tarrasch, Siegbert - Suechting, Hugo; Leipzig GER; 1894.09.08; 1-0; https://lichess.org/study/UQieNXft/KN3UBYHU
 
-Game: Morphy, Paul - Knott, Simon JB, New York, 1859.??.??, https://lichess.org/study/MNnC56w2/lzLHNmvv
+Game: Tarrasch, Siegbert - Tartakower, Savielly; Berlin GER; 1920.12.06; 1-0; https://lichess.org/study/P33p6LIH/8nS91Xi0
 
-Game: Morphy, Paul - Lewis, S., USA, 1859.??.??, https://lichess.org/study/MNnC56w2/Lsu0gxIz
+Game: Tarrasch, Siegbert - Taubenhaus, Jean; Frankfurt; 1887.07.18; 1-0; https://lichess.org/study/e7ARwPCA/bpXISGrk
 
-Game*: Morphy, Paul - Lichtenhein, Theodore, New York, NY USA, 1857.11.19, https://lichess.org/study/MNnC56w2/9n07XyEb
+Game: Tarrasch, Siegbert - Taubenhaus, Jean; Nuremberg; 1892.??.??; 1-0; https://lichess.org/study/pdteMCe2/9BrmFxwl
 
-Game*: Morphy, Paul - Lichtenhein, Theodore, New York, 1857.??.??, https://lichess.org/study/KrLT8eS5/0uhdhJYN
+Game*: Tarrasch, Siegbert - Taubenhaus, Jean; Nuremberg; 1892.??.??; 1-0; https://lichess.org/study/pdteMCe2/1RSLVSiM
 
-Game: Morphy, Paul - Loewenthal, Johann Jacob, London, 1858.??.??, https://lichess.org/study/yuifbGYp/qIHd9Pky
+Game*: Tarrasch, Siegbert - Teichmann, Richard; San Sebastian ESP; 1912.03.08; 1-0; https://lichess.org/study/6nWh4o7P/QFY6ePki
 
-Game: Morphy, Paul - Loewenthal, Johann Jacob, London ENG, 1859.04.13, https://lichess.org/study/MNnC56w2/9r7MmizT
+Game*: Tarrasch, Siegbert - Teichmann, Richard; San Sebastian; 1912.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/71eDMXUA
 
-Game*: Morphy, Paul - Loewenthal, Johann, London, 1859.??.??, https://lichess.org/study/KrLT8eS5/cLSWKTar
+Game: Tarrasch, Siegbert - Thorold, Edmund; Manchester, England; 1890.??.??; 1-0; https://lichess.org/study/bELN6Owi/B4lPhOHJ
 
-Game: Morphy, Paul - Lyttelton, George Williams, Birmingham, 1858.??.??, https://lichess.org/study/MNnC56w2/I0qzNvDc
+Game*: Tarrasch, Siegbert - Tinsley, Samuel; Manchester; 1890.09.08; 1/2-1/2; https://lichess.org/study/pdteMCe2/vI1B1KzN
 
-Game: Morphy, Paul - Maude, George, London ENG, 1859.04.13, https://lichess.org/study/MNnC56w2/OOiDvV1b
+Game*: Tarrasch, Siegbert - Walbrodt, Karl August; Leipzig GER; 1894.09.07; 1-0; https://lichess.org/study/UQieNXft/4ELe87nb
 
-Odds game: Morphy, Paul - Maurian, Charles, New Orleans, 1857.??.??, https://lichess.org/study/MNnC56w2/IywKlEgI
+Game: Tarrasch, Siegbert - Walbrodt, Karl August; Nuremberg GER; 1894.08.02; 1-0; https://lichess.org/study/UQieNXft/I8bCObZx
 
-Odds game: Morphy, Paul - Maurian, Charles, New Orleans, 1866.??.??, https://lichess.org/study/MNnC56w2/r1FE8Hez
+Game*: Tarrasch, Siegbert - Walbrodt, Karl August; Nuremberg GER; 1894.08.04; 1-0; https://lichess.org/study/UQieNXft/4sJrSGBl
 
-Game*: Morphy, Paul - McConnell, James, New Orleans, LA USA, 1849.??.??, https://lichess.org/study/MNnC56w2/mo0XXK0F
+Game: Tarrasch, Siegbert - Walbrodt, Karl August; Nuremberg GER; 1894.08.08; 1-0; https://lichess.org/study/UQieNXft/ElVa5ZOS
 
-Game: Morphy, Paul - Meek, Alexander Beaufort, New York, NY USA, 1857.??.??, https://lichess.org/study/P33p6LIH/UBycfyY6
+Game: Tarrasch, Siegbert - Walbrodt, Karl August; Nuremberg GER; 1894.08.11; 1-0; https://lichess.org/study/UQieNXft/CurcYCL7
 
-Game*: Morphy, Paul - Meek, Alexander Beaufort, 2024.09.19, https://lichess.org/study/KrLT8eS5/1jgWO77g
+Game: Tarrasch, Siegbert - Weiss, Max; Frankfurt; 1887.07.18; 0-1; https://lichess.org/study/e7ARwPCA/rEYo7ckw
 
-Game: Morphy, Paul - Mongredien, Augustus, Paris, 1859.??.??, https://lichess.org/study/MNnC56w2/h7unpg6B
+Game: Tarrasch, Siegbert - Weiss, Max; Hamburg; 1885.07.13; 1-0; https://lichess.org/study/PVzIGg2F/ax0YMHkY
 
-Game: Morphy, Paul - Morphy, Alonzo, New Orleans, LA USA, 1848.??.??, https://lichess.org/study/MNnC56w2/wZjtEDtZ
+Game*: Tarrasch, Siegbert - Winawer, Simon; Berlin; 1881.??.??; 1-0; https://lichess.org/study/PVzIGg2F/K6L9X9No
 
-Game*: Morphy, Paul - Morphy, Alonzo, 1848.??.??, https://lichess.org/study/KrLT8eS5/sxCCwerx
+Game*: Tartakower, Savielly - Lasker, Emanuel; New York; 1924.??.??; 0-1; https://lichess.org/study/eD6ECZu4/bibLql37
 
-Game*: Morphy, Paul - Morphy, Alonzo, New Orleans, LA USA, 1849.??.??, https://lichess.org/study/MNnC56w2/Mh0ayr9I
+Game*: Tartakower, Savielly - Najdorf, Miguel; Poland; 1935.??.??; 1-0 (dup #25); https://lichess.org/study/r1NROPIm/6BgTNMkW
 
-Game*: Morphy, Paul - Morphy, Alonzo, New Orleans, LA USA, 1849.??.??, https://lichess.org/study/MNnC56w2/caLao27H
+Game: Tartakower, Savielly - Najdorf, Miguel; Poland; 1935.??.??; 1-0 (dup #25); https://lichess.org/study/r1NROPIm/t1BFP7e4
 
-Game fragment*: Morphy, Paul - Morphy, Alonzo, New Orleans, LA USA, 1850.??.??, https://lichess.org/study/MNnC56w2/rE9f8sV9
+Game: Taubenhaus, Jean - Colchester; Paris; 1887.02.05; 1-0; https://lichess.org/study/tmHOF54H/PZtBZfM6
 
-Game*: Morphy, Paul - Morphy, Ernest, New Orleans, LA USA, 1856.11.??, https://lichess.org/study/MNnC56w2/rJ0eh1JA
+Game*: Taubenhaus, Jean - Tarrasch, Siegbert; 1885.??.??; *; https://lichess.org/study/57Oq4l6Z/FGFG4v9j
 
-Odds game: Morphy, Paul - NN, New York, 1857.??.??, https://lichess.org/study/MNnC56w2/ycMcgES4
+Game*: Taubenhaus, Jean - Tarrasch, Siegbert; 1903.??.??; *; https://lichess.org/study/cev86fwf/CsM07Qgp
 
-Game: Morphy, Paul - NN, New Orleans, LA USA, 1858.03.17, https://lichess.org/study/yuifbGYp/9rbDqZ6w
+Game: Taubenhaus, Jean - Tarrasch, Siegbert; Hamburg; 1885.07.13; 0-1; https://lichess.org/study/PVzIGg2F/UHZ2wloK
 
-Game: Morphy, Paul - NN, New Orleans, LA USA, 1858.03.24, https://lichess.org/study/MNnC56w2/zYyZ1wP9
+Game: Taubenhaus, Jean - Tarrasch, Siegbert; Manchester; 1890.09.04; 0-1; https://lichess.org/study/pdteMCe2/wYvub3b2
 
-Game: Morphy, Paul - NN, New Orleans, LA USA, 1858.03.24 (dup #82), https://lichess.org/study/MNnC56w2/bV66hsQs
+Game: Taubenhaus, Jean - Tarrasch, Siegbert; Nuremberg (Germany); 1892.??.??; 0-1; https://lichess.org/study/pdteMCe2/KnyuKGf5
 
-Game: Morphy, Paul - NN, New Orleans, LA USA, 1858.03.24 (dup #82), https://lichess.org/study/P33p6LIH/2SY8oK14
+Game: Taylor - NN; TAOTC; 1-0; https://lichess.org/study/tmHOF54H/uCaIebDF
 
-Game: Morphy, Paul - N. O., New Orleans, 1858.??.??, https://lichess.org/study/1JWXdF87/DTZegNpK
+Game: Teichmann, Richard - Nimzowitsch, Aron; Carlsbad; 1911.??.??; 1-0; https://lichess.org/study/EDmMFcbv/bR1R86ae
 
-Game: Morphy, Paul - Preti, J., Paris, 1858.??.??, https://lichess.org/study/MNnC56w2/UkONrJkF
+Game*: Teichmann, Richard - Nimzowitsch, Aron; Karlsbad (Karlovy Vary) AUH; 1911.08.31; 1-0; https://lichess.org/study/ONYKV9a1/bsHod0mh
 
-Game: Morphy, Paul - De Riviere, Jules Arnous, Paris, 1863.??.??, https://lichess.org/study/MNnC56w2/VXq3STZM
+Game: Teichmann, Richard - Nimzowitsch, Aron; San Sebastian ESP; 1911.03.09; 0-1; https://lichess.org/study/P33p6LIH/5nJNMgd0
 
-Game*: Morphy, Paul - Rousseau, Eugene, New Orleans, 1894.??.??, https://lichess.org/study/KrLT8eS5/aYzxx038
+Game: Teichmann, Richard - Nimzowitsch, Aron; San Sebastian; 1911.??.??; 0-1; https://lichess.org/study/EDmMFcbv/f0DBDSqX
 
-Game: Morphy, Paul - Salmon, G., Birmingham, 1858.??.??, https://lichess.org/study/MNnC56w2/vcZNgiM2
+Game: Teichmann, Richard - Tarrasch, Siegbert; Leipzig GER; 1894.09.05; 0-1; https://lichess.org/study/UQieNXft/0hvb077q
 
-Game*: Morphy, Paul - Schrufer, 1859.??.??, https://lichess.org/study/KrLT8eS5/kVWSXKvk
+Game*: Tennenwurzel, Edward - Capablanca, Jose Raul; New York; 1913.07.17; 0-1; https://lichess.org/study/6P90HTwf/oAKtfvrp
 
-Game: Morphy, Paul - Schulten, John William, New York, NY USA, 1857.??.??, https://lichess.org/study/MNnC56w2/yuRaH0Bq
+Game*: Teschner, Rudolf - Fuderer, Andrija; 1957.??.??; *; https://lichess.org/study/t6bOK7CT/SEaO66o6
 
-Game: Morphy, Paul - Seguin, M., Paris, 1858.??.??, https://lichess.org/study/MNnC56w2/baRqXB2Y
+Game: Thomas, George Alan - Alekhine, Alexander; Baden-Baden; 1925.??.??; 0-1; https://lichess.org/study/EDmMFcbv/s2um4sHn
 
-Game: Morphy, Paul - Thompson, James, New York, NY USA, 1857.10.06, https://lichess.org/study/yuifbGYp/BqtDdxyx
+Game*: Thomas, George Alan - Alekhine, Alexander; Baden-Baden; 1925.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/mOIZ7rwS
 
-Odds game: Morphy, Paul - Thompson, James, 1859.??.??, https://lichess.org/study/KrLT8eS5/kmFnHxrA
+Game: Thomas, George Alan - Marshall, Frank James; Hamburg; 1930.??.??; 1-0; https://lichess.org/study/OMNHm3q5/xl1hkuRk
 
-Odds game: Morphy, Paul - Thompson, James, 1859.??.??, https://lichess.org/study/KrLT8eS5/TEIFOviy
+Game: Thompson, James - Morphy, Paul; New York; 1857.??.??; 0-1; https://lichess.org/study/yuifbGYp/hd3tgvH5
 
-Odds game: Morphy, Paul - Thompson, James, 1859.??.??, https://lichess.org/study/KrLT8eS5/PR8aLgVj
+Game*: Timman, Jan - Huebner, Robert; Montreal; 1979.??.??; 1/2-1/2; https://lichess.org/study/uDpA956I/pSyQF5HE
 
-Odds game: Morphy, Paul - Thompson, James, 1859.??.??, https://lichess.org/study/KrLT8eS5/g5nWUAnr
+Game*: Timman, Jan - Karpov, Anatoly; 1984.??.??; 0-1; https://lichess.org/study/E787KvJ9/ZXzcJArp
 
-Game fragment*: Morphy, Paul - Thompson, James, 1859.??.??, https://lichess.org/study/KrLT8eS5/giALuEaM
+Game*: Timman, Jan - Karpov, Anatoly; Montreal; 1979.??.??; 0-1; https://lichess.org/study/E787KvJ9/yp21KzbZ
 
-Game: Morphy, Paul - Tilghman, Benjamin Chew, Philadelphia, PA USA, 1859.11.11, https://lichess.org/study/MNnC56w2/0RSAycCn
+Game: Tiviakov, Sergei - Anand, Viswanathan; Germany; 2012.04.14; 1-0; https://lichess.org/study/dl0ynDGz/9t7Yajxt
 
-Game fragment*: Morphy, Paul - Worrall, Thomas Herbert, New York, 1857.??.??, https://lichess.org/study/MNnC56w2/bXjJ6QTA
+Game*: Tolush, Alexander - Botvinnik, Mikhail; Leningrado; 1939.??.??; 0-1; https://lichess.org/study/2a0vxusd/gMPR6vsx
 
-Odds game: Morphy, Paul - Worrall, Thomas Herbert, New Orleans, LA USA, 1858.??.??, https://lichess.org/study/MNnC56w2/nXuQU9Oj
+Game*: Toran Albero, Roman - Tal, Mikhail; 1961.??.??; 0-1; https://lichess.org/study/E787KvJ9/lJJW0Boh
 
-Game: Morphy, Paul - Golmayo Zupide, Celso, Havana, 1864.??.??, https://lichess.org/study/MNnC56w2/CUKcQhEs
+Game: Torre, Carlos - Saemisch, Friedrich; Moscow URS; 1925.11.19; 1-0; https://lichess.org/study/YuoLOpzE/iM1QgXqW
 
-Game fragment: Morra, P. - Bossolasco, N., Nice, 1937.??.??, https://lichess.org/study/V4VFISZI/c6WLSTrn
+Game*: Torres - Alekhine, Alexander; 1922.??.??; 0-1; https://lichess.org/study/amMc8Mig/UH7Ulm5O
 
-Game: Mortimer, James - Tarrasch, Siegbert, Manchester, 1890.09.06, https://lichess.org/study/pdteMCe2/18qSF4jZ
+Game*: Treybal, Karel - Spielmann, Rudolf; Teplitz-Schoenau; 1922.??.??; 0-1; https://lichess.org/study/2a0vxusd/vsnOsziw
 
-Game*: Morychok84 - HowToWinAtChess, Chess.com, 2026.01.02 (dup #51), https://lichess.org/study/P3XM0aKf/59PWIoST
+Game*: Ubilava, Elizbar - Timoshenko, Genadij; 1974.??.??; 1-0; https://lichess.org/study/uDpA956I/g3YK6ehC
 
-Game*: Morychok84 - HowToWinAtChess, Chess.com, 2026.01.02 (dup #51), https://lichess.org/study/P3XM0aKf/KYRUdzCD
+Game*: Uhlmann, Wolfgang - Fischer, Robert James; Leipzig; 1960.??.??; 0-1; https://lichess.org/study/sDsyelY0/9Dtos85t
 
-Game: Mueller, Oscar Conrad - Tarrasch, Siegbert, Manchester, 1890.08.26, https://lichess.org/study/bELN6Owi/SZEni3pv
+Game*: Uhlmann, Wolfgang - Geller, Efim; Palma de Mallorca; 1970.??.??; 0-1; https://lichess.org/study/k4B16BhD/Vvh6btcK
 
-Game fragment*: Munk, Dr. - NN, Cassel, 1914.??.??, https://lichess.org/study/V4VFISZI/i29GxoSU
+Game*: Uhlmann, Wolfgang - Gligoric, Svetozar; Hastings; 1970.??.??; 1-0; https://lichess.org/study/k4B16BhD/0jQflcO4
 
-Game: Munoz Pantoja, Miguel - Granda Zuniga, Julio E, La Roda, 2013.03.29, https://lichess.org/study/dl0ynDGz/xkC3oc6g
+Game*: Ujtumen, Tudev - Geller, Efim; Palma de Mallorca; 1970.??.??; 0-1; https://lichess.org/study/sDsyelY0/NYKcvvf0
 
-Game*: Oskar Naegeli - Max Euwe, Bern SUI, 1932.07.27, https://lichess.org/study/hnwliF9Y/cK8j08pK
+Game: Ulibin, Mikhail - Rashkovsky, Nukhim N; Samara; 2000.06.20; 0-1; https://lichess.org/study/wAhu1kg2/7kTz45Pl
 
-Game*: Najafiee - Notrashopenings0, https://lichess.org/9d5Niyl6, 2021.10.10, https://lichess.org/study/aPk4CmoL/1oqbthBX
+Game*: Unzicker, Wolfgang - Czerniak, Moshe; Amsterdam NED; 1954.09.04; 1-0; https://lichess.org/study/hnwliF9Y/bbgxUWMB
 
-Game fragment*: Najdorf - Ilivitsky, 1955.??.??, https://lichess.org/study/57Oq4l6Z/hIrPE5Q8
+Game*: Unzicker, Wolfgang - Donner, Jan Hein; Gothenburg SWE; 1955.09.13; 1-0; https://lichess.org/study/A0fSLRgx/l6kUT5jA
 
-Game fragment*: Najdorf - Pilnik, 1955.??.??, https://lichess.org/study/cev86fwf/dRs2GMJN
+Game*: Unzicker, Wolfgang - Fischer, Robert James; Varna BUL; 1962.10.04; 0-1; https://lichess.org/study/6nWh4o7P/OcLO7gFN
 
-Game*: Najdorf, Miguel - Averbakh, Yuri, Zuerich, 1953.??.??, https://lichess.org/study/uDpA956I/5btU9y6Z
+Game*: Unzicker, Wolfgang - Fischer, Robert James; Varna; 1962.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/mTcXXMMN
 
-Game*: Najdorf, Miguel - Fischer, Robert, 1966.??.??, https://lichess.org/study/E787KvJ9/G1PX8yvq
+Game*: Unzicker, Wolfgang - Saemisch, Friedrich; Oldenburg GER; 1949.06.29; 1-0; https://lichess.org/study/izyugXAJ/FZ4BsIOJ
 
-Game*: Najdorf, Miguel - Ilivitzki, Georgi A., Gothenburg, 1955.??.??, https://lichess.org/study/57Oq4l6Z/miSPE8iP
+Game*: Unzicker, Wolfgang - Taimanov, Mark E; Stockholm SWE; 1952.09.26; 0-1; https://lichess.org/study/l1syl1IJ/Lnowb1Cj
 
-Game: Najdorf, Miguel - Ilivitzki, Georgi A, Gothenburg, 1955.??.??, https://lichess.org/study/TggWKjlC/pvq9bzMp
+Game*: Van Scheltinga, Theo D - Opocensky, Karel; Buenos Aires; 1939.09.15; 0-1; https://lichess.org/study/eD6ECZu4/XRq9WY3P
 
-Game fragment*: Najdorf, Miguel - Kashdan, Isaac, La Plata, 1947.??.??, https://lichess.org/study/izyugXAJ/p1WyvKuE
+Game: Van Vliet, Louis - Znosko-Borovsky, Eugene; Ostend; 1907.??.??; 0-1; https://lichess.org/study/EDmMFcbv/MshEUohb
 
-Game*: Najdorf, Miguel - Kashdan, Isaac, La Plata, 1947.??.??, https://lichess.org/study/izyugXAJ/vr0rUu7J
+Game: Van Wely, Loek - Karjakin, Sergey; Wijk aan Zee; 2012.01.27; 0-1; https://lichess.org/study/wAhu1kg2/OWBglQlG
 
-Game*: Najdorf, Miguel - Keres, Paul, Los Angeles, 1963.??.??, https://lichess.org/study/E787KvJ9/a9pXlSPf
+Game*: Van Wely, Loek - Krylov, Sergey; Calvia ESP; 2004.10.16; 1-0; https://lichess.org/study/wAhu1kg2/6IiovyUP
 
-Game: Najer, E. - Jurcik, Mari, Lysa nad Labem CZE, 2014.01.18, https://lichess.org/study/wAhu1kg2/gAWfx0ds
+Game*: Vesely, Jiri - Pachman, Ludek; Prague; 1951.??.??; 0-1; https://lichess.org/study/A0fSLRgx/8qHvlvwC
 
-Game: Narciso Dublan, Marc - Gonzalez Vidal, Yuri, Badalona ESP, 2005.8.9, https://lichess.org/study/AxW3sYhA/9CeBYDwY
+Game: Vidmar, Milan Sr - Euwe, Max; Carlsbad; 1929.??.??; 1-0; https://lichess.org/study/OMNHm3q5/SVqx4lO3
 
-Game*: Navara, David - Jirovsky, Milos, Luhacovice CZE, 2003.02.22 (dup #84), https://lichess.org/study/dl0ynDGz/JY3YJHba
+Game*: Vidmar, Milan Sr - Nimzowitsch, Aron; New York; 1927.??.??; 0-1; https://lichess.org/study/rzdDzNB4/hv4wSIt4
 
-Game*: Navara, David - Jirovsky, Milos, Luhacovice CZE, 2003.02.22 (dup #84), https://lichess.org/study/dl0ynDGz/MwmjKpJY
+Game*: Vitiugov, Nikita - Bologan, Viktor Antonovich; Eilat; 2012.10.15; 1-0; https://lichess.org/study/AxW3sYhA/qeLCxG6M
 
-Game*: Navara, David - Sokolov, Ivan, Reykjavik, 2014.06.03, https://lichess.org/study/40nLE9YK/J3jS6qdI
+Game*: Vitiugov, Nikita - Ding, Liren; St Petersburg RUS; 2012.7.2; 1-0; https://lichess.org/study/dl0ynDGz/Rk8c9DMC
 
-Game*: Yakov Isaevich Neishtadt - Alexander Kotov, Leningrad URS, 1956.??.??, https://lichess.org/study/1O0UELn6/RHyLds3Y
+Game*: Vliet - Znosko-Borovsky, Eugene; 1907.??.??; 0-1; https://lichess.org/study/Wn7aMkPy/llS0azro
 
-Game fragment*: Nepomniachtchi, Ian - Lopez, Ivan Salgado, 2008.??.??, https://lichess.org/study/1Eo7d6Ap/GJZJcZwb
+Game*: Vogt, Lothar - Andersson, Ulf; Cienfuegos; 1975.??.??; 0-1; https://lichess.org/study/6nWh4o7P/lQtSLqCb
 
-Game fragment: Neumann - Dufresne, J., TAOTC, https://lichess.org/study/XH8xSdBs/YCZNgktv
+Game*: Vogt, Lothar - Casper, Thomas; Suhl; 1979.??.??; 1-0; https://lichess.org/study/E787KvJ9/FvYoxs3a
 
-Game fragment: Neumann, J. - Bergmann, G., Prague Chess Club, 1913.??.??, https://lichess.org/study/1JWXdF87/dfviN52d
+Game: Von Bardeleben, Curt - Tarrasch, Siegbert; Leipzig; 1888.12.07; 1-0; https://lichess.org/study/bELN6Owi/dXZNh1SD
 
-Game*: Nguyen, Van Huy - Le, Quang Liem, Ho Chi Minh City VIE, 2012.5.8, https://lichess.org/study/40nLE9YK/BAyFNaRK
+Game: Von Gottschall, Hermann - Tarrasch, Siegbert; Frankfurt; 1887.07.18; 0-1; https://lichess.org/study/e7ARwPCA/13rpEEOp
 
-Game*: nickgaridd - HowToWinAtChess, Chess.com, 2026.05.23, https://lichess.org/study/rG6bFitI/92wWneLW
+Game: Von Gottschall, Hermann - Tarrasch, Siegbert; Leipzig; 1887.??.??; 0-1; https://lichess.org/study/e7ARwPCA/umsaG1Yi
 
-Game*: nicobaresch - HowToWinAtChess, Chess.com, 2026.05.23, https://lichess.org/study/rG6bFitI/5UKcJZ02
+Game: Von Gottschall, Hermann - Tarrasch, Siegbert; Nuremberg; 1888.??.??; 0-1; https://lichess.org/study/e7ARwPCA/e3L1oF1S
 
-Game*: Nikolic, Predrag - Ribli, Zoltan, Ljubljana, 1985.??.??, https://lichess.org/study/E787KvJ9/4WN0J67f
+Game: Von Holzhausen, Walther - Bogoljubov, Efim; Berlin GER; 1926.11.25; 0-1; https://lichess.org/study/P33p6LIH/kkaJj6on
 
-Game fragment: Nimzovitch, A. - Alekhine, A., Vilna, 1912.??.??, https://lichess.org/study/OMNHm3q5/Ik5wyuiM
+Game: Von Minckwitz, Johannes - Tarrasch, Siegbert; Leipzig; 1888.12.05; 0-1; https://lichess.org/study/e7ARwPCA/N1JyppBf
 
-Odds game: Nimzovitch, A. - NN, TAOTC, https://lichess.org/study/XH8xSdBs/HeVtmurs
+Game*: Von Patay, Julius - Reti, Richard; Vienna AUT; 1923.11.20; 0-1; https://lichess.org/study/vJTD9Iyi/djk0k0P0
 
-Game*: Aron Nimzowitsch - Semion Alapin, St. Petersburg RUE, 1914.??.??, https://lichess.org/study/ONYKV9a1/NFrF6gN0
+Game: Von Scheve, Theodor - Tarrasch, Siegbert; Berlin; 1880.??.??; 0-1; https://lichess.org/study/PVzIGg2F/SuCNfmSE
 
-Game*: Aron Nimzowitsch - Frank James Marshall, New York, NY USA, 1927.03.17, https://lichess.org/study/HU8KOi8j/ZoSTWNmH
+Game: Von Scheve, Theodor - Tarrasch, Siegbert; Breslau; 1880.??.??; 0-1; https://lichess.org/study/PVzIGg2F/rDwS3aw8
 
-Game*: Aron Nimzowitsch - Georg Salwe, Karlsbad (Karlovy Vary) AUH, 1911.09.09, https://lichess.org/study/6AnWFDzO/73ZSNhNB
+Game: Von Scheve, Theodor - Tarrasch, Siegbert; Dresden; 1892.07.25; 0-1; https://lichess.org/study/pdteMCe2/0dLHhWvh
 
-Game*: Aron Nimzowitsch - Siegbert Tarrasch, San Sebastian ESP, 1912.02.27, https://lichess.org/study/mj8UtUBc/ktx25afY
+Game: Von Scheve, Theodor - Tarrasch, Siegbert; Frankfurt; 1887.07.18; 0-1; https://lichess.org/study/e7ARwPCA/D2GX2lOZ
 
-Game fragment*: Nimzowitsch - Capablanca, 1927.??.??, https://lichess.org/study/57Oq4l6Z/fBkaAdMH
+Game: Von Scheve, Theodor - Tarrasch, Siegbert; Leipzig; 1888.12.04; 1-0; https://lichess.org/study/e7ARwPCA/dlfvCMKz
 
-Game*: Nimzowitsch - Fluess, 1906.??.??, https://lichess.org/study/57Oq4l6Z/RQqkzR6i
+Game*: Vouldis, Dimitrios - Paunovic, Dragan; 1998.??.??; 1/2-1/2; https://lichess.org/study/5mW5ZvOp/x4CS8QA2
 
-Game fragment*: Nimzowitsch - Levenfish, 1911.??.??, https://lichess.org/study/cev86fwf/ydpfwEyF
+Game: Vovk, Yuri - Volokitin, Andrei; Kiev; 2012.07.27; 0-1; https://lichess.org/study/AxW3sYhA/Zpg8R78o
 
-Game*: Nimzowitsch - Mieses, 1920.??.??, https://lichess.org/study/t6bOK7CT/QA8EMl3y
+Game*: Wagle, Marina - Kunz, Katharina; Winterberg; 2002.05.25; 1-0; https://lichess.org/study/3Aw3IIVA/tJC2Z08I
 
-Game*: Nimzowitsch, A. - Alapin, S., Riga, 1911.??.??, https://lichess.org/study/EDmMFcbv/sMOxbNcv
+Game: Walbrodt, Karl August - Tarrasch, Siegbert; Nuremberg GER; 1894.08.01; 0-1; https://lichess.org/study/UQieNXft/WMkTTgzz
 
-Game: Nimzowitsch, A. - Alekhine, Dr. A, Semmering, 1926.??.??, https://lichess.org/study/EDmMFcbv/jyxbYYTU
+Game*: Walbrodt, Karl August - Tarrasch, Siegbert; Nuremberg GER; 1894.08.03; 1/2-1/2; https://lichess.org/study/UQieNXft/Kwd2UIRD
 
-Game: Nimzowitsch, A. - Behting, C., Riga, 1919.??.??, https://lichess.org/study/EDmMFcbv/2L0TtmrH
+Game: Walbrodt, Karl August - Tarrasch, Siegbert; Nuremberg GER; 1894.08.07; 0-1; https://lichess.org/study/UQieNXft/b7omuEXi
 
-Game: Nimzowitsch, A. - Fluss, Dr. G, Correspondence, 1913.??.??, https://lichess.org/study/EDmMFcbv/rkCTotgn
+Game: Walbrodt, Karl August - Tarrasch, Siegbert; Nuremberg GER; 1894.08.10; 0-1; https://lichess.org/study/UQieNXft/fEBgsWcT
 
-Game*: Nimzowitsch, A. - Hakansson, A., Kristianstad, 1922.??.??, https://lichess.org/study/EDmMFcbv/kfWGC3Je
+Game*: Wang, Yue - Carlsen, Magnus; Medias ROU; 2010.06.25; 0-1; https://lichess.org/study/AxW3sYhA/bUq4Fxkk
 
-Game*: Nimzowitsch, A. - Leonhardt, P. S., San Sebastian, 1911.??.??, https://lichess.org/study/EDmMFcbv/x4sNt3lv
+Game: Wang, Zili - Zhang, Pengxiang; Yongchuan; 2003.07.22; 0-1; https://lichess.org/study/dl0ynDGz/E8f8cwcR
 
-Game: Nimzowitsch, A. - Marshall, F. J., New York, 1927.??.??, https://lichess.org/study/EDmMFcbv/ZIstOpHi
+Game*: Liu Wenzhe - Ljubojevic, Ljubomir; Lucerne (Switzerland); 1982.??.??; 0-1; https://lichess.org/study/NHyuBHth/wgp0KWjn
 
-Game: Nimzowitsch, A. - Michel, Dr. W, Semmering, 1926.??.??, https://lichess.org/study/EDmMFcbv/QTPgsvRF
+Game: Winawer, Simon - Tarrasch, Siegbert; Dresden; 1892.??.??; 0-1; https://lichess.org/study/pdteMCe2/fgNvUZWY
 
-Game*: Nimzowitsch, A. - Olson, A., Copenhagen, 1924.??.??, https://lichess.org/study/EDmMFcbv/BfpgJz0M
+Game*: Winter, William - Capablanca, Jose Raul; Hastings; 1919.??.??; 0-1; https://lichess.org/study/uDpA956I/2EVLQaGZ
 
-Game: Nimzowitsch, A. - Pritzel, Copenhagen, 1922.??.??, https://lichess.org/study/EDmMFcbv/3msdPN5J
+Game: Wojtaszek, Radoslaw - Fedorov, Alexei; Czech Republic; 2012.04.22; 1-0; https://lichess.org/study/wAhu1kg2/PjmCxLK0
 
-Game*: Nimzowitsch, A. - Rubinstein, A., Dresden, 1926.??.??, https://lichess.org/study/EDmMFcbv/ZGJirrBc
+Game*: Wojtaszek, Radoslaw - Fressinet, Laurent; Wijk aan Zee NED; 2011.01.22; 1-0; https://lichess.org/study/AxW3sYhA/qOYfAowM
 
-Game: Nimzowitsch, A. - Salve, G., Carlsbad, 1911.??.??, https://lichess.org/study/EDmMFcbv/0fQhMPcE
+Game*: Wojtaszek, Radoslaw - Khairullin, Ildar; Aix-les-Bains FRA; 2011.04.01; 1-0; https://lichess.org/study/AxW3sYhA/MtRTQw0I
 
-Game*: Nimzowitsch, A. - Spielmann, R., San Sebastian, 1912.??.??, https://lichess.org/study/EDmMFcbv/7mJoTfBL
+Game: Wojtaszek, Radoslaw - Swiercz, Dariusz; Warsaw; 2011.02.14; 1-0; https://lichess.org/study/dl0ynDGz/ckY8cjfq
 
-Game: Nimzowitsch, A. - Tarrasch, Dr. S, San Sebastian, 1912.??.??, https://lichess.org/study/EDmMFcbv/tpWMq4iT
+Game*: Wolf, Heinrich - Alekhine, Alexander; Karlsbad; 1923.??.??; 0-1; https://lichess.org/study/uDpA956I/wbVmlKZM
 
-Game: Nimzowitsch, A. - Tarrasch, Dr. S, Breslau, 1925.??.??, https://lichess.org/study/EDmMFcbv/YUaIvLCt
+Game: Wolf, Heinrich - Gruenfeld, Ernst; Piestany CSR; 1922.04.23; 0-1; https://lichess.org/study/YuoLOpzE/9WkNl058
 
-Game: Nimzowitsch, A. - Taubenhaus, S., St. Petersburg, 1913.??.??, https://lichess.org/study/EDmMFcbv/RiRRw8m2
+Game*: Yanofsky, Daniel - Portisch, Lajos; 1962.??.??; 0-1; https://lichess.org/study/2a0vxusd/fm4U365M
 
-Game*: Nimzowitsch, Aaron - Behting, Charles, Riga, 1919.??.?? (dup #78), https://lichess.org/study/r1NROPIm/KDOEboSt
+Game*: Yates, Fred Dewhirst - Alekhine, Alexander; The Hague NED; 1921.11.03; 0-1; https://lichess.org/study/InR4tjnm/WblvyM7G
 
-Game: Nimzowitsch, Aaron - Behting, Charles, Riga, 1919.??.?? (dup #78), https://lichess.org/study/r1NROPIm/TIHQYJZ6
+Game*: Yates, Fred Dewhirst - Nimzowitsch, Aron; London; 1927.??.??; 0-1; https://lichess.org/study/EDmMFcbv/AaBXGWRz
 
-Game*: Nimzowitsch, Aaron - Capablanca, Jose Raul, St Petersburg, 1914.??.??, https://lichess.org/study/sDsyelY0/AULW1LFq
+Game*: Yudovich, Mikhail - Bondarevsky, Igor; Mosca; 1937.??.??; 1-0; https://lichess.org/study/k4B16BhD/5s8GsbqQ
 
-Game*: Nimzowitsch, Aaron - Capablanca, Jose Raul, New York, 1927.??.??, https://lichess.org/study/5mW5ZvOp/UgfygTsa
+Game*: Zeissl - Walthoffen; 1899.??.??; 0-1; https://lichess.org/study/Wn7aMkPy/cnnwEUlH
 
-Game*: Nimzowitsch, Aaron - Chajes, Oscar, Karlsbad, 1911.??.??, https://lichess.org/study/2a0vxusd/b3VoxIa6
+Game: Zhigalko, Sergei - Radulski, Julian; Warsaw; 2010.07.20; 0-1; https://lichess.org/study/wAhu1kg2/HCzVymeT
 
-Game*: Nimzowitsch, Aaron - Menchik, Vera, Karlsbad, 1929.??.??, https://lichess.org/study/rzdDzNB4/cSGrrXb1
+Game: Zhigalko, Sergei - Rakhmanov, Alexander; Moscow; 2011.01.30; 1-0; https://lichess.org/study/wAhu1kg2/GqffEom6
 
-Game: Nimzowitsch, Aaron - Spielmann, Rudolf, Hamburg, 1910.??.?? (dup #76), https://lichess.org/study/r1NROPIm/2zACjbTQ
+Game*: Zuccaro, Guido - Buglisi, Massimo; Condino; 2009.07.29; 0-1; https://lichess.org/study/m0LDLCIA/LdQ30Knd
 
-Game*: Nimzowitsch, Aaron - Spielmann, Rudolf, Hamburg, 1910.??.?? (dup #76), https://lichess.org/study/r1NROPIm/yESlcmbI
+Game: Zukertort, Johannes Hermann - Anderssen, Adolf; Unknown; 1870.??.??; 1-0; https://lichess.org/study/YuoLOpzE/7oK6nrys
 
-Game*: Nimzowitsch, Aaron - Tarrasch, Siegbert, St Petersburg, 1914.??.??, https://lichess.org/study/E787KvJ9/sdPUN27x
+Game*: Zukertort, Johannes Hermann - Blackburne, Joseph Henry; London; 1883.??.??; 1-0; https://lichess.org/study/E787KvJ9/sTQy8SAn
 
-Game*: Nimzowitsch, Aaron - Tartakower, Saviely, Karlsbad, 1929.??.??, https://lichess.org/study/eD6ECZu4/Dys22sKJ
+Game*: Zukertort, Johannes Hermann - Taubenhaus, Jean; 1887.??.??; *; https://lichess.org/study/1DTYYVAE/zCFDUhmR
 
-Game: Nimzowitsch, Aron - Capablanca, Jose Raul, New York, NY USA, 1927.03.13, https://lichess.org/study/P33p6LIH/kUETxr2J
+Game*: Zukertort, Johannes Hermann - Taubenhaus, Jean; Frankfurt am Main GER; 1887.07.29; 1-0; https://lichess.org/study/y1wA1JDw/JHZsAkbJ
 
-Game: Nimzowitsch, Aron - Salwe, Georg, Karlsbad (Karlovy Vary) AUH, 1911.09.09 (dup #28), https://lichess.org/study/P33p6LIH/XFWxr2ze
+Game*: Zukertort, Johannes Hermann - Taubenhaus, Jean; Frankfurt; 1887.??.??; 1-0 (dup #7); https://lichess.org/study/1DTYYVAE/WvtaxLig
 
-Game*: Nimzowitsch, Aron - Salwe, Georg, Karlsbad (Karlovy Vary) AUH, 1911.09.09 (dup #28), https://lichess.org/study/aAtElCsv/MfZ4toos
+Game: Zukertort, Johannes Hermann - Taubenhaus, Jean; Frankfurt; 1887.??.??; 1-0 (dup #7); https://lichess.org/study/R9GM45QQ/qaWqJmDj
 
-Game*: Nino2415 - HowToWinAtChess, Chess.com, 2026.02.01, https://lichess.org/study/rG6bFitI/CRDoWtte
+Game*: Zukertort, Johannes Hermann - Taubenhaus, Jean; Frankfurt; 1887.??.??; 1-0 (dup #7); https://lichess.org/study/kqKXJZ5u/AqHvgsev
 
-Game: Ninov, Nikolai - Velimirovic, Dragoljub, Belgrade, 2009.10.10, https://lichess.org/study/dl0ynDGz/tBzEt3rM
+Game*: Zvjaginsev, Vadim - Evdokimov, Alexander A.; Taganrog RUS; 2011.06.17; 1-0; https://lichess.org/study/AxW3sYhA/kA9DoVlQ
 
-Game: NN - Bird, H. E., England, https://lichess.org/study/V4VFISZI/9d4O0UC0
+Game: Zvjaginsev, Vadim - Vasquez, Rodrigo; Khanty-Mansiysk RUS; 2013.06.08; 1-0 (dup #33); https://lichess.org/study/AxW3sYhA/WUXthPtO
 
-Game: NN - Blackburne, J. H., London, 1880.??.??, https://lichess.org/study/OMNHm3q5/PVRCl9s0
-
-Game fragment*: NN - Blackburne, J. H., TAOTC, https://lichess.org/study/V4VFISZI/mXsnPZP9
-
-Game fragment: NN - Daniel, R., Le Havre, 1939.??.??, https://lichess.org/study/XH8xSdBs/SqHzij5Y
-
-Game fragment: NN - Derrickson, G. H., Philadelphia, 1862.??.??, https://lichess.org/study/OMNHm3q5/dnqBFJVd
-
-Game fragment: NN - Gaudermen, TAOTC, https://lichess.org/study/1JWXdF87/AFw4E8Jq
-
-Game: NN - Greco, J., TAOTC, https://lichess.org/study/tmHOF54H/vBpRHxAM
-
-Game fragment*: NN - Hartlaub, Dr. C., TAOTC, 1904.??.??, https://lichess.org/study/tmHOF54H/PtoEnqBg
-
-Game fragment: NN - Janowski, D., TAOTC, https://lichess.org/study/OMNHm3q5/kRVKYnn2
-
-Game: NN - Kahn, V., Nice, 1941.??.??, https://lichess.org/study/OMNHm3q5/MCHbTKmC
-
-Game fragment: NN - Kende, P., TAOTC, https://lichess.org/study/OMNHm3q5/E19YFzGD
-
-Game fragment: NN - MacCutcheon, TAOTC, https://lichess.org/study/OMNHm3q5/n60kjA2U
-
-Game fragment: NN - NN, https://lichess.org/study/tmHOF54H/dDBGbXYQ
-
-Game fragment: NN - NN, https://lichess.org/study/V4VFISZI/gNJWIQTq
-
-Game fragment: NN - NN, https://lichess.org/study/XH8xSdBs/CZ5ImaB3
-
-Game fragment: NN - NN, https://lichess.org/study/tmHOF54H/Z3h22Ml1
-
-Game fragment*: NN - NN, https://lichess.org/study/1JWXdF87/9y9zUtoM
-
-Game fragment: NN - NN, https://lichess.org/study/tmHOF54H/loU8SYbX
-
-Game: NN - NN, https://lichess.org/study/tmHOF54H/J3uqpTja
-
-Game fragment*: NN - NN, https://lichess.org/study/tmHOF54H/ILBpf9ib
-
-Game fragment*: NN - NN, https://lichess.org/study/XH8xSdBs/VkjeDAvz
-
-Game fragment: NN - NN, https://lichess.org/study/V4VFISZI/OLmzQ75O
-
-Game fragment*: NN - NN, https://lichess.org/study/1JWXdF87/EuxFWJJO
-
-Game: NN - NN, https://lichess.org/study/tmHOF54H/L9MQvdnz
-
-Game fragment: NN - NN, https://lichess.org/study/V4VFISZI/ysDtT2px
-
-Game: NN - NN, Bulletin Ouvrier des Echecs, 1937.03.??, https://lichess.org/study/OMNHm3q5/27NNqGU3
-
-Game: NN - NN, On board Piriapolis, between Antwerp and Buenos Aires, 1939.08.??, https://lichess.org/study/XH8xSdBs/wY7mRxPf
-
-Game fragment: NN - NN, TAOTC, https://lichess.org/study/OMNHm3q5/fXmELstM
-
-Game fragment*: NN - NN, TAOTC, https://lichess.org/study/V4VFISZI/fn2NembJ
-
-Game fragment: NN - NN, TAOTC, https://lichess.org/study/OMNHm3q5/8hQBbEAD
-
-Game fragment: NN - NN, TAOTC, https://lichess.org/study/OMNHm3q5/KT4Syfee
-
-Game: NN - Richter, B, TAOTC, 1900.??.??, https://lichess.org/study/OMNHm3q5/2xhoyNJD
-
-Game fragment: NN - Schapiro, TAOTC, 1908.??.??, https://lichess.org/study/V4VFISZI/uffXOVd2
-
-Game: NN - Tarrasch, S., Munich, 1932.??.??, https://lichess.org/study/OMNHm3q5/xpEKRNZU
-
-Game fragment*: NN - Mac Hack VI, 2021.03.06, https://lichess.org/study/Dw5rZPMK/K1ftxAh9
-
-Game: Noa, Josef - Tarrasch, Siegbert, Dresden, 1892.07.18, https://lichess.org/study/pdteMCe2/hqp9c8l5
-
-Game fragment: Normann, C. - NN, Leipzig, 1926.??.??, https://lichess.org/study/V4VFISZI/3hXXjTBL
-
-Game*: Noteboom - Doesburgh, 1931.??.??, https://lichess.org/study/Wn7aMkPy/4puIavau
-
-Game fragment*: Novice - Teacher, 2020.06.01 (dup #95), https://lichess.org/study/YWzZVLVO/K5qIvltQ
-
-Game fragment*: Novice - Teacher, 2020.06.01 (dup #95), https://lichess.org/study/YWzZVLVO/iya2zz3C
-
-Game fragment*: Novice - Teacher, 2020.06.01 (dup #95), https://lichess.org/study/YWzZVLVO/k5suJ1Dn
-
-Game*: ntrx5 - HowToWinAtChess, Chess.com, 2025.11.14, https://lichess.org/study/P3XM0aKf/beVPm5X1
-
-Game*: Nudelman, Lea - Justo, Damian, Malta, 1980.??.??, https://lichess.org/study/sDsyelY0/6eQ2THxm
-
-Game*: Nykpa - HowToWinAtChess, Chess.com, 2026.03.12, https://lichess.org/study/rG6bFitI/Ft6GAOPs
-
-Game*: Ogaard, Leif - Niklasson, Christer, Oslo, 1976.??.??, https://lichess.org/study/1O0UELn6/R1NKBrG6
-
-Game*: Olafsson, Fridrik - Fischer, Robert, Portoroz, 1958.??.??, https://lichess.org/study/2a0vxusd/LtBXQYXJ
-
-Game*: Olafsson, Fridrik - Karpov, Anatoly, Tilburg, 1977.??.??, https://lichess.org/study/5mW5ZvOp/TrtGE0h0
-
-Game*: omkar-khair - HowToWinAtChess, Chess.com, 2025.11.09, https://lichess.org/study/P3XM0aKf/z2U9UVkD
-
-Game*: Onemore02 - HowToWinAtChess, Chess.com, 2026.06.10, https://lichess.org/study/gDTJBYjY/zI5ObRCz
-
-Game*: Onischuk, Alexander - Perez, Leinier Dominguez, Tromso NOR, 2013.08.15, https://lichess.org/study/AxW3sYhA/EuyQFqhX
-
-Game*: Onischuk, Alexander - Perez, Leinier Dominguez, Tromso NOR, 2013.08.15, https://lichess.org/study/AxW3sYhA/4neJjlJ1
-
-Game: Opening - Variation, https://lichess.org/study/V4VFISZI/33hSwGI9
-
-Game: Opening - Variation, https://lichess.org/study/tmHOF54H/yWBfFgMj
-
-Game: Opening - Variation, https://lichess.org/study/tmHOF54H/XTtflnSp
-
-Game: Opening - Variation, https://lichess.org/study/tmHOF54H/0BwmmUfW
-
-Game: Opening - Variation, https://lichess.org/study/1JWXdF87/0sHj8Z0M
-
-Game: Opocensky, C. - Nimzowitsch, A., Marienbad, 1925.??.??, https://lichess.org/study/EDmMFcbv/3QsxKVIC
-
-Game*: Axel Ornstein - David Friedgood, Nice, 1970.??.??, https://lichess.org/study/D2A7wMDE/pKVZxNkX
-
-Game*: Ortiz Suarez, Isan Reynaldo - Leon Hoyos, Manuel, Havana CUB, 2011.5.18, https://lichess.org/study/40nLE9YK/Ctqb6XEe
-
-Game: Oskam, G. - Demmendal, W., Rotterdam-Leyde, 1933.??.??, https://lichess.org/study/tmHOF54H/7T5sndTx
-
-Game fragment*: Ostojic - Cvetkovic, 1973.??.??, https://lichess.org/study/sDsyelY0/tRlDzaYP
-
-Game*: OSTRICH - KAISSA, 1974.??.?? (dup #57), https://lichess.org/study/1h06eBSq/ACobFHy3
-
-Game*: OSTRICH - KAISSA, 1974.??.?? (dup #57), https://lichess.org/study/1h06eBSq/eRBLKUht
-
-Game fragment*: Owen, J. - NN, TAOTC, https://lichess.org/study/XH8xSdBs/NW25rdvp
-
-Game: Owen, John - Morphy, Paul, London, 1858.??.??, https://lichess.org/study/yuifbGYp/cpacVRz3
-
-Game*: Pachman, Ludek - Petrosjan, Tigran, 1958.??.??, https://lichess.org/study/2a0vxusd/sUrYaunF
-
-Game fragment*: Pachmann - Donner, 1955.??.??, https://lichess.org/study/1DTYYVAE/juqut4J3
-
-Game fragment*: Pachmann - Najdorf, 1955.??.??, https://lichess.org/study/1DTYYVAE/1RBrpTS5
-
-Game fragment*: Pachmann - Toran, 1955.??.??, https://lichess.org/study/cev86fwf/s90vEC94
-
-Game*: Padevsky, Nikola - Botvinnik, Mikhail, Mosca, 1956.??.??, https://lichess.org/study/2a0vxusd/lpO3CIsj
-
-Game: Paichadze, Luka - Jobava, Baadur, Tbilisi, 2012.05.23, https://lichess.org/study/wAhu1kg2/F7MnQGWt
-
-Game*: Panno, Oscar - Keres, Paul, Los Angeles, 1963.??.??, https://lichess.org/study/k4B16BhD/2kfqyGi4
-
-Game*: Panno, Oscar - Polugaevskij, Lev, Petropolis, 1973.??.??, https://lichess.org/study/k4B16BhD/wx3JVm6r
-
-Game*: Panno, Oscar - Tempone, Marcelo, Buenos Aires, 1980.??.??, https://lichess.org/study/E787KvJ9/XYgOBCDu
-
-Game*: Vasily Nikolayevich Panov - Sergei Alexandrovich Mudrev, Moscow, 1929.??.??, https://lichess.org/study/eUChNfwg/A85lT0at
-
-Game*: Pantsulaia, Levan - Erdogdu, Mert, Konya TUR, 2010.07.08, https://lichess.org/study/wAhu1kg2/HmOE7zGs
-
-Game fragment: Paredes - Vasquez, TAOTC, https://lichess.org/study/XH8xSdBs/w9u4RSJA
-
-Game*: Parligras, Mircea-Emilian - Ian Nepomniachtchi, Ian, Aix-les-Bains FRA, 2011.03.24, https://lichess.org/study/AxW3sYhA/2Bep52QI
-
-Game*: Bruno Parma - Bent Larsen, Thornaby-on-Tees ENG, 1972.05.05, https://lichess.org/study/A0fSLRgx/58Ocxfp2
-
-Game*: Partos, Julius - Harris, 1951.??.??, https://lichess.org/study/eD6ECZu4/aTmrWjUQ
-
-Game fragment*: Patay - Reti, 1923.??.??, https://lichess.org/study/1DTYYVAE/9gnv5AIU
-
-Game*: Louis Paulsen - Adolf Anderssen, Leipzig GER, 1877.07.23, https://lichess.org/study/mj8UtUBc/4iW2IoBY
-
-Game fragment*: Paulsen - Morphy, 1857.??.??, https://lichess.org/study/1DTYYVAE/3n6gj8Ro
-
-Game*: Paulsen, L. - Morphy, P., New York, 1857.??.??, https://lichess.org/study/1JWXdF87/eDytyG2G
-
-Game*: Paulsen, L. - Tarrasch, Dr. S, Nuremberg, 1888.??.??, https://lichess.org/study/EDmMFcbv/uZxtS90I
-
-Game: Paulsen, Louis - Morphy, Paul, New York, 1857.??.??, https://lichess.org/study/MNnC56w2/e5cj63dU
-
-Game*: Paulsen, Louis - Steinitz, Wilhelm, Baden-Baden GER, 1870.08.02, https://lichess.org/study/YuoLOpzE/ayAvgP7t
-
-Game: Paulsen, Louis - Tarrasch, Siegbert, Nuremberg, 1888.08.14, https://lichess.org/study/e7ARwPCA/hDX9YGL2
-
-Game: Paulsen, Louis - Tarrasch, Siegbert, Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/AplYmvi0
-
-Game: Paulsen, Wilfried - Tarrasch, Siegbert, Dresden, 1892.07.18, https://lichess.org/study/pdteMCe2/HGWWO7YC
-
-Game: Wilfried Paulsen - Tarrasch, Siegbert, Hamburg, 1885.07.13, https://lichess.org/study/PVzIGg2F/4f6SB23T
-
-Game: Pavlovic, Milos M - Leon Hoyos, Manuel, Richardson UTD USA, 2012.03.11, https://lichess.org/study/dl0ynDGz/ZlYnHXTe
-
-Game*: Penrose, Jonathan - Tal, Mikhail, Leipzig, 1960.??.??, https://lichess.org/study/5mW5ZvOp/NJOwPJpj
-
-Game*: Tigran Vartanovich Petrosian - Max Euwe, Zurich SUI, 1953.09.15, https://lichess.org/study/1O0UELn6/C4zHMbKM
-
-Game*: Tigran Vartanovich Petrosian - Henrique Mecking, Palma ESP, 1969.11.27, https://lichess.org/study/6nWh4o7P/RHGHxoux
-
-Game*: Tigran Vartanovich Petrosian - Lajos Portisch, Palma ESP, 1974.01.27, https://lichess.org/study/6nWh4o7P/yxM53YCq
-
-Game*: Tigran Vartanovich Petrosian - Lajos Portisch, Palma ESP, 1974.02.05, https://lichess.org/study/6nWh4o7P/VvoQnEWP
-
-Game*: Tigran Vartanovich Petrosian - Jacob Yuchtman, Tbilisi URS, 1959.01.13, https://lichess.org/study/6nWh4o7P/AnIFzIAa
-
-Game*: Petrosjan, Tigran - Botvinnik, Mikhail, Mosca, 1963.??.??, https://lichess.org/study/5mW5ZvOp/XNQNypI8
-
-Game*: Petrosjan, Tigran - Donner, Jan Hein, Santa Monica, 1966.??.??, https://lichess.org/study/E787KvJ9/W0hAvuKX
-
-Game*: Petrosjan, Tigran - Fischer, Robert, Bled/Zagreb/Belgrade, 1959.??.??, https://lichess.org/study/uDpA956I/3bUr9ck0
-
-Game*: Petrosjan, Tigran - Lutikov, Anatoly, Tbilisi, 1959.??.??, https://lichess.org/study/uDpA956I/GOYZCzr3
-
-Game*: Petrosjan, Tigran - Portisch, Lajos, Palme de Mallorca, 1974.??.??, https://lichess.org/study/5mW5ZvOp/CCCbFwd5
-
-Game*: Petrosjan, Tigran - Ree, Hans, Skopje, 1972.??.??, https://lichess.org/study/E787KvJ9/q0kuNWNC
-
-Game*: Petrosjan, Tigran - Smyslov, Vassily, Mosca, 1949.??.??, https://lichess.org/study/5mW5ZvOp/A3Y3NmCb
-
-Game*: Petrosjan, Tigran - Smyslov, Vassily, 1961.??.??, https://lichess.org/study/2a0vxusd/KjG2XRmF
-
-Game*: Petrosjan, Tigran - Zeinaly, 1946.??.??, https://lichess.org/study/NHyuBHth/2mV26XDl
-
-Game*: Pfeiffer, G. - Guimard, C., Dubrovnik, 1950.??.??, https://lichess.org/study/k4B16BhD/z77kR2dx
-
-Game*: Pfleger, Helmut - Domnitz, Zadok, Tel Aviv, 1964.??.??, https://lichess.org/study/5mW5ZvOp/rNgaAdBv
-
-Game*: Phillsbury - Mason, 1895.??.??, https://lichess.org/study/Wn7aMkPy/vv0T6v7K
-
-Game*: PHOENIXSTARK - HowToWinAtChess, Chess.com, 2026.01.02, https://lichess.org/study/P3XM0aKf/Lrz9SreO
-
-Game*: Piazzini, Luis Roberto - Da Silva Rocha, Adhemar, Buenos Aires, 1935.??.??, https://lichess.org/study/6P90HTwf/mfGxnoIF
-
-Game: Harry Nelson Pillsbury - Isidor Gunsberg, Monte Carlo MNC, 1902.02.22, https://lichess.org/study/P33p6LIH/2pNeNEot
-
-Game: Harry Nelson Pillsbury - Emanuel Lasker, Nuremberg GER, 1896.07.29, https://lichess.org/study/P33p6LIH/qh9rn0vc
-
-Game*: Pillsbury - Marco, 1900.??.??, https://lichess.org/study/Wn7aMkPy/AeKJURj7
-
-Game fragment*: Pillsbury - Marco, Paris, 1900.??.??, https://lichess.org/study/royrjgMZ/yfGZOfg5
-
-Game*: Pillsbury - Marco, Paris, 1900.??.??, https://lichess.org/study/royrjgMZ/FGjhhhC4
-
-Game fragment*: Pillsbury - Tarrasch, 1895.??.??, https://lichess.org/study/57Oq4l6Z/181hr1VS
-
-Game fragment*: Pillsbury - Wolf, Monte Carlo, 1903.??.??, https://lichess.org/study/XH8xSdBs/zc0ESXRH
-
-Game: Pillsbury, H. N. - Fernandez, Hanover, 1900.03.16, https://lichess.org/study/tmHOF54H/CDvlnfxK
-
-Game*: Pillsbury, H. N. - Lee, London, 1899.??.??, https://lichess.org/study/XH8xSdBs/KtYj8VQd
-
-Game fragment: Pillsbury, H. N. - NN, TAOTC, https://lichess.org/study/V4VFISZI/o7nxUwZ5
-
-Game*: Pillsbury, Harry Nelson - Gunsberg, Isidor, Hastings, 1895.??.??, https://lichess.org/study/uDpA956I/PwsaC1Fy
-
-Game: Pillsbury, Harry Nelson - Marco, Georg, Paris FRA, 1900.06.08, https://lichess.org/study/P33p6LIH/IqbReOFY
-
-Game: Pillsbury, Harry Nelson - Tarrasch, Siegbert, Hastings, 1895.??.??, https://lichess.org/study/P33p6LIH/U8gxlvVJ
-
-Game*: Pillsbury, Harry Nelson - Wolf, Heinrich, Monte Carlo, Manaco, 1902.??.?? (dup #61), https://lichess.org/study/r1NROPIm/mV89s8UH
-
-Game: Pillsbury, Harry Nelson - Wolf, Heinrich, Monte Carlo, Manaco, 1902.??.?? (dup #61), https://lichess.org/study/r1NROPIm/v8tDpTDC
-
-Game*: Herman Pilnik - Fridrik Olafsson, Reykjavik, 1955.??.??, https://lichess.org/study/6AnWFDzO/PWiwoccT
-
-Game*: Pilnik, Herman - Geller, Efim, Gothenburg, 1955.??.??, https://lichess.org/study/5mW5ZvOp/KK4LjRM8
-
-Game*: Pilnik, Herman - Olafsson, Fridrik, Reykjavik, 1955.??.??, https://lichess.org/study/aAtElCsv/S5OiGWCd
-
-Game: Piorun, K. - Hillarp Persson, T., Stockholm, 2014.01.05, https://lichess.org/study/wAhu1kg2/WTrwdlAG
-
-Game*: Pitschak - Flohr, 1934.??.??, https://lichess.org/study/Wn7aMkPy/CAu9snB7
-
-Game fragment: Place - NN, Cafe do la Regence, 1922.??.??, https://lichess.org/study/tmHOF54H/QXZZDO8K
-
-Game*: Kazimierz Plater - Mikhail Botvinnik, Moscow URS, 1947.12.03, https://lichess.org/study/1O0UELn6/2DrdjkKg
-
-Game: Polgar, Judit - Dominguez Perez, Leinier, Khanty-Mansiysk, 2011.09.06, https://lichess.org/study/AxW3sYhA/gYjtaGnt
-
-Game fragment: Pollock - Allies, Buffalo, 1893.??.??, https://lichess.org/study/1JWXdF87/BYkIphGo
-
-Game: Pollock - Hall, TAOTC, 1890.??.??, https://lichess.org/study/tmHOF54H/TJoMFgg4
-
-Game*: Polugaevskij, Lev - Balashov, Yuri, Leningrad, 1977.??.??, https://lichess.org/study/NHyuBHth/Dfouv34E
-
-Game*: Polugaevskij, Lev - Ftacnik, Lubomir, 1982.??.??, https://lichess.org/study/amMc8Mig/Od5RyRBG
-
-Game*: Polugaevskij, Lev - Gulko, Boris, Mosca, 1976.??.??, https://lichess.org/study/amMc8Mig/vZAxL7Dm
-
-Game*: Polugaevskij, Lev - Ivkov, Borislav, 1969.??.??, https://lichess.org/study/k4B16BhD/HbsjjBgZ
-
-Game*: Polugaevskij, Lev - Kortchnoj, Viktor, Buenos Aires, 1980.??.??, https://lichess.org/study/E787KvJ9/02bY008O
-
-Game*: Polugaevskij, Lev - Mecking, Henrique, Mar del Plata, 1971.??.??, https://lichess.org/study/NHyuBHth/AIghi9BI
-
-Game*: Polugaevskij, Lev - Padevsky, Nikola, La Habana, 1966.??.??, https://lichess.org/study/uDpA956I/kEpKdSG7
-
-Game*: Polugaevskij, Lev - Petrosjan, Tigran, Mosca, 1969.??.??, https://lichess.org/study/5mW5ZvOp/Yo2rMWFi
-
-Game*: Polugaevskij, Lev - Petrosjan, Tigran, Mosca, 1983.??.??, https://lichess.org/study/2a0vxusd/NLq3HkjF
-
-Game*: Polugaevskij, Lev - Romanishin, Oleg, Tbilisi, 1978.??.??, https://lichess.org/study/2a0vxusd/aH5NqCsg
-
-Game*: Polugaevskij, Lev - Tal, Mikhail, Mosca, 1969.??.??, https://lichess.org/study/5mW5ZvOp/fUZNzUKw
-
-Game*: Polugaevskij, Lev - Tal, Mikhail, Leningrado, 1971.??.??, https://lichess.org/study/amMc8Mig/XFmkGyvd
-
-Game*: Polugaevskij, Lev - Torre, Eugenio, 1981.??.??, https://lichess.org/study/2a0vxusd/E5Ux9lA9
-
-Game*: Polugaevsky, Lev - Ivkov, Borislav, Belgrade, 1969.??.??, https://lichess.org/study/dl0ynDGz/vgUqToe4
-
-Game: Ponomariov, Ruslan - Radjabov, Teimour, Medias, 2010.06.16, https://lichess.org/study/dl0ynDGz/UoZmK12g
-
-Game*: ponygirl616 - lapserdak, https://lichess.org/ug2rl72k, 2021.10.07, https://lichess.org/study/5HpiTVZ4/oldVCQ6l
-
-Game fragment: Ponziani, D. L. - NN, TAOTC, 1769.??.??, https://lichess.org/study/V4VFISZI/pXAjTnDn
-
-Game*: Porges - Tarrasch, 1892.??.??, https://lichess.org/study/cev86fwf/rzgNMWrz
-
-Game: Porges, Moritz - Tarrasch, Siegbert, Dresden, 1892.07.18, https://lichess.org/study/pdteMCe2/tLePh4FB
-
-Game*: Lajos Portisch - Samuel Reshevsky, Petropolis BRA, 1973.08.12, https://lichess.org/study/6nWh4o7P/UUwuKqd9
-
-Game*: Portisch, Lajos - Dzindzichashvili, Roman, 1978.??.??, https://lichess.org/study/amMc8Mig/FrwU4uKH
-
-Game*: Portisch, Lajos - Radulov, Ivan, 1977.??.??, https://lichess.org/study/amMc8Mig/9tQdXwoc
-
-Game*: Portisch, Lajos - Reshevsky, Samuel, Palma de Mallorca, 1970.??.??, https://lichess.org/study/5mW5ZvOp/msqQjKu5
-
-Game: Predojevic, Borki - Nestorovic, Dejan, Sarajevo, 2013.06.07, https://lichess.org/study/dl0ynDGz/bp0jRPKQ
-
-Game fragment*: Prins - Kinzl, 1955.??.??, https://lichess.org/study/t6bOK7CT/CZpzpcFb
-
-Game fragment*: Prins - Kinzl, 1955.??.??, https://lichess.org/study/t6bOK7CT/frhozOMy
-
-Game*: USSR Program - Amateur, https://lichess.org/study/Dw5rZPMK/5Nnc3RWU, 1961.??.??, https://lichess.org/study/Dw5rZPMK/cOfQR5Jq
-
-Game*: USSR Program - Amateur, 1961.??.??, https://lichess.org/study/Dw5rZPMK/5Nnc3RWU
-
-Game: Pruijssers, Roeland - Izsak, Gyula, Germany, 2012.10.21, https://lichess.org/study/dl0ynDGz/mRoJIY69
-
-Game: Pruijssers, Roeland - Reinderman, Dimitri, Amsterdam, 2013.07.11, https://lichess.org/study/wAhu1kg2/LzMyWE3e
-
-Game*: Przepiorka - Gottesdiener, 1924.??.??, https://lichess.org/study/rzdDzNB4/RwvoJ4AO
-
-Game*: Przepiorka - Prokes, 1929.??.??, https://lichess.org/study/Wn7aMkPy/Mbju5XYQ
-
-Game*: Przepiorka - Prokes, 1929.??.??, https://lichess.org/study/WLE9ibAW/K0zIQv9n
-
-Game*: Przepiorka - Prokes, Budapest, 1929.??.??, https://lichess.org/study/6P90HTwf/qBikZar4
-
-Game*: Przepiorka, Dawid - Havasi, Kornel, Budapest, 1929.??.??, https://lichess.org/study/6P90HTwf/muxna7cx
-
-Game*: Psakhis, Lev - Romanishin, Oleg, 1986.??.??, https://lichess.org/study/uDpA956I/egwYbjn5
-
-Game*: Pytlakowski, Andrzej - Smyslov, Vassily, Helsinki, 1952.??.??, https://lichess.org/study/2a0vxusd/h0qG0Bum
-
-Game*: Quinteros, Miguel - Larsen, Bent, 1973.??.??, https://lichess.org/study/sDsyelY0/KsPj6neq
-
-Game*: Quinteros, Miguel - Ribli, Zoltan, 1974.??.??, https://lichess.org/study/2a0vxusd/KuKVudX1
-
-Game: G. R. - NN, Nice, 1941.??.??, https://lichess.org/study/1JWXdF87/ngpsr4p6
-
-Game*: Rabar, Braslav - Barcza, Gedeon, Helsinki, 1952.??.??, https://lichess.org/study/xG5sFI6f/9UNRItt1
-
-Game: Rabinovitch, E. - Goglidze, S., Russia, 1939.??.??, https://lichess.org/study/1JWXdF87/KkrHN8NQ
-
-Game: Rabinowitsch, E. - Nimzowitsch, A., Baden-Baden, 1925.??.??, https://lichess.org/study/EDmMFcbv/wFff2UQ1
-
-Game*: Rahman, Ziaur - Areshchenko, Alexander, Chennai IND, 2011.1.24, https://lichess.org/study/40nLE9YK/BfwQHJpj
-
-Game*: Readers - KAISSA, 1972.??.??, https://lichess.org/study/Dw5rZPMK/7tHOotRT
-
-Game*: Readers - KAISSA, 1972.??.??, https://lichess.org/study/Dw5rZPMK/s0d5VAPm
-
-Game fragment*: Rechlis - Sherf, 1986.??.??, https://lichess.org/study/E787KvJ9/XNyDMh9a
-
-Game*: Ree, Hans - Beliavsky, Alexander, Lucerna, 1982.??.??, https://lichess.org/study/5mW5ZvOp/tJMezMC8
-
-Game fragment: Regensburger - Tarrasch, Siegbert, Nuremberg, 1888.??.??, https://lichess.org/study/e7ARwPCA/g558EACE
-
-Game: Renaud, G. - NN, Nice Chess Club, 1923.06.16, https://lichess.org/study/tmHOF54H/OR1jIQCg
-
-Game: Renaud, G. - NN, Nice, 1940.12.??, https://lichess.org/study/1JWXdF87/4YNG3wJI
-
-Game: Renet, Olivier - Giri, Anish, Mulhouse, 2011.05.27, https://lichess.org/study/wAhu1kg2/M6hDrckx
-
-Game: Renold, Q. - Agassiz, R., Lausanne, 1903.??.??, https://lichess.org/study/tmHOF54H/1EHl57yZ
-
-Game: Repetto, Carlos Torre - Saemisch, Friedrich, Moscow URS, 1925.11.19, https://lichess.org/study/YuoLOpzE/iM1QgXqW
-
-Game fragment*: Reshevsky - Persitz, 1958.??.??, https://lichess.org/study/1DTYYVAE/tk85ypW0
-
-Game*: Reshevsky, Samuel - Benko, Pal, Los Angeles, 1963.??.??, https://lichess.org/study/E787KvJ9/QYWcBNBe
-
-Game*: Reshevsky, Samuel - Fine, Reuben, 1933.??.??, https://lichess.org/study/2a0vxusd/dx61CvX7
-
-Game*: Reshevsky, Samuel - Fischer, Robert, Los Angeles, 1961.??.??, https://lichess.org/study/k4B16BhD/ZU5rjWEr
-
-Game*: Reshevsky, Samuel - Petrosjan, Tigran, Zuerich, 1953.??.??, https://lichess.org/study/2a0vxusd/xzcBStRZ
-
-Game*: Reshevsky, Samuel - Thomas, Andrew, Hastings, 1937.??.??, https://lichess.org/study/k4B16BhD/EZQVLzXz
-
-Game*: Reshevsky, Samuel - Woliston, Philip, New York, 1940.??.??, https://lichess.org/study/k4B16BhD/3KwAEedx
-
-Game*: Reshevsky, Samuel Herman - Gligoric, Svetozar, New York, 1952.??.??, https://lichess.org/study/eD6ECZu4/Bsh6q4Jf
-
-Game*: Reshevsky, Samuel Herman - Horowitz, Israel Albert, New York, 1956.??.??, https://lichess.org/study/aAtElCsv/o0smFUwT
-
-Game*: Reshevsky, Samuel Herman - Olafsson, Fridrik, Dallas, 1957.??.??, https://lichess.org/study/uUaMniQc/Ut8hLoyd
-
-Game fragment*: Reshevsky, Samuel Herman - Olafsson, Fridrik, Dallas, 1957.??.??, https://lichess.org/study/uUaMniQc/RN41fGf4
-
-Game*: Reshevsky, Samuel Herman - Tartakower, Saviely, Kemeri, 1937.06.??, https://lichess.org/study/uUaMniQc/IYr1Q6sq
-
-Game fragment*: Reshevsky, Samuel Herman - Tartakower, Saviely, Kemeri, 1937.06.??, https://lichess.org/study/uUaMniQc/y5X1bxCS
-
-Game*: Samuel Herman Reshevsky - Israel Albert Horowitz, New York, 1956.??.??, https://lichess.org/study/6AnWFDzO/wtt5Eeau
-
-Game*: Samuel Reshevsky - Lhamsuren Myagmarsuren, Sousse TUN, 1967.10.16, https://lichess.org/study/FlL0kWtQ/CwKsUMMI
-
-Game fragment*: Reti - Alekhine, 1925.??.??, https://lichess.org/study/57Oq4l6Z/gztDRhsH
-
-Game*: Reti - Lasker, Dr., 1924.??.??, https://lichess.org/study/t6bOK7CT/vBRnELtQ
-
-Game fragment: Reti, R. - Hromadka, K., Pistyan, 1922.??.??, https://lichess.org/study/V4VFISZI/OvghT71p
-
-Game fragment*: Reti, Richard - Bogoljuboff, E. D., New York, 1924.??.??, https://lichess.org/study/OMNHm3q5/9jmuLLwI
-
-Game*: Reti, Richard - Bogoljubow, Efim, New York, 1924.??.??, https://lichess.org/study/rzdDzNB4/yV8zU6GX
-
-Game: Reti, Richard - Capablanca, Jose, New York, 1924.??.?? (dup #62), https://lichess.org/study/r1NROPIm/tkBGOcX8
-
-Game*: Reti, Richard - Capablanca, Jose, New York, 1924.??.?? (dup #62), https://lichess.org/study/r1NROPIm/uyGpLcOr
-
-Game*: Reti, Richard - Carls, Carl, Baden-Baden, 1925.??.??, https://lichess.org/study/uDpA956I/aJ3KrYXI
-
-Game: Reti, Richard - Romanovsky, Peter Arsenievich, Moscow URS, 1925.11.25, https://lichess.org/study/YuoLOpzE/pUiGpiSz
-
-Game*: Reti, Richard - Rubinstein, Akiba, 1920.??.??, https://lichess.org/study/sDsyelY0/BEV0RmqP
-
-Game: Reti, Richard - Rubinstein, Akiba, Karlsbad CSR, 1923.05.04, https://lichess.org/study/P33p6LIH/Gc0ReXhP
-
-Game: Reti, Richard - Tartakower, Savielly, Berlin, 1920.??.?? (dup #79), https://lichess.org/study/r1NROPIm/WoNN7tid
-
-Game*: Reti, Richard - Tartakower, Savielly, Berlin, 1920.??.?? (dup #79), https://lichess.org/study/r1NROPIm/lrdwxoOf
-
-Game: Reti, Richard - Tartakower, Xavier, TAOTC, https://lichess.org/study/tmHOF54H/9mik2Fcm
-
-Game*: RIBBIT - CHESS 4.0, 1974.??.?? (dup #38), https://lichess.org/study/Dw5rZPMK/DQ33vwBr
-
-Game*: RIBBIT - CHESS 4.0, 1974.??.?? (dup #38), https://lichess.org/study/Dw5rZPMK/ZqUMozQS
-
-Game*: Ribli, Zoltan - Karpov, Anatoly, Amsterdam, 1980.??.??, https://lichess.org/study/5mW5ZvOp/y3cBT99y
-
-Game fragment: Richardson - Delmar, United States, 1850.??.??, https://lichess.org/study/1JWXdF87/JUHfXS1V
-
-Game*: Bernhard Richter - Siegbert Tarrasch, Nuremberg GER, 1888.??.??, https://lichess.org/study/ChLIRMuv/dmfZjAIg
-
-Game: Richter, Bernhard - Tarrasch, Siegbert, Halle, 1883.??.??, https://lichess.org/study/PVzIGg2F/XtYfPZbz
-
-Game: Richter, Bernhard - Tarrasch, Siegbert, Nuremberg, 1888.??.??, https://lichess.org/study/e7ARwPCA/evym9eBQ
-
-Game*: Richter, Bernhard - Tarrasch, Siegbert, Nuremberg GER, 1888.??.??, https://lichess.org/study/aAtElCsv/74Roty83
-
-Game fragment*: Riemann - Anderssen, Breslau, 1876.??.??, https://lichess.org/study/1JWXdF87/EDpzImSo
-
-Game: Riemann, Fritz - Tarrasch, Siegbert, Breslau, 1880.??.??, https://lichess.org/study/PVzIGg2F/WykB9yMn
-
-Game*: Riemann, Fritz - Tarrasch, Siegbert, Leipzig m, 1883.??.??, https://lichess.org/study/PVzIGg2F/Y7hz9H3k
-
-Game: Riemann, Fritz - Tarrasch, Siegbert, Hamburg, 1885.07.13, https://lichess.org/study/e7ARwPCA/LjcgMHHr
-
-Game*: Riumin, Nikolay Nikolaevich - Budo, A., Moscow, 1931.??.??, https://lichess.org/study/6P90HTwf/f64CA29q
-
-Game*: Riumin, Nikolay Nikolaevich - Poliak, Abram Borisovich, Odessa, 1929.??.??, https://lichess.org/study/6P90HTwf/BLZNdAIS
-
-Game*: Rob6654 - HowToWinAtChess, Chess.com, 2025.10.18, https://lichess.org/study/P3XM0aKf/Wmd95QY0
-
-Game*: robi79r - HowToWinAtChess, Chess.com, 2026.02.17, https://lichess.org/study/rG6bFitI/VSR40J1F
-
-Game fragment: Robinson - Chatard, TAOTC, https://lichess.org/study/XH8xSdBs/IanHtR4B
-
-Game*: Ludwig Roedl - Hans Hermann, Bad Pyrmont GER, 1949.05.07, https://lichess.org/study/vJTD9Iyi/eO4pUsLd
-
-Game*: Romanishin, Oleg - Petrosjan, Tigran, 1975.??.??, https://lichess.org/study/E787KvJ9/zlmyk25i
-
-Game*: Romanovskij, Peter - Stahlberg, Gideon, 1925.??.??, https://lichess.org/study/amMc8Mig/C6XuFeO6
-
-Game*: Romanovskij, Peter - Verlinsky, Boris, Moscow, 1925.??.??, https://lichess.org/study/sDsyelY0/WXkIW6jB
-
-Game*: Peter Arsenievich Romanovsky - Andrey Alexandrovich Smorodsky, Moscow URS, 1924.09.??, https://lichess.org/study/1O0UELn6/WSL5QMD1
-
-Game fragment: Rometti, B. - NN, Nice, 1946.??.??, https://lichess.org/study/V4VFISZI/aCI7vP7u
-
-Game: Rosanes, Jakob - Anderssen, Adolf, Breslau, 1862.??.??, https://lichess.org/study/P33p6LIH/7U7MmNir
-
-Game*: Rosanes, Jakob - Anderssen, Adolf, Breslau GER, 1863.??.??, https://lichess.org/study/P33p6LIH/CTEKv1Ui
-
-Game: Rosenbaum - Tarrasch, Siegbert, Halle, 1883.??.??, https://lichess.org/study/PVzIGg2F/IM3zlqbu
-
-Game: Rosenthal, Samuel - Steinitz, Wilhelm, Vienna AUH, 1873.08.04, https://lichess.org/study/P33p6LIH/dbx6Zwav
-
-Game fragment*: Rotlevi - Rubinstein, TAOTC, https://lichess.org/study/OMNHm3q5/sEa9RbcH
-
-Game*: Rotlevi, G. - Rubinstein, Akiba, Lodz, 1907.??.??, https://lichess.org/study/E787KvJ9/1wMO0IP1
-
-Game*: Akiba Rubinstein - Frank James Marshall, Breslau GER, 1912.08.01, https://lichess.org/study/LHmryePD/me74Zv8L
-
-Game*: Akiba Rubinstein - Carl Schlechter, Berlin GER, 1918.01.26, https://lichess.org/study/vJTD9Iyi/lDcvMb9i
-
-Game*: Akiba Rubinstein - Savielly Tartakower, Marianske Lazne CSR, 1925.05.25, https://lichess.org/study/LHmryePD/o9nZxPZf
-
-Game fragment*: Rubinstein - Canal, 1929.??.??, https://lichess.org/study/1DTYYVAE/voMkkPiz
-
-Game*: Rubinstein - Maroczy, 1920.??.??, https://lichess.org/study/Wn7aMkPy/QB7bsnxe
-
-Game*: Rubinstein - Marshall, 1912.??.??, https://lichess.org/study/1DTYYVAE/mJvOFl7X
-
-Game*: Rubinstein - Salwe, 1908.??.??, https://lichess.org/study/Wn7aMkPy/DpmKghBP
-
-Game fragment*: Rubinstein - Tartakover, 1925.??.??, https://lichess.org/study/1DTYYVAE/Q3VJlwsA
-
-Game fragment*: Rubinstein - Teichmann, 1908.??.??, https://lichess.org/study/cev86fwf/M7FDqaAp
-
-Game fragment: Rubinstein, A. - Belsitzmann, Warsaw, 1917.??.??, https://lichess.org/study/XH8xSdBs/a0RNIyql
-
-Game: Rubinstein, A. - Duras, O., Carlsbad, 1911.??.??, https://lichess.org/study/EDmMFcbv/NE5uWfoX
-
-Game: Rubinstein, A. - Levenfish, G., Carlsbad, 1911.??.??, https://lichess.org/study/EDmMFcbv/cndK0xv5
-
-Game*: Rubinstein, A. - Nimzowitsch, A., Marienbad, 1925.??.??, https://lichess.org/study/EDmMFcbv/ZyIiEa8n
-
-Game: Rubinstein, A. - Znosko-Borovsky, St. Petersburg, 1909.??.??, https://lichess.org/study/EDmMFcbv/BohKlYBF
-
-Game*: Rubinstein, Akiba - Alekhine, Alexander, Karlsbad, 1911.??.??, https://lichess.org/study/k4B16BhD/xaYDXhIl
-
-Game*: Rubinstein, Akiba - Carls, Carl Johan Margot, Baden-Baden, 1925.??.??, https://lichess.org/study/m0LDLCIA/eeHUWMNm
-
-Game*: Rubinstein, Akiba - Dus Chotimirsky, Fedor Ivanovich, Karlsbad, 1911.??.??, https://lichess.org/study/izyugXAJ/9f8VMJWt
-
-Game fragment*: Rubinstein, Akiba - Dus Chotimirsky, Fedor Ivanovich, Karlsbad, 1911.??.??, https://lichess.org/study/izyugXAJ/BOjqbQzk
-
-Game: Rubinstein, Akiba - Hromadka, Karel, Ostrava CSR, 1923.07.05, https://lichess.org/study/P33p6LIH/4TvVVeJ2
-
-Game*: Rubinstein, Akiba - Johner, Paul, Karlsbad, 1929.??.??, https://lichess.org/study/sDsyelY0/IpS3kIwL
-
-Game: Rubinstein, Akiba - Lasker, Emanuel, Moscow URS, 1925.11.16, https://lichess.org/study/P33p6LIH/sK8cWY28
-
-Game*: Rubinstein, Akiba - Maroczy, Geza, Gothenburg, 1920.??.??, https://lichess.org/study/amMc8Mig/tPHYQ3ad
-
-Game*: Rubinstein, Akiba - Mieses, Jacques, Bad Kissingen, 1928.??.??, https://lichess.org/study/eD6ECZu4/37dXJgPW
-
-Game*: Rubinstein, Akiba - Salwe, Georg, Lodz, 1908.??.??, https://lichess.org/study/5mW5ZvOp/yddisqCv
-
-Game*: Rubinstein, Akiba - Tarrasch, Siegbert, Karlsbad, 1923.??.??, https://lichess.org/study/k4B16BhD/8C2GBo7x
-
-Game*: Rubinstein, Akiba - Treybal, Karel, Karlsbad, 1929.??.??, https://lichess.org/study/NHyuBHth/zB01rmCJ
-
-Game: Rubinstein, Akiba - Vidmar, Milan, Berlin DEU, 1918.04.22, https://lichess.org/study/P33p6LIH/ITcp3Ufe
-
-Game*: Ruger - Gebhard, 1915.??.??, https://lichess.org/study/Wn7aMkPy/NgIzWrk4
-
-Game*: Denker. A. S. - Klein, H. V., New York, 1944.??.??, https://lichess.org/study/1JWXdF87/KNByFTU8
-
-Game*: Anahita Sadjadi - Pascal Grzeca, 2005, https://lichess.org/study/IB6tbWsz/IoXy1EFl
-
-Game*: sadramg2 - HowToWinAtChess, Chess.com, 2025.12.16, https://lichess.org/study/P3XM0aKf/jhCorT6P
-
-Game: Saemisch, Friedrich - Engel, Jindrich, Brno CSR, 1928.09.??, https://lichess.org/study/YuoLOpzE/QEhR895j
-
-Game*: Saemisch, Fritz - Alekhine, Alexander, 1926.??.??, https://lichess.org/study/amMc8Mig/BAwq3ZWS
-
-Game*: Saidy, Anthony - Fischer, Robert, New York, 1963.??.??, https://lichess.org/study/k4B16BhD/k2w1eEMO
-
-Game*: Saidy, Anthony - Fischer, Robert, New York, 1965.??.??, https://lichess.org/study/sDsyelY0/tgpijsnM
-
-Game*: Salwe, Georg - Alapin, Simon, Vienna, 1908.??.??, https://lichess.org/study/6P90HTwf/TSQw6fzo
-
-Game: Samisch, F. - Nimzowitsch, A., Copenhagen, 1923.??.??, https://lichess.org/study/EDmMFcbv/2MWyTlbY
-
-Game: Sasikiran, Krishnan - Satyapragyan, Swayangsu, Kolkata, 2009.12.23, https://lichess.org/study/wAhu1kg2/TONLRNjB
-
-Game*: Savon, Vladimir - Spassky, Boris, Baku, 1961.??.??, https://lichess.org/study/uDpA956I/uKknW5gr
-
-Game: Schallop, E. - Gossip, Manchester, 1900.??.??, https://lichess.org/study/XH8xSdBs/uZmnmcQe
-
-Game: Schallopp, Emil - Tarrasch, Siegbert, Berlin, 1882.??.??, https://lichess.org/study/PVzIGg2F/YrSaxG00
-
-Game: Schallopp, Emil - Tarrasch, Siegbert, Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/6WBxtCUd
-
-Game: Schallopp, Emil - Tarrasch, Siegbert, Manchester, 1890.08.30, https://lichess.org/study/bELN6Owi/u9wMAB17
-
-Game: Scheve - Teichmann, 1907.??.??, https://lichess.org/study/Wn7aMkPy/CbCCUZWm
-
-Game fragment*: Scheve, Von - Tarrasch, 1892.??.??, https://lichess.org/study/cev86fwf/bKacZJNm
-
-Game*: Emmanuel Schiffers - Siegbert Tarrasch, Leipzig GER, 1894.09.13, https://lichess.org/study/mj8UtUBc/Sr6jjofy
-
-Game fragment*: Schiffers - Tchigorin, Berlin, 1897.??.??, https://lichess.org/study/tmHOF54H/ynMS1g88
-
-Game: Schiffers, Emmanuel - Tarrasch, Siegbert, Leipzig GER, 1894.09.13, https://lichess.org/study/UQieNXft/TsvGAtj5
-
-Game*: Schlechter, Carl - Janowsky, David, 1900.??.??, https://lichess.org/study/uDpA956I/H1S2hkzP
-
-Game: Schlechter, Carl - John, Walter, Barmen GER, 1905.08.22, https://lichess.org/study/P33p6LIH/41yT5BwM
-
-Game: Schlechter, Carl - Marco, Georg, Monte Carlo MNC, 1904.02.18, https://lichess.org/study/P33p6LIH/mbgkaPzu
-
-Game*: Schlosser, Philipp - Van Wely, Loek, Belfort FRA, 2012.06.10, https://lichess.org/study/AxW3sYhA/dscB0YmR
-
-Game*: Schmidt, Wlodzimierz - Kasparov, Gary, Dubai (United Arab Emirates), 1986.??.??, https://lichess.org/study/NHyuBHth/RH2N38Yo
-
-Game: Schottlaender, Arnold - Tarrasch, Siegbert, Dresden, 1892.07.18, https://lichess.org/study/pdteMCe2/NYNZyze7
-
-Game*: Schubert, Christian - Georgiev, Krum, 1977.??.??, https://lichess.org/study/2a0vxusd/yQz1vrOd
-
-Game: Schubert, Frantisek - Schlechter, Carl, Vienna AUH, 1915.12.??, https://lichess.org/study/P33p6LIH/y6DrOAWE
-
-Game fragment: Schulten - Boden, TAOTC, https://lichess.org/study/XH8xSdBs/7tFb9y0k
-
-Game*: Schulten, J. - Morphy, Paul, 1857.??.??, https://lichess.org/study/2a0vxusd/6Mrk69Kh
-
-Game*: Schulten, John - Morphy, Paul, New York, 1857.??.??, https://lichess.org/study/KrLT8eS5/6oRg5gfJ
-
-Game*: Schulten, John - Morphy, Paul, New York, ??.??.1857, https://lichess.org/study/KrLT8eS5/fuAkePjF
-
-Game: Schulten, John William - Morphy, Paul, New York, NY USA, 1857.11.??, https://lichess.org/study/MNnC56w2/jg8O4DTS
-
-Game*: Schulten, John William - Morphy, Paul, New York, NY USA, 1857.??.?? (dup #81), https://lichess.org/study/MNnC56w2/XjuTEvQZ
-
-Game: Schulten, John William - Morphy, Paul, New York, NY USA, 1857.??.?? (dup #81), https://lichess.org/study/P33p6LIH/jzCUQHW4
-
-Game: Schulten, W. - Horwitz, B., London, 1846.??.??, https://lichess.org/study/tmHOF54H/eSuHaneV
-
-Game fragment: Schwartz - Tarrasch, Siegbert, Nuremberg, 1887.??.??, https://lichess.org/study/e7ARwPCA/cQoVmAAg
-
-Game fragment*: Schwarz - Tarrasch, 1932.??.??, https://lichess.org/study/aAtElCsv/Uyval2tk
-
-Game*: Schwarz, Jacques - Tarrasch, Siegbert, Nuremberg, 1883.07.15, https://lichess.org/study/PVzIGg2F/OlcAAVfy
-
-Game*: Schwietzer, George J - Shrader, Eugene Wesley, St Louis, 1904.??.??, https://lichess.org/study/6P90HTwf/bnjCvU7E
-
-Game*: Seirawan, Yasser - Tal, Mikhail, Montpellier, 1985.??.??, https://lichess.org/study/amMc8Mig/Wtrzy2zZ
-
-Game*: SeRHarD321 - HowToWinAtChess, Chess.com, 2025.11.25, https://lichess.org/study/P3XM0aKf/w7dfikca
-
-Game*: Seykath - HowToWinAtChess, Chess.com, 2026.03.12, https://lichess.org/study/rG6bFitI/1Ay4epQq
-
-Game fragment*: Shabanov - Solobiov, 1969.??.??, https://lichess.org/study/E787KvJ9/PMTuN3Cw
-
-Game*: Shahade, Gregory P - Akobian, Varuzhan, Philadelphia, 2012.04.06, https://lichess.org/study/wAhu1kg2/ghsnzoEB
-
-Game fragment*: Shainswit - Denker, 1939.??.??, https://lichess.org/study/t6bOK7CT/5ttlWe6b
-
-Game*: Shaw, Terrey - Keene, Raymond, Brisbane, 1979.??.??, https://lichess.org/study/NHyuBHth/Lu3JKu6U
-
-Game*: Sherwin, J. T. - Pavey, Max, 1955.??.??, https://lichess.org/study/rzdDzNB4/csfebQRJ
-
-Game*: Sherwin, James T - Reshevsky, Samuel Herman, New York, 1957.??.??, https://lichess.org/study/eD6ECZu4/38xapBhL
-
-Game*: Shishkin, Vadim - Nyzhnyk, Illya, Mamaia ROU, 2013.09.03, https://lichess.org/study/wAhu1kg2/ANugFz3P
-
-Game fragment*: Shishov - Bivshev, 1954.??.??, https://lichess.org/study/5mW5ZvOp/XqQ9QkIn
-
-Game fragment*: Shiva - Szabo, 1955.??.??, https://lichess.org/study/t6bOK7CT/kSooM6GB
-
-Game fragment: Shories, G. - NN, Bradford Chess Club, 1913.??.??, https://lichess.org/study/V4VFISZI/RZ6vnumS
-
-Game*: Short, Nigel D - Karpov, Anatoly, Linares, 1992.??.??, https://lichess.org/study/49AuOOCo/q889DSLW
-
-Game fragment: Showalter - NN, TAOTC, https://lichess.org/study/V4VFISZI/sbF70nw7
-
-Game*: Shrentzel, Israel - Shvidler, Eliahu, Israel, 1985.??.??, https://lichess.org/study/E787KvJ9/QPgRcLL9
-
-Game*: Simacek, Pavel - Jobava, Baadur, Legnica, 2013.05.07, https://lichess.org/study/AxW3sYhA/5YJUPqpR
-
-Game*: Simacek, Pavel - Kanovsky, David, Ostrava CZE, 2010.5.8, https://lichess.org/study/dl0ynDGz/OQ0SCIdy
-
-Game*: Singh, DP. - Navalgund, Niranjan, New Delhi, 2008.01.16, https://lichess.org/study/3Aw3IIVA/GpmKHE9a
-
-Game fragment*: Skold - Keres, Paul, 1966.??.??, https://lichess.org/study/k4B16BhD/Pk79t7u7
-
-Game*: Slayer_A - HowToWinAtChess, Chess.com, 2026.04.15, https://lichess.org/study/rG6bFitI/ywzy2zXx
-
-Game: Smeets, Jan - Tiviakov, Sergei, Netherlands NED, 2014.12.??, https://lichess.org/study/dl0ynDGz/S7XtuwcR
-
-Odds game: Smith, C. F. - NN, TAOTC, 1852.??.??, https://lichess.org/study/tmHOF54H/ZxS44dYx
-
-Game*: Smyslov - Botvinnik, 1954.??.??, https://lichess.org/study/mGhYXeXs/4Zb1YDAJ
-
-Game*: Smyslov, Vasily - Keres, Paul, The Hague NED, 1948.03.16, https://lichess.org/study/49AuOOCo/gs829rtA
-
-Game*: Smyslov, Vassily - Bisguier, Arthur, Moscow, 1955.??.??, https://lichess.org/study/amMc8Mig/aebrXT7g
-
-Game*: Smyslov, Vassily - Botvinnik, Mikhail, Mosca, 1957.??.??, https://lichess.org/study/uDpA956I/sNS2V0NF
-
-Game*: Smyslov, Vassily - Botvinnik, Mikhail, Mosca, 1958.??.??, https://lichess.org/study/2a0vxusd/SUhowcUq
-
-Game fragment*: Smyslov, Vassily - Donner, Jan Hein, Venice, 1950.??.??, https://lichess.org/study/r1NROPIm/faubX1V8
-
-Game*: Smyslov, Vassily - Donner, Jan Hein, Venice, 1950.??.?? (dup #69), https://lichess.org/study/r1NROPIm/3wm92qhI
-
-Game: Smyslov, Vassily - Donner, Jan Hein, Venice, 1950.??.?? (dup #69), https://lichess.org/study/r1NROPIm/5Sv2qekz
-
-Game*: Smyslov, Vassily - Kasparov, Gary, 1981.??.??, https://lichess.org/study/amMc8Mig/4PTBX63L
-
-Game fragment*: Smyslov, Vassily - Keres, Paul, 1952.??.??, https://lichess.org/study/NHyuBHth/YvFAdfAI
-
-Game*: Smyslov, Vassily - Liberzon, Vladimir, Riga, 1968.??.??, https://lichess.org/study/2a0vxusd/q0Pe5t5L
-
-Game*: Smyslov, Vassily - Portisch, Lajos, Tilburg, 1984.??.??, https://lichess.org/study/2a0vxusd/0c4FT7le
-
-Game*: Smyslov, Vassily - Reshevsky, Samuel, Moscow, 1948.??.??, https://lichess.org/study/k4B16BhD/quymJUw8
-
-Game*: Smyslov, Vassily - Rudakovsky, Iosif, Mosca, 1945.??.??, https://lichess.org/study/5mW5ZvOp/K682kK4g
-
-Game*: Smyslov, Vassily - Sax, Gyula, Tilburg, 1979.??.??, https://lichess.org/study/NHyuBHth/CO4vR1Sb
-
-Game*: Smyslov, Vassily - Tal, Mikhail, 1964.??.??, https://lichess.org/study/sDsyelY0/hmSvHrx5
-
-Game*: Smyslov, Vassily - Tal, Mikhail, Mosca, 1969.??.??, https://lichess.org/study/uDpA956I/Mu6SRbyb
-
-Game*: Smyslov, Vassily - Timman, Jan, Moscow, 1981.??.??, https://lichess.org/study/E787KvJ9/mMzgcfNI
-
-Game*: Smyslov, Vassily - Trifunovic, Petar, 1955.??.??, https://lichess.org/study/2a0vxusd/7vINkEaO
-
-Game*: Vasily Smyslov - Arnold Denker, Moskau, UdSSR - USA, 1946.09.12, https://lichess.org/study/l1syl1IJ/sDPFWayO
-
-Game*: Vasily Smyslov - Kristjan Gudmundsson, Reykjavik ISL, 1974.02.??, https://lichess.org/study/6nWh4o7P/o7ENA9so
-
-Game: So, Wesley - Flores Rios, Mauricio, Princeton USA, 2012.12.28, https://lichess.org/study/AxW3sYhA/ufw0m2hu
-
-Game*: Alexey Sokolsky - Mikhail Botvinnik, Leningrad URS, 1938.05.20, https://lichess.org/study/1O0UELn6/5QlETP34
-
-Game*: SOMA - MACHIAVELLI, 1961.??.?? (dup #31), https://lichess.org/study/Dw5rZPMK/H9Rsvh8p
-
-Game*: SOMA - MACHIAVELLI, 1961.??.?? (dup #31), https://lichess.org/study/Dw5rZPMK/jgnUKiW7
-
-Game*: SonoPiki - HowToWinAtChess, Chess.com, 2026.08.07, https://lichess.org/study/gDTJBYjY/Tvf2vzPv
-
-Game*: Boris Spassky - Robert James Fischer, Reykjavik ISL, 1972.07.20, https://lichess.org/study/6nWh4o7P/ctFpLmiL
-
-Game fragment*: Spassky - Pilnik, 1955.??.??, https://lichess.org/study/57Oq4l6Z/mBDtiEaW
-
-Game fragment*: Spassky - Taimanov, 1955.??.??, https://lichess.org/study/57Oq4l6Z/17yKc5OA
-
-Game*: Spassky, Boris - Arutiunian, 1967.??.??, https://lichess.org/study/E787KvJ9/KGTOh76R
-
-Game*: Spassky, Boris - Avtonomov, Leningrad, 1950.??.??, https://lichess.org/study/2a0vxusd/EoUtubTE
-
-Game*: Spassky, Boris - Byrne, Robert, San Juan di Portorico, 1974.??.??, https://lichess.org/study/amMc8Mig/6ZZICEiN
-
-Game*: Spassky, Boris - Fischer, Robert, Santa Monica, 1966.??.??, https://lichess.org/study/sDsyelY0/gUGgtInK
-
-Game fragment*: Spassky, Boris - Gheorghiu, Florin, 1979.??.??, https://lichess.org/study/k4B16BhD/z4DlUxup
-
-Game*: Spassky, Boris - Liberzon, Vladimir, 1960.??.??, https://lichess.org/study/uDpA956I/6gcvqtAE
-
-Game*: Spassky, Boris - Ljubojevic, Ljubomir, 1979.??.??, https://lichess.org/study/sDsyelY0/pzgysvAA
-
-Game*: Spassky, Boris - Petrosjan, Tigran, Mosca, 1966.??.??, https://lichess.org/study/amMc8Mig/OFc8HQ7r
-
-Game*: Spassky, Boris - Portisch, Lajos, 1967.??.??, https://lichess.org/study/2a0vxusd/B7jdPCAQ
-
-Game*: Spassky, Boris - Tal, Mikhail, 1971.??.??, https://lichess.org/study/E787KvJ9/umCkvFwi
-
-Game*: Spassky, Boris - Tal, Mikhail, Tallinn, 1973.??.??, https://lichess.org/study/E787KvJ9/jDVfmIpT
-
-Game*: Spassky, Boris - Tal, Mikhail, Montreal, 1979.??.??, https://lichess.org/study/E787KvJ9/vI3Ajb3f
-
-Game*: Spassky, Boris V - Fischer, Robert James, Sveti Stefan / Belgrade YUG, 1992.10.29, https://lichess.org/study/dl0ynDGz/fDry0EG1
-
-Game fragment*: Spielmann - L'Hermet, Magdeburg, 1927.??.??, https://lichess.org/study/XH8xSdBs/KyIYcsSi
-
-Game*: Spielmann - Wahle, 1926.??.??, https://lichess.org/study/Wn7aMkPy/m5pYBnNL
-
-Game fragment*: Spielmann, R. - Gebhardt, Munich, 1926.??.??, https://lichess.org/study/V4VFISZI/r4dRkPax
-
-Game: Spielmann, R. - Hoenlinger, B., Vienna, 1929.02.??, https://lichess.org/study/XH8xSdBs/6odgIFdj
-
-Game: Spielmann, R. - Nimzowitsch, A., San Sebastian, 1911.??.??, https://lichess.org/study/EDmMFcbv/VY7TOflM
-
-Game: Spielmann, Rudolf - Colle, Edgar, Dortmund GER, 1928.08.04, https://lichess.org/study/YuoLOpzE/4JjQ5mls
-
-Game: Spielmann, Rudolf - Flamberg, Alexander, Mannheim GER, 1914.07.20, https://lichess.org/study/P33p6LIH/Nj0RzP0L
-
-Game*: Spielmann, Rudolf - Keres, Paul, Noordwijk, 1938.??.??, https://lichess.org/study/rzdDzNB4/XJbF7wiR
-
-Game*: Spielmann, Rudolf - Lokvenc, Josef, 1936.??.??, https://lichess.org/study/rzdDzNB4/ZyflMc62
-
-Game*: Spielmann, Rudolf - Nimzowitsch, Aaron, San Sebastian, 1911.??.??, https://lichess.org/study/k4B16BhD/NrNW971S
-
-Game fragment*: Spielmann, Rudolf - Rubinstein, Akiba, 1909.??.??, https://lichess.org/study/k4B16BhD/vIRr8Bou
-
-Game*: Spielmann, Rudolph - Walter, Max, Trentschin-Teplitz, 1928.??.??, https://lichess.org/study/fxEOlxbq/VRwARHTO
-
-Game*: spirit_led_africanist - HowToWinAtChess, Chess.com, 2026.08.31, https://lichess.org/study/gDTJBYjY/EG4VJBRo
-
-Game*: Springe, Werner - Gebhardt, Hans, Munich, 1927.??.??, https://lichess.org/study/MNnC56w2/Rvkxo0X4
-
-Game*: sraysr - HowToWinAtChess, Chess.com, 2026.06.10, https://lichess.org/study/gDTJBYjY/a3B5VBsJ
-
-Game fragment: Stahlberg, G. - Keres, P., Bad Nauheim, 1936.??.??, https://lichess.org/study/V4VFISZI/iAWlna0k
-
-Game fragment: Stamma, Ph. - NN, TAOTC, 1737.??.??, https://lichess.org/study/OMNHm3q5/VnB26eDM
-
-Game: Staunton, Howard - Morphy, Paul, London, 1858.??.??, https://lichess.org/study/MNnC56w2/QsdeQgI6
-
-Game*: Michael Francis Stean - Albin Planinc, Moscow URS, 1975.10.??, https://lichess.org/study/6nWh4o7P/157ffNhy
-
-Game*: Stean, Michael - Filguth, Rubens, Sao Paulo, 1979.??.??, https://lichess.org/study/E787KvJ9/LT07xkao
-
-Game*: Stean, Michael F - Mestel, A Jonathan, Canterbury, 1973.??.??, https://lichess.org/study/6nWh4o7P/7dB9PE3K
-
-Game: Steif, A. - Tarrasch, Siegbert, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/yt3XlZji
-
-Game fragment: Steinbrecher - NN, TAOTC, https://lichess.org/study/OMNHm3q5/k60iF0gw
-
-Game*: Steiner, Herman - Botvinnik, Mikhail, Groningen, 1946.??.??, https://lichess.org/study/rzdDzNB4/qSC9kSSL
-
-Game fragment*: Steinitz - Tchigorin, 1892.??.??, https://lichess.org/study/t6bOK7CT/BGpeE0IJ
-
-Game fragment: Steinitz, W. - NN., TAOTC, https://lichess.org/study/V4VFISZI/L5TQcVKs
-
-Game*: Steinitz, Wilhelm - Von Bardeleben, Curt, Hastings, 1895.??.??, https://lichess.org/study/5mW5ZvOp/jxMhNAv5
-
-Game: Steinitz, Wilhelm - Blackburne, Joseph Henry, London ENG, 1876.02.17, https://lichess.org/study/P33p6LIH/3xO1iwMN
-
-Game: Steinitz, Wilhelm - Chigorin, Mikhail, Havana CUB, 1892.01.07, https://lichess.org/study/P33p6LIH/V1z437N9
-
-Game: Steinitz, Wilhelm - Chigorin, Mikhail, Havana CUB, 1892.01.07 (dup #63), https://lichess.org/study/r1NROPIm/7CfU7dIZ
-
-Game*: Steinitz, Wilhelm - Chigorin, Mikhail, Havana CUB, 1892.01.07 (dup #63), https://lichess.org/study/r1NROPIm/OFhguMyL
-
-Game: Steinitz, Wilhelm - MacDonnell, George Alcock, Dublin IRL, 1865.??.??, https://lichess.org/study/P33p6LIH/oxKImcX8
-
-Game: Steinitz, Wilhelm - Mongredien, Augustus, London ENG, 1863.??.??, https://lichess.org/study/P33p6LIH/UdfgcYYF
-
-Game fragment*: Stepanow, A. S. - NN, Riga, 1899.??.??, https://lichess.org/study/XH8xSdBs/qwGGnDfy
-
-Game: Stojanovic, Dalibor - Ding, Liren, Istanbul, 2012.09.03, https://lichess.org/study/dl0ynDGz/PAjsDZ3V
-
-Game fragment*: Stoltz, Goesta - Kashdan, Isaac, 1928.??.??, https://lichess.org/study/sDsyelY0/bavLhl1S
-
-Game fragment*: Stolz - Kashdan, 1928.??.??, https://lichess.org/study/WTO993dw/kg0NgDnS
-
-Game fragment*: Stolz - Kashdan, 1928.??.??, https://lichess.org/study/cev86fwf/Sj2QDZCn
-
-Game fragment*: Stumpers - Bouwmeester, 1955.??.??, https://lichess.org/study/t6bOK7CT/K82yi56e
-
-Game*: Su6ya_28 - HowToWinAtChess, Chess.com, 2026.03.12, https://lichess.org/study/rG6bFitI/EUdRdU0w
-
-Game fragment*: Suetin, Alexey - Cherepkov, 1967.??.??, https://lichess.org/study/sDsyelY0/3dbVNf4X
-
-Game*: Suetin, Alexey - Matanovic, Aleksandar, 1974.??.??, https://lichess.org/study/NHyuBHth/7T6ainO9
-
-Game fragment*: Swiderski - Nimzowitsch, 1905.??.??, https://lichess.org/study/3khu0Xru/aly593ON
-
-Game*: systemltd2022gmailcom - HowToWinAtChess, Chess.com, 2026.08.07, https://lichess.org/study/gDTJBYjY/zyMi8yqk
-
-Game fragment*: Szabo - Bisguier, 1955.??.??, https://lichess.org/study/1DTYYVAE/WRcz9vjz
-
-Game*: Szabo, Laszlo - Ivkov, Boris, Buenos Aires, 1955.??.??, https://lichess.org/study/eD6ECZu4/sZZbFACW
-
-Game*: Szabo, Laszlo - Kotov, Alexander, Zurigo, 1953.??.??, https://lichess.org/study/k4B16BhD/GNU1GSdK
-
-Game*: Szabo, Laszlo - Spassky, Boris V, Bucharest, 1953.??.??, https://lichess.org/study/eD6ECZu4/VXHlKG6H
-
-Game: Szabó, László - Böök, Eero Einar, Saltsjoebaden, Sweden, 1948.??.?? (dup #77), https://lichess.org/study/r1NROPIm/RnyFq1qJ
-
-Game*: Szabó, László - Böök, Eero Einar, Saltsjoebaden, Sweden, 1948.??.?? (dup #77), https://lichess.org/study/r1NROPIm/yznfKeHa
-
-Game*: Szabó, László - Muhring, Willem Jan, Zaandam, Netherlands, 1946.??.?? (dup #70), https://lichess.org/study/r1NROPIm/RjVB6MpY
-
-Game: Szabó, László - Muhring, Willem Jan, Zaandam, Netherlands, 1946.??.?? (dup #70), https://lichess.org/study/r1NROPIm/yhv4MMvg
-
-Game*: Mark Taimanov - Rashid Gibiatovich Nezhmetdinov, Kiev UKR, 1954.01.13, https://lichess.org/study/6nWh4o7P/wXHBDV35
-
-Game*: Taimanov - Trifunovich, 1957.??.??, https://lichess.org/study/t6bOK7CT/6IO3nfhk
-
-Game*: Taimanov, Mark E - Karaklajic, Nikola, Leningrad, 1957.??.??, https://lichess.org/study/rzdDzNB4/Wi5D4JQJ
-
-Game*: Taimanov, Mark E - Najdorf, Miguel, Zuerich, 1953.09.05, https://lichess.org/study/wAhu1kg2/dMGQIRp0
-
-Game*: Taimanov, Mark E. - Trifunovic, Petar, Leningrad, 1957.??.??, https://lichess.org/study/eD6ECZu4/PouDU3zr
-
-Game*: Tajmanov, Mark - Karpov, Anatoly, 1973.??.??, https://lichess.org/study/5mW5ZvOp/F2dRJbBo
-
-Game*: Mikhail Tal - David Bronstein, Tbilisi URS, 1959.01.28, https://lichess.org/study/6nWh4o7P/fsqZXxym
-
-Game*: Mikhail Tal - Georgy Lisitsin, Leningrad URS, 1956.01.28, https://lichess.org/study/6nWh4o7P/wdkyHSoY
-
-Game*: Tal, Mikhail - Kupreichik, Viktor, Mosca, 1969.??.??, https://lichess.org/study/5mW5ZvOp/F4RAGDm0
-
-Game*: Tal, Mikhail - Lisitsin, Georgy, Leningrado, 1956.??.??, https://lichess.org/study/amMc8Mig/ekXnU57O
-
-Game*: Tal, Mikhail - Spassky, Boris, Sochi, 1973.??.??, https://lichess.org/study/amMc8Mig/Y4dp53v4
-
-Game*: Tal, Mikhail - Spassky, Boris, Tilburg, 1980.??.??, https://lichess.org/study/E787KvJ9/UhGU9ufJ
-
-Game*: Tanbenhaus - Tarrasch, 1885.??.??, https://lichess.org/study/57Oq4l6Z/FGFG4v9j
-
-Game fragment*: Tarjan - Torre, Eugenio, 1975.??.??, https://lichess.org/study/NHyuBHth/uFi0fpaK
-
-Game*: Siegbert Tarrasch - Richard Teichmann, San Sebastian ESP, 1912.03.08, https://lichess.org/study/6nWh4o7P/QFY6ePki
-
-Game fragment*: Tarrasch - Bird, 1898.??.??, https://lichess.org/study/57Oq4l6Z/Vq9efjXn
-
-Game fragment*: Tarrasch - Dura, 1914.??.??, https://lichess.org/study/cev86fwf/lURpyZPU
-
-Game*: Tarrasch - Eckart, 1889.??.??, https://lichess.org/study/Wn7aMkPy/YlK2ItiZ
-
-Game fragment*: Tarrasch - Janowski, 1907.??.??, https://lichess.org/study/57Oq4l6Z/Lxau9j6a
-
-Game*: Tarrasch - Kurschner, 1889.??.??, https://lichess.org/study/Wn7aMkPy/pqSiK2nY
-
-Game*: Tarrasch - Mieses, https://lichess.org/study/NlPpNb7p/2ZiHFxqq, 1916.??.??, https://lichess.org/study/WLE9ibAW/uyDVvOSw
-
-Game*: Tarrasch - Mieses, 1916.??.??, https://lichess.org/study/Wn7aMkPy/Qt5iDAJc
-
-Game*: Tarrasch - Mieses, 1920.??.??, https://lichess.org/study/Wn7aMkPy/SY0nIkZ8
-
-Game fragment*: Tarrasch - Noa, 1885.??.??, https://lichess.org/study/57Oq4l6Z/uRgFXozS
-
-Game fragment*: Tarrasch - Sheve, Von, 1894.??.??, https://lichess.org/study/t6bOK7CT/2LE1tf0l
-
-Game fragment*: Tarrasch - Teichmann, 1905.??.??, https://lichess.org/study/t6bOK7CT/edBYf4TT
-
-Game fragment*: Tarrasch - Teichmann, 1905.??.??, https://lichess.org/study/cev86fwf/Ls9VpxMP
-
-Game fragment*: Tarrasch - Teichmann, 1910.??.?? (dup #23), https://lichess.org/study/57Oq4l6Z/vvFoCk1b
-
-Game fragment*: Tarrasch - Teichmann, 1910.??.?? (dup #23), https://lichess.org/study/TggWKjlC/0a8tRnNF
-
-Game fragment*: Tarrasch - Teichmann, 1912.??.??, https://lichess.org/study/57Oq4l6Z/Js0C2r8X
-
-Game fragment*: Tarrasch - Walbrodt, 1898.??.??, https://lichess.org/study/cev86fwf/Kr3YONvS
-
-Game*: Tarrasch, Dr. S - Berger, J., Breslau, 1889.??.??, https://lichess.org/study/EDmMFcbv/L1JhukIh
-
-Game: Tarrasch, Dr. S - Mieses, J., Berlin, 1916.??.??, https://lichess.org/study/EDmMFcbv/xnEMhOwQ
-
-Game: Tarrasch, Siegbert - Alapin, Semion, Frankfurt, 1887.07.18, https://lichess.org/study/e7ARwPCA/gwbme8vN
-
-Game: Tarrasch, Siegbert - Alapin, Semion, Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/0xosJkiI
-
-Game: Tarrasch, Siegbert - Alapin, Semion, Nuremberg, 1892.07.09, https://lichess.org/study/pdteMCe2/j4LpSPQs
-
-Game: Tarrasch, Siegbert - Alapin, Semion, Nuremberg, 1892.07.11, https://lichess.org/study/pdteMCe2/VGTcjaLx
-
-Game*: Tarrasch, Siegbert - Alekhine, Alexander, Piestany CSR, 1922.04.07, https://lichess.org/study/YuoLOpzE/QCGTpI3T
-
-Game: Tarrasch, Siegbert - Baird, John Washington, Leipzig GER, 1894.09.12, https://lichess.org/study/UQieNXft/iEdckPPP
-
-Game: Tarrasch, Siegbert - Bartmann, Nuremberg, 1883.07.19, https://lichess.org/study/PVzIGg2F/gFO90MFl
-
-Game: Tarrasch, Siegbert - Berger, Johann Nepomuk, Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/EKYsqq34
-
-Game: Tarrasch, Siegbert - Bier, Martin, Hamburg, 1885.07.13, https://lichess.org/study/PVzIGg2F/KlEL7CZN
-
-Game: Tarrasch, Siegbert - Blackburne, Joseph Henry, Manchester, 1890.??.??, https://lichess.org/study/pdteMCe2/QqTMFt7h
-
-Game: Tarrasch, Siegbert - Chigorin, Mikhail, Petersburg, 1893.??.??, https://lichess.org/study/UQieNXft/WqT97GxK
-
-Game: Tarrasch, Siegbert - Chigorin, Mikhail, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/GIJpmjXg
-
-Game*: Tarrasch, Siegbert - Chigorin, Mikhail, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/y3Gsbj8g
-
-Game: Tarrasch, Siegbert - Chigorin, Mikhail, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/BMgkKD4n
-
-Game: Tarrasch, Siegbert - Chigorin, Mikhail, Petersbrurg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/NXbfUdEY
-
-Game: Tarrasch, Siegbert - Chigorin, Mikhail, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/PLd6t4iz
-
-Game: Tarrasch, Siegbert - Chigorin, Mikhail, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/sPD24T9B
-
-Game: Tarrasch, Siegbert - Chigorin, Mikhail, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/J9xcu9ix
-
-Game: Tarrasch, Siegbert - Chigorin, Mikhail, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/9J0GN26E
-
-Game: Tarrasch, Siegbert - Chigorin, Mikhail, Petersburg (Match), 1893.??.??, https://lichess.org/study/UQieNXft/QIfEPHd2
-
-Game: Tarrasch, Siegbert - Chigorin, Mikhail, Petersburg, 1893.??.??, https://lichess.org/study/UQieNXft/hjP0AcuV
-
-Game: Tarrasch, Siegbert - Cohn, Wilhelm, Berlin, 1880.??.??, https://lichess.org/study/PVzIGg2F/XVj3Vf34
-
-Game: Tarrasch, Siegbert - Cohn, Wilhelm, Berlin, 1880.??.??, https://lichess.org/study/PVzIGg2F/unLEvNFy
-
-Game: Tarrasch, Siegbert - Cohn, Wilhelm, Berlin, 1882.??.??, https://lichess.org/study/PVzIGg2F/kiazobCs
-
-Game: Tarrasch, Siegbert - Eckart, Karl, Nuremburg, 1889.??.??, https://lichess.org/study/bELN6Owi/YszEVc5M
-
-Game: Tarrasch, Siegbert - Eckart, Karl, Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/pvreHa2w
-
-Game: Tarrasch, Siegbert - Eckart, Karl, Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/t1JES0Ol
-
-Game: Tarrasch, Siegbert - Eckart, Karl, Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/zxnaabGq
-
-Game: Tarrasch, Siegbert - Eckart, Karl, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/Jxaruy4i
-
-Game: Tarrasch, Siegbert - Eckart, Karl, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/5z0lSa99
-
-Game fragment*: Tarrasch, Siegbert - Fiedler, Nuremberg, 1892.??.??, https://lichess.org/study/pdteMCe2/xluRujIu
-
-Game*: Tarrasch, Siegbert - Fritz, Alexander, Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/EH6e5mEc
-
-Game: Tarrasch, Siegbert - Gossip, George Hatfeild, Manchester, 1890.09.03, https://lichess.org/study/pdteMCe2/QV92lSNE
-
-Game: Tarrasch, Siegbert - Gunsberg, Isidor, 07.18 R08 GER Hamburg, 1885.??.??, https://lichess.org/study/PVzIGg2F/jlXtszjj
-
-Game: Tarrasch, Siegbert - Gunsberg, Isidor, 07.25 R10 GER Frankfurt, 1887.??.??, https://lichess.org/study/e7ARwPCA/b7lv7BVf
-
-Game: Tarrasch, Siegbert - Gunsberg, Isidor, 07.26 R16 GER Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/JdoVJr5G
-
-Game: Tarrasch, Siegbert - Gunsberg, Isidor, Manchester, England, 1890.??.??, https://lichess.org/study/bELN6Owi/k6CUCn2f
-
-Game: Tarrasch, Siegbert - Hahn, Wilhelm, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/mg7M08Xe
-
-Game fragment: Tarrasch, Siegbert - Hahn, Wilhelm, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/UVT0VeFe
-
-Game*: Tarrasch, Siegbert - Harmonist, Max, Nuremberg, 1888.08.13, https://lichess.org/study/e7ARwPCA/pI5vN9cI
-
-Game: Tarrasch, Siegbert - Harmonist, Max, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/sYHxeQxM
-
-Game fragment*: Tarrasch, Siegbert - Hirschler, Nuremberg, 1893.??.??, https://lichess.org/study/UQieNXft/PnQADlRW
-
-Game fragment*: Tarrasch, Siegbert - Hirschler, Nuremberg, 1893.??.??, https://lichess.org/study/pdteMCe2/3rxHCFRB
-
-Game fragment*: Tarrasch, Siegbert - Hirschler, Nuremberg, 1893.??.??, https://lichess.org/study/UQieNXft/0ur2a8UT
-
-Game: Tarrasch, Siegbert - Hirschler, Nuremberg, 1893.??.??, https://lichess.org/study/UQieNXft/jntFQhYs
-
-Game: Tarrasch, Siegbert - Hollander, K., Nuremberg, 1892.??.??, https://lichess.org/study/UQieNXft/1DAa4xsR
-
-Game: Tarrasch, Siegbert - Hollander, K., Nuremberg, 1892.??.??, https://lichess.org/study/UQieNXft/0kIcEbyU
-
-Game: Tarrasch, Siegbert - Irion, Georg, Nuremberg, 1887.??.??, https://lichess.org/study/e7ARwPCA/nt8ow22I
-
-Game: Tarrasch, Siegbert - Janowski, David, Leipzig GER, 1894.09.11, https://lichess.org/study/UQieNXft/XsII3KMQ
-
-Game: Tarrasch, Siegbert - Kelz, Chr, Nuremberg (Germany), 1890.??.??, https://lichess.org/study/bELN6Owi/a9CuTud1
-
-Game fragment*: Tarrasch, Siegbert - Kelz, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/CzVzkCMq
-
-Game fragment*: Tarrasch, Siegbert - Kelz, Chr, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/328Jp36P
-
-Game fragment*: Tarrasch, Siegbert - Kelz, Nuremberg, 1892.??.??, https://lichess.org/study/pdteMCe2/X73tF8Qu
-
-Game fragment: Tarrasch, Siegbert - Kolb, Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/WZnfOcp1
-
-Odds game: Tarrasch, Siegbert - Kolb, Nuremberg, 1892.??.??, https://lichess.org/study/pdteMCe2/O6RU3ybn
-
-Odds game: Tarrasch, Siegbert - Kolb, Nuremberg, 1894.??.??, https://lichess.org/study/UQieNXft/iZDKuIDg
-
-Game: Tarrasch, Siegbert - Eckart / Kuerschner, Nuremberg, 1888.??.??, https://lichess.org/study/e7ARwPCA/yu63icup
-
-Game: Tarrasch, Siegbert - Irion / Kuerschner, Nuremberg, 1887.??.??, https://lichess.org/study/e7ARwPCA/X6MzgdIF
-
-Game: Tarrasch, Siegbert - Kunze, Halle, 1882.??.??, https://lichess.org/study/PVzIGg2F/kvUJDsdy
-
-Game: Tarrasch, Siegbert - Kurschner, Max, Nuremberg, 1887.??.??, https://lichess.org/study/e7ARwPCA/fJ11zGNr
-
-Game: Tarrasch, Siegbert - Kurschner, Max, Nuremberg, 1887.??.??, https://lichess.org/study/e7ARwPCA/Wgb5bufY
-
-Game: Tarrasch, Siegbert - Kurschner, Max, Nuremberg, 1889.??.??, https://lichess.org/study/bELN6Owi/ZRMxXqc1
-
-Game*: Tarrasch, Siegbert - Kurschner, Max, Nuremberg, 1889.??.??, https://lichess.org/study/bELN6Owi/pVts99w1
-
-Game: Tarrasch, Siegbert - Kurschner, Max, Nuremberg, 1889.??.??, https://lichess.org/study/bELN6Owi/qP8QM9Pp
-
-Game: Tarrasch, Siegbert - Kurschner, Max, Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/LzDNHnLJ
-
-Game*: Tarrasch, Siegbert - Kurschner, Max, Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/45R9AqID
-
-Game: Tarrasch, Siegbert - Kurschner, Max, Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/yxck94fs
-
-Game: Tarrasch, Siegbert - Kurschner, Max, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/dfKHkhyA
-
-Game: Tarrasch, Siegbert - Kurschner, Max, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/LzWIvYGm
-
-Game: Tarrasch, Siegbert - Kurschner, Max, Nuremberg, 1892.??.??, https://lichess.org/study/pdteMCe2/oDW0VsG2
-
-Game*: Tarrasch, Siegbert - Kurschner, Max, Nuremberg, 1892.??.??, https://lichess.org/study/UQieNXft/lsi2JE9c
-
-Game*: Tarrasch, Siegbert - Landau, Breslau, 1880.??.??, https://lichess.org/study/PVzIGg2F/9ggaMEE2
-
-Game: Tarrasch, Siegbert - Lasker, Berthold, Berlin, 1880.??.??, https://lichess.org/study/PVzIGg2F/2T26wrtD
-
-Game: Tarrasch, Siegbert - Lasker, Berthold, Berlin, 1882.??.??, https://lichess.org/study/PVzIGg2F/wG4Vle8Z
-
-Game: Tarrasch, Siegbert - Lasker, Emanuel, Duesseldorf GER, 1908.08.19, https://lichess.org/study/P33p6LIH/vYtdrlm3
-
-Game*: Tarrasch, Siegbert - Lasker, Emanuel, Germany, 1908.08.24, https://lichess.org/study/rgKjJhUJ/1JPqhRLm
-
-Game fragment*: Tarrasch, Siegbert - Lasker, Emanuel, Germany, 1908.08.24, https://lichess.org/study/rgKjJhUJ/isAAZrUi
-
-Game: Tarrasch, Siegbert - Lasker, Emanuel, Munich GER, 1908.09.14, https://lichess.org/study/P33p6LIH/fvIWiNfc
-
-Game*: Tarrasch, Siegbert - Lasker, Emanuel, St Petersburg, 1914.??.??, https://lichess.org/study/rzdDzNB4/KXJ0A2si
-
-Game fragment*: Tarrasch, Siegbert - Laubmann, Nuremberg, 1893.??.??, https://lichess.org/study/UQieNXft/l9kWkbY5
-
-Game fragment*: Tarrasch, Siegbert - Liebhardt, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/xwbZdsjA
-
-Game: Tarrasch, Siegbert - Loewenthal, Johann Jacob, Nuremburg, 1883.??.??, https://lichess.org/study/PVzIGg2F/IkRkZqd9
-
-Game*: Tarrasch, Siegbert - Mackenzie, George Henry, Manchester, 1890.09.01, https://lichess.org/study/bELN6Owi/P4Xh67JK
-
-Game*: Tarrasch, Siegbert - Makovetz, Gyula, Dresden, 1892.07.18, https://lichess.org/study/pdteMCe2/nWGJMYaV
-
-Game: Tarrasch, Siegbert - Mannheimer, Nathan, Breslau, 1880.??.??, https://lichess.org/study/PVzIGg2F/ybpw6dTd
-
-Game: Tarrasch, Siegbert - Mannheimer, Nathan, Breslau, 1880.??.??, https://lichess.org/study/PVzIGg2F/VDSlBvRB
-
-Game: Tarrasch, Siegbert - Mannheimer, Nathan, Breslau, 1880.??.??, https://lichess.org/study/PVzIGg2F/x5vIdGOG
-
-Game: Tarrasch, Siegbert - Marco, Georg, Dresden, 1892.07.18, https://lichess.org/study/pdteMCe2/honwFiPx
-
-Game: Tarrasch, Siegbert - Marco, Georg, Leipzig GER, 1894.09.14, https://lichess.org/study/UQieNXft/fJFDgJIa
-
-Game: Tarrasch, Siegbert - Marco, Georg, Vienna AUH, 1898.07.12, https://lichess.org/study/P33p6LIH/Ua6bRQqA
-
-Game: Tarrasch, Siegbert - Mason, James, Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/HLYLRGmL
-
-Game: Tarrasch, Siegbert - Mason, James, Manchester, 1890.08.29, https://lichess.org/study/bELN6Owi/XSy3V3tT
-
-Odds game: Tarrasch, Siegbert - Meisler, K., Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/nBsMxhG0
-
-Game*: Tarrasch, Siegbert - Mendelson, Jozsef, Breslau, 1879.??.??, https://lichess.org/study/PVzIGg2F/fUaeSX5X
-
-Game: Tarrasch, Siegbert - Mendelson, Jozsef, Breslau, 1879.??.??, https://lichess.org/study/PVzIGg2F/hB5Wbwnl
-
-Game: Tarrasch, Siegbert - Mendelson, Jozsef, Breslau, 1879.??.??, https://lichess.org/study/PVzIGg2F/lvMhuY23
-
-Game: Tarrasch, Siegbert - Mendelson, Jozsef, Breslau, 1879.??.??, https://lichess.org/study/PVzIGg2F/wAzULawW
-
-Game: Tarrasch, Siegbert - Mendelson, Jozsef, Breslau, 1879.??.??, https://lichess.org/study/PVzIGg2F/a10OkZIh
-
-Game: Tarrasch, Siegbert - Mendelson, Jozsef, Breslau, 1880.??.??, https://lichess.org/study/PVzIGg2F/bfKbrVfC
-
-Game: Tarrasch, Siegbert - Mendelson, Jozsef, Breslau, 1880.??.??, https://lichess.org/study/PVzIGg2F/NO6obTdo
-
-Game: Tarrasch, Siegbert - Metger, Johannes, Nuremberg, 1888.08.06, https://lichess.org/study/e7ARwPCA/dkSGxp2S
-
-Game: Tarrasch, Siegbert - Mieses, Jacques, Nuremberg, 1888.08.07, https://lichess.org/study/e7ARwPCA/v2yVSThn
-
-Game*: Tarrasch, Siegbert - Mieses, Jacques, Dresden, 1892.07.18, https://lichess.org/study/pdteMCe2/VHCgVuEa
-
-Game: Tarrasch, Siegbert - Mieses, Jacques, It, 1916.??.??, https://lichess.org/study/P33p6LIH/shihCz5k
-
-Game: Tarrasch, Siegbert - Mieses, Jacques, 1916.??.?? (dup #64), https://lichess.org/study/r1NROPIm/5DMsswQT
-
-Game*: Tarrasch, Siegbert - Mieses, Jacques, 1916.??.?? (dup #64), https://lichess.org/study/r1NROPIm/EFauVofD
-
-Game*: Tarrasch, Siegbert - Mieses, Jacques, 1920.??.??, https://lichess.org/study/k4B16BhD/lrzXsmRS
-
-Game: Tarrasch, Siegbert - Muenchhoff, Berlin, 1881.??.??, https://lichess.org/study/PVzIGg2F/m7c5huF5
-
-Game fragment*: Tarrasch, Siegbert - Munchoff, 1880.??.??, https://lichess.org/study/uDpA956I/xJB7A5bd
-
-Game: Tarrasch, Siegbert - Naumann, M., Berlin, 1881.??.??, https://lichess.org/study/PVzIGg2F/KXhx6Cvx
-
-Game: Tarrasch, Siegbert - NN, Berlin, 1880.??.??, https://lichess.org/study/PVzIGg2F/unboxLtX
-
-Game: Tarrasch, Siegbert - Noa, Josef, Hamburg GER, 1885.07.13, https://lichess.org/study/P33p6LIH/UDhefCG4
-
-Game: Tarrasch, Siegbert - Noa, Josef, Hamburg, 1885.??.??, https://lichess.org/study/PVzIGg2F/SjBDAnhm
-
-Game: Tarrasch, Siegbert - Noa, Josef, Frankfurt, 1887.07.18, https://lichess.org/study/e7ARwPCA/tvKtQaok
-
-Game: Tarrasch, Siegbert - Owen, John, Manchester, 1890.08.28, https://lichess.org/study/bELN6Owi/yH5LTEpA
-
-Game: Tarrasch, Siegbert - Paulsen, Louis, Frankfurt, 1887.07.18, https://lichess.org/study/e7ARwPCA/r4wMDIrR
-
-Game*: Tarrasch, Siegbert - Paulsen, Louis, Nuremberg, 1888.08.08, https://lichess.org/study/e7ARwPCA/NpVRrAH3
-
-Game: Tarrasch, Siegbert - Paulsen, Wilfried, Leipzig, 1888.??.??, https://lichess.org/study/e7ARwPCA/cXQq7sXy
-
-Game*: Tarrasch, Siegbert - Paulsen, Louis, 1889.??.??, https://lichess.org/study/xG5sFI6f/ZwzJhWnz
-
-Game*: Tarrasch, Siegbert - Paulsen, Louis, Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/6BaX7WE9
-
-Game: Tarrasch, Siegbert - Pribulsky, Berlin, 1880.??.??, https://lichess.org/study/PVzIGg2F/KklwYF2S
-
-Game fragment: Tarrasch, Siegbert - Richter, Bernhard, Halle, 1883.??.??, https://lichess.org/study/PVzIGg2F/Jhz7UrYl
-
-Game: Tarrasch, Siegbert - Richter, Bernhard, Halle, 1883.??.??, https://lichess.org/study/PVzIGg2F/xDxAuH4e
-
-Game: Tarrasch, Siegbert - Richter, Bernhard, Halle, 1883.??.??, https://lichess.org/study/PVzIGg2F/1tQJRkcI
-
-Game*: Tarrasch, Siegbert - Richter, Bernhard, Halle (Resort/Spa), 1883.??.??, https://lichess.org/study/PVzIGg2F/jzZa3CaU
-
-Game: Tarrasch, Siegbert - Riemann, Fritz, Leipzig, 1883.??.??, https://lichess.org/study/PVzIGg2F/GKMwgz5R
-
-Game: Tarrasch, Siegbert - Riemann, Fritz, Leipzig, 1888.??.??, https://lichess.org/study/bELN6Owi/xVww7370
-
-Game fragment: Tarrasch, Siegbert - Romberg, Nuremberg, 1893.??.??, https://lichess.org/study/UQieNXft/WubDgqyf
-
-Game fragment: Tarrasch, Siegbert - Romberg, Nuremberg, 1893.??.??, https://lichess.org/study/UQieNXft/FBHIwPic
-
-Game fragment: Tarrasch, Siegbert - Romberg, Nuremberg, 1893.??.??, https://lichess.org/study/pdteMCe2/E2fs6ZIO
-
-Game fragment*: Tarrasch, Siegbert - Romberg, Nuremburg, 1893.??.??, https://lichess.org/study/UQieNXft/h3ZIsLV7
-
-Game fragment*: Tarrasch, Siegbert - Romberg, H., Nuremberg, 1893.??.??, https://lichess.org/study/pdteMCe2/EqSx9F0V
-
-Game*: Tarrasch, Siegbert - Rubinstein, Akiba, San Sebastian, 1911.??.??, https://lichess.org/study/k4B16BhD/dDUH3L7K
-
-Game: Tarrasch, Siegbert - Rubinstein, Akiba, San Sebastian ESP, 1912.03.11, https://lichess.org/study/P33p6LIH/GPZ7VHJj
-
-Game: Tarrasch, Siegbert - Schallopp, Emil, Hamburg, 1885.07.13, https://lichess.org/study/PVzIGg2F/PQt7NnAh
-
-Game: Tarrasch, Siegbert - Schallopp, Emil, Frankfurt, 1887.07.18, https://lichess.org/study/e7ARwPCA/j11ZxsgS
-
-Game*: Tarrasch, Siegbert - Schiffers, Emmanuel, Frankfurt, 1887.07.18, https://lichess.org/study/e7ARwPCA/zPxcc9b9
-
-Game*: Tarrasch, Siegbert - Schiffers, Emmanuel, Breslau, 1889.??.??, https://lichess.org/study/bELN6Owi/Sjt1R7Yg
-
-Game: Tarrasch, Siegbert - Schlechter, Carl, Leipzig GER, 1894.09.03, https://lichess.org/study/UQieNXft/5KFnhcLZ
-
-Game: Tarrasch, Siegbert - Schottlaender, Arnold, Breslau, 1879.??.??, https://lichess.org/study/PVzIGg2F/UIXY979x
-
-Game: Tarrasch, Siegbert - Schottlaender, Arnold, Breslau, 1879.??.??, https://lichess.org/study/PVzIGg2F/eY8PTmfI
-
-Game: Tarrasch, Siegbert - Schottlaender, Arnold, Hamburg, 1885.07.13, https://lichess.org/study/e7ARwPCA/rI6IDeu7
-
-Game fragment*: Tarrasch, Siegbert - Christoph Schroeder, it, 1890.??.??, https://lichess.org/study/bELN6Owi/YiMXWTMR
-
-Game fragment*: Tarrasch, Siegbert - Schroeder, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/Bx9R2eUg
-
-Game fragment: Tarrasch, Siegbert - Schroeder, Nuremberg, 1893.??.??, https://lichess.org/study/UQieNXft/epFy3lma
-
-Game fragment*: Tarrasch, Siegbert - Schroeder, Nuremberg, 1893.??.??, https://lichess.org/study/UQieNXft/x6IeZ2fv
-
-Game fragment*: Tarrasch, Siegbert - Schroeder, Nuremberg, 1893.??.??, https://lichess.org/study/UQieNXft/bZX31C7S
-
-Odds game: Tarrasch, Siegbert - Schroeder, Nuremberg, 1894.??.??, https://lichess.org/study/UQieNXft/19UyuhfK
-
-Game: Tarrasch, Siegbert - Schwartz, Nuremberg Fr.P., 1890.??.??, https://lichess.org/study/pdteMCe2/qPWt3pJU
-
-Game: Tarrasch, Siegbert - Schwarz, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/0AbFny6J
-
-Game: Tarrasch, Siegbert - Simonson, Gustave, Berlijn, 1887.??.??, https://lichess.org/study/e7ARwPCA/AxBaridx
-
-Game: Tarrasch, Siegbert - Steif, A., Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/i8pzB9F6
-
-Game fragment*: Tarrasch, Siegbert - Steiner, H., Nuremberg, 1890.??.??, https://lichess.org/study/bELN6Owi/7vQOMWcd
-
-Game: Tarrasch, Siegbert - Suechting, Hugo, Leipzig GER, 1894.09.08, https://lichess.org/study/UQieNXft/KN3UBYHU
-
-Game: Tarrasch, Siegbert - Tartakower, Savielly, Berlin GER, 1920.12.06, https://lichess.org/study/P33p6LIH/8nS91Xi0
-
-Game: Tarrasch, Siegbert - Taubenhaus, Jean, Frankfurt, 1887.07.18, https://lichess.org/study/e7ARwPCA/bpXISGrk
-
-Game: Tarrasch, Siegbert - Taubenhaus, Jean, Nuremberg, 1892.??.??, https://lichess.org/study/pdteMCe2/9BrmFxwl
-
-Game*: Tarrasch, Siegbert - Taubenhaus, S., Nuremberg, 1892.??.??, https://lichess.org/study/pdteMCe2/1RSLVSiM
-
-Game*: Tarrasch, Siegbert - Teichmann, Richard, San Sebastian, 1912.??.??, https://lichess.org/study/5mW5ZvOp/71eDMXUA
-
-Game: Tarrasch, Siegbert - Thorold, Edmund, Manchester, England, 1890.??.??, https://lichess.org/study/bELN6Owi/B4lPhOHJ
-
-Game*: Tarrasch, Siegbert - Tinsley, Samuel, Manchester, 1890.09.08, https://lichess.org/study/pdteMCe2/vI1B1KzN
-
-Odds game: Tarrasch, Siegbert - Vogt, Breslau, 1880.??.??, https://lichess.org/study/PVzIGg2F/eixH4gv8
-
-Odds game: Tarrasch, Siegbert - Vogt, Breslau, 1880.??.??, https://lichess.org/study/PVzIGg2F/29yWOh0C
-
-Game: Tarrasch, Siegbert - Walbrodt, Karl August, Nuremberg GER, 1894.08.02, https://lichess.org/study/UQieNXft/I8bCObZx
-
-Game*: Tarrasch, Siegbert - Walbrodt, Karl August, Nuremberg GER, 1894.08.04, https://lichess.org/study/UQieNXft/4sJrSGBl
-
-Game: Tarrasch, Siegbert - Walbrodt, Karl August, Nuremberg GER, 1894.08.08, https://lichess.org/study/UQieNXft/ElVa5ZOS
-
-Game: Tarrasch, Siegbert - Walbrodt, Karl August, Nuremberg GER, 1894.08.11, https://lichess.org/study/UQieNXft/CurcYCL7
-
-Game*: Tarrasch, Siegbert - Walbrodt, Karl August, Leipzig GER, 1894.09.07, https://lichess.org/study/UQieNXft/4ELe87nb
-
-Game: Tarrasch, Siegbert - Weiss, Max, Hamburg, 1885.07.13, https://lichess.org/study/PVzIGg2F/ax0YMHkY
-
-Game: Tarrasch, Siegbert - Weiss, Max, Frankfurt, 1887.07.18, https://lichess.org/study/e7ARwPCA/rEYo7ckw
-
-Game*: Tarrasch, Siegbert - Winawer, Simon, Berlin, 1881.??.??, https://lichess.org/study/PVzIGg2F/K6L9X9No
-
-Odds game: Tarrasch, Siegbert - Winitzer, Nuremberg, 1892.??.??, https://lichess.org/study/pdteMCe2/GFVbWH2a
-
-Game fragment*: Tartakover - Capablanca, 1924.??.??, https://lichess.org/study/57Oq4l6Z/Kk5wqXEq
-
-Game fragment*: Tartakover - Saunders, 1924.??.??, https://lichess.org/study/1DTYYVAE/HHoUe6Jb
-
-Game*: Tartakower, Savielly - Najdorf, Miguel, Poland, 1935.??.?? (dup #73), https://lichess.org/study/r1NROPIm/6BgTNMkW
-
-Game: Tartakower, Savielly - Najdorf, Miguel, Poland, 1935.??.?? (dup #73), https://lichess.org/study/r1NROPIm/t1BFP7e4
-
-Game fragment*: Tartakower, Savielly - Reti, Richard, Vienna, 1924.??.??, https://lichess.org/study/YuoLOpzE/E6R9wD8w
-
-Game*: Tartakower, Saviely - Lasker, Emanuel, New York, 1924.??.??, https://lichess.org/study/eD6ECZu4/bibLql37
-
-Game: Taubenhaus - Colchester, Paris, 1887.02.05, https://lichess.org/study/tmHOF54H/PZtBZfM6
-
-Game*: Taubenhaus - Tarrasch, 1903.??.??, https://lichess.org/study/cev86fwf/CsM07Qgp
-
-Game fragment: Taubenhaus, J. - Janowski, D., Paris, 1903.??.??, https://lichess.org/study/XH8xSdBs/RvGLZ0jJ
-
-Game: Taubenhaus, Jean - Tarrasch, Siegbert, Hamburg, 1885.07.13, https://lichess.org/study/PVzIGg2F/UHZ2wloK
-
-Game: Taubenhaus, Jean - Tarrasch, Siegbert, Manchester, 1890.09.04, https://lichess.org/study/pdteMCe2/wYvub3b2
-
-Game: Taubenhaus, Jean - Tarrasch, Siegbert, Nuremberg (Germany), 1892.??.??, https://lichess.org/study/pdteMCe2/KnyuKGf5
-
-Game: Taylor - NN, TAOTC, https://lichess.org/study/tmHOF54H/uCaIebDF
-
-Game*: Richard Teichmann - Aron Nimzowitsch, Karlsbad (Karlovy Vary) AUH, 1911.08.31, https://lichess.org/study/ONYKV9a1/bsHod0mh
-
-Game fragment*: Teichmann - Allies, 1902.??.??, https://lichess.org/study/1DTYYVAE/uyfuGQ2f
-
-Game*: Teichmann - Allies, Glasgow, 1902.??.??, https://lichess.org/study/1DTYYVAE/Nam2pLqM
-
-Game fragment: Teichmann, R. - Mieses, J., Carlsbad, 1907.??.??, https://lichess.org/study/XH8xSdBs/hTm4KUsT
-
-Game: Teichmann, R. - Nimzowitsch, A., Carlsbad, 1911.??.??, https://lichess.org/study/EDmMFcbv/bR1R86ae
-
-Game: Teichmann, R. - Nimzowitsch, A., San Sebastian, 1911.??.??, https://lichess.org/study/EDmMFcbv/f0DBDSqX
-
-Game: Teichmann, Richard - Nimzowitsch, Aron, San Sebastian ESP, 1911.03.09, https://lichess.org/study/P33p6LIH/5nJNMgd0
-
-Game: Teichmann, Richard - Tarrasch, Siegbert, Leipzig GER, 1894.09.05, https://lichess.org/study/UQieNXft/0hvb077q
-
-Game*: Tennenwurzel, Edward - Capablanca, Jose Raul, New York, 1913.07.17, https://lichess.org/study/6P90HTwf/oAKtfvrp
-
-Game*: Teschner - Fuderer, 1957.??.??, https://lichess.org/study/t6bOK7CT/SEaO66o6
-
-Game: Thomas, G. - Marshall, F. J., Hamburg, 1930.??.??, https://lichess.org/study/OMNHm3q5/xl1hkuRk
-
-Game*: Thomas, George - Alekhine, Alexander, Baden-Baden, 1925.??.??, https://lichess.org/study/5mW5ZvOp/mOIZ7rwS
-
-Game: Thomas, Sir G. A - Alekhine, Dr. A, Baden-Baden, 1925.??.??, https://lichess.org/study/EDmMFcbv/s2um4sHn
-
-Game: Thompson, J. - Morphy, Paul, New York, 1857.??.??, https://lichess.org/study/yuifbGYp/hd3tgvH5
-
-Game*: thvdnta - HowToWinAtChess, Chess.com, 2025.09.23, https://lichess.org/study/P3XM0aKf/tf4pX2jW
-
-Game*: TigranHov777 - HowToWinAtChess, Chess.com, 2026.02.01, https://lichess.org/study/rG6bFitI/KBmtDukQ
-
-Game*: Timman, Jan - Huebner, Robert, Montreal, 1979.??.??, https://lichess.org/study/uDpA956I/pSyQF5HE
-
-Game*: Timman, Jan - Karpov, Anatoly, Montreal, 1979.??.??, https://lichess.org/study/E787KvJ9/yp21KzbZ
-
-Game*: Timman, Jan - Karpov, Anatoly, 1984.??.??, https://lichess.org/study/E787KvJ9/ZXzcJArp
-
-Game fragment*: Timman, Jan - Short, Nigel, Tilburg, Netherlands, 1990.??.??, https://lichess.org/study/3khu0Xru/UpQNu8C0
-
-Game: Tiviakov, Sergei - Anand, Viswanathan, Germany, 2012.04.14, https://lichess.org/study/dl0ynDGz/9t7Yajxt
-
-Game*: Tolush, Alexander - Botvinnik, Mikhail, Leningrado, 1939.??.??, https://lichess.org/study/2a0vxusd/gMPR6vsx
-
-Game*: Toran Albero, Roman - Tal, Mikhail, 1961.??.??, https://lichess.org/study/E787KvJ9/lJJW0Boh
-
-Game fragment*: Torre, C. - Fine, Reuben, 1934.??.??, https://lichess.org/study/uDpA956I/37LMm13K
-
-Game fragment*: Torre, Carlos - Lasker, Emanuel, Moscow, 1925.??.??, https://lichess.org/study/3khu0Xru/rt55hyVL
-
-Game*: Torres, Caravaca J - Alekhine, Alexander, 1922.??.??, https://lichess.org/study/amMc8Mig/UH7Ulm5O
-
-Game*: Treybal, Karel - Spielmann, Rudolf, Teplitz-Schoenau, 1922.??.??, https://lichess.org/study/2a0vxusd/vsnOsziw
-
-Game*: TSG_TheSicilianGambit - HowToWinAtChess, Chess.com, 2026.07.18, https://lichess.org/study/gDTJBYjY/rgoY5RvZ
-
-Game*: Tuhlaaja_poika - HowToWinAtChess, Chess.com, 2025.11.18, https://lichess.org/study/P3XM0aKf/50mahXr8
-
-Game*: turturo111 - HowToWinAtChess, Chess.com, 2026.03.09, https://lichess.org/study/rG6bFitI/ZwWZ7Oli
-
-Game fragment: Tylor - Winter, Hastings, 1933.??.??, https://lichess.org/study/OMNHm3q5/e3KRBP9d
-
-Game*: Ubilava, Elizbar - Timoshenko, Genadij, 1974.??.??, https://lichess.org/study/uDpA956I/g3YK6ehC
-
-Game*: Uhlmann, Wolfgang - Fischer, Robert, Leipzig, 1960.??.??, https://lichess.org/study/sDsyelY0/9Dtos85t
-
-Game*: Uhlmann, Wolfgang - Geller, Efim, Palma de Mallorca, 1970.??.??, https://lichess.org/study/k4B16BhD/Vvh6btcK
-
-Game*: Uhlmann, Wolfgang - Gligoric, Svetozar, Hastings, 1970.??.??, https://lichess.org/study/k4B16BhD/0jQflcO4
-
-Game fragment*: Ujtelky, Maximilian - Pachman, Ludek, 1953.??.??, https://lichess.org/study/E787KvJ9/p2jwguz3
-
-Game*: Ujtumen, Tudev - Geller, Efim, Palma de Mallorca, 1970.??.??, https://lichess.org/study/sDsyelY0/NYKcvvf0
-
-Game: Ulibin, Mikhail - Rashkovsky, Nukhim N, Samara, 2000.06.20, https://lichess.org/study/wAhu1kg2/7kTz45Pl
-
-Game fragment*: Unzicker - Donner, 1955.??.??, https://lichess.org/study/cev86fwf/UEG35iAq
-
-Game*: Unzicker, W. - Fischer, Robert, Varna, 1962.??.??, https://lichess.org/study/5mW5ZvOp/mTcXXMMN
-
-Game*: Unzicker, Wolfgang - Saemisch, Friedrich, Oldenburg GER, 1949.06.29, https://lichess.org/study/izyugXAJ/FZ4BsIOJ
-
-Game*: Wolfgang Unzicker - Moshe Czerniak, Amsterdam NED, 1954.09.04, https://lichess.org/study/hnwliF9Y/bbgxUWMB
-
-Game*: Wolfgang Unzicker - Jan Hein Donner, Gothenburg SWE, 1955.09.13, https://lichess.org/study/A0fSLRgx/l6kUT5jA
-
-Game*: Wolfgang Unzicker - Robert James Fischer, Varna BUL, 1962.10.04, https://lichess.org/study/6nWh4o7P/OcLO7gFN
-
-Game*: Wolfgang Unzicker - Mark Taimanov, Stockholm SWE, 1952.09.26, https://lichess.org/study/l1syl1IJ/Lnowb1Cj
-
-Game fragment: E. V. - Daniel, R., Le Havre, 1944.??.??, https://lichess.org/study/V4VFISZI/YpEdVnFg
-
-Game*: Van Scheltinga, Theo D - Opocensky, Karel, Buenos Aires, 1939.09.15, https://lichess.org/study/eD6ECZu4/XRq9WY3P
-
-Game: Van Vliet, L. - Znosko-Borovsky, E., Ostend, 1907.??.??, https://lichess.org/study/EDmMFcbv/MshEUohb
-
-Game: Van Wely, Loek - Karjakin, Sergey, Wijk aan Zee, 2012.01.27, https://lichess.org/study/wAhu1kg2/OWBglQlG
-
-Game*: Van Wely, Loek - Krylov, Sergey, Calvia ESP, 2004.10.16, https://lichess.org/study/wAhu1kg2/6IiovyUP
-
-Game fragment*: Vasjukov - Ornstein, 1976.??.??, https://lichess.org/study/5mW5ZvOp/ym9mFUY5
-
-Game*: Jiri Vesely - Ludek Pachman, Prague, 1951.??.??, https://lichess.org/study/A0fSLRgx/8qHvlvwC
-
-Game*: Mac Hack VI - Human, 1967.03.?? (dup #33), https://lichess.org/study/Dw5rZPMK/CFImztcm
-
-Game*: Mac Hack VI - Human, 1967.03.?? (dup #33), https://lichess.org/study/Dw5rZPMK/h4XI6Lb4
-
-Game*: VickiGaLo - HowToWinAtChess, Chess.com, 2025.10.02, https://lichess.org/study/P3XM0aKf/fm14f21S
-
-Game: Vidmar, M. - Euwe, M., Carlsbad, 1929.??.??, https://lichess.org/study/OMNHm3q5/SVqx4lO3
-
-Game fragment: Vidmar, M. - Teichman, R., Carlsbad, 1907.??.??, https://lichess.org/study/XH8xSdBs/ens9avgB
-
-Game fragment*: Vidmar, Milan Sr - Nimzowitsch, Aaron, New York, 1927.??.??, https://lichess.org/study/rzdDzNB4/AD2911S3
-
-Game*: Vidmar, Milan Sr - Nimzowitsch, Aaron, New York, 1927.??.??, https://lichess.org/study/rzdDzNB4/hv4wSIt4
-
-Game fragment*: Vilner - Romanovskij, Peter, 1925.??.??, https://lichess.org/study/NHyuBHth/r6WGSvW8
-
-Game*: Vitiugov, Nikita - Bologan, Victor, Eilat, 2012.10.15, https://lichess.org/study/AxW3sYhA/qeLCxG6M
-
-Game*: Vitiugov, Nikita - Ding, Liren, St Petersburg RUS, 2012.7.2, https://lichess.org/study/dl0ynDGz/Rk8c9DMC
-
-Game*: Vliet - Znosko-Borovsky, 1907.??.??, https://lichess.org/study/Wn7aMkPy/llS0azro
-
-Game*: Vogt, Lothar - Andersson, Ulf, Cienfuegos, 1975.??.??, https://lichess.org/study/6nWh4o7P/lQtSLqCb
-
-Game*: Vogt, Lothar - Casper, Thomas, Suhl, 1979.??.??, https://lichess.org/study/E787KvJ9/FvYoxs3a
-
-Game*: Vouldis - Paunovic, 1998.??.??, https://lichess.org/study/5mW5ZvOp/x4CS8QA2
-
-Game: Vovk, Yuri - Volokitin, Andrei, Kiev, 2012.07.27, https://lichess.org/study/AxW3sYhA/Zpg8R78o
-
-Game*: Wagle, Marina - Kunz, Katharina, Winterberg, 2002.05.25, https://lichess.org/study/3Aw3IIVA/tJC2Z08I
-
-Game: Walbrodt, Karl August - Tarrasch, Siegbert, Nuremberg GER, 1894.08.01, https://lichess.org/study/UQieNXft/WMkTTgzz
-
-Game*: Walbrodt, Karl August - Tarrasch, Siegbert, Nuremberg GER, 1894.08.03, https://lichess.org/study/UQieNXft/Kwd2UIRD
-
-Game: Walbrodt, Karl August - Tarrasch, Siegbert, Nuremberg GER, 1894.08.07, https://lichess.org/study/UQieNXft/b7omuEXi
-
-Game: Walbrodt, Karl August - Tarrasch, Siegbert, Nuremberg GER, 1894.08.10, https://lichess.org/study/UQieNXft/fEBgsWcT
-
-Game*: Wang, Yue - Carlsen, Magnus, Medias ROU, 2010.06.25, https://lichess.org/study/AxW3sYhA/bUq4Fxkk
-
-Game: Wang, Zili - Zhang, Pengxiang, Yongchuan, 2003.07.22, https://lichess.org/study/dl0ynDGz/E8f8cwcR
-
-Game fragment: Winawer, S. - NN, TAOTC, https://lichess.org/study/1JWXdF87/ZVATgj4B
-
-Game: Winawer, Simon - Tarrasch, Siegbert, Dresden, 1892.??.??, https://lichess.org/study/pdteMCe2/fgNvUZWY
-
-Game*: Winter, William - Capablanca, Jose Raul, Hastings, 1919.??.??, https://lichess.org/study/uDpA956I/2EVLQaGZ
-
-Game fragment: Wirsing - Steiner, Nuremberg, 1891.??.??, https://lichess.org/study/pdteMCe2/vbPCu6cu
-
-Game: Wojtaszek, Radoslaw - Fedorov, Alexei, Czech Republic, 2012.04.22, https://lichess.org/study/wAhu1kg2/PjmCxLK0
-
-Game*: Wojtaszek, Radoslaw - Fressinet, Laurent, Wijk aan Zee NED, 2011.01.22, https://lichess.org/study/AxW3sYhA/qOYfAowM
-
-Game*: Wojtaszek, Radoslaw - Khairullin, Ildar, Aix-les-Bains FRA, 2011.04.01, https://lichess.org/study/AxW3sYhA/MtRTQw0I
-
-Game: Wojtaszek, Radoslaw - Swiercz, Dariusz, Warsaw, 2011.02.14, https://lichess.org/study/dl0ynDGz/ckY8cjfq
-
-Game fragment: Wolf, H. - Rubinstein, A., Carlsbad, 1907.??.??, https://lichess.org/study/V4VFISZI/dxxnmpfD
-
-Game*: Wolf, Heinrich - Alekhine, Alexander, Karlsbad, 1923.??.??, https://lichess.org/study/uDpA956I/wbVmlKZM
-
-Game: Wolf, Heinrich - Gruenfeld, Ernst, Piestany CSR, 1922.04.23, https://lichess.org/study/YuoLOpzE/9WkNl058
-
-Game*: Wscs15 - HowToWinAtChess, Chess.com, 2026.02.01, https://lichess.org/study/rG6bFitI/1gUdAi6d
-
-Game*: x-8649998461 - HowToWinAtChess, Chess.com, 2026.01.06, https://lichess.org/study/rG6bFitI/AMrKkfEl
-
-Game*: xxDhruv - HowToWinAtChess, Chess.com, 2026.08.01, https://lichess.org/study/gDTJBYjY/xrrXyXLa
-
-Game*: Yanofsky, Daniel - Portisch, Lajos, 1962.??.??, https://lichess.org/study/2a0vxusd/fm4U365M
-
-Game*: Fred Dewhirst Yates - Alexander Alekhine, The Hague NED, 1921.11.03, https://lichess.org/study/InR4tjnm/WblvyM7G
-
-Game fragment*: Yates - Rubinstein, 1922.??.??, https://lichess.org/study/t6bOK7CT/1exzhPaR
-
-Game*: Yates, F. D. - Nimzowitsch, A., London, 1927.??.??, https://lichess.org/study/EDmMFcbv/AaBXGWRz
-
-Game fragment: Yates, F. D. - Thomas, G., Malvern, 1921.??.??, https://lichess.org/study/1JWXdF87/sPMPogTG
-
-Game*: Yemarn98 - HowToWinAtChess, Chess.com, 2025.10.02, https://lichess.org/study/P3XM0aKf/Us7CZOoD
-
-Game*: Yudovich, Mikhail - Bondarevsky, Igor, Mosca, 1937.??.??, https://lichess.org/study/k4B16BhD/5s8GsbqQ
-
-Game*: zakir1155 - HowToWinAtChess, Chess.com, 2026.03.09, https://lichess.org/study/rG6bFitI/xP2higrn
-
-Game fragment: Zambelly, K. - Maroczy, G., Correspondence, 1897.??.??, https://lichess.org/study/V4VFISZI/UZWOpgBg
-
-Game fragment*: Zatulovskaya - Chiburdanidze, Maia, 1977.??.??, https://lichess.org/study/NHyuBHth/KGsz3vqX
-
-Game*: zeevavrahami - HowToWinAtChess, Chess.com, 2026.05.08, https://lichess.org/study/rG6bFitI/nofKfOo0
-
-Game*: Zeissl - Walthoffen, 1899.??.??, https://lichess.org/study/Wn7aMkPy/cnnwEUlH
-
-Game*: zeroxtremme - HowToWinAtChess, Chess.com, 2026.01.11, https://lichess.org/study/rG6bFitI/sD5jDgKI
-
-Game: Zhigalko, Sergei - Radulski, Julian, Warsaw, 2010.07.20, https://lichess.org/study/wAhu1kg2/HCzVymeT
-
-Game: Zhigalko, Sergei - Rakhmanov, Alexander, Moscow, 2011.01.30, https://lichess.org/study/wAhu1kg2/GqffEom6
-
-Game fragment*: Zichichi, Alvise - Hort, Vlastimil, 1969.??.??, https://lichess.org/study/NHyuBHth/wgu0RnYr
-
-Game*: Znosko-Borovsky - Mackenzie, 1924.??.??, https://lichess.org/study/Wn7aMkPy/FCqWYIbj
-
-Game fragment*: Zubarev, Nikolay - Alexandrov, 1915.??.??, https://lichess.org/study/sDsyelY0/JAuYGpUj
-
-Game*: Zuccaro, Guido - Buglisi, Massimo, Condino, 2009.07.29, https://lichess.org/study/m0LDLCIA/LdQ30Knd
-
-Game fragment: Zuckerbaker, M. - Pape, Ed., Paris, 1909.??.??, https://lichess.org/study/V4VFISZI/PlJ3W4Kl
-
-Game*: Johannes Zukertort - Jean Taubenhaus, Frankfurt am Main GER, 1887.07.29, https://lichess.org/study/y1wA1JDw/JHZsAkbJ
-
-Game fragment: Zukertort - Anderssen, Breslau, 1865.01.??, https://lichess.org/study/V4VFISZI/hgK7pKXn
-
-Game fragment*: Zukertort - Blackburne, 1883.??.??, https://lichess.org/study/t6bOK7CT/11UIFlMr
-
-Game*: Zukertort - Taubenhaus, 1887.??.??, https://lichess.org/study/1DTYYVAE/zCFDUhmR
-
-Game: Zukertort, Johannes - Anderssen, Adolf, Unknown, 1870.??.??, https://lichess.org/study/YuoLOpzE/7oK6nrys
-
-Game*: Zukertort, Johannes - Blackburne, Joseph, London, 1883.??.??, https://lichess.org/study/E787KvJ9/sTQy8SAn
-
-Game*: Zukertort, Johannes Hermann - Taubenhaus, Jean, Frankfurt, 1887.??.?? (dup #1), https://lichess.org/study/1DTYYVAE/WvtaxLig
-
-Game: Zukertort, Johannes Hermann - Taubenhaus, Jean, Frankfurt, 1887.??.?? (dup #1), https://lichess.org/study/R9GM45QQ/qaWqJmDj
-
-Game*: Zukertort, Johannes Hermann - Taubenhaus, Jean, Frankfurt, 1887.??.?? (dup #1), https://lichess.org/study/kqKXJZ5u/AqHvgsev
-
-Game*: Zvjaginsev, Vadim - Evdokimov, Alexander A, Taganrog RUS, 2011.06.17, https://lichess.org/study/AxW3sYhA/kA9DoVlQ
-
-Game: Zvjaginsev, Vadim - Schroeder, Rodrigo Rafael Vasquez, Khanty-Mansiysk RUS, 2013.06.08 (dup #21), https://lichess.org/study/AxW3sYhA/WUXthPtO
-
-Game*: Zvjaginsev, Vadim - Schroeder, Rodrigo Rafael Vasquez, Khanty-Mansiysk RUS, 2013.06.08 (dup #21), https://lichess.org/study/royrjgMZ/c7hSMj9e
+Game*: Zvjaginsev, Vadim - Vasquez, Rodrigo; Khanty-Mansiysk RUS; 2013.06.08; 1-0 (dup #33); https://lichess.org/study/royrjgMZ/c7hSMj9e
 

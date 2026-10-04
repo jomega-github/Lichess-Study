@@ -29,7 +29,7 @@ Appears In:
 
 - Study: Intermediate: Open File
   - Study URL: https://lichess.org/study/FlL0kWtQ
-  - Chapter: Reshevsky, Samuel  - Myagmarsuren, Lhamsuren
+  - Chapter: Reshevsky, Samuel Herman  - Myagmarsuren, Lhamsuren
     - Chapter URL: https://lichess.org/study/FlL0kWtQ/CwKsUMMI
     - Found: transformed into pressure
     - All found aliases: exchanges, fork, good bishop, isolani, minority, pawn formation, pinned, plan, planning, pressure, threat, threatening, transformed into pressure, two bishops, zwischenzug
@@ -195,7 +195,7 @@ Appears In:
 
 - Study: Intermediate: Advanced Pawn
   - Study URL: https://lichess.org/study/HU8KOi8j
-  - Chapter: Beliavsky, Alexander  - Portisch, Lajos
+  - Chapter: Beliavsky, Alexander G. - Portisch, Lajos
     - Chapter URL: https://lichess.org/study/HU8KOi8j/bddWOEa7
     - Found: retreats
     - All found aliases: bad bishop, blockading, combination, cramped, cramped position, develop, developed, exchanged, exchanging, majority, mobilize, passed, passed pawn, passer, pin, retreats, space, tempo, threatening
@@ -555,7 +555,7 @@ Appears In:
 
 - Study: Intermediate: Isolated Pawn
   - Study URL: https://lichess.org/study/LHmryePD
-  - Chapter: Denker, Arnold - Siff,  Boris
+  - Chapter: Denker, Arnold Sheldon - Siff,  Boris
     - Chapter URL: https://lichess.org/study/LHmryePD/m1TCnqlb
     - Feature: backward pawn
     - All found aliases: backward pawn, combination, connected passed, discovered attack, double attack, exchanging, isolani, material, passed pawn, passer, pawn majority, pinned, pinning, threat, threatening
@@ -676,7 +676,7 @@ Appears In:
 
 - Study: Intermediate: Advanced Pawn
   - Study URL: https://lichess.org/study/HU8KOi8j
-  - Chapter: Beliavsky, Alexander  - Portisch, Lajos
+  - Chapter: Beliavsky, Alexander G. - Portisch, Lajos
     - Chapter URL: https://lichess.org/study/HU8KOi8j/bddWOEa7
     - Found: bad bishop
     - All found aliases: bad bishop, blockading, combination, cramped, cramped position, develop, developed, exchanged, exchanging, majority, mobilize, passed, passed pawn, passer, pin, retreats, space, tempo, threatening
@@ -754,7 +754,7 @@ Appears In:
 
 - Study: Intermediate: Hanging Pawns
   - Study URL: https://lichess.org/study/y1wA1JDw
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Found: good bishop
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
@@ -779,7 +779,7 @@ Appears In:
 
 - Study: Intermediate: Open File
   - Study URL: https://lichess.org/study/FlL0kWtQ
-  - Chapter: Reshevsky, Samuel  - Myagmarsuren, Lhamsuren
+  - Chapter: Reshevsky, Samuel Herman  - Myagmarsuren, Lhamsuren
     - Chapter URL: https://lichess.org/study/FlL0kWtQ/CwKsUMMI
     - Found: good bishop
     - All found aliases: exchanges, fork, good bishop, isolani, minority, pawn formation, pinned, plan, planning, pressure, threat, threatening, transformed into pressure, two bishops, zwischenzug
@@ -801,14 +801,14 @@ Appears In:
 
 - Study: Intermediate: Outpost Station
   - Study URL: https://lichess.org/study/eUChNfwg
-  - Chapter: Khan, Mir Sultan  - Mattison, Hermanis Karlovich
+  - Chapter: Khan, Sultan  - Mattison, Hermanis Karlovich
     - Chapter URL: https://lichess.org/study/eUChNfwg/h6NgKodc
     - Found: bad bishop, good bishop
     - All found aliases: bad bishop, formation, good bishop, king is safe, material, outpost, pawn formation, threatening
 
 - Study: Intermediate: Qualitative Pawn Majority
   - Study URL: https://lichess.org/study/InR4tjnm
-  - Chapter: Byrne, David - Benko, Paul
+  - Chapter: Byrne, David - Benko, Pal
     - Chapter URL: https://lichess.org/study/InR4tjnm/LdRzBKES
     - Found: good bishop
     - All found aliases: blockade, center, connected passed, constricted, exchanges, formation, good bishop, improves his, majority, outpost, passed pawns, pawn majority, plan, sacrificing, threat, threatening, zugzwang
@@ -985,7 +985,7 @@ Appears In:
 
 - Study: Intermediate: Open File
   - Study URL: https://lichess.org/study/FlL0kWtQ
-  - Chapter: Reshevsky, Samuel  - Myagmarsuren, Lhamsuren
+  - Chapter: Reshevsky, Samuel Herman  - Myagmarsuren, Lhamsuren
     - Chapter URL: https://lichess.org/study/FlL0kWtQ/CwKsUMMI
     - Found: two bishops
     - All found aliases: exchanges, fork, good bishop, isolani, minority, pawn formation, pinned, plan, planning, pressure, threat, threatening, transformed into pressure, two bishops, zwischenzug
@@ -1301,7 +1301,7 @@ Appears In:
 
 - Study: Intermediate: Advanced Pawn
   - Study URL: https://lichess.org/study/HU8KOi8j
-  - Chapter: Beliavsky, Alexander  - Portisch, Lajos
+  - Chapter: Beliavsky, Alexander G. - Portisch, Lajos
     - Chapter URL: https://lichess.org/study/HU8KOi8j/bddWOEa7
     - Found: blockading
     - All found aliases: bad bishop, blockading, combination, cramped, cramped position, develop, developed, exchanged, exchanging, majority, mobilize, passed, passed pawn, passer, pin, retreats, space, tempo, threatening
@@ -1363,7 +1363,7 @@ Appears In:
 
 - Study: Intermediate: Hanging Pawns
   - Study URL: https://lichess.org/study/y1wA1JDw
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Found: blockades, blockading
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
@@ -1417,7 +1417,7 @@ Appears In:
 
 - Study: Intermediate: Qualitative Pawn Majority
   - Study URL: https://lichess.org/study/InR4tjnm
-  - Chapter: Byrne, David - Benko, Paul
+  - Chapter: Byrne, David - Benko, Pal
     - Chapter URL: https://lichess.org/study/InR4tjnm/LdRzBKES
     - Found: blockade
     - All found aliases: blockade, center, connected passed, constricted, exchanges, formation, good bishop, improves his, majority, outpost, passed pawns, pawn majority, plan, sacrificing, threat, threatening, zugzwang
@@ -2177,7 +2177,7 @@ Appears In:
 
 - Study: Intermediate: Advanced Pawn Salient
   - Study URL: https://lichess.org/study/m0LDLCIA
-  - Chapter: Lumbera, Jaime Llado  - Capablanca,  Jose Raul
+  - Chapter: Llado Lumbera, Jaime  - Capablanca,  Jose Raul
     - Chapter URL: https://lichess.org/study/m0LDLCIA/69H90usc
     - Found: center
     - All found aliases: center, cramped, material, mobility, outpost, passed pawn, threatening
@@ -2473,7 +2473,7 @@ Appears In:
 
 - Study: Intermediate: Qualitative Pawn Majority
   - Study URL: https://lichess.org/study/InR4tjnm
-  - Chapter: Byrne, David - Benko, Paul
+  - Chapter: Byrne, David - Benko, Pal
     - Chapter URL: https://lichess.org/study/InR4tjnm/LdRzBKES
     - Found: center
     - All found aliases: blockade, center, connected passed, constricted, exchanges, formation, good bishop, improves his, majority, outpost, passed pawns, pawn majority, plan, sacrificing, threat, threatening, zugzwang
@@ -2988,7 +2988,7 @@ Appears In:
 
 - Study: Intermediate: Advanced Pawn
   - Study URL: https://lichess.org/study/HU8KOi8j
-  - Chapter: Beliavsky, Alexander  - Portisch, Lajos
+  - Chapter: Beliavsky, Alexander G. - Portisch, Lajos
     - Chapter URL: https://lichess.org/study/HU8KOi8j/bddWOEa7
     - Tactical Motif: combination
     - All found aliases: bad bishop, blockading, combination, cramped, cramped position, develop, developed, exchanged, exchanging, majority, mobilize, passed, passed pawn, passer, pin, retreats, space, tempo, threatening
@@ -3020,7 +3020,7 @@ Appears In:
 
 - Study: Intermediate: Isolated Pawn
   - Study URL: https://lichess.org/study/LHmryePD
-  - Chapter: Denker, Arnold - Siff,  Boris
+  - Chapter: Denker, Arnold Sheldon - Siff,  Boris
     - Chapter URL: https://lichess.org/study/LHmryePD/m1TCnqlb
     - Tactical Motif: combination
     - All found aliases: backward pawn, combination, connected passed, discovered attack, double attack, exchanging, isolani, material, passed pawn, passer, pawn majority, pinned, pinning, threat, threatening
@@ -3557,7 +3557,7 @@ Appears In:
 
 - Study: Intermediate: Control of the Center
   - Study URL: https://lichess.org/study/mj8UtUBc
-  - Chapter: Blackburne, Joseph Henry  - Steinitz, Wilhelm
+  - Chapter: Blackburne, Joseph Henry  - Steinitz, William
     - Chapter URL: https://lichess.org/study/mj8UtUBc/ltjNIriT
     - Found: counter-attack
     - All found aliases: counter-attack, cramped, discovered check, king is safe, material, pin, pressure, removing the guard, tempi, threatening, threats, trades
@@ -4289,7 +4289,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/HU8KOi8j/4bHhN3dh
     - Found: develop
     - All found aliases: center, controls the center, cramps, develop, exchanging, formations, majority, pressure, space
-  - Chapter: Beliavsky, Alexander  - Portisch, Lajos
+  - Chapter: Beliavsky, Alexander G. - Portisch, Lajos
     - Chapter URL: https://lichess.org/study/HU8KOi8j/bddWOEa7
     - Found: develop, developed
     - All found aliases: bad bishop, blockading, combination, cramped, cramped position, develop, developed, exchanged, exchanging, majority, mobilize, passed, passed pawn, passer, pin, retreats, space, tempo, threatening
@@ -4503,7 +4503,7 @@ Appears In:
 
 - Study: Intermediate: Control of the Center
   - Study URL: https://lichess.org/study/mj8UtUBc
-  - Chapter: Blackburne, Joseph Henry  - Steinitz, Wilhelm
+  - Chapter: Blackburne, Joseph Henry  - Steinitz, William
     - Chapter URL: https://lichess.org/study/mj8UtUBc/ltjNIriT
     - Tactical Motif: discovered check
     - All found aliases: counter-attack, cramped, discovered check, king is safe, material, pin, pressure, removing the guard, tempi, threatening, threats, trades
@@ -4536,7 +4536,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/y1wA1JDw/4rVhRzMJ
     - Tactical Motif: discovered attack
     - All found aliases: discovered attack, passed, the hanging, threatening, two bishop
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Tactical Motif: discovered attack
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
@@ -4547,7 +4547,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/LHmryePD/o9nZxPZf
     - Tactical Motif: discovered attack
     - All found aliases: discovered attack, isolani, isolated, isolated pawn, maneuvers, material, mobile, mobilized, passed pawn, pressure, threat, threatening, x-ray, zugzwang
-  - Chapter: Denker, Arnold - Siff,  Boris
+  - Chapter: Denker, Arnold Sheldon - Siff,  Boris
     - Chapter URL: https://lichess.org/study/LHmryePD/m1TCnqlb
     - Tactical Motif: discovered attack
     - All found aliases: backward pawn, combination, connected passed, discovered attack, double attack, exchanging, isolani, material, passed pawn, passer, pawn majority, pinned, pinning, threat, threatening
@@ -4843,7 +4843,7 @@ Appears In:
 
 - Study: Intermediate: Hanging Pawns
   - Study URL: https://lichess.org/study/y1wA1JDw
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Tactical Motif: double attack
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
@@ -4857,7 +4857,7 @@ Appears In:
 
 - Study: Intermediate: Isolated Pawn
   - Study URL: https://lichess.org/study/LHmryePD
-  - Chapter: Denker, Arnold - Siff,  Boris
+  - Chapter: Denker, Arnold Sheldon - Siff,  Boris
     - Chapter URL: https://lichess.org/study/LHmryePD/m1TCnqlb
     - Tactical Motif: double attack
     - All found aliases: backward pawn, combination, connected passed, discovered attack, double attack, exchanging, isolani, material, passed pawn, passer, pawn majority, pinned, pinning, threat, threatening
@@ -5151,14 +5151,14 @@ Appears In:
 
 - Study: Intermediate: Hanging Pawns
   - Study URL: https://lichess.org/study/y1wA1JDw
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Feature: doubled pawns
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
 
 - Study: Intermediate: Hanging Phalanx
   - Study URL: https://lichess.org/study/vJTD9Iyi
-  - Chapter: Patay, J von  -  Reti, Richard
+  - Chapter: Von Patay, Julius  -  Reti, Richard
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/djk0k0P0
     - Feature: doubled
     - All found aliases: doubled, exchanged, exchanging, hypermodern, isolated, majority, mobility, passed pawn, passer, plans, the hanging, threatened, zugzwang, zwischenzug
@@ -5294,7 +5294,7 @@ Appears In:
 
 - Study: Intermediate: Hanging Pawns
   - Study URL: https://lichess.org/study/y1wA1JDw
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Tactical Motif: sac the exchange
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
@@ -5549,7 +5549,7 @@ Appears In:
 
 - Study: Intermediate: Open File
   - Study URL: https://lichess.org/study/FlL0kWtQ
-  - Chapter: Reshevsky, Samuel  - Myagmarsuren, Lhamsuren
+  - Chapter: Reshevsky, Samuel Herman  - Myagmarsuren, Lhamsuren
     - Chapter URL: https://lichess.org/study/FlL0kWtQ/CwKsUMMI
     - Tactical Motif: fork
     - All found aliases: exchanges, fork, good bishop, isolani, minority, pawn formation, pinned, plan, planning, pressure, threat, threatening, transformed into pressure, two bishops, zwischenzug
@@ -5892,7 +5892,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/y1wA1JDw/4rVhRzMJ
     - Tactical Motif: the hanging
     - All found aliases: discovered attack, passed, the hanging, threatening, two bishop
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Tactical Motif: the hanging
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
@@ -5907,7 +5907,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/09zK84Bx
     - Tactical Motif: the hanging
     - All found aliases: backward pawn, center, central control, chain, chains, classical school, counter-attack, double attack, hypermodern, isolated, minority, outpost, pawn chain, planning, retreat, tension, the hanging, threatened, threatening
-  - Chapter: Patay, J von  -  Reti, Richard
+  - Chapter: Von Patay, Julius  -  Reti, Richard
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/djk0k0P0
     - Tactical Motif: the hanging
     - All found aliases: doubled, exchanged, exchanging, hypermodern, isolated, majority, mobility, passed pawn, passer, plans, the hanging, threatened, zugzwang, zwischenzug
@@ -5979,7 +5979,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/09zK84Bx
     - Found: hypermodern
     - All found aliases: backward pawn, center, central control, chain, chains, classical school, counter-attack, double attack, hypermodern, isolated, minority, outpost, pawn chain, planning, retreat, tension, the hanging, threatened, threatening
-  - Chapter: Patay, J von  -  Reti, Richard
+  - Chapter: Von Patay, Julius  -  Reti, Richard
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/djk0k0P0
     - Found: hypermodern
     - All found aliases: doubled, exchanged, exchanging, hypermodern, isolated, majority, mobility, passed pawn, passer, plans, the hanging, threatened, zugzwang, zwischenzug
@@ -6046,7 +6046,7 @@ Appears In:
 
 - Study: Intermediate: Qualitative Pawn Majority
   - Study URL: https://lichess.org/study/InR4tjnm
-  - Chapter: Byrne, David - Benko, Paul
+  - Chapter: Byrne, David - Benko, Pal
     - Chapter URL: https://lichess.org/study/InR4tjnm/LdRzBKES
     - Found: improves his
     - All found aliases: blockade, center, connected passed, constricted, exchanges, formation, good bishop, improves his, majority, outpost, passed pawns, pawn majority, plan, sacrificing, threat, threatening, zugzwang
@@ -6138,14 +6138,14 @@ Appears In:
 
 - Study: Intermediate: Hanging Phalanx
   - Study URL: https://lichess.org/study/vJTD9Iyi
-  - Chapter: Patay, J von  -  Reti, Richard
+  - Chapter: Von Patay, Julius  -  Reti, Richard
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/djk0k0P0
     - Tactical Motif: zwischenzug
     - All found aliases: doubled, exchanged, exchanging, hypermodern, isolated, majority, mobility, passed pawn, passer, plans, the hanging, threatened, zugzwang, zwischenzug
 
 - Study: Intermediate: Open File
   - Study URL: https://lichess.org/study/FlL0kWtQ
-  - Chapter: Reshevsky, Samuel  - Myagmarsuren, Lhamsuren
+  - Chapter: Reshevsky, Samuel Herman  - Myagmarsuren, Lhamsuren
     - Chapter URL: https://lichess.org/study/FlL0kWtQ/CwKsUMMI
     - Tactical Motif: zwischenzug
     - All found aliases: exchanges, fork, good bishop, isolani, minority, pawn formation, pinned, plan, planning, pressure, threat, threatening, transformed into pressure, two bishops, zwischenzug
@@ -6377,7 +6377,7 @@ Appears In:
 
 - Study: Intermediate: Hanging Pawns
   - Study URL: https://lichess.org/study/y1wA1JDw
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Feature: isolated, isolated pawns
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
@@ -6388,7 +6388,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/09zK84Bx
     - Feature: isolated
     - All found aliases: backward pawn, center, central control, chain, chains, classical school, counter-attack, double attack, hypermodern, isolated, minority, outpost, pawn chain, planning, retreat, tension, the hanging, threatened, threatening
-  - Chapter: Patay, J von  -  Reti, Richard
+  - Chapter: Von Patay, Julius  -  Reti, Richard
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/djk0k0P0
     - Feature: isolated
     - All found aliases: doubled, exchanged, exchanging, hypermodern, isolated, majority, mobility, passed pawn, passer, plans, the hanging, threatened, zugzwang, zwischenzug
@@ -6430,7 +6430,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/LHmryePD/o9nZxPZf
     - Feature: isolani, isolated, isolated pawn
     - All found aliases: discovered attack, isolani, isolated, isolated pawn, maneuvers, material, mobile, mobilized, passed pawn, pressure, threat, threatening, x-ray, zugzwang
-  - Chapter: Denker, Arnold - Siff,  Boris
+  - Chapter: Denker, Arnold Sheldon - Siff,  Boris
     - Chapter URL: https://lichess.org/study/LHmryePD/m1TCnqlb
     - Feature: isolani
     - All found aliases: backward pawn, combination, connected passed, discovered attack, double attack, exchanging, isolani, material, passed pawn, passer, pawn majority, pinned, pinning, threat, threatening
@@ -6460,7 +6460,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/FlL0kWtQ/q3zBXPll
     - Feature: isolated pawn
     - All found aliases: isolated pawn, pawn structure, restrict
-  - Chapter: Reshevsky, Samuel  - Myagmarsuren, Lhamsuren
+  - Chapter: Reshevsky, Samuel Herman  - Myagmarsuren, Lhamsuren
     - Chapter URL: https://lichess.org/study/FlL0kWtQ/CwKsUMMI
     - Feature: isolani
     - All found aliases: exchanges, fork, good bishop, isolani, minority, pawn formation, pinned, plan, planning, pressure, threat, threatening, transformed into pressure, two bishops, zwischenzug
@@ -6937,7 +6937,7 @@ Appears In:
 
 - Study: Intermediate: Control of the Center
   - Study URL: https://lichess.org/study/mj8UtUBc
-  - Chapter: Blackburne, Joseph Henry  - Steinitz, Wilhelm
+  - Chapter: Blackburne, Joseph Henry  - Steinitz, William
     - Chapter URL: https://lichess.org/study/mj8UtUBc/ltjNIriT
     - Found: king is safe
     - All found aliases: counter-attack, cramped, discovered check, king is safe, material, pin, pressure, removing the guard, tempi, threatening, threats, trades
@@ -6962,7 +6962,7 @@ Appears In:
 
 - Study: Intermediate: Outpost Station
   - Study URL: https://lichess.org/study/eUChNfwg
-  - Chapter: Khan, Mir Sultan  - Mattison, Hermanis Karlovich
+  - Chapter: Khan, Sultan  - Mattison, Hermanis Karlovich
     - Chapter URL: https://lichess.org/study/eUChNfwg/h6NgKodc
     - Found: king is safe
     - All found aliases: bad bishop, formation, good bishop, king is safe, material, outpost, pawn formation, threatening
@@ -7080,7 +7080,7 @@ Appears In:
 
 - Study: Intermediate: Hanging Pawns
   - Study URL: https://lichess.org/study/y1wA1JDw
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Found: simplifying to
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
@@ -7658,7 +7658,7 @@ Appears In:
 
 - Study: Intermediate: Advanced Pawn Salient
   - Study URL: https://lichess.org/study/m0LDLCIA
-  - Chapter: Lumbera, Jaime Llado  - Capablanca,  Jose Raul
+  - Chapter: Llado Lumbera, Jaime  - Capablanca,  Jose Raul
     - Chapter URL: https://lichess.org/study/m0LDLCIA/69H90usc
     - Found: material
     - All found aliases: center, cramped, material, mobility, outpost, passed pawn, threatening
@@ -7669,7 +7669,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/mj8UtUBc/8qAUWiNR
     - Found: material
     - All found aliases: center, material, pin, tempo, threat, threatening
-  - Chapter: Blackburne, Joseph Henry  - Steinitz, Wilhelm
+  - Chapter: Blackburne, Joseph Henry  - Steinitz, William
     - Chapter URL: https://lichess.org/study/mj8UtUBc/ltjNIriT
     - Found: material
     - All found aliases: counter-attack, cramped, discovered check, king is safe, material, pin, pressure, removing the guard, tempi, threatening, threats, trades
@@ -7740,7 +7740,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/LHmryePD/o9nZxPZf
     - Found: material
     - All found aliases: discovered attack, isolani, isolated, isolated pawn, maneuvers, material, mobile, mobilized, passed pawn, pressure, threat, threatening, x-ray, zugzwang
-  - Chapter: Denker, Arnold - Siff,  Boris
+  - Chapter: Denker, Arnold Sheldon - Siff,  Boris
     - Chapter URL: https://lichess.org/study/LHmryePD/m1TCnqlb
     - Found: material
     - All found aliases: backward pawn, combination, connected passed, discovered attack, double attack, exchanging, isolani, material, passed pawn, passer, pawn majority, pinned, pinning, threat, threatening
@@ -7772,7 +7772,7 @@ Appears In:
 
 - Study: Intermediate: Outpost Station
   - Study URL: https://lichess.org/study/eUChNfwg
-  - Chapter: Khan, Mir Sultan  - Mattison, Hermanis Karlovich
+  - Chapter: Khan, Sultan  - Mattison, Hermanis Karlovich
     - Chapter URL: https://lichess.org/study/eUChNfwg/h6NgKodc
     - Found: material
     - All found aliases: bad bishop, formation, good bishop, king is safe, material, outpost, pawn formation, threatening
@@ -9000,7 +9000,7 @@ Appears In:
 
 - Study: Intermediate: Advanced Pawn Salient
   - Study URL: https://lichess.org/study/m0LDLCIA
-  - Chapter: Lumbera, Jaime Llado  - Capablanca,  Jose Raul
+  - Chapter: Llado Lumbera, Jaime  - Capablanca,  Jose Raul
     - Chapter URL: https://lichess.org/study/m0LDLCIA/69H90usc
     - Feature: outpost
     - All found aliases: center, cramped, material, mobility, outpost, passed pawn, threatening
@@ -9123,14 +9123,14 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eUChNfwg/A85lT0at
     - Feature: outpost
     - All found aliases: outpost, pawn formation, pin, pinned, pressure, tempo, threatening
-  - Chapter: Khan, Mir Sultan  - Mattison, Hermanis Karlovich
+  - Chapter: Khan, Sultan  - Mattison, Hermanis Karlovich
     - Chapter URL: https://lichess.org/study/eUChNfwg/h6NgKodc
     - Feature: outpost
     - All found aliases: bad bishop, formation, good bishop, king is safe, material, outpost, pawn formation, threatening
 
 - Study: Intermediate: Qualitative Pawn Majority
   - Study URL: https://lichess.org/study/InR4tjnm
-  - Chapter: Byrne, David - Benko, Paul
+  - Chapter: Byrne, David - Benko, Pal
     - Chapter URL: https://lichess.org/study/InR4tjnm/LdRzBKES
     - Feature: outpost
     - All found aliases: blockade, center, connected passed, constricted, exchanges, formation, good bishop, improves his, majority, outpost, passed pawns, pawn majority, plan, sacrificing, threat, threatening, zugzwang
@@ -9205,7 +9205,7 @@ Appears In:
 
 - Study: Intermediate: Hanging Pawns
   - Study URL: https://lichess.org/study/y1wA1JDw
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Tactical Motif: overloaded, overloads
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
@@ -9599,7 +9599,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/HU8KOi8j/WOpminEa
     - Feature: passed pawn
     - All found aliases: center, control the center, outpost, passed pawn, plan, restricting, threat
-  - Chapter: Beliavsky, Alexander  - Portisch, Lajos
+  - Chapter: Beliavsky, Alexander G. - Portisch, Lajos
     - Chapter URL: https://lichess.org/study/HU8KOi8j/bddWOEa7
     - Feature: passed, passed pawn, passer
     - All found aliases: bad bishop, blockading, combination, cramped, cramped position, develop, developed, exchanged, exchanging, majority, mobilize, passed, passed pawn, passer, pin, retreats, space, tempo, threatening
@@ -9617,7 +9617,7 @@ Appears In:
 
 - Study: Intermediate: Advanced Pawn Salient
   - Study URL: https://lichess.org/study/m0LDLCIA
-  - Chapter: Lumbera, Jaime Llado  - Capablanca,  Jose Raul
+  - Chapter: Llado Lumbera, Jaime  - Capablanca,  Jose Raul
     - Chapter URL: https://lichess.org/study/m0LDLCIA/69H90usc
     - Feature: passed pawn
     - All found aliases: center, cramped, material, mobility, outpost, passed pawn, threatening
@@ -9723,14 +9723,14 @@ Appears In:
     - Chapter URL: https://lichess.org/study/y1wA1JDw/4rVhRzMJ
     - Feature: passed
     - All found aliases: discovered attack, passed, the hanging, threatening, two bishop
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Feature: passed pawn, passer, pawn passed
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
 
 - Study: Intermediate: Hanging Phalanx
   - Study URL: https://lichess.org/study/vJTD9Iyi
-  - Chapter: Patay, J von  -  Reti, Richard
+  - Chapter: Von Patay, Julius  -  Reti, Richard
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/djk0k0P0
     - Feature: passed pawn, passer
     - All found aliases: doubled, exchanged, exchanging, hypermodern, isolated, majority, mobility, passed pawn, passer, plans, the hanging, threatened, zugzwang, zwischenzug
@@ -9753,7 +9753,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/LHmryePD/o9nZxPZf
     - Feature: passed pawn
     - All found aliases: discovered attack, isolani, isolated, isolated pawn, maneuvers, material, mobile, mobilized, passed pawn, pressure, threat, threatening, x-ray, zugzwang
-  - Chapter: Denker, Arnold - Siff,  Boris
+  - Chapter: Denker, Arnold Sheldon - Siff,  Boris
     - Chapter URL: https://lichess.org/study/LHmryePD/m1TCnqlb
     - Feature: passed pawn, passer
     - All found aliases: backward pawn, combination, connected passed, discovered attack, double attack, exchanging, isolani, material, passed pawn, passer, pawn majority, pinned, pinning, threat, threatening
@@ -9831,7 +9831,7 @@ Appears In:
 
 - Study: Intermediate: Qualitative Pawn Majority
   - Study URL: https://lichess.org/study/InR4tjnm
-  - Chapter: Byrne, David - Benko, Paul
+  - Chapter: Byrne, David - Benko, Pal
     - Chapter URL: https://lichess.org/study/InR4tjnm/LdRzBKES
     - Feature: passed pawns
     - All found aliases: blockade, center, connected passed, constricted, exchanges, formation, good bishop, improves his, majority, outpost, passed pawns, pawn majority, plan, sacrificing, threat, threatening, zugzwang
@@ -10548,7 +10548,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/HU8KOi8j/4bHhN3dh
     - Feature: majority
     - All found aliases: center, controls the center, cramps, develop, exchanging, formations, majority, pressure, space
-  - Chapter: Beliavsky, Alexander  - Portisch, Lajos
+  - Chapter: Beliavsky, Alexander G. - Portisch, Lajos
     - Chapter URL: https://lichess.org/study/HU8KOi8j/bddWOEa7
     - Feature: majority
     - All found aliases: bad bishop, blockading, combination, cramped, cramped position, develop, developed, exchanged, exchanging, majority, mobilize, passed, passed pawn, passer, pin, retreats, space, tempo, threatening
@@ -10600,7 +10600,7 @@ Appears In:
 
 - Study: Intermediate: Hanging Phalanx
   - Study URL: https://lichess.org/study/vJTD9Iyi
-  - Chapter: Patay, J von  -  Reti, Richard
+  - Chapter: Von Patay, Julius  -  Reti, Richard
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/djk0k0P0
     - Feature: majority
     - All found aliases: doubled, exchanged, exchanging, hypermodern, isolated, majority, mobility, passed pawn, passer, plans, the hanging, threatened, zugzwang, zwischenzug
@@ -10611,7 +10611,7 @@ Appears In:
 
 - Study: Intermediate: Isolated Pawn
   - Study URL: https://lichess.org/study/LHmryePD
-  - Chapter: Denker, Arnold - Siff,  Boris
+  - Chapter: Denker, Arnold Sheldon - Siff,  Boris
     - Chapter URL: https://lichess.org/study/LHmryePD/m1TCnqlb
     - Feature: pawn majority
     - All found aliases: backward pawn, combination, connected passed, discovered attack, double attack, exchanging, isolani, material, passed pawn, passer, pawn majority, pinned, pinning, threat, threatening
@@ -10640,7 +10640,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/InR4tjnm/I2i3Awvc
     - Feature: pawn majority, qualitative pawn majority
     - All found aliases: mobile, pawn majority, pawn structure, qualitative pawn majority
-  - Chapter: Byrne, David - Benko, Paul
+  - Chapter: Byrne, David - Benko, Pal
     - Chapter URL: https://lichess.org/study/InR4tjnm/LdRzBKES
     - Feature: majority, pawn majority
     - All found aliases: blockade, center, connected passed, constricted, exchanges, formation, good bishop, improves his, majority, outpost, passed pawns, pawn majority, plan, sacrificing, threat, threatening, zugzwang
@@ -10738,7 +10738,7 @@ Appears In:
 
 - Study: Intermediate: Open File
   - Study URL: https://lichess.org/study/FlL0kWtQ
-  - Chapter: Reshevsky, Samuel  - Myagmarsuren, Lhamsuren
+  - Chapter: Reshevsky, Samuel Herman  - Myagmarsuren, Lhamsuren
     - Chapter URL: https://lichess.org/study/FlL0kWtQ/CwKsUMMI
     - Feature: minority
     - All found aliases: exchanges, fork, good bishop, isolani, minority, pawn formation, pinned, plan, planning, pressure, threat, threatening, transformed into pressure, two bishops, zwischenzug
@@ -10824,7 +10824,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/LHmryePD/8hEch3FU
     - Feature: connected passed
     - All found aliases: blockade, blockading, connected passed, fork, isolani, isolated pawns, outpost, retreat, threats
-  - Chapter: Denker, Arnold - Siff,  Boris
+  - Chapter: Denker, Arnold Sheldon - Siff,  Boris
     - Chapter URL: https://lichess.org/study/LHmryePD/m1TCnqlb
     - Feature: connected passed
     - All found aliases: backward pawn, combination, connected passed, discovered attack, double attack, exchanging, isolani, material, passed pawn, passer, pawn majority, pinned, pinning, threat, threatening
@@ -10838,7 +10838,7 @@ Appears In:
 
 - Study: Intermediate: Qualitative Pawn Majority
   - Study URL: https://lichess.org/study/InR4tjnm
-  - Chapter: Byrne, David - Benko, Paul
+  - Chapter: Byrne, David - Benko, Pal
     - Chapter URL: https://lichess.org/study/InR4tjnm/LdRzBKES
     - Feature: connected passed
     - All found aliases: blockade, center, connected passed, constricted, exchanges, formation, good bishop, improves his, majority, outpost, passed pawns, pawn majority, plan, sacrificing, threat, threatening, zugzwang
@@ -11361,7 +11361,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/FlL0kWtQ/q3zBXPll
     - Found: pawn structure
     - All found aliases: isolated pawn, pawn structure, restrict
-  - Chapter: Reshevsky, Samuel  - Myagmarsuren, Lhamsuren
+  - Chapter: Reshevsky, Samuel Herman  - Myagmarsuren, Lhamsuren
     - Chapter URL: https://lichess.org/study/FlL0kWtQ/CwKsUMMI
     - Found: pawn formation
     - All found aliases: exchanges, fork, good bishop, isolani, minority, pawn formation, pinned, plan, planning, pressure, threat, threatening, transformed into pressure, two bishops, zwischenzug
@@ -11415,7 +11415,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eUChNfwg/A85lT0at
     - Found: pawn formation
     - All found aliases: outpost, pawn formation, pin, pinned, pressure, tempo, threatening
-  - Chapter: Khan, Mir Sultan  - Mattison, Hermanis Karlovich
+  - Chapter: Khan, Sultan  - Mattison, Hermanis Karlovich
     - Chapter URL: https://lichess.org/study/eUChNfwg/h6NgKodc
     - Found: formation, pawn formation
     - All found aliases: bad bishop, formation, good bishop, king is safe, material, outpost, pawn formation, threatening
@@ -11451,7 +11451,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/InR4tjnm/I2i3Awvc
     - Found: pawn structure
     - All found aliases: mobile, pawn majority, pawn structure, qualitative pawn majority
-  - Chapter: Byrne, David - Benko, Paul
+  - Chapter: Byrne, David - Benko, Pal
     - Chapter URL: https://lichess.org/study/InR4tjnm/LdRzBKES
     - Found: formation
     - All found aliases: blockade, center, connected passed, constricted, exchanges, formation, good bishop, improves his, majority, outpost, passed pawns, pawn majority, plan, sacrificing, threat, threatening, zugzwang
@@ -11947,14 +11947,14 @@ Appears In:
     - Chapter URL: https://lichess.org/study/HU8KOi8j/WOpminEa
     - Found: restricting
     - All found aliases: center, control the center, outpost, passed pawn, plan, restricting, threat
-  - Chapter: Beliavsky, Alexander  - Portisch, Lajos
+  - Chapter: Beliavsky, Alexander G. - Portisch, Lajos
     - Chapter URL: https://lichess.org/study/HU8KOi8j/bddWOEa7
     - Found: mobilize
     - All found aliases: bad bishop, blockading, combination, cramped, cramped position, develop, developed, exchanged, exchanging, majority, mobilize, passed, passed pawn, passer, pin, retreats, space, tempo, threatening
 
 - Study: Intermediate: Advanced Pawn Salient
   - Study URL: https://lichess.org/study/m0LDLCIA
-  - Chapter: Lumbera, Jaime Llado  - Capablanca,  Jose Raul
+  - Chapter: Llado Lumbera, Jaime  - Capablanca,  Jose Raul
     - Chapter URL: https://lichess.org/study/m0LDLCIA/69H90usc
     - Found: mobility
     - All found aliases: center, cramped, material, mobility, outpost, passed pawn, threatening
@@ -12060,7 +12060,7 @@ Appears In:
 
 - Study: Intermediate: Hanging Phalanx
   - Study URL: https://lichess.org/study/vJTD9Iyi
-  - Chapter: Patay, J von  -  Reti, Richard
+  - Chapter: Von Patay, Julius  -  Reti, Richard
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/djk0k0P0
     - Found: mobility
     - All found aliases: doubled, exchanged, exchanging, hypermodern, isolated, majority, mobility, passed pawn, passer, plans, the hanging, threatened, zugzwang, zwischenzug
@@ -12493,7 +12493,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/HU8KOi8j/4bHhN3dh
     - Found: exchanging
     - All found aliases: center, controls the center, cramps, develop, exchanging, formations, majority, pressure, space
-  - Chapter: Beliavsky, Alexander  - Portisch, Lajos
+  - Chapter: Beliavsky, Alexander G. - Portisch, Lajos
     - Chapter URL: https://lichess.org/study/HU8KOi8j/bddWOEa7
     - Found: exchanged, exchanging
     - All found aliases: bad bishop, blockading, combination, cramped, cramped position, develop, developed, exchanged, exchanging, majority, mobilize, passed, passed pawn, passer, pin, retreats, space, tempo, threatening
@@ -12522,7 +12522,7 @@ Appears In:
 
 - Study: Intermediate: Control of the Center
   - Study URL: https://lichess.org/study/mj8UtUBc
-  - Chapter: Blackburne, Joseph Henry  - Steinitz, Wilhelm
+  - Chapter: Blackburne, Joseph Henry  - Steinitz, William
     - Chapter URL: https://lichess.org/study/mj8UtUBc/ltjNIriT
     - Found: trades
     - All found aliases: counter-attack, cramped, discovered check, king is safe, material, pin, pressure, removing the guard, tempi, threatening, threats, trades
@@ -12605,14 +12605,14 @@ Appears In:
 
 - Study: Intermediate: Hanging Pawns
   - Study URL: https://lichess.org/study/y1wA1JDw
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Found: the exchanges
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
 
 - Study: Intermediate: Hanging Phalanx
   - Study URL: https://lichess.org/study/vJTD9Iyi
-  - Chapter: Patay, J von  -  Reti, Richard
+  - Chapter: Von Patay, Julius  -  Reti, Richard
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/djk0k0P0
     - Found: exchanged, exchanging
     - All found aliases: doubled, exchanged, exchanging, hypermodern, isolated, majority, mobility, passed pawn, passer, plans, the hanging, threatened, zugzwang, zwischenzug
@@ -12623,7 +12623,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/LHmryePD/me74Zv8L
     - Found: trades
     - All found aliases: bishop pair, counter-play, doubled, fork, isolani, isolated, isolated pawn, isolated pawns, isolates, mobility, outpost, passed, pawn chain, pinned, pinning, sacrifice, tempo, threatening, trades
-  - Chapter: Denker, Arnold - Siff,  Boris
+  - Chapter: Denker, Arnold Sheldon - Siff,  Boris
     - Chapter URL: https://lichess.org/study/LHmryePD/m1TCnqlb
     - Found: exchanging
     - All found aliases: backward pawn, combination, connected passed, discovered attack, double attack, exchanging, isolani, material, passed pawn, passer, pawn majority, pinned, pinning, threat, threatening
@@ -12649,7 +12649,7 @@ Appears In:
 
 - Study: Intermediate: Open File
   - Study URL: https://lichess.org/study/FlL0kWtQ
-  - Chapter: Reshevsky, Samuel  - Myagmarsuren, Lhamsuren
+  - Chapter: Reshevsky, Samuel Herman  - Myagmarsuren, Lhamsuren
     - Chapter URL: https://lichess.org/study/FlL0kWtQ/CwKsUMMI
     - Found: exchanges
     - All found aliases: exchanges, fork, good bishop, isolani, minority, pawn formation, pinned, plan, planning, pressure, threat, threatening, transformed into pressure, two bishops, zwischenzug
@@ -12719,7 +12719,7 @@ Appears In:
 
 - Study: Intermediate: Qualitative Pawn Majority
   - Study URL: https://lichess.org/study/InR4tjnm
-  - Chapter: Byrne, David - Benko, Paul
+  - Chapter: Byrne, David - Benko, Pal
     - Chapter URL: https://lichess.org/study/InR4tjnm/LdRzBKES
     - Found: exchanges
     - All found aliases: blockade, center, connected passed, constricted, exchanges, formation, good bishop, improves his, majority, outpost, passed pawns, pawn majority, plan, sacrificing, threat, threatening, zugzwang
@@ -13178,7 +13178,7 @@ Appears In:
 
 - Study: Intermediate: Advanced Pawn
   - Study URL: https://lichess.org/study/HU8KOi8j
-  - Chapter: Beliavsky, Alexander  - Portisch, Lajos
+  - Chapter: Beliavsky, Alexander G. - Portisch, Lajos
     - Chapter URL: https://lichess.org/study/HU8KOi8j/bddWOEa7
     - Tactical Motif: pin
     - All found aliases: bad bishop, blockading, combination, cramped, cramped position, develop, developed, exchanged, exchanging, majority, mobilize, passed, passed pawn, passer, pin, retreats, space, tempo, threatening
@@ -13214,7 +13214,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/mj8UtUBc/8qAUWiNR
     - Tactical Motif: pin
     - All found aliases: center, material, pin, tempo, threat, threatening
-  - Chapter: Blackburne, Joseph Henry  - Steinitz, Wilhelm
+  - Chapter: Blackburne, Joseph Henry  - Steinitz, William
     - Chapter URL: https://lichess.org/study/mj8UtUBc/ltjNIriT
     - Tactical Motif: pin
     - All found aliases: counter-attack, cramped, discovered check, king is safe, material, pin, pressure, removing the guard, tempi, threatening, threats, trades
@@ -13277,7 +13277,7 @@ Appears In:
 
 - Study: Intermediate: Hanging Pawns
   - Study URL: https://lichess.org/study/y1wA1JDw
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Tactical Motif: pinned
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
@@ -13299,7 +13299,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/LHmryePD/me74Zv8L
     - Tactical Motif: pinned, pinning
     - All found aliases: bishop pair, counter-play, doubled, fork, isolani, isolated, isolated pawn, isolated pawns, isolates, mobility, outpost, passed, pawn chain, pinned, pinning, sacrifice, tempo, threatening, trades
-  - Chapter: Denker, Arnold - Siff,  Boris
+  - Chapter: Denker, Arnold Sheldon - Siff,  Boris
     - Chapter URL: https://lichess.org/study/LHmryePD/m1TCnqlb
     - Tactical Motif: pinned, pinning
     - All found aliases: backward pawn, combination, connected passed, discovered attack, double attack, exchanging, isolani, material, passed pawn, passer, pawn majority, pinned, pinning, threat, threatening
@@ -13321,7 +13321,7 @@ Appears In:
 
 - Study: Intermediate: Open File
   - Study URL: https://lichess.org/study/FlL0kWtQ
-  - Chapter: Reshevsky, Samuel  - Myagmarsuren, Lhamsuren
+  - Chapter: Reshevsky, Samuel Herman  - Myagmarsuren, Lhamsuren
     - Chapter URL: https://lichess.org/study/FlL0kWtQ/CwKsUMMI
     - Tactical Motif: pinned
     - All found aliases: exchanges, fork, good bishop, isolani, minority, pawn formation, pinned, plan, planning, pressure, threat, threatening, transformed into pressure, two bishops, zwischenzug
@@ -14138,7 +14138,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/09zK84Bx
     - Found: planning
     - All found aliases: backward pawn, center, central control, chain, chains, classical school, counter-attack, double attack, hypermodern, isolated, minority, outpost, pawn chain, planning, retreat, tension, the hanging, threatened, threatening
-  - Chapter: Patay, J von  -  Reti, Richard
+  - Chapter: Von Patay, Julius  -  Reti, Richard
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/djk0k0P0
     - Found: plans
     - All found aliases: doubled, exchanged, exchanging, hypermodern, isolated, majority, mobility, passed pawn, passer, plans, the hanging, threatened, zugzwang, zwischenzug
@@ -14166,7 +14166,7 @@ Appears In:
 
 - Study: Intermediate: Open File
   - Study URL: https://lichess.org/study/FlL0kWtQ
-  - Chapter: Reshevsky, Samuel  - Myagmarsuren, Lhamsuren
+  - Chapter: Reshevsky, Samuel Herman  - Myagmarsuren, Lhamsuren
     - Chapter URL: https://lichess.org/study/FlL0kWtQ/CwKsUMMI
     - Found: plan, planning
     - All found aliases: exchanges, fork, good bishop, isolani, minority, pawn formation, pinned, plan, planning, pressure, threat, threatening, transformed into pressure, two bishops, zwischenzug
@@ -14260,7 +14260,7 @@ Appears In:
 
 - Study: Intermediate: Qualitative Pawn Majority
   - Study URL: https://lichess.org/study/InR4tjnm
-  - Chapter: Byrne, David - Benko, Paul
+  - Chapter: Byrne, David - Benko, Pal
     - Chapter URL: https://lichess.org/study/InR4tjnm/LdRzBKES
     - Found: plan
     - All found aliases: blockade, center, connected passed, constricted, exchanges, formation, good bishop, improves his, majority, outpost, passed pawns, pawn majority, plan, sacrificing, threat, threatening, zugzwang
@@ -14650,7 +14650,7 @@ Appears In:
 
 - Study: Intermediate: Control of the Center
   - Study URL: https://lichess.org/study/mj8UtUBc
-  - Chapter: Blackburne, Joseph Henry  - Steinitz, Wilhelm
+  - Chapter: Blackburne, Joseph Henry  - Steinitz, William
     - Chapter URL: https://lichess.org/study/mj8UtUBc/ltjNIriT
     - Tactical Motif: removing the guard
     - All found aliases: counter-attack, cramped, discovered check, king is safe, material, pin, pressure, removing the guard, tempi, threatening, threats, trades
@@ -14996,7 +14996,7 @@ Appears In:
 
 - Study: Intermediate: Hanging Pawns
   - Study URL: https://lichess.org/study/y1wA1JDw
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Tactical Motif: sac, sacrifice
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
@@ -15080,7 +15080,7 @@ Appears In:
 
 - Study: Intermediate: Qualitative Pawn Majority
   - Study URL: https://lichess.org/study/InR4tjnm
-  - Chapter: Byrne, David - Benko, Paul
+  - Chapter: Byrne, David - Benko, Pal
     - Chapter URL: https://lichess.org/study/InR4tjnm/LdRzBKES
     - Tactical Motif: sacrificing
     - All found aliases: blockade, center, connected passed, constricted, exchanges, formation, good bishop, improves his, majority, outpost, passed pawns, pawn majority, plan, sacrificing, threat, threatening, zugzwang
@@ -15467,7 +15467,7 @@ Appears In:
 
 - Study: Intermediate: Hanging Pawns
   - Study URL: https://lichess.org/study/y1wA1JDw
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Found: simplifies
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
@@ -15910,7 +15910,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/HU8KOi8j/4bHhN3dh
     - Found: cramps, space
     - All found aliases: center, controls the center, cramps, develop, exchanging, formations, majority, pressure, space
-  - Chapter: Beliavsky, Alexander  - Portisch, Lajos
+  - Chapter: Beliavsky, Alexander G. - Portisch, Lajos
     - Chapter URL: https://lichess.org/study/HU8KOi8j/bddWOEa7
     - Found: cramped, cramped position, space
     - All found aliases: bad bishop, blockading, combination, cramped, cramped position, develop, developed, exchanged, exchanging, majority, mobilize, passed, passed pawn, passer, pin, retreats, space, tempo, threatening
@@ -15936,7 +15936,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/m0LDLCIA/z2P4CMTu
     - Found: space
     - All found aliases: imbalances, pawn chains, pawn structure, space
-  - Chapter: Lumbera, Jaime Llado  - Capablanca,  Jose Raul
+  - Chapter: Llado Lumbera, Jaime  - Capablanca,  Jose Raul
     - Chapter URL: https://lichess.org/study/m0LDLCIA/69H90usc
     - Found: cramped
     - All found aliases: center, cramped, material, mobility, outpost, passed pawn, threatening
@@ -15962,7 +15962,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/mj8UtUBc/2VtFeXfm
     - Found: space
     - All found aliases: center, developed, developing, five principles, lose a tempo, maneuver, opposition, plan, principles, space, tarrasch and nimzowitsch, tempi, tempo
-  - Chapter: Blackburne, Joseph Henry  - Steinitz, Wilhelm
+  - Chapter: Blackburne, Joseph Henry  - Steinitz, William
     - Chapter URL: https://lichess.org/study/mj8UtUBc/ltjNIriT
     - Found: cramped
     - All found aliases: counter-attack, cramped, discovered check, king is safe, material, pin, pressure, removing the guard, tempi, threatening, threats, trades
@@ -16063,7 +16063,7 @@ Appears In:
 
 - Study: Intermediate: Qualitative Pawn Majority
   - Study URL: https://lichess.org/study/InR4tjnm
-  - Chapter: Byrne, David - Benko, Paul
+  - Chapter: Byrne, David - Benko, Pal
     - Chapter URL: https://lichess.org/study/InR4tjnm/LdRzBKES
     - Found: constricted
     - All found aliases: blockade, center, connected passed, constricted, exchanges, formation, good bishop, improves his, majority, outpost, passed pawns, pawn majority, plan, sacrificing, threat, threatening, zugzwang
@@ -16186,7 +16186,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/mj8UtUBc/JKMCoqLJ
     - Found: pressure
     - All found aliases: blockade, center, developing, hypermodern, majority, mobility, pawn chain, pressure, space, tempo
-  - Chapter: Blackburne, Joseph Henry  - Steinitz, Wilhelm
+  - Chapter: Blackburne, Joseph Henry  - Steinitz, William
     - Chapter URL: https://lichess.org/study/mj8UtUBc/ltjNIriT
     - Found: pressure
     - All found aliases: counter-attack, cramped, discovered check, king is safe, material, pin, pressure, removing the guard, tempi, threatening, threats, trades
@@ -16244,7 +16244,7 @@ Appears In:
 
 - Study: Intermediate: Open File
   - Study URL: https://lichess.org/study/FlL0kWtQ
-  - Chapter: Reshevsky, Samuel  - Myagmarsuren, Lhamsuren
+  - Chapter: Reshevsky, Samuel Herman  - Myagmarsuren, Lhamsuren
     - Chapter URL: https://lichess.org/study/FlL0kWtQ/CwKsUMMI
     - Found: pressure
     - All found aliases: exchanges, fork, good bishop, isolani, minority, pawn formation, pinned, plan, planning, pressure, threat, threatening, transformed into pressure, two bishops, zwischenzug
@@ -16476,7 +16476,7 @@ Appears In:
 
 - Study: Intermediate: Advanced Pawn
   - Study URL: https://lichess.org/study/HU8KOi8j
-  - Chapter: Beliavsky, Alexander  - Portisch, Lajos
+  - Chapter: Beliavsky, Alexander G. - Portisch, Lajos
     - Chapter URL: https://lichess.org/study/HU8KOi8j/bddWOEa7
     - Found: tempo
     - All found aliases: bad bishop, blockading, combination, cramped, cramped position, develop, developed, exchanged, exchanging, majority, mobilize, passed, passed pawn, passer, pin, retreats, space, tempo, threatening
@@ -16537,7 +16537,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/mj8UtUBc/JzuIbLH8
     - Found: tempi, tempo
     - All found aliases: center, develop, evaluation, mobile, plan, tempi, tempo
-  - Chapter: Blackburne, Joseph Henry  - Steinitz, Wilhelm
+  - Chapter: Blackburne, Joseph Henry  - Steinitz, William
     - Chapter URL: https://lichess.org/study/mj8UtUBc/ltjNIriT
     - Found: tempi
     - All found aliases: counter-attack, cramped, discovered check, king is safe, material, pin, pressure, removing the guard, tempi, threatening, threats, trades
@@ -17047,7 +17047,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/HU8KOi8j/WOpminEa
     - Found: threat
     - All found aliases: center, control the center, outpost, passed pawn, plan, restricting, threat
-  - Chapter: Beliavsky, Alexander  - Portisch, Lajos
+  - Chapter: Beliavsky, Alexander G. - Portisch, Lajos
     - Chapter URL: https://lichess.org/study/HU8KOi8j/bddWOEa7
     - Found: threatening
     - All found aliases: bad bishop, blockading, combination, cramped, cramped position, develop, developed, exchanged, exchanging, majority, mobilize, passed, passed pawn, passer, pin, retreats, space, tempo, threatening
@@ -17081,7 +17081,7 @@ Appears In:
 
 - Study: Intermediate: Advanced Pawn Salient
   - Study URL: https://lichess.org/study/m0LDLCIA
-  - Chapter: Lumbera, Jaime Llado  - Capablanca,  Jose Raul
+  - Chapter: Llado Lumbera, Jaime  - Capablanca,  Jose Raul
     - Chapter URL: https://lichess.org/study/m0LDLCIA/69H90usc
     - Found: threatening
     - All found aliases: center, cramped, material, mobility, outpost, passed pawn, threatening
@@ -17119,7 +17119,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/mj8UtUBc/8qAUWiNR
     - Found: threat, threatening
     - All found aliases: center, material, pin, tempo, threat, threatening
-  - Chapter: Blackburne, Joseph Henry  - Steinitz, Wilhelm
+  - Chapter: Blackburne, Joseph Henry  - Steinitz, William
     - Chapter URL: https://lichess.org/study/mj8UtUBc/ltjNIriT
     - Found: threatening, threats
     - All found aliases: counter-attack, cramped, discovered check, king is safe, material, pin, pressure, removing the guard, tempi, threatening, threats, trades
@@ -17223,7 +17223,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/y1wA1JDw/4rVhRzMJ
     - Found: threatening
     - All found aliases: discovered attack, passed, the hanging, threatening, two bishop
-  - Chapter: Zukertort, Johannes  -Taubenhaus,  Jean
+  - Chapter: Zukertort, Johannes Hermann -Taubenhaus,  Jean
     - Chapter URL: https://lichess.org/study/y1wA1JDw/JHZsAkbJ
     - Found: threat, threatening
     - All found aliases: blockades, blockading, discovered attack, double attack, doubled pawns, good bishop, isolated, isolated pawns, overloaded, overloads, passed pawn, passer, pawn passed, pinned, sac, sac the exchange, sacrifice, simplifies, simplifying to, the exchanges, the hanging, threat, threatening
@@ -17234,7 +17234,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/09zK84Bx
     - Found: threatened, threatening
     - All found aliases: backward pawn, center, central control, chain, chains, classical school, counter-attack, double attack, hypermodern, isolated, minority, outpost, pawn chain, planning, retreat, tension, the hanging, threatened, threatening
-  - Chapter: Patay, J von  -  Reti, Richard
+  - Chapter: Von Patay, Julius  -  Reti, Richard
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/djk0k0P0
     - Found: threatened
     - All found aliases: doubled, exchanged, exchanging, hypermodern, isolated, majority, mobility, passed pawn, passer, plans, the hanging, threatened, zugzwang, zwischenzug
@@ -17265,7 +17265,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/LHmryePD/o9nZxPZf
     - Found: threat, threatening
     - All found aliases: discovered attack, isolani, isolated, isolated pawn, maneuvers, material, mobile, mobilized, passed pawn, pressure, threat, threatening, x-ray, zugzwang
-  - Chapter: Denker, Arnold - Siff,  Boris
+  - Chapter: Denker, Arnold Sheldon - Siff,  Boris
     - Chapter URL: https://lichess.org/study/LHmryePD/m1TCnqlb
     - Found: threat, threatening
     - All found aliases: backward pawn, combination, connected passed, discovered attack, double attack, exchanging, isolani, material, passed pawn, passer, pawn majority, pinned, pinning, threat, threatening
@@ -17290,7 +17290,7 @@ Appears In:
 
 - Study: Intermediate: Open File
   - Study URL: https://lichess.org/study/FlL0kWtQ
-  - Chapter: Reshevsky, Samuel  - Myagmarsuren, Lhamsuren
+  - Chapter: Reshevsky, Samuel Herman  - Myagmarsuren, Lhamsuren
     - Chapter URL: https://lichess.org/study/FlL0kWtQ/CwKsUMMI
     - Found: threat, threatening
     - All found aliases: exchanges, fork, good bishop, isolani, minority, pawn formation, pinned, plan, planning, pressure, threat, threatening, transformed into pressure, two bishops, zwischenzug
@@ -17352,7 +17352,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/eUChNfwg/A85lT0at
     - Found: threatening
     - All found aliases: outpost, pawn formation, pin, pinned, pressure, tempo, threatening
-  - Chapter: Khan, Mir Sultan  - Mattison, Hermanis Karlovich
+  - Chapter: Khan, Sultan  - Mattison, Hermanis Karlovich
     - Chapter URL: https://lichess.org/study/eUChNfwg/h6NgKodc
     - Found: threatening
     - All found aliases: bad bishop, formation, good bishop, king is safe, material, outpost, pawn formation, threatening
@@ -17412,7 +17412,7 @@ Appears In:
 
 - Study: Intermediate: Qualitative Pawn Majority
   - Study URL: https://lichess.org/study/InR4tjnm
-  - Chapter: Byrne, David - Benko, Paul
+  - Chapter: Byrne, David - Benko, Pal
     - Chapter URL: https://lichess.org/study/InR4tjnm/LdRzBKES
     - Found: threat, threatening
     - All found aliases: blockade, center, connected passed, constricted, exchanges, formation, good bishop, improves his, majority, outpost, passed pawns, pawn majority, plan, sacrificing, threat, threatening, zugzwang
@@ -18541,7 +18541,7 @@ Appears In:
 
 - Study: Intermediate: Hanging Phalanx
   - Study URL: https://lichess.org/study/vJTD9Iyi
-  - Chapter: Patay, J von  -  Reti, Richard
+  - Chapter: Von Patay, Julius  -  Reti, Richard
     - Chapter URL: https://lichess.org/study/vJTD9Iyi/djk0k0P0
     - Found: zugzwang
     - All found aliases: doubled, exchanged, exchanging, hypermodern, isolated, majority, mobility, passed pawn, passer, plans, the hanging, threatened, zugzwang, zwischenzug
@@ -18566,7 +18566,7 @@ Appears In:
 
 - Study: Intermediate: Qualitative Pawn Majority
   - Study URL: https://lichess.org/study/InR4tjnm
-  - Chapter: Byrne, David - Benko, Paul
+  - Chapter: Byrne, David - Benko, Pal
     - Chapter URL: https://lichess.org/study/InR4tjnm/LdRzBKES
     - Found: zugzwang
     - All found aliases: blockade, center, connected passed, constricted, exchanges, formation, good bishop, improves his, majority, outpost, passed pawns, pawn majority, plan, sacrificing, threat, threatening, zugzwang

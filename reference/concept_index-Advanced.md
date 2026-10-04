@@ -120,11 +120,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/yG4ujqAW
     - Found: retreat
     - All found aliases: calculate, material, retreat, threatened, threatening
-  - Chapter: Przepiorka - Prokes
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
     - Found: retreat
     - All found aliases: calculate, center, develop, developing, exchanged, exchanging, fork, is hanging, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: retreats
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -223,11 +223,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/YtNn4KhH
     - Found: retreat
     - All found aliases: center, combination, exchanging, fork, formation, good bishop, pawn formation, pin, pinning, plans, retreat, threatening
-  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+  - Chapter: Przepiorka, David - Havasi, Kornel
     - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
     - Found: retreat
     - All found aliases: center, counter-play, doubled, exchanging, material, passed pawn, passed pawns, planning, retreat, simplifies, the exchanges, threatening, to simplify
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Found: retreat
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -528,7 +528,7 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: active bishop
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -561,7 +561,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/2fOaUtrd
     - Found: bad bishop
     - All found aliases: bad bishop, blockading, compensate, minority, pawn structure, pawn structures, plans, silman's imbalances
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: bad bishop
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -597,7 +597,7 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: bad bishop, good bishop
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -656,7 +656,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
     - Found: bishop pair
     - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, not exchange, pin, plan, sacrifice, threat, threatening, weak square
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: bishop pair, two bishop, two bishops
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -720,7 +720,7 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: two bishops
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -743,7 +743,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/oAKtfvrp
     - Found: two bishops
     - All found aliases: compensation, exchanges, isolani, majority, passed pawn, principles, sacrificing, threatening, trade, trades, two bishops
-  - Chapter: Colle, Edgar - Bogoljubow, Efim
+  - Chapter: Colle, Edgar - Bogoljubov, Efim
     - Chapter URL: https://lichess.org/study/6P90HTwf/RxRlaQXM
     - Found: bishop pair, two bishops
     - All found aliases: bishop pair, exchanges, exchanging, initiative, isolani, majority, tempi, tempo, threatening, two bishops
@@ -945,7 +945,7 @@ Appears In:
 
 - Study: Colle
   - Study URL: https://lichess.org/study/6P90HTwf
-  - Chapter: Schwietzer, George J - Shrader, Eugene Wesley
+  - Chapter: Schwietzer, George J. - Shrader, Eugene Wesley
     - Chapter URL: https://lichess.org/study/6P90HTwf/bnjCvU7E
     - Found: blockaded
     - All found aliases: blockaded, discovered check, exchange of, isolani, outpost, overworked, pressure, threatening
@@ -1296,11 +1296,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/yG4ujqAW
     - Found: calculate
     - All found aliases: calculate, material, retreat, threatened, threatening
-  - Chapter: Przepiorka - Prokes
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
     - Found: calculate
     - All found aliases: calculate, center, develop, developing, exchanged, exchanging, fork, is hanging, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: calculate, calculating
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -1844,7 +1844,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
     - Found: candidate
     - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, not exchange, pin, plan, sacrifice, threat, threatening, weak square
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: candidate, candidate moves, candidates
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -2298,11 +2298,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/Tv7kkzHW
     - Found: center
     - All found aliases: center
-  - Chapter: Przepiorka - Prokes
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
     - Found: center
     - All found aliases: calculate, center, develop, developing, exchanged, exchanging, fork, is hanging, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: center
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -2479,7 +2479,7 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: center
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -2514,7 +2514,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/G3CxNgbl
     - Found: center
     - All found aliases: center, connected passed, threaten, threatening
-  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+  - Chapter: Capablanca, Jose Raul - Stahr
     - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
     - Found: center
     - All found aliases: center, closes, counter-play, exchanges, fork, mating net, plan, sacrifices, tension, threatening
@@ -2522,11 +2522,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/YtNn4KhH
     - Found: center
     - All found aliases: center, combination, exchanging, fork, formation, good bishop, pawn formation, pin, pinning, plans, retreat, threatening
-  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+  - Chapter: Przepiorka, David - Havasi, Kornel
     - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
     - Found: center
     - All found aliases: center, counter-play, doubled, exchanging, material, passed pawn, passed pawns, planning, retreat, simplifies, the exchanges, threatening, to simplify
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Found: center
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -2872,7 +2872,7 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: classical school
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -3014,7 +3014,7 @@ Appears In:
 
 - Study: Colle
   - Study URL: https://lichess.org/study/6P90HTwf
-  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+  - Chapter: Capablanca, Jose Raul - Stahr
     - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
     - Found: closes
     - All found aliases: center, closes, counter-play, exchanges, fork, mating net, plan, sacrifices, tension, threatening
@@ -3050,7 +3050,7 @@ Appears In:
 
 - Study: Advanced: Application From Real Games
   - Study URL: https://lichess.org/study/WLE9ibAW
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Tactical Motif: combination
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -3113,7 +3113,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/YtNn4KhH
     - Tactical Motif: combination
     - All found aliases: center, combination, exchanging, fork, formation, good bishop, pawn formation, pin, pinning, plans, retreat, threatening
-  - Chapter: Colle, Edgar - Bogoljubow, Efim
+  - Chapter: Colle, Edgar - Bogoljubov, Efim
     - Chapter URL: https://lichess.org/study/6P90HTwf/W96cSISA
     - Tactical Motif: combination
     - All found aliases: combination, isolani, pinning, planned, sacrifices, skewer
@@ -3686,7 +3686,7 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: counter-attacking
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -3778,7 +3778,7 @@ Appears In:
 
 - Study: Advanced: Application From Real Games
   - Study URL: https://lichess.org/study/WLE9ibAW
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: counter-play
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -3830,18 +3830,18 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: counterplay
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
 
 - Study: Colle
   - Study URL: https://lichess.org/study/6P90HTwf
-  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+  - Chapter: Capablanca, Jose Raul - Stahr
     - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
     - Found: counter-play
     - All found aliases: center, closes, counter-play, exchanges, fork, mating net, plan, sacrifices, tension, threatening
-  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+  - Chapter: Przepiorka, David - Havasi, Kornel
     - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
     - Found: counter-play
     - All found aliases: center, counter-play, doubled, exchanging, material, passed pawn, passed pawns, planning, retreat, simplifies, the exchanges, threatening, to simplify
@@ -4124,11 +4124,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
     - Found: developed
     - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, not exchange, pin, plan, sacrifice, threat, threatening, weak square
-  - Chapter: Przepiorka - Prokes
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
     - Found: develop, developing
     - All found aliases: calculate, center, develop, developing, exchanged, exchanging, fork, is hanging, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: develop, developing
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -4211,7 +4211,7 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: developed
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -4230,7 +4230,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/blyRVQCr
     - Found: developed
     - All found aliases: center, combination, developed, pin, sacrifice
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Found: develop, developing
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -4336,7 +4336,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/kt1wIbrY
     - Tactical Motif: discovered check
     - All found aliases: calculate, center, discovered check, exchanged, pin, sacrifice, threat, threatening
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Tactical Motif: discovered attack, discovered check
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -4377,7 +4377,7 @@ Appears In:
 
 - Study: Colle
   - Study URL: https://lichess.org/study/6P90HTwf
-  - Chapter: Schwietzer, George J - Shrader, Eugene Wesley
+  - Chapter: Schwietzer, George J. - Shrader, Eugene Wesley
     - Chapter URL: https://lichess.org/study/6P90HTwf/bnjCvU7E
     - Tactical Motif: discovered check
     - All found aliases: blockaded, discovered check, exchange of, isolani, outpost, overworked, pressure, threatening
@@ -4522,7 +4522,7 @@ Appears In:
 
 - Study: Colle
   - Study URL: https://lichess.org/study/6P90HTwf
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Tactical Motif: double attacks
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -4634,7 +4634,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
     - Feature: doubled, doubled pawns
     - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, not exchange, pin, plan, sacrifice, threat, threatening, weak square
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Feature: doubled pawns
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -4697,7 +4697,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/2Zl8lZqo
     - Feature: doubles
     - All found aliases: doubles
-  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+  - Chapter: Przepiorka, David - Havasi, Kornel
     - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
     - Feature: doubled
     - All found aliases: center, counter-play, doubled, exchanging, material, passed pawn, passed pawns, planning, retreat, simplifies, the exchanges, threatening, to simplify
@@ -4932,7 +4932,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/lpuvWfIr
     - Tactical Motif: fork
     - All found aliases: fork, hanging the, simplifying, two bishops
-  - Chapter: Przepiorka - Prokes
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
     - Tactical Motif: fork
     - All found aliases: calculate, center, develop, developing, exchanged, exchanging, fork, is hanging, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
@@ -4984,11 +4984,11 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor I :Chessmaster 10
     - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
     - Tactical Motif: forks
     - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Tactical Motif: fork
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -5011,7 +5011,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/TSQw6fzo
     - Tactical Motif: fork
     - All found aliases: center, connected passed, fork, majority, mobility, passed pawns, pins, threatening
-  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+  - Chapter: Capablanca, Jose Raul - Stahr
     - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
     - Tactical Motif: fork
     - All found aliases: center, closes, counter-play, exchanges, fork, mating net, plan, sacrifices, tension, threatening
@@ -5027,7 +5027,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/BLZNdAIS
     - Tactical Motif: fork
     - All found aliases: fork, material, threatening
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Tactical Motif: fork
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -5276,7 +5276,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/lpuvWfIr
     - Tactical Motif: hanging the
     - All found aliases: fork, hanging the, simplifying, two bishops
-  - Chapter: Przepiorka - Prokes
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
     - Tactical Motif: is hanging
     - All found aliases: calculate, center, develop, developing, exchanged, exchanging, fork, is hanging, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
@@ -5305,7 +5305,7 @@ Appears In:
 
 - Study: Colle
   - Study URL: https://lichess.org/study/6P90HTwf
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Tactical Motif: is hanging
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -5341,7 +5341,7 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: hypermodern
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -5376,7 +5376,7 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: improves his
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -5461,11 +5461,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/9Cb11DuC
     - Tactical Motif: zwischenzug
     - All found aliases: center, passed pawns, zwischenzug
-  - Chapter: Przepiorka - Prokes
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
     - Tactical Motif: zwischenzug
     - All found aliases: calculate, center, develop, developing, exchanged, exchanging, fork, is hanging, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Tactical Motif: zwischenzug
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -5505,7 +5505,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/ppNu9nSz
     - Feature: isolani
     - All found aliases: calculate, gain a tempo, isolani, material, pinned, two bishops
-  - Chapter: Przepiorka - Prokes
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
     - Feature: isolani, isolated
     - All found aliases: calculate, center, develop, developing, exchanged, exchanging, fork, is hanging, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
@@ -5556,11 +5556,11 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor I :Chessmaster 10
     - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
     - Feature: isolates
     - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Feature: isolani, isolated
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -5603,7 +5603,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/p60Fj4OH
     - Feature: isolani
     - All found aliases: isolani
-  - Chapter: Schwietzer, George J - Shrader, Eugene Wesley
+  - Chapter: Schwietzer, George J. - Shrader, Eugene Wesley
     - Chapter URL: https://lichess.org/study/6P90HTwf/bnjCvU7E
     - Feature: isolani
     - All found aliases: blockaded, discovered check, exchange of, isolani, outpost, overworked, pressure, threatening
@@ -5619,15 +5619,15 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
     - Feature: isolani
     - All found aliases: blockaded, exchanged, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
-  - Chapter: Colle, Edgar - Bogoljubow, Efim
+  - Chapter: Colle, Edgar - Bogoljubov, Efim
     - Chapter URL: https://lichess.org/study/6P90HTwf/W96cSISA
     - Feature: isolani
     - All found aliases: combination, isolani, pinning, planned, sacrifices, skewer
-  - Chapter: Colle, Edgar - Bogoljubow, Efim
+  - Chapter: Colle, Edgar - Bogoljubov, Efim
     - Chapter URL: https://lichess.org/study/6P90HTwf/RxRlaQXM
     - Feature: isolani
     - All found aliases: bishop pair, exchanges, exchanging, initiative, isolani, majority, tempi, tempo, threatening, two bishops
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Feature: isolani
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -6255,7 +6255,7 @@ Appears In:
 
 - Study: Advanced: Application From Real Games
   - Study URL: https://lichess.org/study/WLE9ibAW
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: can simplify, just simplifying
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -6273,7 +6273,7 @@ Appears In:
 
 - Study: Colle
   - Study URL: https://lichess.org/study/6P90HTwf
-  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+  - Chapter: Przepiorka, David - Havasi, Kornel
     - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
     - Found: to simplify
     - All found aliases: center, counter-play, doubled, exchanging, material, passed pawn, passed pawns, planning, retreat, simplifies, the exchanges, threatening, to simplify
@@ -6685,11 +6685,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/yG4ujqAW
     - Found: material
     - All found aliases: calculate, material, retreat, threatened, threatening
-  - Chapter: Przepiorka - Prokes
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
     - Found: material
     - All found aliases: calculate, center, develop, developing, exchanged, exchanging, fork, is hanging, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: material
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -6854,7 +6854,7 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor I :Chessmaster 10
     - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
     - Found: material
     - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
@@ -6862,7 +6862,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/YWzZVLVO/lpccdIjY
     - Found: material
     - All found aliases: material
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: material
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -6881,15 +6881,15 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/S8hLLj6k
     - Found: material
     - All found aliases: combination, exchanges, fortress, material, overloaded, threat, threatening, two bishops
-  - Chapter: Colle, Edgard - Capablanca, Jose Raul
+  - Chapter: Colle, Edgar - Capablanca, Jose Raul
     - Chapter URL: https://lichess.org/study/6P90HTwf/41wL1Xtn
     - Found: material
     - All found aliases: exchange on, material, mobility, overloaded, restricts, threatening
-  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+  - Chapter: Przepiorka, David - Havasi, Kornel
     - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
     - Found: material
     - All found aliases: center, counter-play, doubled, exchanging, material, passed pawn, passed pawns, planning, retreat, simplifies, the exchanges, threatening, to simplify
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Found: material
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -7245,7 +7245,7 @@ Appears In:
 
 - Study: Colle
   - Study URL: https://lichess.org/study/6P90HTwf
-  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+  - Chapter: Capablanca, Jose Raul - Stahr
     - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
     - Tactical Motif: mating net
     - All found aliases: center, closes, counter-play, exchanges, fork, mating net, plan, sacrifices, tension, threatening
@@ -7398,7 +7398,7 @@ Appears In:
 
 - Study: Advanced: Application From Real Games
   - Study URL: https://lichess.org/study/WLE9ibAW
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Tactical Motif: tactical motif
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -7441,7 +7441,7 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: open position
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -7987,7 +7987,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/dMJjHeKM
     - Feature: outpost
     - All found aliases: minority, outpost, plan, plans, weak pawns
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Feature: outpost
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -8031,7 +8031,7 @@ Appears In:
 
 - Study: Colle
   - Study URL: https://lichess.org/study/6P90HTwf
-  - Chapter: Schwietzer, George J - Shrader, Eugene Wesley
+  - Chapter: Schwietzer, George J. - Shrader, Eugene Wesley
     - Chapter URL: https://lichess.org/study/6P90HTwf/bnjCvU7E
     - Feature: outpost
     - All found aliases: blockaded, discovered check, exchange of, isolani, outpost, overworked, pressure, threatening
@@ -8039,7 +8039,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
     - Feature: outpost
     - All found aliases: blockaded, exchanged, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Feature: outpost
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -8151,7 +8151,7 @@ Appears In:
 
 - Study: Colle
   - Study URL: https://lichess.org/study/6P90HTwf
-  - Chapter: Schwietzer, George J - Shrader, Eugene Wesley
+  - Chapter: Schwietzer, George J. - Shrader, Eugene Wesley
     - Chapter URL: https://lichess.org/study/6P90HTwf/bnjCvU7E
     - Tactical Motif: overworked
     - All found aliases: blockaded, discovered check, exchange of, isolani, outpost, overworked, pressure, threatening
@@ -8163,7 +8163,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/S8hLLj6k
     - Tactical Motif: overloaded
     - All found aliases: combination, exchanges, fortress, material, overloaded, threat, threatening, two bishops
-  - Chapter: Colle, Edgard - Capablanca, Jose Raul
+  - Chapter: Colle, Edgar - Capablanca, Jose Raul
     - Chapter URL: https://lichess.org/study/6P90HTwf/41wL1Xtn
     - Tactical Motif: overloaded
     - All found aliases: exchange on, material, mobility, overloaded, restricts, threatening
@@ -8171,7 +8171,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/fgGgMOU2
     - Tactical Motif: overworked
     - All found aliases: combination, developed, doubled pawns, doubles, good bishop, isolani, material, overworked, pin, retreats, threatening
-  - Chapter: Riumin, Nikolay Nikolaevich - Budo, A.
+  - Chapter: Riumin, Nikolay Nikolaevich - Budo, Alexander Semionovich
     - Chapter URL: https://lichess.org/study/6P90HTwf/f64CA29q
     - Tactical Motif: overworked
     - All found aliases: exchanges, overworked, sacrifices, threatening
@@ -8287,7 +8287,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
     - Feature: passed
     - All found aliases: blockaded, exchanged, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
-  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+  - Chapter: Przepiorka, David - Havasi, Kornel
     - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
     - Feature: passed pawn, passed pawns
     - All found aliases: center, counter-play, doubled, exchanging, material, passed pawn, passed pawns, planning, retreat, simplifies, the exchanges, threatening, to simplify
@@ -8818,7 +8818,7 @@ Appears In:
 
 - Study: Advanced: Application From Real Games
   - Study URL: https://lichess.org/study/WLE9ibAW
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Feature: majority
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -8855,7 +8855,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/oAKtfvrp
     - Feature: majority
     - All found aliases: compensation, exchanges, isolani, majority, passed pawn, principles, sacrificing, threatening, trade, trades, two bishops
-  - Chapter: Colle, Edgar - Bogoljubow, Efim
+  - Chapter: Colle, Edgar - Bogoljubov, Efim
     - Chapter URL: https://lichess.org/study/6P90HTwf/RxRlaQXM
     - Feature: majority
     - All found aliases: bishop pair, exchanges, exchanging, initiative, isolani, majority, tempi, tempo, threatening, two bishops
@@ -9242,7 +9242,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/2fOaUtrd
     - Found: pawn structure, pawn structures
     - All found aliases: bad bishop, blockading, compensate, minority, pawn structure, pawn structures, plans, silman's imbalances
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: formation, pawn structure, pawn structures
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -9634,18 +9634,18 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Feature: tension
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
 
 - Study: Colle
   - Study URL: https://lichess.org/study/6P90HTwf
-  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+  - Chapter: Capablanca, Jose Raul - Stahr
     - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
     - Feature: tension
     - All found aliases: center, closes, counter-play, exchanges, fork, mating net, plan, sacrifices, tension, threatening
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Feature: tension
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -9856,7 +9856,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/TSQw6fzo
     - Found: mobility
     - All found aliases: center, connected passed, fork, majority, mobility, passed pawns, pins, threatening
-  - Chapter: Colle, Edgard - Capablanca, Jose Raul
+  - Chapter: Colle, Edgar - Capablanca, Jose Raul
     - Chapter URL: https://lichess.org/study/6P90HTwf/41wL1Xtn
     - Found: mobility, restricts
     - All found aliases: exchange on, material, mobility, overloaded, restricts, threatening
@@ -10227,11 +10227,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
     - Found: not exchange
     - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, not exchange, pin, plan, sacrifice, threat, threatening, weak square
-  - Chapter: Przepiorka - Prokes
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
     - Found: exchanged, exchanging
     - All found aliases: calculate, center, develop, developing, exchanged, exchanging, fork, is hanging, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: exchanged
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -10376,7 +10376,7 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: exchanges
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -10395,7 +10395,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/ADjfPTDA
     - Found: exchanges
     - All found aliases: exchanges
-  - Chapter: Schwietzer, George J - Shrader, Eugene Wesley
+  - Chapter: Schwietzer, George J. - Shrader, Eugene Wesley
     - Chapter URL: https://lichess.org/study/6P90HTwf/bnjCvU7E
     - Found: exchange of
     - All found aliases: blockaded, discovered check, exchange of, isolani, outpost, overworked, pressure, threatening
@@ -10403,7 +10403,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/oAKtfvrp
     - Found: exchanges, trade, trades
     - All found aliases: compensation, exchanges, isolani, majority, passed pawn, principles, sacrificing, threatening, trade, trades, two bishops
-  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+  - Chapter: Capablanca, Jose Raul - Stahr
     - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
     - Found: exchanges
     - All found aliases: center, closes, counter-play, exchanges, fork, mating net, plan, sacrifices, tension, threatening
@@ -10415,7 +10415,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
     - Found: exchanged
     - All found aliases: blockaded, exchanged, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
-  - Chapter: Colle, Edgar - Bogoljubow, Efim
+  - Chapter: Colle, Edgar - Bogoljubov, Efim
     - Chapter URL: https://lichess.org/study/6P90HTwf/RxRlaQXM
     - Found: exchanges, exchanging
     - All found aliases: bishop pair, exchanges, exchanging, initiative, isolani, majority, tempi, tempo, threatening, two bishops
@@ -10423,15 +10423,15 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/S8hLLj6k
     - Found: exchanges
     - All found aliases: combination, exchanges, fortress, material, overloaded, threat, threatening, two bishops
-  - Chapter: Colle, Edgard - Capablanca, Jose Raul
+  - Chapter: Colle, Edgar - Capablanca, Jose Raul
     - Chapter URL: https://lichess.org/study/6P90HTwf/41wL1Xtn
     - Found: exchange on
     - All found aliases: exchange on, material, mobility, overloaded, restricts, threatening
-  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+  - Chapter: Przepiorka, David - Havasi, Kornel
     - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
     - Found: exchanging, the exchanges
     - All found aliases: center, counter-play, doubled, exchanging, material, passed pawn, passed pawns, planning, retreat, simplifies, the exchanges, threatening, to simplify
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Found: exchanges, exchanging
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -10439,7 +10439,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/CGy4flIt
     - Found: the exchanges
     - All found aliases: center, pressure, sacrifice, sacrifices, the exchanges, threat, threatening
-  - Chapter: Riumin, Nikolay Nikolaevich - Budo, A.
+  - Chapter: Riumin, Nikolay Nikolaevich - Budo, Alexander Semionovich
     - Chapter URL: https://lichess.org/study/6P90HTwf/f64CA29q
     - Found: exchanges
     - All found aliases: exchanges, overworked, sacrifices, threatening
@@ -10805,11 +10805,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
     - Tactical Motif: pin
     - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, not exchange, pin, plan, sacrifice, threat, threatening, weak square
-  - Chapter: Przepiorka - Prokes
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
     - Tactical Motif: pin, pinned, pinning
     - All found aliases: calculate, center, develop, developing, exchanged, exchanging, fork, is hanging, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Tactical Motif: pin, pinned, pinning
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -10920,11 +10920,11 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor I :Chessmaster 10
     - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
     - Tactical Motif: pin
     - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Tactical Motif: pinned
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -10963,11 +10963,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
     - Tactical Motif: pin, pins
     - All found aliases: blockaded, exchanged, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
-  - Chapter: Colle, Edgar - Bogoljubow, Efim
+  - Chapter: Colle, Edgar - Bogoljubov, Efim
     - Chapter URL: https://lichess.org/study/6P90HTwf/W96cSISA
     - Tactical Motif: pinning
     - All found aliases: combination, isolani, pinning, planned, sacrifices, skewer
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Tactical Motif: pin, pinning
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -11351,11 +11351,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
     - Found: plan
     - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, not exchange, pin, plan, sacrifice, threat, threatening, weak square
-  - Chapter: Przepiorka - Prokes
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
     - Found: plan, planning, plans
     - All found aliases: calculate, center, develop, developing, exchanged, exchanging, fork, is hanging, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: plan, planned, planning, plans
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -11598,11 +11598,11 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor I :Chessmaster 10
     - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
     - Found: plans
     - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: plan, planning, plans
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -11633,7 +11633,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/XffXT7IM
     - Found: planned
     - All found aliases: center, formation, pawn chain, planned
-  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+  - Chapter: Capablanca, Jose Raul - Stahr
     - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
     - Found: plan
     - All found aliases: center, closes, counter-play, exchanges, fork, mating net, plan, sacrifices, tension, threatening
@@ -11641,15 +11641,15 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/YtNn4KhH
     - Found: plans
     - All found aliases: center, combination, exchanging, fork, formation, good bishop, pawn formation, pin, pinning, plans, retreat, threatening
-  - Chapter: Colle, Edgar - Bogoljubow, Efim
+  - Chapter: Colle, Edgar - Bogoljubov, Efim
     - Chapter URL: https://lichess.org/study/6P90HTwf/W96cSISA
     - Found: planned
     - All found aliases: combination, isolani, pinning, planned, sacrifices, skewer
-  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+  - Chapter: Przepiorka, David - Havasi, Kornel
     - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
     - Found: planning
     - All found aliases: center, counter-play, doubled, exchanging, material, passed pawn, passed pawns, planning, retreat, simplifies, the exchanges, threatening, to simplify
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Found: plan, planning, plans
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -12171,7 +12171,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/n3ikXUxW
     - Tactical Motif: removing the guard
     - All found aliases: calculate, material, pinned, removing the guard, sacrifice, threatened, threatening
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Tactical Motif: removing the guard
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -12325,7 +12325,7 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: rot
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -12485,7 +12485,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
     - Tactical Motif: sacrifice
     - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, not exchange, pin, plan, sacrifice, threat, threatening, weak square
-  - Chapter: Przepiorka - Prokes
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
     - Tactical Motif: sacrifice
     - All found aliases: calculate, center, develop, developing, exchanged, exchanging, fork, is hanging, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
@@ -12607,7 +12607,7 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Tactical Motif: sacrifice, sacrificed
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -12626,19 +12626,19 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/oAKtfvrp
     - Tactical Motif: sacrificing
     - All found aliases: compensation, exchanges, isolani, majority, passed pawn, principles, sacrificing, threatening, trade, trades, two bishops
-  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+  - Chapter: Capablanca, Jose Raul - Stahr
     - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
     - Tactical Motif: sacrifices
     - All found aliases: center, closes, counter-play, exchanges, fork, mating net, plan, sacrifices, tension, threatening
-  - Chapter: Capablanca, Jose Raul - Bray, T.
+  - Chapter: Capablanca, Jose Raul - Bray, Thomas
     - Chapter URL: https://lichess.org/study/6P90HTwf/1KimMEEX
     - Tactical Motif: sac, sacrifice
     - All found aliases: sac, sacrifice, smothered mate, threatening
-  - Chapter: Colle, Edgar - Bogoljubow, Efim
+  - Chapter: Colle, Edgar - Bogoljubov, Efim
     - Chapter URL: https://lichess.org/study/6P90HTwf/W96cSISA
     - Tactical Motif: sacrifices
     - All found aliases: combination, isolani, pinning, planned, sacrifices, skewer
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Tactical Motif: sacrifice
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -12650,7 +12650,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/sF9MUmJ1
     - Tactical Motif: sacrificing
     - All found aliases: center, sacrificing, threatening
-  - Chapter: Riumin, Nikolay Nikolaevich - Budo, A.
+  - Chapter: Riumin, Nikolay Nikolaevich - Budo, Alexander Semionovich
     - Chapter URL: https://lichess.org/study/6P90HTwf/f64CA29q
     - Tactical Motif: sacrifices
     - All found aliases: exchanges, overworked, sacrifices, threatening
@@ -13011,7 +13011,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/siJNECaL
     - Found: simplified
     - All found aliases: formation, isolated pawn, pawn structures, simplified
-  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+  - Chapter: Przepiorka, David - Havasi, Kornel
     - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
     - Found: simplifies
     - All found aliases: center, counter-play, doubled, exchanging, material, passed pawn, passed pawns, planning, retreat, simplifies, the exchanges, threatening, to simplify
@@ -13089,7 +13089,7 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor I :Chessmaster 10
     - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
     - Tactical Motif: skewers
     - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
@@ -13100,7 +13100,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
     - Tactical Motif: skewer
     - All found aliases: blockaded, exchanged, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
-  - Chapter: Colle, Edgar - Bogoljubow, Efim
+  - Chapter: Colle, Edgar - Bogoljubov, Efim
     - Chapter URL: https://lichess.org/study/6P90HTwf/W96cSISA
     - Tactical Motif: skewer
     - All found aliases: combination, isolani, pinning, planned, sacrifices, skewer
@@ -13296,7 +13296,7 @@ Appears In:
 
 - Study: Colle
   - Study URL: https://lichess.org/study/6P90HTwf
-  - Chapter: Capablanca, Jose Raul - Bray, T.
+  - Chapter: Capablanca, Jose Raul - Bray, Thomas
     - Chapter URL: https://lichess.org/study/6P90HTwf/1KimMEEX
     - Named Mate: smothered mate
     - All found aliases: sac, sacrifice, smothered mate, threatening
@@ -13342,7 +13342,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/iAHjTLPE
     - Found: cramped position
     - All found aliases: center, classical pawn, cramped position, plan, sacrificed, threatening
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: cramped, cramps
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -13578,11 +13578,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/2bs65ZwO
     - Found: pressure
     - All found aliases: center, chain, closed, exchange of, exchanged, exchanging, outpost, pawn chain, pawn formation, plan, plans, pressure, retreat, threatening
-  - Chapter: Przepiorka - Prokes
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
     - Found: pressure
     - All found aliases: calculate, center, develop, developing, exchanged, exchanging, fork, is hanging, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: pressure
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -13689,11 +13689,11 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor I :Chessmaster 10
     - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
     - Found: initiative, pressure
     - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: pressure
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -13704,15 +13704,15 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/fR4LbCi6
     - Found: initiative
     - All found aliases: formation, initiative, pin, threatening
-  - Chapter: Schwietzer, George J - Shrader, Eugene Wesley
+  - Chapter: Schwietzer, George J. - Shrader, Eugene Wesley
     - Chapter URL: https://lichess.org/study/6P90HTwf/bnjCvU7E
     - Found: pressure
     - All found aliases: blockaded, discovered check, exchange of, isolani, outpost, overworked, pressure, threatening
-  - Chapter: Colle, Edgar - Bogoljubow, Efim
+  - Chapter: Colle, Edgar - Bogoljubov, Efim
     - Chapter URL: https://lichess.org/study/6P90HTwf/RxRlaQXM
     - Found: initiative
     - All found aliases: bishop pair, exchanges, exchanging, initiative, isolani, majority, tempi, tempo, threatening, two bishops
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Found: pressure
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -13762,7 +13762,7 @@ Appears In:
 
 - Study: Advanced: Application From Real Games
   - Study URL: https://lichess.org/study/WLE9ibAW
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: feud between tarrasch and nimzowitsch, tarrasch and nimzowitsch
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -13806,7 +13806,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/826AY7WG
     - Found: tempo
     - All found aliases: blockading, decoying, loose pieces, passed pawn, tempo
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: tempi, tempo
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -13874,7 +13874,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
     - Found: tempi
     - All found aliases: blockaded, exchanged, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
-  - Chapter: Colle, Edgar - Bogoljubow, Efim
+  - Chapter: Colle, Edgar - Bogoljubov, Efim
     - Chapter URL: https://lichess.org/study/6P90HTwf/RxRlaQXM
     - Found: tempi, tempo
     - All found aliases: bishop pair, exchanges, exchanging, initiative, isolani, majority, tempi, tempo, threatening, two bishops
@@ -14174,11 +14174,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/WLE9ibAW/6uB4oKgI
     - Found: threat, threatening
     - All found aliases: bishop pair, candidate, center, developed, doubled, doubled pawns, not exchange, pin, plan, sacrifice, threat, threatening, weak square
-  - Chapter: Przepiorka - Prokes
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/WLE9ibAW/K0zIQv9n
     - Found: threat, threatening
     - All found aliases: calculate, center, develop, developing, exchanged, exchanging, fork, is hanging, isolani, isolated, material, pin, pinned, pinning, plan, planning, plans, pressure, retreat, sacrifice, threat, threatening, zwischenzug
-  - Chapter: Tarrasch - Mieses
+  - Chapter: Tarrasch, Siegbert - Mieses
     - Chapter URL: https://lichess.org/study/WLE9ibAW/uyDVvOSw
     - Found: threat, threatening
     - All found aliases: bad bishop, bishop pair, calculate, calculating, can simplify, candidate, candidate moves, candidates, center, combination, counter-play, cramped, cramps, develop, developing, discovered attack, discovered check, doubled pawns, exchanged, feud between tarrasch and nimzowitsch, formation, just simplifying, majority, material, outpost, pawn structure, pawn structures, pin, pinned, pinning, plan, planned, planning, plans, pressure, removing the guard, retreats, tactical motif, tarrasch and nimzowitsch, tempi, tempo, threat, threatening, two bishop, two bishops, zwischenzug
@@ -14384,11 +14384,11 @@ Appears In:
 
 - Study: Chess Annotation By Computer
   - Study URL: https://lichess.org/study/YWzZVLVO
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor I :Chessmaster 10
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor I :Chessmaster 10
     - Chapter URL: https://lichess.org/study/YWzZVLVO/Bo2sW2QU
     - Found: threat
     - All found aliases: forks, initiative, isolates, material, pin, plans, pressure, skewers, threat
-  - Chapter: Colle, Edgard - Soultanbeieff, Victor Ivanovich : jomega
+  - Chapter: Colle, Edgar - Soultanbeieff, Victor Ivanovich : jomega
     - Chapter URL: https://lichess.org/study/YWzZVLVO/VqQS9aMI
     - Found: threat, threatening, threats
     - All found aliases: active bishop, bad bishop, center, classical school, counter-attacking, counterplay, developed, exchanges, fork, good bishop, hypermodern, improves his, isolani, isolated, material, open position, pinned, plan, planning, plans, pressure, rot, sacrifice, sacrificed, tension, threat, threatening, threats, two bishops
@@ -14415,7 +14415,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/J6JKnaKB
     - Found: threat
     - All found aliases: center, classical school, develop, doubled pawns, formation, key squares, plans, rot, tempo, threat, two bishops
-  - Chapter: Schwietzer, George J - Shrader, Eugene Wesley
+  - Chapter: Schwietzer, George J. - Shrader, Eugene Wesley
     - Chapter URL: https://lichess.org/study/6P90HTwf/bnjCvU7E
     - Found: threatening
     - All found aliases: blockaded, discovered check, exchange of, isolani, outpost, overworked, pressure, threatening
@@ -14431,11 +14431,11 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/oAKtfvrp
     - Found: threatening
     - All found aliases: compensation, exchanges, isolani, majority, passed pawn, principles, sacrificing, threatening, trade, trades, two bishops
-  - Chapter: Capablanca, Jose Raul - Stahr, JM.
+  - Chapter: Capablanca, Jose Raul - Stahr
     - Chapter URL: https://lichess.org/study/6P90HTwf/rUFBDW1V
     - Found: threatening
     - All found aliases: center, closes, counter-play, exchanges, fork, mating net, plan, sacrifices, tension, threatening
-  - Chapter: Capablanca, Jose Raul - Bray, T.
+  - Chapter: Capablanca, Jose Raul - Bray, Thomas
     - Chapter URL: https://lichess.org/study/6P90HTwf/1KimMEEX
     - Found: threatening
     - All found aliases: sac, sacrifice, smothered mate, threatening
@@ -14447,7 +14447,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/J06iU0vl
     - Found: threatening
     - All found aliases: blockaded, exchanged, fork, forking, fortress, isolani, material, outpost, overloaded, passed, pin, pins, skewer, tempi, threatening
-  - Chapter: Colle, Edgar - Bogoljubow, Efim
+  - Chapter: Colle, Edgar - Bogoljubov, Efim
     - Chapter URL: https://lichess.org/study/6P90HTwf/RxRlaQXM
     - Found: threatening
     - All found aliases: bishop pair, exchanges, exchanging, initiative, isolani, majority, tempi, tempo, threatening, two bishops
@@ -14463,15 +14463,15 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/S8hLLj6k
     - Found: threat, threatening
     - All found aliases: combination, exchanges, fortress, material, overloaded, threat, threatening, two bishops
-  - Chapter: Colle, Edgard - Capablanca, Jose Raul
+  - Chapter: Colle, Edgar - Capablanca, Jose Raul
     - Chapter URL: https://lichess.org/study/6P90HTwf/41wL1Xtn
     - Found: threatening
     - All found aliases: exchange on, material, mobility, overloaded, restricts, threatening
-  - Chapter: Przepiorka, Dawid - Havasi, Kornel
+  - Chapter: Przepiorka, David - Havasi, Kornel
     - Chapter URL: https://lichess.org/study/6P90HTwf/muxna7cx
     - Found: threatening
     - All found aliases: center, counter-play, doubled, exchanging, material, passed pawn, passed pawns, planning, retreat, simplifies, the exchanges, threatening, to simplify
-  - Chapter: Przepiorka, Dawid - Prokes, Ladislav
+  - Chapter: Przepiorka, David - Prokes, Ladislav
     - Chapter URL: https://lichess.org/study/6P90HTwf/qBikZar4
     - Found: threat, threatened, threatening, threats
     - All found aliases: center, develop, developing, double attacks, exchanges, exchanging, fork, is hanging, isolani, material, outpost, pin, pinning, plan, planning, plans, pressure, retreat, sacrifice, tension, threat, threatened, threatening, threats
@@ -14499,7 +14499,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/6P90HTwf/sF9MUmJ1
     - Found: threatening
     - All found aliases: center, sacrificing, threatening
-  - Chapter: Riumin, Nikolay Nikolaevich - Budo, A.
+  - Chapter: Riumin, Nikolay Nikolaevich - Budo, Alexander Semionovich
     - Chapter URL: https://lichess.org/study/6P90HTwf/f64CA29q
     - Found: threatening
     - All found aliases: exchanges, overworked, sacrifices, threatening
