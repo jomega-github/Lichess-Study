@@ -177,7 +177,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
     - Found: retreat
     - All found aliases: candidate, chain, exchange of, improving his, initiative, isolated, material, pawn chain, plan, plans, retreat, rot, sacrifice, threat
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Found: retreat
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -1240,7 +1240,7 @@ Appears In:
 
 - Study: Advanced: The Center
   - Study URL: https://lichess.org/study/49AuOOCo
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Tactical Motif: break the pin
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -2406,7 +2406,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/49AuOOCo/oyfIpu0v
     - Found: center
     - All found aliases: center, closed, discovered attack, pin, plans, tempi, the flexible
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Found: center
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -2995,7 +2995,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/49AuOOCo/74h033UV
     - Found: closed
     - All found aliases: closed, majority, open position, plan, tempo, two bishops
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Found: closed
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -4973,7 +4973,7 @@ Appears In:
 
 - Study: Advanced: The Center
   - Study URL: https://lichess.org/study/49AuOOCo
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Tactical Motif: fork
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -6129,7 +6129,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
     - Found: king is safe, king safety
     - All found aliases: calculate, can simplify, candidates, chain, closed, develops, doubling, evaluate, evaluation, initiative, isolated, king is safe, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, principles, rot, small advantage, space, tactical pattern, threatening, threats, two bishops
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Found: king safety
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -8016,7 +8016,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
     - Feature: outpost
     - All found aliases: calculate, can simplify, candidates, chain, closed, develops, doubling, evaluate, evaluation, initiative, isolated, king is safe, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, principles, rot, small advantage, space, tactical pattern, threatening, threats, two bishops
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Feature: outpost
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -8257,7 +8257,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/49AuOOCo/UcFDLb1e
     - Feature: passed pawn, passer
     - All found aliases: bishop pair, blockade, blockading, calculate, calculation, candidate, candidates, counter-attack, counter-play, doubled, evaluation, exchange of, exchange on, imbalances, initiative, interfere, majority, material, open position, open the position, passed pawn, passer, pawn formation, plan, planning, threatened, threatening, two bishops
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Feature: passer
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -9623,7 +9623,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/49AuOOCo/zbE97z9D
     - Feature: tension
     - All found aliases: advanced pawn chain, blockade, center, chain, closed, develop, developing, develops, imbalances, initiative, mobility, mobilize, pawn chain, pawn formation, pawn structure, pawn structures, plans, rot, space, tempi, tension, threatening, trade, two bishops
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Feature: tension
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -10307,7 +10307,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
     - Found: exchange of
     - All found aliases: candidate, chain, exchange of, improving his, initiative, isolated, material, pawn chain, plan, plans, retreat, rot, sacrifice, threat
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Found: exchanged
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -10878,7 +10878,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/49AuOOCo/oyfIpu0v
     - Tactical Motif: pin
     - All found aliases: center, closed, discovered attack, pin, plans, tempi, the flexible
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Tactical Motif: pin, pinned, pinning
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -11510,7 +11510,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
     - Found: plan, plans
     - All found aliases: candidate, chain, exchange of, improving his, initiative, isolated, material, pawn chain, plan, plans, retreat, rot, sacrifice, threat
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Found: plan
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -12284,7 +12284,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
     - Found: rot
     - All found aliases: candidate, chain, exchange of, improving his, initiative, isolated, material, pawn chain, plan, plans, retreat, rot, sacrifice, threat
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Found: rot
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -12570,7 +12570,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
     - Tactical Motif: sacrifice
     - All found aliases: candidate, chain, exchange of, improving his, initiative, isolated, material, pawn chain, plan, plans, retreat, rot, sacrifice, threat
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Tactical Motif: sacrifice
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -13399,7 +13399,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/49AuOOCo/F0dD8VCu
     - Found: space
     - All found aliases: calculate, can simplify, candidates, chain, closed, develops, doubling, evaluate, evaluation, initiative, isolated, king is safe, king safety, outpost, pawn chain, pawn structure, pawn structures, pin, pinned, plan, plans, principles, rot, small advantage, space, tactical pattern, threatening, threats, two bishops
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Found: space
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -13659,7 +13659,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
     - Found: initiative
     - All found aliases: candidate, chain, exchange of, improving his, initiative, isolated, material, pawn chain, plan, plans, retreat, rot, sacrifice, threat
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Found: pressure
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening
@@ -14331,7 +14331,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/49AuOOCo/uHMp3ifK
     - Found: threat
     - All found aliases: candidate, chain, exchange of, improving his, initiative, isolated, material, pawn chain, plan, plans, retreat, rot, sacrifice, threat
-  - Chapter: Short, Nigel D - Karpov, Anatoly, 1992
+  - Chapter: Short, Nigel D. - Karpov, Anatoly, 1992
     - Chapter URL: https://lichess.org/study/49AuOOCo/q889DSLW
     - Found: threat, threatening
     - All found aliases: break the pin, center, closed, exchanged, fork, king safety, outpost, passer, pin, pinned, pinning, plan, pressure, retreat, rot, sacrifice, space, tension, threat, threatening

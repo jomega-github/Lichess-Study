@@ -1074,7 +1074,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/fxEOlxbq/Km2ZYekm
     - Found: closed
     - All found aliases: backwardness, closed, connected passed, formation, majority, sacrifice, space
-  - Chapter: Bronstein, David I - Byrne, Robert E, 1952
+  - Chapter: Bronstein, David I. - Byrne, Robert E., 1952
     - Chapter URL: https://lichess.org/study/fxEOlxbq/pyJrjWCf
     - Found: closed
     - All found aliases: closed, material, sacrifice
@@ -2206,7 +2206,7 @@ Appears In:
 
 - Study: Pawn Power in Chess: Hans Kmoch: Chapter VI
   - Study URL: https://lichess.org/study/fxEOlxbq
-  - Chapter: Bronstein, David I - Byrne, Robert E, 1952
+  - Chapter: Bronstein, David I. - Byrne, Robert E., 1952
     - Chapter URL: https://lichess.org/study/fxEOlxbq/pyJrjWCf
     - Found: material
     - All found aliases: closed, material, sacrifice
@@ -4320,7 +4320,7 @@ Appears In:
     - Chapter URL: https://lichess.org/study/fxEOlxbq/Km2ZYekm
     - Tactical Motif: sacrifice
     - All found aliases: backwardness, closed, connected passed, formation, majority, sacrifice, space
-  - Chapter: Bronstein, David I - Byrne, Robert E, 1952
+  - Chapter: Bronstein, David I. - Byrne, Robert E., 1952
     - Chapter URL: https://lichess.org/study/fxEOlxbq/pyJrjWCf
     - Tactical Motif: sacrifice
     - All found aliases: closed, material, sacrifice

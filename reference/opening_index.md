@@ -81,27 +81,27 @@ A08 King's Indian Attack: French Variation; Game*: Capablanca, Jose Raul - Janow
 
 A08 King's Indian Attack: French Variation; Game*: Savon, Vladimir - Spassky, Boris; Baku; 1961.??.??; 0-1; https://lichess.org/study/uDpA956I/uKknW5gr
 
-A08 Zukertort Opening: Reversed Grnfeld; Game*: Bachmann Schiavo, Axel - Cornejo, Max; Asuncion; 2009.07.05; 1-0; https://lichess.org/study/AxW3sYhA/61UjMlKY
+A08 Zukertort Opening: Reversed Grünfeld; Game*: Bachmann Schiavo, Axel - Cornejo, Max; Asuncion; 2009.07.05; 1-0; https://lichess.org/study/AxW3sYhA/61UjMlKY
 
-A09 Rti Opening: Advance Variation; Game*: Kashdan, Isaac - Horowitz, Israel Albert; Philadelphia, PA USA; 1936.08.24; 0-1 (dup #50); https://lichess.org/study/aAtElCsv/944GGDcd
+A09 Réti Opening: Advance Variation; Game*: Kashdan, Isaac - Horowitz, Israel Albert; Philadelphia, PA USA; 1936.08.24; 0-1 (dup #50); https://lichess.org/study/aAtElCsv/944GGDcd
 
-A09 Rti Opening: Advance Variation; Game*: Kashdan, Isaac - Horowitz, Israel Albert; Philadelphia, PA USA; 1936.08.24; 0-1 (dup #50); https://lichess.org/study/6AnWFDzO/Ky1NhBjD
+A09 Réti Opening: Advance Variation; Game*: Kashdan, Isaac - Horowitz, Israel Albert; Philadelphia, PA USA; 1936.08.24; 0-1 (dup #50); https://lichess.org/study/6AnWFDzO/Ky1NhBjD
 
-A09 Rti Opening: Advance Variation; Game*: Panno, Oscar - Polugaevsky, Lev; Petropolis; 1973.??.??; 1-0; https://lichess.org/study/k4B16BhD/wx3JVm6r
+A09 Réti Opening: Advance Variation; Game*: Panno, Oscar - Polugaevsky, Lev; Petropolis; 1973.??.??; 1-0; https://lichess.org/study/k4B16BhD/wx3JVm6r
 
-A09 Rti Opening: Advance Variation; Game: Euwe, Max - Alekhine, Alexander; The Hague NED; 1927.01.06; 1-0; https://lichess.org/study/YuoLOpzE/sNtbhbYW
+A09 Réti Opening: Advance Variation; Game: Euwe, Max - Alekhine, Alexander; The Hague NED; 1927.01.06; 1-0; https://lichess.org/study/YuoLOpzE/sNtbhbYW
 
-A09 Rti Opening: Advance Variation; Game: Euwe, Max - Loman, Rudolf; Rotterdam; 1923.??.??; 1-0; https://lichess.org/study/XH8xSdBs/sSvnaCv6
+A09 Réti Opening: Advance Variation; Game: Euwe, Max - Loman, Rudolf; Rotterdam; 1923.??.??; 1-0; https://lichess.org/study/XH8xSdBs/sSvnaCv6
 
 A10 English Opening: Anglo-Dutch Defense; Game*: Nimzowitsch, Aron - Mieses, Jacques; 1920.??.??; *; https://lichess.org/study/t6bOK7CT/QA8EMl3y
 
-A11 Rti Opening: Anglo-Slav Variation, Gurevich System; Game*: Schlosser, Philipp - Van Wely, Loek; Belfort FRA; 2012.06.10; 0-1; https://lichess.org/study/AxW3sYhA/dscB0YmR
+A11 Réti Opening: Anglo-Slav Variation, Gurevich System; Game*: Schlosser, Philipp - Van Wely, Loek; Belfort FRA; 2012.06.10; 0-1; https://lichess.org/study/AxW3sYhA/dscB0YmR
 
-A12 Rti Opening: Anglo-Slav Variation, Bogoljubow Variation; Game*: Lokvenc, Josef - Feigin, Movsa; Hamburg (Germany); 1930.??.??; 1-0; https://lichess.org/study/uDpA956I/FOHQNVfr
+A12 Réti Opening: Anglo-Slav Variation, Bogoljubow Variation; Game*: Lokvenc, Josef - Feigin, Movsa; Hamburg (Germany); 1930.??.??; 1-0; https://lichess.org/study/uDpA956I/FOHQNVfr
 
-A12 Rti Opening: Anglo-Slav Variation, London Defensive System; Game*: Kevitz, Alexander - Capablanca, Jose Raul; 1931.??.??; 0-1; https://lichess.org/study/amMc8Mig/QuhIsm5x
+A12 Réti Opening: Anglo-Slav Variation, London Defensive System; Game*: Kevitz, Alexander - Capablanca, Jose Raul; 1931.??.??; 0-1; https://lichess.org/study/amMc8Mig/QuhIsm5x
 
-A12 Rti Opening: Anglo-Slav Variation, London Defensive System; Game*: Reti, Richard - Lasker, Edward; 1924.??.??; *; https://lichess.org/study/t6bOK7CT/vBRnELtQ
+A12 Réti Opening: Anglo-Slav Variation, London Defensive System; Game*: Reti, Richard - Lasker, Edward; 1924.??.??; *; https://lichess.org/study/t6bOK7CT/vBRnELtQ
 
 A13 English Opening: Agincourt Defense; Game*: Andersson, Ulf - Medina Garcia, Antonio Angel; Palma de Mallorca; 1972.??.??; 1-0; https://lichess.org/study/NHyuBHth/XIpGxFKM
 
@@ -145,7 +145,7 @@ A15 English Orangutan; Game*: Reti, Richard - Capablanca, Jose Raul; New York; 1
 
 A15 English Orangutan; Game: Reti, Richard - Capablanca, Jose Raul; New York; 1924.??.??; 1-0 (dup #15); https://lichess.org/study/r1NROPIm/tkBGOcX8
 
-A16 English Opening: Anglo-Indian Defense, Anglo-Grnfeld Variation; Game*: Aronian, Levon - Navara, David; Wijk aan Zee NED; 2012.01.27; 0-1; https://lichess.org/study/AxW3sYhA/AaF8H0PD
+A16 English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation; Game*: Aronian, Levon - Navara, David; Wijk aan Zee NED; 2012.01.27; 0-1; https://lichess.org/study/AxW3sYhA/AaF8H0PD
 
 A16 English Opening: Anglo-Indian Defense, Queen's Knight Variation; Game*: Botvinnik, Mikhail - Smyslov, Vasily; Mosca; 1957.??.??; 0-1; https://lichess.org/study/amMc8Mig/wfaVCgw3
 
@@ -243,7 +243,7 @@ A40 Queen's Pawn Game: Modern Defense; Game: Mareco, Sandro - Cori Tello, Jorge 
 
 A41 Queen's Pawn Game: Rossolimo Variation; Game*: Kevitz, Alexander - Kotov, Alexander; 1955; 0-1; https://lichess.org/study/vJTD9Iyi/kGo10UKZ
 
-A41 Wade Defense; Game: Granda Zuniga, Julio E - Narciso Dublan, Marc; Zaragoza; 2012.12.30; 1-0; https://lichess.org/study/wAhu1kg2/uAYqkUrx
+A41 Wade Defense; Game: Granda Zuniga, Julio E. - Narciso Dublan, Marc; Zaragoza; 2012.12.30; 1-0; https://lichess.org/study/wAhu1kg2/uAYqkUrx
 
 A43 Benoni Defense: Benoni-Indian Defense, Kingside Move Order; Game*: Barda, Olaf - Spassky, Boris; Bucharest; 1953.??.??; 0-1; https://lichess.org/study/eD6ECZu4/0Xdi7KcB
 
@@ -315,7 +315,7 @@ A52 Indian Defense: Budapest Gambit Accepted, Main Line, Rubinstein Variation; G
 
 A54 Old Indian Defense: Tartakower-Indian; Game*: Pachman, Ludek - Petrosian, Tigran; 1958.??.??; 0-1; https://lichess.org/study/2a0vxusd/sUrYaunF
 
-A54 Old Indian Defense: Ukrainian Variation; Game*: Bronstein, David I - Panno, Oscar; 1954.??.??; 1-0; https://lichess.org/study/k4B16BhD/a5mNFurj
+A54 Old Indian Defense: Ukrainian Variation; Game*: Bronstein, David I. - Panno, Oscar; 1954.??.??; 1-0; https://lichess.org/study/k4B16BhD/a5mNFurj
 
 A55 Old Indian Defense: Normal Variation; Game*: Beliavsky, Alexander G. - Carlhammar, Magnus; La Caleta GIB; 2009.01.27; 1-0; https://lichess.org/study/dl0ynDGz/xkiP3Ul0
 
@@ -329,11 +329,11 @@ A56 Benoni Defense: Czech Benoni Defense; Game*: Hort, Vlastimil - Ciocaltea, Vi
 
 A56 Benoni Defense: Czech Benoni Defense; Game: Sasikiran, Krishnan - Satyapragyan, Swayangsu; Kolkata; 2009.12.23; 1-0; https://lichess.org/study/wAhu1kg2/TONLRNjB
 
-A56 Benoni Defense: Hromdka System; Game*: Benko, Pal - Najdorf, Miguel; Los Angeles, CA USA; 1963.07.14; 1-0; https://lichess.org/study/6nWh4o7P/RU45umi7
+A56 Benoni Defense: Hromádka System; Game*: Benko, Pal - Najdorf, Miguel; Los Angeles, CA USA; 1963.07.14; 1-0; https://lichess.org/study/6nWh4o7P/RU45umi7
 
-A56 Benoni Defense: Hromdka System; Game*: Morovic Fernandez, Ivan - Mahmood Lodhi; Khanty-Mansiysk RUS; 2010.09.21; 1-0; https://lichess.org/study/dl0ynDGz/IyKCGU86
+A56 Benoni Defense: Hromádka System; Game*: Morovic Fernandez, Ivan - Mahmood Lodhi; Khanty-Mansiysk RUS; 2010.09.21; 1-0; https://lichess.org/study/dl0ynDGz/IyKCGU86
 
-A56 Benoni Defense: Hromdka System; Game*: Spassky, Boris - Fischer, Robert James; Sveti Stefan / Belgrade YUG; 1992.10.29; 1-0; https://lichess.org/study/dl0ynDGz/fDry0EG1
+A56 Benoni Defense: Hromádka System; Game*: Spassky, Boris - Fischer, Robert James; Sveti Stefan / Belgrade YUG; 1992.10.29; 1-0; https://lichess.org/study/dl0ynDGz/fDry0EG1
 
 A56 Benoni Defense: King's Indian System; Game*: Reshevsky, Samuel Herman - Horowitz, Israel Albert; New York; 1956.??.??; 0-1 (dup #51); https://lichess.org/study/aAtElCsv/o0smFUwT
 
@@ -447,9 +447,9 @@ B01 Scandinavian Defense: Valencian Variation; Game: Mieses, Jacques - Oehquist,
 
 B01 Scandinavian Defense: Valencian Variation; Game: Morphy / Barnes - Staunton / Owen; London ENG; 1858.07.??; 1-0; https://lichess.org/study/yuifbGYp/nzVzXypr
 
-B02 Alekhine Defense: Marczy Variation; Game*: Thomas, George Alan - Alekhine, Alexander; Baden-Baden; 1925.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/mOIZ7rwS
+B02 Alekhine Defense: Maróczy Variation; Game*: Thomas, George Alan - Alekhine, Alexander; Baden-Baden; 1925.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/mOIZ7rwS
 
-B02 Alekhine Defense: Marczy Variation; Game: Thomas, George Alan - Alekhine, Alexander; Baden-Baden; 1925.??.??; 0-1; https://lichess.org/study/EDmMFcbv/s2um4sHn
+B02 Alekhine Defense: Maróczy Variation; Game: Thomas, George Alan - Alekhine, Alexander; Baden-Baden; 1925.??.??; 0-1; https://lichess.org/study/EDmMFcbv/s2um4sHn
 
 B02 Alekhine Defense: Scandinavian Variation; Game*: Bogoljubov, Efim - Alekhine, Alexander; Karlsbad; 1923.??.??; 0-1; https://lichess.org/study/fxEOlxbq/e23yIDaj
 
@@ -603,7 +603,7 @@ B30 Sicilian Defense: Nyezhmetdinov-Rossolimo Attack; Game: Hecht, Hans-Joachim 
 
 B31 Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Lutikov Gambit; Game*: Bosboom, Manuel - Afek, Yochanan; 1987.??.??; 0-1; https://lichess.org/study/E787KvJ9/TCcsg1Y4
 
-B32 Sicilian Defense: Lwenthal Variation; Game*: Fischer, Robert James - Tal, Mikhail; Curacao; 1962.??.??; 1-0; https://lichess.org/study/sDsyelY0/pdxzIfz0
+B32 Sicilian Defense: Löwenthal Variation; Game*: Fischer, Robert James - Tal, Mikhail; Curacao; 1962.??.??; 1-0; https://lichess.org/study/sDsyelY0/pdxzIfz0
 
 B33 Sicilian Defense: Lasker-Pelikan Variation; Game: Tarrasch, Siegbert - Mieses, Jacques; Nuremberg; 1888.08.07; 1-0; https://lichess.org/study/e7ARwPCA/v2yVSThn
 
@@ -617,29 +617,29 @@ B34 Sicilian Defense: Accelerated Dragon, Modern Variation; Game: Mackenzie, Geo
 
 B35 Sicilian Defense: Dragon Variation, Modern Bc4 Variation; Game*: Ivkov, Boris - Larsen, Bent; 1964.??.??; 0-1; https://lichess.org/study/amMc8Mig/VRGvqHch
 
-B36 Sicilian Defense: Accelerated Dragon, Marczy Bind; Game: Pavlovic, Milos M. - Leon Hoyos, Manuel; Richardson UTD USA; 2012.03.11; 0-1; https://lichess.org/study/dl0ynDGz/ZlYnHXTe
+B36 Sicilian Defense: Accelerated Dragon, Maróczy Bind; Game: Pavlovic, Milos M. - Leon Hoyos, Manuel; Richardson UTD USA; 2012.03.11; 0-1; https://lichess.org/study/dl0ynDGz/ZlYnHXTe
 
-B36 Sicilian Defense: Accelerated Dragon, Marczy Bind, Gurgenidze Variation; Game*: Aziz Ortego, Omar Luis - Vazquez Igarza, Renier; Madrid ESP; 2011.9.17; 0-1; https://lichess.org/study/dl0ynDGz/kWMfbk3J
+B36 Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation; Game*: Aziz Ortego, Omar Luis - Vazquez Igarza, Renier; Madrid ESP; 2011.9.17; 0-1; https://lichess.org/study/dl0ynDGz/kWMfbk3J
 
-B36 Sicilian Defense: Accelerated Dragon, Marczy Bind, Gurgenidze Variation; Game*: Polugaevsky, Lev - Ivkov, Boris; Belgrade; 1969.??.??; 1-0; https://lichess.org/study/dl0ynDGz/vgUqToe4
+B36 Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation; Game*: Polugaevsky, Lev - Ivkov, Boris; Belgrade; 1969.??.??; 1-0; https://lichess.org/study/dl0ynDGz/vgUqToe4
 
-B36 Sicilian Defense: Accelerated Dragon, Marczy Bind, Gurgenidze Variation; Game*: Portisch, Lajos - Reshevsky, Samuel Herman; Petropolis BRA; 1973.08.12; 1-0; https://lichess.org/study/6nWh4o7P/UUwuKqd9
+B36 Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation; Game*: Portisch, Lajos - Reshevsky, Samuel Herman; Petropolis BRA; 1973.08.12; 1-0; https://lichess.org/study/6nWh4o7P/UUwuKqd9
 
-B36 Sicilian Defense: Accelerated Dragon, Marczy Bind, Gurgenidze Variation; Game: Jakovljevic, Vlado - Predojevic, Borki; Novi Sad; 2012.12.04; 1-0; https://lichess.org/study/dl0ynDGz/pKwOdfp8
+B36 Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation; Game: Jakovljevic, Vlado - Predojevic, Borki; Novi Sad; 2012.12.04; 1-0; https://lichess.org/study/dl0ynDGz/pKwOdfp8
 
-B36 Sicilian Defense: Accelerated Dragon, Marczy Bind, Gurgenidze Variation; Game: Smeets, Jan - Tiviakov, Sergei; Netherlands NED; 2014.12.??; 1-0; https://lichess.org/study/dl0ynDGz/S7XtuwcR
+B36 Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation; Game: Smeets, Jan - Tiviakov, Sergei; Netherlands NED; 2014.12.??; 1-0; https://lichess.org/study/dl0ynDGz/S7XtuwcR
 
-B38 Sicilian Defense: Accelerated Dragon, Marczy Bind; Game*: Navara, David - Jirovsky, Milos; Luhacovice CZE; 2003.02.22; 0-1 (dup #39); https://lichess.org/study/dl0ynDGz/JY3YJHba
+B38 Sicilian Defense: Accelerated Dragon, Maróczy Bind; Game*: Navara, David - Jirovsky, Milos; Luhacovice CZE; 2003.02.22; 0-1 (dup #39); https://lichess.org/study/dl0ynDGz/JY3YJHba
 
-B38 Sicilian Defense: Accelerated Dragon, Marczy Bind; Game*: Navara, David - Jirovsky, Milos; Luhacovice CZE; 2003.02.22; 0-1 (dup #39); https://lichess.org/study/dl0ynDGz/MwmjKpJY
+B38 Sicilian Defense: Accelerated Dragon, Maróczy Bind; Game*: Navara, David - Jirovsky, Milos; Luhacovice CZE; 2003.02.22; 0-1 (dup #39); https://lichess.org/study/dl0ynDGz/MwmjKpJY
 
-B38 Sicilian Defense: Accelerated Dragon, Marczy Bind; Game*: Simacek, Pavel - Kanovsky, David; Ostrava CZE; 2010.5.8; 1-0; https://lichess.org/study/dl0ynDGz/OQ0SCIdy
+B38 Sicilian Defense: Accelerated Dragon, Maróczy Bind; Game*: Simacek, Pavel - Kanovsky, David; Ostrava CZE; 2010.5.8; 1-0; https://lichess.org/study/dl0ynDGz/OQ0SCIdy
 
-B38 Sicilian Defense: Accelerated Dragon, Marczy Bind; Game: Kuljasevic, Davorin - Golubovic, Boris; Bol na Bracu; 2013.05.26; 1-0; https://lichess.org/study/dl0ynDGz/08qUfAzb
+B38 Sicilian Defense: Accelerated Dragon, Maróczy Bind; Game: Kuljasevic, Davorin - Golubovic, Boris; Bol na Bracu; 2013.05.26; 1-0; https://lichess.org/study/dl0ynDGz/08qUfAzb
 
-B38 Sicilian Defense: Accelerated Dragon, Marczy Bind; Game: Ninov, Nikolai - Velimirovic, Dragoljub; Belgrade; 2009.10.10; 1-0; https://lichess.org/study/dl0ynDGz/tBzEt3rM
+B38 Sicilian Defense: Accelerated Dragon, Maróczy Bind; Game: Ninov, Nikolai - Velimirovic, Dragoljub; Belgrade; 2009.10.10; 1-0; https://lichess.org/study/dl0ynDGz/tBzEt3rM
 
-B38 Sicilian Defense: Accelerated Dragon, Marczy Bind; Game: Wang, Zili - Zhang, Pengxiang; Yongchuan; 2003.07.22; 0-1; https://lichess.org/study/dl0ynDGz/E8f8cwcR
+B38 Sicilian Defense: Accelerated Dragon, Maróczy Bind; Game: Wang, Zili - Zhang, Pengxiang; Yongchuan; 2003.07.22; 0-1; https://lichess.org/study/dl0ynDGz/E8f8cwcR
 
 B40 Sicilian Defense: Delayed Alapin Variation, with e6; Game: Paichadze, Luka - Jobava, Baadur; Tbilisi; 2012.05.23; 0-1; https://lichess.org/study/wAhu1kg2/F7MnQGWt
 
@@ -649,25 +649,25 @@ B40 Sicilian Defense: French Variation; Game*: Ljubojevic, Ljubomir - Kasparov, 
 
 B40 Sicilian Defense: French Variation; Game*: Tarrasch, Siegbert - Paulsen, Louis; Nuremberg; 1888.08.08; 1/2-1/2; https://lichess.org/study/e7ARwPCA/NpVRrAH3
 
-B40 Sicilian Defense: Kramnik Variation; Game: Munoz Pantoja, Miguel - Granda Zuniga, Julio E; La Roda; 2013.03.29; 0-1; https://lichess.org/study/dl0ynDGz/xkC3oc6g
+B40 Sicilian Defense: Kramnik Variation; Game: Munoz Pantoja, Miguel - Granda Zuniga, Julio E.; La Roda; 2013.03.29; 0-1; https://lichess.org/study/dl0ynDGz/xkC3oc6g
 
 B40 Sicilian Defense: Pin Variation; Game: Zukertort, Johannes Hermann - Anderssen, Adolf; Unknown; 1870.??.??; 1-0; https://lichess.org/study/YuoLOpzE/7oK6nrys
 
 B40 Sicilian Defense: Pin Variation, Jaffe Variation; Game*: Yates, Fred Dewhirst - Alekhine, Alexander; The Hague NED; 1921.11.03; 0-1; https://lichess.org/study/InR4tjnm/WblvyM7G
 
-B41 Sicilian Defense: Kan Variation, Marczy Bind, Rti Variation; Game*: Dominguez Perez, Leinier - Andreikin, Dmitry; Havana CUB; 2011.05.14; 0-1; https://lichess.org/study/dl0ynDGz/8g3HvyxJ
+B41 Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation; Game*: Dominguez Perez, Leinier - Andreikin, Dmitry; Havana CUB; 2011.05.14; 0-1; https://lichess.org/study/dl0ynDGz/8g3HvyxJ
 
-B41 Sicilian Defense: Kan Variation, Marczy Bind, Rti Variation; Game*: Flores Rios, Mauricio - Hayrapetian, Hovik; Sant Marti; 2013.07.21; 1-0 (dup #38); https://lichess.org/study/dl0ynDGz/at59QpJL
+B41 Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation; Game*: Flores Rios, Mauricio - Hayrapetian, Hovik; Sant Marti; 2013.07.21; 1-0 (dup #38); https://lichess.org/study/dl0ynDGz/at59QpJL
 
-B41 Sicilian Defense: Kan Variation, Marczy Bind, Rti Variation; Game*: Kasparov, Garry - Kramnik, Vladimir; Moscow RUS; 2001.12.02; 1/2-1/2; https://lichess.org/study/dl0ynDGz/rpMlVfdz
+B41 Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation; Game*: Kasparov, Garry - Kramnik, Vladimir; Moscow RUS; 2001.12.02; 1/2-1/2; https://lichess.org/study/dl0ynDGz/rpMlVfdz
 
-B41 Sicilian Defense: Kan Variation, Marczy Bind, Rti Variation; Game: Burg, Twan - Cordova, Emilio; Barcelona; 2011.08.24; 0-1; https://lichess.org/study/dl0ynDGz/7oYERjMr
+B41 Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation; Game: Burg, Twan - Cordova, Emilio; Barcelona; 2011.08.24; 0-1; https://lichess.org/study/dl0ynDGz/7oYERjMr
 
-B41 Sicilian Defense: Kan Variation, Marczy Bind, Rti Variation; Game: Flores Rios, Mauricio - Hayrapetian, Hovik; Sant Marti; 2013.07.21; 1-0 (dup #38); https://lichess.org/study/dl0ynDGz/Exh3w4jz
+B41 Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation; Game: Flores Rios, Mauricio - Hayrapetian, Hovik; Sant Marti; 2013.07.21; 1-0 (dup #38); https://lichess.org/study/dl0ynDGz/Exh3w4jz
 
-B41 Sicilian Defense: Kan Variation, Marczy Bind, Rti Variation; Game: Predojevic, Borki - Nestorovic, Dejan; Sarajevo; 2013.06.07; 1-0; https://lichess.org/study/dl0ynDGz/bp0jRPKQ
+B41 Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation; Game: Predojevic, Borki - Nestorovic, Dejan; Sarajevo; 2013.06.07; 1-0; https://lichess.org/study/dl0ynDGz/bp0jRPKQ
 
-B41 Sicilian Defense: Kan Variation, Marczy Bind, Rti Variation; Game: Pruijssers, Roeland - Izsak, Gyula; Germany; 2012.10.21; 1-0; https://lichess.org/study/dl0ynDGz/mRoJIY69
+B41 Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation; Game: Pruijssers, Roeland - Izsak, Gyula; Germany; 2012.10.21; 1-0; https://lichess.org/study/dl0ynDGz/mRoJIY69
 
 B42 Sicilian Defense: Kan Variation, Modern Variation; Game*: Fischer, Robert James - Petrosian, Tigran; Buenos Aires ARG; 1971.10.19; 1-0; https://lichess.org/study/6nWh4o7P/AAXoSAb4
 
@@ -685,11 +685,11 @@ B44 Sicilian Defense: Taimanov Variation, Modern Line; Game*: Bartholomew, John 
 
 B44 Sicilian Defense: Taimanov Variation, Modern Line; Game*: Fischer, Robert James - Taimanov, Mark E; Palma de Mallorca; 1970.??.??; 1-0; https://lichess.org/study/sDsyelY0/vL3sYJFN
 
-B44 Sicilian Defense: Taimanov Variation, Szn Variation; Game*: Morphy, Paul - Anderssen, Adolf; 1858.??.??; 1-0; https://lichess.org/study/KrLT8eS5/TTogLvy5
+B44 Sicilian Defense: Taimanov Variation, Szén Variation; Game*: Morphy, Paul - Anderssen, Adolf; 1858.??.??; 1-0; https://lichess.org/study/KrLT8eS5/TTogLvy5
 
-B44 Sicilian Defense: Taimanov Variation, Szn Variation; Game: Galkin, Alexander - Delchev, Aleksander; Ohrid; 2001.06.15; 0-1; https://lichess.org/study/dl0ynDGz/gZ4D076Z
+B44 Sicilian Defense: Taimanov Variation, Szén Variation; Game: Galkin, Alexander - Delchev, Aleksander; Ohrid; 2001.06.15; 0-1; https://lichess.org/study/dl0ynDGz/gZ4D076Z
 
-B44 Sicilian Defense: Taimanov Variation, Szn Variation; Game: Tarrasch, Siegbert - Cohn, Wilhelm; Berlin; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/XVj3Vf34
+B44 Sicilian Defense: Taimanov Variation, Szén Variation; Game: Tarrasch, Siegbert - Cohn, Wilhelm; Berlin; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/XVj3Vf34
 
 B45 Sicilian Defense: Four Knights Variation; Game: Richter, Bernhard - Tarrasch, Siegbert; Halle; 1883.??.??; 0-1; https://lichess.org/study/PVzIGg2F/XtYfPZbz
 
@@ -807,7 +807,7 @@ B90 Sicilian Defense: Najdorf Variation, English Attack; Game*: Lobron, Eric - G
 
 B90 Sicilian Defense: Najdorf Variation, English Attack; Game: Polgar, Judit - Dominguez Perez, Leinier; Khanty-Mansiysk; 2011.09.06; 0-1; https://lichess.org/study/AxW3sYhA/gYjtaGnt
 
-B90 Sicilian Defense: Najdorf Variation, Lipnitsky Attack; Game*: Bronstein, David I - Olafsson, Fridrik; Portoroz; 1958.??.??; 1-0; https://lichess.org/study/2a0vxusd/2rU9pVtZ
+B90 Sicilian Defense: Najdorf Variation, Lipnitsky Attack; Game*: Bronstein, David I. - Olafsson, Fridrik; Portoroz; 1958.??.??; 1-0; https://lichess.org/study/2a0vxusd/2rU9pVtZ
 
 B90 Sicilian Defense: Scheveningen Variation, English Attack, with f3; Game: Flores Rios, Mauricio - Vasquez, Rodrigo; 2023.09.13; 1-0; https://lichess.org/study/40nLE9YK/4XOjiJz4
 
@@ -941,7 +941,7 @@ C03 French Defense: Tarrasch Variation; Game*: Tarrasch, Siegbert - Von Scheve, 
 
 C05 French Defense: Tarrasch Variation, Closed Variation; Game*: Karpov, Anatoly - Hort, Vlastimil; Budapest; 1973.??.??; 1-0; https://lichess.org/study/NHyuBHth/v3KYbU2L
 
-C05 French Defense: Tarrasch Variation, Closed Variation; Game*: Shahade, Gregory P - Akobian, Varuzhan; Philadelphia; 2012.04.06; 0-1; https://lichess.org/study/wAhu1kg2/ghsnzoEB
+C05 French Defense: Tarrasch Variation, Closed Variation; Game*: Shahade, Gregory P. - Akobian, Varuzhan; Philadelphia; 2012.04.06; 0-1; https://lichess.org/study/wAhu1kg2/ghsnzoEB
 
 C05 French Defense: Tarrasch Variation, Closed Variation; Game*: Tarrasch, Siegbert - Eckart, Karl; 1889.??.??; 1-0; https://lichess.org/study/Wn7aMkPy/YlK2ItiZ
 
@@ -971,9 +971,9 @@ C08 French Defense: Tarrasch Variation, Open System; Game: Tarrasch, Siegbert - 
 
 C09 French Defense: Tarrasch Variation, Open System, Main Line; Game*: Karpov, Anatoly - Uhlmann, Wolfgang; Madrid ESP; 1973.12.11; 1-0; https://lichess.org/study/6nWh4o7P/NaBApb29
 
-C10 French Defense: Hecht-Reefschlger Variation; Game: Becker, Albert - Nimzowitsch, Aron; Breslau; 1925.??.??; 0-1; https://lichess.org/study/EDmMFcbv/CqoMj8A0
+C10 French Defense: Hecht-Reefschläger Variation; Game: Becker, Albert - Nimzowitsch, Aron; Breslau; 1925.??.??; 0-1; https://lichess.org/study/EDmMFcbv/CqoMj8A0
 
-C10 French Defense: Hecht-Reefschlger Variation; Game: Brinckmann, Alfred - Nimzowitsch, Aron; Bad Niendorf GER; 1927.08.07; 0-1; https://lichess.org/study/P33p6LIH/HShNUAu5
+C10 French Defense: Hecht-Reefschläger Variation; Game: Brinckmann, Alfred - Nimzowitsch, Aron; Bad Niendorf GER; 1927.08.07; 0-1; https://lichess.org/study/P33p6LIH/HShNUAu5
 
 C10 French Defense: Rubinstein Variation; Game: Blom, Kees - Jensen, V.; Denmark; 1934.??.??; 1-0; https://lichess.org/study/XH8xSdBs/JoyEJozy
 
@@ -1059,7 +1059,7 @@ C12 French Defense: McCutcheon Variation, Lasker Variation; Game*: Smyslov, Vasi
 
 C12 French Defense: McCutcheon Variation, Lasker Variation; Game: Smyslov, Vasily - Donner, Jan Hein; Venice; 1950.??.??; 1-0 (dup #22); https://lichess.org/study/r1NROPIm/5Sv2qekz
 
-C13 French Defense: Alekhine-Chatard Attack, Marczy Variation; Game*: Unzicker, Wolfgang - Czerniak, Moshe; Amsterdam NED; 1954.09.04; 1-0; https://lichess.org/study/hnwliF9Y/bbgxUWMB
+C13 French Defense: Alekhine-Chatard Attack, Maróczy Variation; Game*: Unzicker, Wolfgang - Czerniak, Moshe; Amsterdam NED; 1954.09.04; 1-0; https://lichess.org/study/hnwliF9Y/bbgxUWMB
 
 C13 French Defense: Classical Variation, Burn Variation; Game*: Reti, Richard - Tartakower, Savielly; Berlin; 1920.??.??; 0-1 (dup #31); https://lichess.org/study/r1NROPIm/lrdwxoOf
 
@@ -1149,7 +1149,7 @@ C24 Bishop's Opening: Paulsen Defense; Game*: Larsen, Bent - Torre, Eugenio; Bru
 
 C25 Vienna Gambit, with Max Lange Defense: Pierce Gambit; Game: Lasker, Berthold - Tarrasch, Siegbert; Berlin; 1882.??.??; 0-1; https://lichess.org/study/PVzIGg2F/KBcrTYFJ
 
-C25 Vienna Gambit, with Max Lange Defense: Steinitz Gambit, Srensen Defense; Game: Burn, Amos - Tarrasch, Siegbert; DSB-5 Frankfurt; 1887.??.??; 1-0; https://lichess.org/study/e7ARwPCA/tZxCaipI
+C25 Vienna Gambit, with Max Lange Defense: Steinitz Gambit, Sörensen Defense; Game: Burn, Amos - Tarrasch, Siegbert; DSB-5 Frankfurt; 1887.??.??; 1-0; https://lichess.org/study/e7ARwPCA/tZxCaipI
 
 C25 Vienna Game: Anderssen Defense; Game*: Kan, Ilia Abramovich - Capablanca, Jose Raul; 1936.??.??; 0-1; https://lichess.org/study/amMc8Mig/lstq2Mc6
 
@@ -1363,11 +1363,11 @@ C44 Ponziani Opening: Caro Gambit; Game: Tarrasch, Siegbert - Eckart, Karl; Nure
 
 C44 Ponziani Opening: Spanish Variation; Game: Hahn, Wilhelm - Tarrasch, Siegbert; Nuremberg; 1888.??.??; 0-1; https://lichess.org/study/e7ARwPCA/RVgdOXxY
 
-C44 Scotch Game: Gring Gambit, Double Pawn Sacrifice; Game: Tarrasch, Siegbert - Cohn, Wilhelm; Berlin; 1882.??.??; 1-0; https://lichess.org/study/PVzIGg2F/kiazobCs
+C44 Scotch Game: Göring Gambit, Double Pawn Sacrifice; Game: Tarrasch, Siegbert - Cohn, Wilhelm; Berlin; 1882.??.??; 1-0; https://lichess.org/study/PVzIGg2F/kiazobCs
 
-C44 Scotch Game: Gring Gambit, Double Pawn Sacrifice; Game: Tarrasch, Siegbert - Lasker, Berthold; Berlin; 1882.??.??; 1-0; https://lichess.org/study/PVzIGg2F/wG4Vle8Z
+C44 Scotch Game: Göring Gambit, Double Pawn Sacrifice; Game: Tarrasch, Siegbert - Lasker, Berthold; Berlin; 1882.??.??; 1-0; https://lichess.org/study/PVzIGg2F/wG4Vle8Z
 
-C44 Scotch Game: Gring Gambit, Double Pawn Sacrifice; Game: Tarrasch, Siegbert - Riemann, Fritz; Leipzig; 1883.??.??; 1-0; https://lichess.org/study/PVzIGg2F/GKMwgz5R
+C44 Scotch Game: Göring Gambit, Double Pawn Sacrifice; Game: Tarrasch, Siegbert - Riemann, Fritz; Leipzig; 1883.??.??; 1-0; https://lichess.org/study/PVzIGg2F/GKMwgz5R
 
 C44 Scotch Game: Haxo Gambit; Game: Tarrasch, Siegbert - NN; Berlin; 1880.??.??; 1-0; https://lichess.org/study/PVzIGg2F/unboxLtX
 
@@ -1621,7 +1621,7 @@ C62 Ruy Lopez: Steinitz Defense; Game: Tarrasch, Siegbert - Hollander, K.; Nurem
 
 C62 Ruy Lopez: Steinitz Defense, Nimzowitsch Attack; Game*: Nimzowitsch, Aron - Capablanca, Jose Raul; St Petersburg; 1914.??.??; 0-1; https://lichess.org/study/sDsyelY0/AULW1LFq
 
-C63 Ruy Lopez: Schliemann Defense, Schnemann Attack; Game*: Zeissl - Walthoffen; 1899.??.??; 0-1; https://lichess.org/study/Wn7aMkPy/cnnwEUlH
+C63 Ruy Lopez: Schliemann Defense, Schönemann Attack; Game*: Zeissl - Walthoffen; 1899.??.??; 0-1; https://lichess.org/study/Wn7aMkPy/cnnwEUlH
 
 C64 Ruy Lopez: Classical Variation, Central Variation; Game: Morphy, Paul - Schulten, John William; New York, NY USA; 1857.??.??; 1-0; https://lichess.org/study/MNnC56w2/yuRaH0Bq
 
@@ -1791,7 +1791,7 @@ C77 Ruy Lopez: Morphy Defense, Wormald Attack; Game*: Kirillov, Vladimir - Furma
 
 C77 Ruy Lopez: Morphy Defense, Wormald Attack; Game: Bird, Henry Edward - Tarrasch, Siegbert; Hamburg Kongress; 1885.??.??; 0-1; https://lichess.org/study/PVzIGg2F/oxSjdaP3
 
-C78 Ruy Lopez: Morphy Defense, Mller Variation; Game: NN - Tarrasch, Siegbert; Munich; 1932.??.??; 0-1; https://lichess.org/study/OMNHm3q5/xpEKRNZU
+C78 Ruy Lopez: Morphy Defense, Møller Variation; Game: NN - Tarrasch, Siegbert; Munich; 1932.??.??; 0-1; https://lichess.org/study/OMNHm3q5/xpEKRNZU
 
 C79 Ruy Lopez: Morphy Defense, Steinitz Deferred; Game*: Alekhine, Alexander - Johner, Hans; 1934.??.??; 1-0; https://lichess.org/study/uDpA956I/u0pzgiAd
 
@@ -1837,7 +1837,7 @@ C86 Ruy Lopez: Closed, Worrall Attack; Game*: Horowitz, Israel Albert - Martin, 
 
 C86 Ruy Lopez: Closed, Worrall Attack; Game*: Horowitz, Israel Albert - Martin, Albert; Boston, MA USA; 1938.07.14; 1-0 (dup #49); https://lichess.org/study/6AnWFDzO/goy4uaNx
 
-C86 Ruy Lopez: Closed, Worrall Attack, Castling Line; Game*: Short, Nigel D - Karpov, Anatoly; Linares; 1992.??.??; 1-0; https://lichess.org/study/49AuOOCo/q889DSLW
+C86 Ruy Lopez: Closed, Worrall Attack, Castling Line; Game*: Short, Nigel D. - Karpov, Anatoly; Linares; 1992.??.??; 1-0; https://lichess.org/study/49AuOOCo/q889DSLW
 
 C86 Ruy Lopez: Closed, Worrall Attack, Delayed Castling Line; Game*: Keres, Paul - Lilienthal, Andor; Leningrad; 1941.??.??; 1-0; https://lichess.org/study/NHyuBHth/mZn5GCrc
 
@@ -2081,9 +2081,9 @@ D15 Slav Defense: Alekhine Variation; Game*: Rubinstein, Akiba - Schlechter, Car
 
 D15 Slav Defense: Chebanenko Variation; Game*: Holt, Conrad - Kamsky, Gata; Saint Louis; 2013.05.06; 0-1; https://lichess.org/study/AxW3sYhA/WA7xgSK5
 
-D15 Slav Defense: Schting Variation; Game*: Rubinstein, Akiba - Alekhine, Alexander; Karlsbad; 1911.??.??; 1-0; https://lichess.org/study/k4B16BhD/xaYDXhIl
+D15 Slav Defense: Süchting Variation; Game*: Rubinstein, Akiba - Alekhine, Alexander; Karlsbad; 1911.??.??; 1-0; https://lichess.org/study/k4B16BhD/xaYDXhIl
 
-D15 Slav Defense: Schting Variation; Game*: Rubinstein, Akiba - Dus Chotimirsky, Fedor; Karlsbad; 1911.??.??; 1/2-1/2; https://lichess.org/study/izyugXAJ/9f8VMJWt
+D15 Slav Defense: Süchting Variation; Game*: Rubinstein, Akiba - Dus Chotimirsky, Fedor; Karlsbad; 1911.??.??; 1/2-1/2; https://lichess.org/study/izyugXAJ/9f8VMJWt
 
 D15 Slav Defense: Three Knights Variation; Game*: Janowski, David - Capablanca, Jose Raul; New York, NY USA; 1916.02.08; 0-1 (dup #46); https://lichess.org/study/aAtElCsv/RzfD93yd
 
@@ -2121,7 +2121,7 @@ D23 Queen's Gambit Accepted: Mannheim Variation; Game*: Pytlakowski, Andrzej - S
 
 D24 Queen's Gambit Accepted; Game*: Chekhover, Vitaly - Lasker, Emanuel; Moscow; 1935.??.??; 0-1; https://lichess.org/study/sDsyelY0/Gj4zGy8q
 
-D24 Queen's Gambit Accepted: Bogoljubow Defense; Game*: Bronstein, David I - Byrne, Robert E.; Helsinki; 1952.??.??; 0-1; https://lichess.org/study/fxEOlxbq/pyJrjWCf
+D24 Queen's Gambit Accepted: Bogoljubow Defense; Game*: Bronstein, David I. - Byrne, Robert E.; Helsinki; 1952.??.??; 0-1; https://lichess.org/study/fxEOlxbq/pyJrjWCf
 
 D25 Queen's Gambit Accepted: Normal Variation; Game*: Golod, Vitali - Klenburg, Mikhail; Israel; 2002.01.19; 1-0; https://lichess.org/study/OCkkydGm/CgtIktFd
 
@@ -2207,11 +2207,11 @@ D35 Queen's Gambit Declined: Exchange Variation, Positional Variation; Game*: Mi
 
 D35 Queen's Gambit Declined: Exchange Variation, Positional Variation; Game*: Tal, Mikhail - Spassky, Boris; Sochi; 1973.??.??; 1/2-1/2; https://lichess.org/study/amMc8Mig/Y4dp53v4
 
-D35 Queen's Gambit Declined: Exchange Variation, Smisch Variation; Game*: Alekhine, Alexander - Lasker, Emanuel; New York, NY USA; 1924.03.18; 0-1 (dup #7); https://lichess.org/study/1DTYYVAE/4XtIU8q9
+D35 Queen's Gambit Declined: Exchange Variation, Sämisch Variation; Game*: Alekhine, Alexander - Lasker, Emanuel; New York, NY USA; 1924.03.18; 0-1 (dup #7); https://lichess.org/study/1DTYYVAE/4XtIU8q9
 
-D35 Queen's Gambit Declined: Exchange Variation, Smisch Variation; Game*: Alekhine, Alexander - Lasker, Emanuel; New York; 1924.??.??; 0-1; https://lichess.org/study/amMc8Mig/FapZulPL
+D35 Queen's Gambit Declined: Exchange Variation, Sämisch Variation; Game*: Alekhine, Alexander - Lasker, Emanuel; New York; 1924.??.??; 0-1; https://lichess.org/study/amMc8Mig/FapZulPL
 
-D35 Queen's Gambit Declined: Exchange Variation, Smisch Variation; Game: Alekhine, Alexander - Lasker, Emanuel; New York, NY USA; 1924.03.18; 0-1 (dup #7); https://lichess.org/study/R9GM45QQ/AZkLDUCT
+D35 Queen's Gambit Declined: Exchange Variation, Sämisch Variation; Game: Alekhine, Alexander - Lasker, Emanuel; New York, NY USA; 1924.03.18; 0-1 (dup #7); https://lichess.org/study/R9GM45QQ/AZkLDUCT
 
 D35 Queen's Gambit Declined: Harrwitz Attack; Game*: Tarrasch, Siegbert - Tinsley, Samuel; Manchester; 1890.09.08; 1/2-1/2; https://lichess.org/study/pdteMCe2/vI1B1KzN
 
@@ -2385,65 +2385,65 @@ D66 Queen's Gambit Declined: Orthodox Defense, Bd3 Line; Game: Mikenas, Vladas -
 
 D67 Queen's Gambit Declined: Orthodox Defense, Alekhine Variation; Game*: Alekhine, Alexander - Capablanca, Jose Raul; Buenos Aires; 1927.11.03; 1/2-1/2; https://lichess.org/study/fxEOlxbq/aSdswJVc
 
-D71 Neo-Grnfeld Defense: Exchange Variation; Game*: Reshevsky, Samuel Herman - Olafsson, Fridrik; Dallas; 1957.??.??; 1-0; https://lichess.org/study/uUaMniQc/Ut8hLoyd
+D71 Neo-Grünfeld Defense: Exchange Variation; Game*: Reshevsky, Samuel Herman - Olafsson, Fridrik; Dallas; 1957.??.??; 1-0; https://lichess.org/study/uUaMniQc/Ut8hLoyd
 
-D78 Neo-Grnfeld Defense: Classical Variation, Original Defense; Game*: Morozevich, Alexander - Mamedyarov, Shakhriyar; Beijing CHN; 2013.07.15; 1-0; https://lichess.org/study/AxW3sYhA/9F4NV9vl
+D78 Neo-Grünfeld Defense: Classical Variation, Original Defense; Game*: Morozevich, Alexander - Mamedyarov, Shakhriyar; Beijing CHN; 2013.07.15; 1-0; https://lichess.org/study/AxW3sYhA/9F4NV9vl
 
-D79 Neo-Grnfeld Defense: Ultra-Delayed Exchange Variation; Game*: Portisch, Lajos - Reshevsky, Samuel Herman; Palma de Mallorca; 1970.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/msqQjKu5
+D79 Neo-Grünfeld Defense: Ultra-Delayed Exchange Variation; Game*: Portisch, Lajos - Reshevsky, Samuel Herman; Palma de Mallorca; 1970.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/msqQjKu5
 
-D80 Grnfeld Defense; Game*: Chekhover, Vitaly - Alatortsev, Vladimir; Leningrado; 1934.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/ouotTvLf
+D80 Grünfeld Defense; Game*: Chekhover, Vitaly - Alatortsev, Vladimir; Leningrado; 1934.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/ouotTvLf
 
-D83 Grnfeld Defense: Brinckmann Attack, Reshevsky Gambit; Game*: Tolush, Alexander - Botvinnik, Mikhail; Leningrado; 1939.??.??; 0-1; https://lichess.org/study/2a0vxusd/gMPR6vsx
+D83 Grünfeld Defense: Brinckmann Attack, Reshevsky Gambit; Game*: Tolush, Alexander - Botvinnik, Mikhail; Leningrado; 1939.??.??; 0-1; https://lichess.org/study/2a0vxusd/gMPR6vsx
 
-D85 Grnfeld Defense: Exchange Variation; Game*: Parligras, Mircea-Emilian - Nepomniachtchi, Ian; Aix-les-Bains FRA; 2011.03.24; 1-0; https://lichess.org/study/AxW3sYhA/2Bep52QI
+D85 Grünfeld Defense: Exchange Variation; Game*: Parligras, Mircea-Emilian - Nepomniachtchi, Ian; Aix-les-Bains FRA; 2011.03.24; 1-0; https://lichess.org/study/AxW3sYhA/2Bep52QI
 
-D85 Grnfeld Defense: Exchange Variation; Game*: Polugaevsky, Lev - Padevsky, Nikola; La Habana; 1966.??.??; 1-0; https://lichess.org/study/uDpA956I/kEpKdSG7
+D85 Grünfeld Defense: Exchange Variation; Game*: Polugaevsky, Lev - Padevsky, Nikola; La Habana; 1966.??.??; 1-0; https://lichess.org/study/uDpA956I/kEpKdSG7
 
-D85 Grnfeld Defense: Exchange Variation; Game*: Wang, Yue - Carlsen, Magnus; Medias ROU; 2010.06.25; 0-1; https://lichess.org/study/AxW3sYhA/bUq4Fxkk
+D85 Grünfeld Defense: Exchange Variation; Game*: Wang, Yue - Carlsen, Magnus; Medias ROU; 2010.06.25; 0-1; https://lichess.org/study/AxW3sYhA/bUq4Fxkk
 
-D85 Grnfeld Defense: Exchange Variation; Game: Karpov, Anatoly - Kasparov, Garry; Lyon/New York; 1990.12.05; 1-0; https://lichess.org/study/AxW3sYhA/Z1NOeUf3
+D85 Grünfeld Defense: Exchange Variation; Game: Karpov, Anatoly - Kasparov, Garry; Lyon/New York; 1990.12.05; 1-0; https://lichess.org/study/AxW3sYhA/Z1NOeUf3
 
-D85 Grnfeld Defense: Exchange Variation, Modern Exchange Variation; Game*: Kostic, Borislav - Gruenfeld, Ernst; Teplice-Sanov CSR; 1922.10.13; 0-1; https://lichess.org/study/InR4tjnm/ucsmXHKM
+D85 Grünfeld Defense: Exchange Variation, Modern Exchange Variation; Game*: Kostic, Borislav - Gruenfeld, Ernst; Teplice-Sanov CSR; 1922.10.13; 0-1; https://lichess.org/study/InR4tjnm/ucsmXHKM
 
-D85 Grnfeld Defense: Exchange Variation, Modern Exchange Variation; Game*: Kostic, Borislav - Gruenfeld, Ernst; Teplitz-Schoenau; 1922.??.??; 0-1 (dup #5); https://lichess.org/study/cev86fwf/aTVDf83R
+D85 Grünfeld Defense: Exchange Variation, Modern Exchange Variation; Game*: Kostic, Borislav - Gruenfeld, Ernst; Teplitz-Schoenau; 1922.??.??; 0-1 (dup #5); https://lichess.org/study/cev86fwf/aTVDf83R
 
-D85 Grnfeld Defense: Exchange Variation, Modern Exchange Variation; Game*: Von Patay, Julius - Reti, Richard; Vienna AUT; 1923.11.20; 0-1; https://lichess.org/study/vJTD9Iyi/djk0k0P0
+D85 Grünfeld Defense: Exchange Variation, Modern Exchange Variation; Game*: Von Patay, Julius - Reti, Richard; Vienna AUT; 1923.11.20; 0-1; https://lichess.org/study/vJTD9Iyi/djk0k0P0
 
-D85 Grnfeld Defense: Exchange Variation, Modern Exchange Variation; Game: Kostic, Borislav - Gruenfeld, Ernst; Teplitz-Schoenau; 1922.??.??; 0-1 (dup #5); https://lichess.org/study/WTO993dw/TwVv4tKO
+D85 Grünfeld Defense: Exchange Variation, Modern Exchange Variation; Game: Kostic, Borislav - Gruenfeld, Ernst; Teplitz-Schoenau; 1922.??.??; 0-1 (dup #5); https://lichess.org/study/WTO993dw/TwVv4tKO
 
-D85 Grnfeld Defense: Exchange Variation, Modern Exchange Variation; Game: So, Wesley - Flores Rios, Mauricio; Princeton USA; 2012.12.28; 1-0; https://lichess.org/study/AxW3sYhA/ufw0m2hu
+D85 Grünfeld Defense: Exchange Variation, Modern Exchange Variation; Game: So, Wesley - Flores Rios, Mauricio; Princeton USA; 2012.12.28; 1-0; https://lichess.org/study/AxW3sYhA/ufw0m2hu
 
-D85 Grnfeld Defense: Exchange Variation, Modern Exchange Variation, Pawn Grab Line; Game*: Kasparov, Garry - Natsis, Trifon; 1980.??.??; 1-0; https://lichess.org/study/amMc8Mig/vTAnFybH
+D85 Grünfeld Defense: Exchange Variation, Modern Exchange Variation, Pawn Grab Line; Game*: Kasparov, Garry - Natsis, Trifon; 1980.??.??; 1-0; https://lichess.org/study/amMc8Mig/vTAnFybH
 
-D86 Grnfeld Defense: Exchange Variation, Classical Variation; Game*: Amos, Bruce - Martz, William; 1971.??.??; *; https://lichess.org/study/amMc8Mig/T9kDWbpX
+D86 Grünfeld Defense: Exchange Variation, Classical Variation; Game*: Amos, Bruce - Martz, William; 1971.??.??; *; https://lichess.org/study/amMc8Mig/T9kDWbpX
 
-D86 Grnfeld Defense: Exchange Variation, Classical Variation; Game*: Gligoric, Svetozar - Tukmakov, Vladimir; 1975.??.??; 1-0; https://lichess.org/study/amMc8Mig/yKSlqwLJ
+D86 Grünfeld Defense: Exchange Variation, Classical Variation; Game*: Gligoric, Svetozar - Tukmakov, Vladimir; 1975.??.??; 1-0; https://lichess.org/study/amMc8Mig/yKSlqwLJ
 
-D86 Grnfeld Defense: Exchange Variation, Classical Variation; Game*: Spassky, Boris - Fischer, Robert James; Santa Monica; 1966.??.??; 1-0; https://lichess.org/study/sDsyelY0/gUGgtInK
+D86 Grünfeld Defense: Exchange Variation, Classical Variation; Game*: Spassky, Boris - Fischer, Robert James; Santa Monica; 1966.??.??; 1-0; https://lichess.org/study/sDsyelY0/gUGgtInK
 
-D86 Grnfeld Defense: Exchange Variation, Classical Variation; Game: Vovk, Yuri - Volokitin, Andrei; Kiev; 2012.07.27; 0-1; https://lichess.org/study/AxW3sYhA/Zpg8R78o
+D86 Grünfeld Defense: Exchange Variation, Classical Variation; Game: Vovk, Yuri - Volokitin, Andrei; Kiev; 2012.07.27; 0-1; https://lichess.org/study/AxW3sYhA/Zpg8R78o
 
-D87 Grnfeld Defense: Exchange Variation, Spassky Variation; Game*: Gligoric, Svetozar - Smyslov, Vasily; Kiev (Ukraine); 1959.??.??; 0-1; https://lichess.org/study/E787KvJ9/KQ9oimQi
+D87 Grünfeld Defense: Exchange Variation, Spassky Variation; Game*: Gligoric, Svetozar - Smyslov, Vasily; Kiev (Ukraine); 1959.??.??; 0-1; https://lichess.org/study/E787KvJ9/KQ9oimQi
 
-D87 Grnfeld Defense: Exchange Variation, Spassky Variation; Game*: Kushnir, Alla - Gaprindashvili, Nona; Riga; 1972.??.??; 1-0; https://lichess.org/study/sDsyelY0/L8TzdmES
+D87 Grünfeld Defense: Exchange Variation, Spassky Variation; Game*: Kushnir, Alla - Gaprindashvili, Nona; Riga; 1972.??.??; 1-0; https://lichess.org/study/sDsyelY0/L8TzdmES
 
-D93 Grnfeld Defense: Three Knights Variation, Hungarian Variation; Game*: Eliskases, Erich Gottlieb - Flohr, Salo; Semmering; 1937.??.??; 0-1; https://lichess.org/study/sDsyelY0/jZJRHSCa
+D93 Grünfeld Defense: Three Knights Variation, Hungarian Variation; Game*: Eliskases, Erich Gottlieb - Flohr, Salo; Semmering; 1937.??.??; 0-1; https://lichess.org/study/sDsyelY0/jZJRHSCa
 
-D94 Grnfeld Defense: Makogonov Variation; Game*: Miles, Anthony - Ribli, Zoltan; Tilburg; 1978.??.??; 1-0; https://lichess.org/study/uDpA956I/y2zBy19M
+D94 Grünfeld Defense: Makogonov Variation; Game*: Miles, Anthony - Ribli, Zoltan; Tilburg; 1978.??.??; 1-0; https://lichess.org/study/uDpA956I/y2zBy19M
 
-D94 Grnfeld Defense: Opocensky Variation; Game*: Bobotsov, Milko - Keres, Paul; 1964.??.??; 0-1; https://lichess.org/study/E787KvJ9/NkQf6nr0
+D94 Grünfeld Defense: Opocensky Variation; Game*: Bobotsov, Milko - Keres, Paul; 1964.??.??; 0-1; https://lichess.org/study/E787KvJ9/NkQf6nr0
 
-D94 Grnfeld Defense: Three Knights Variation, Burille Variation; Game*: Petrosian, Tigran - Botvinnik, Mikhail; Mosca; 1963.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/XNQNypI8
+D94 Grünfeld Defense: Three Knights Variation, Burille Variation; Game*: Petrosian, Tigran - Botvinnik, Mikhail; Mosca; 1963.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/XNQNypI8
 
-D94 Grnfeld Defense: Three Knights Variation, Burille Variation; Game*: Sokolsky, Alexey Pavlovich - Botvinnik, Mikhail; Leningrad URS; 1938.05.20; 0-1; https://lichess.org/study/1O0UELn6/5QlETP34
+D94 Grünfeld Defense: Three Knights Variation, Burille Variation; Game*: Sokolsky, Alexey Pavlovich - Botvinnik, Mikhail; Leningrad URS; 1938.05.20; 0-1; https://lichess.org/study/1O0UELn6/5QlETP34
 
-D95 Grnfeld Defense: Botvinnik Variation; Game*: Rahman, Ziaur - Areshchenko, Alexander; Chennai IND; 2011.1.24; 0-1; https://lichess.org/study/40nLE9YK/BfwQHJpj
+D95 Grünfeld Defense: Botvinnik Variation; Game*: Rahman, Ziaur - Areshchenko, Alexander; Chennai IND; 2011.1.24; 0-1; https://lichess.org/study/40nLE9YK/BfwQHJpj
 
-D96 Grnfeld Defense: Russian Variation; Game*: Kotov, Alexander - Kashdan, Isaac; Moscow RUS and New York USA; 1945.09.03; 1-0; https://lichess.org/study/1O0UELn6/IZWd8NUo
+D96 Grünfeld Defense: Russian Variation; Game*: Kotov, Alexander - Kashdan, Isaac; Moscow RUS and New York USA; 1945.09.03; 1-0; https://lichess.org/study/1O0UELn6/IZWd8NUo
 
-D98 Grnfeld Defense: Russian Variation, Smyslov Variation; Game*: Smyslov, Vasily - Botvinnik, Mikhail; Mosca; 1957.??.??; 1-0; https://lichess.org/study/uDpA956I/sNS2V0NF
+D98 Grünfeld Defense: Russian Variation, Smyslov Variation; Game*: Smyslov, Vasily - Botvinnik, Mikhail; Mosca; 1957.??.??; 1-0; https://lichess.org/study/uDpA956I/sNS2V0NF
 
-D99 Grnfeld Defense: Russian Variation, Smyslov Variation; Game*: Sherwin, James T. - Pavey, Max; 1955.??.??; 1-0; https://lichess.org/study/rzdDzNB4/csfebQRJ
+D99 Grünfeld Defense: Russian Variation, Smyslov Variation; Game*: Sherwin, James T. - Pavey, Max; 1955.??.??; 1-0; https://lichess.org/study/rzdDzNB4/csfebQRJ
 
 E00 Catalan Opening; Game*: Alatortsev, Vladimir - Levenfish, Grigory; Tbilisi; 1937.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/uFjQfn3v
 
@@ -2563,19 +2563,19 @@ E21 Nimzo-Indian Defense: Three Knights Variation; Game*: Botvinnik, Mikhail - C
 
 E21 Nimzo-Indian Defense: Three Knights Variation; Game*: Botvinnik, Mikhail - Kan, Ilia Abramovich; Leningrado; 1973.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/sUFiLCvf
 
-E21 Nimzo-Indian Defense: Three Knights Variation; Game*: Bronstein, David I - Boleslavsky, Isaak; Mosca; 1950.??.??; 1-0; https://lichess.org/study/k4B16BhD/JjzN736w
+E21 Nimzo-Indian Defense: Three Knights Variation; Game*: Bronstein, David I. - Boleslavsky, Isaak; Mosca; 1950.??.??; 1-0; https://lichess.org/study/k4B16BhD/JjzN736w
 
 E21 Nimzo-Indian Defense: Three Knights Variation; Game*: Kortchnoj, Viktor - Tal, Mikhail; Wijk aan Zee; 1968.??.??; 1-0; https://lichess.org/study/k4B16BhD/R0pHAzkh
 
 E23 Nimzo-Indian Defense: Spielmann Variation, Stahlberg Variation; Game*: Euwe, Max - Pirc, Vasja; Bled; 1949.??.??; 1-0; https://lichess.org/study/uUaMniQc/prCjCc2m
 
-E24 Nimzo-Indian Defense: Smisch Variation; Game: Saemisch, Friedrich - Engel, Jindrich; Brno CSR; 1928.09.??; 1-0; https://lichess.org/study/YuoLOpzE/QEhR895j
+E24 Nimzo-Indian Defense: Sämisch Variation; Game: Saemisch, Friedrich - Engel, Jindrich; Brno CSR; 1928.09.??; 1-0; https://lichess.org/study/YuoLOpzE/QEhR895j
 
-E26 Nimzo-Indian Defense: Smisch Variation, O'Kelly Variation; Game*: Geller, Efim - Euwe, Max; Zurigo; 1953.??.??; 0-1; https://lichess.org/study/amMc8Mig/mwUoVf7n
+E26 Nimzo-Indian Defense: Sämisch Variation, O'Kelly Variation; Game*: Geller, Efim - Euwe, Max; Zurigo; 1953.??.??; 0-1; https://lichess.org/study/amMc8Mig/mwUoVf7n
 
-E29 Nimzo-Indian Defense: Smisch Variation, Capablanca Variation; Game*: Aloni, Izak - Matanovic, Aleksandar; 1966.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/rRWD4vvg
+E29 Nimzo-Indian Defense: Sämisch Variation, Capablanca Variation; Game*: Aloni, Izak - Matanovic, Aleksandar; 1966.??.??; 0-1; https://lichess.org/study/5mW5ZvOp/rRWD4vvg
 
-E29 Nimzo-Indian Defense: Smisch Variation, Capablanca Variation; Game*: Byrne, Robert E. - Kotov, Alexander; New York; 1954.??.??; 1/2-1/2; https://lichess.org/study/xG5sFI6f/Kfqven0f
+E29 Nimzo-Indian Defense: Sämisch Variation, Capablanca Variation; Game*: Byrne, Robert E. - Kotov, Alexander; New York; 1954.??.??; 1/2-1/2; https://lichess.org/study/xG5sFI6f/Kfqven0f
 
 E30 Nimzo-Indian Defense: Leningrad Variation, Averbakh Gambit; Game*: Spassky, Boris - Tal, Mikhail; Tallinn; 1973.??.??; 0-1; https://lichess.org/study/E787KvJ9/jDVfmIpT
 
@@ -2603,11 +2603,11 @@ E39 Nimzo-Indian Defense: Classical Variation, Berlin Variation, Pirc Variation;
 
 E40 Nimzo-Indian Defense: Rubinstein System; Game*: Petrosian, Tigran - Fischer, Robert James; Bled/Zagreb/Belgrade; 1959.??.??; 1-0; https://lichess.org/study/uDpA956I/3bUr9ck0
 
-E41 Nimzo-Indian Defense: Rubinstein System, Hbner Variation; Game*: Spassky, Boris - Fischer, Robert James; Reykjavik ISL; 1972.07.20; 0-1; https://lichess.org/study/6nWh4o7P/ctFpLmiL
+E41 Nimzo-Indian Defense: Rubinstein System, Hübner Variation; Game*: Spassky, Boris - Fischer, Robert James; Reykjavik ISL; 1972.07.20; 0-1; https://lichess.org/study/6nWh4o7P/ctFpLmiL
 
-E41 Nimzo-Indian Defense: Rubinstein System, Hbner Variation; Game: Johner, Paul - Nimzowitsch, Aron; Dresden GER; 1926.04.05; 0-1; https://lichess.org/study/P33p6LIH/KPEnxcF0
+E41 Nimzo-Indian Defense: Rubinstein System, Hübner Variation; Game: Johner, Paul - Nimzowitsch, Aron; Dresden GER; 1926.04.05; 0-1; https://lichess.org/study/P33p6LIH/KPEnxcF0
 
-E41 Nimzo-Indian Defense: Rubinstein System, Hbner Variation; Game: Johner, Paul - Nimzowitsch, Aron; Dresden; 1926.??.??; 0-1; https://lichess.org/study/EDmMFcbv/658y7jbi
+E41 Nimzo-Indian Defense: Rubinstein System, Hübner Variation; Game: Johner, Paul - Nimzowitsch, Aron; Dresden; 1926.??.??; 0-1; https://lichess.org/study/EDmMFcbv/658y7jbi
 
 E43 Nimzo-Indian Defense: St. Petersburg Variation; Game*: Inkiov, Ventzislav - Psakhis, Lev; Minsk; 1982.??.??; 1-0; https://lichess.org/study/2a0vxusd/nTkCrJx5
 
@@ -2653,7 +2653,7 @@ E58 Nimzo-Indian Defense: Normal Variation, Bernstein Defense, Exchange Line; Ga
 
 E59 Nimzo-Indian Defense: Normal Variation, Bernstein Defense; Game*: Gligoric, Svetozar - Matanovic, Aleksandar; Bled; 1961.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/CiNtU9gF
 
-E60 King's Indian Defense: Fianchetto Variation, Immediate Fianchetto; Game*: Botvinnik, Mikhail - Bronstein, David I; Mosca; 1951.??.??; 1-0; https://lichess.org/study/k4B16BhD/BokXncwr
+E60 King's Indian Defense: Fianchetto Variation, Immediate Fianchetto; Game*: Botvinnik, Mikhail - Bronstein, David I.; Mosca; 1951.??.??; 1-0; https://lichess.org/study/k4B16BhD/BokXncwr
 
 E60 King's Indian Defense: Fianchetto Variation, Immediate Fianchetto; Game*: Byrne, Robert E. - Fischer, Robert James; New York; 1963.??.??; 0-1; https://lichess.org/study/E787KvJ9/QCMlgRDP
 
@@ -2707,7 +2707,7 @@ E70 King's Indian Defense: Normal Variation; Game: Malakhov, Vladimir - Jobava, 
 
 E73 King's Indian Defense: Normal Variation, Standard Development; Game*: Pfleger, Helmut - Domnitz, Zadok; Tel Aviv; 1964.??.??; 1-0; https://lichess.org/study/5mW5ZvOp/rNgaAdBv
 
-E74 King's Indian Defense: Averbakh Variation, Benoni Defense, Advance Variation; Game*: Bronstein, David I - Pilnik, Herman; 1954.??.??; 1-0; https://lichess.org/study/uDpA956I/h8JaaEWb
+E74 King's Indian Defense: Averbakh Variation, Benoni Defense, Advance Variation; Game*: Bronstein, David I. - Pilnik, Herman; 1954.??.??; 1-0; https://lichess.org/study/uDpA956I/h8JaaEWb
 
 E74 King's Indian Defense: Averbakh Variation, Benoni Defense, Advance Variation; Game*: Uhlmann, Wolfgang - Geller, Efim; Palma de Mallorca; 1970.??.??; 0-1; https://lichess.org/study/k4B16BhD/Vvh6btcK
 
@@ -2721,37 +2721,37 @@ E76 King's Indian Defense: Four Pawns Attack; Game: Englisch, Berthold - Tarrasc
 
 E79 King's Indian Defense: Four Pawns Attack, Exchange Variation; Game*: Uhlmann, Wolfgang - Fischer, Robert James; Leipzig; 1960.??.??; 0-1; https://lichess.org/study/sDsyelY0/9Dtos85t
 
-E80 King's Indian Defense: Smisch Variation; Game*: Szabo, Laszlo - Ivkov, Boris; Buenos Aires; 1955.??.??; 1-0; https://lichess.org/study/eD6ECZu4/sZZbFACW
+E80 King's Indian Defense: Sämisch Variation; Game*: Szabo, Laszlo - Ivkov, Boris; Buenos Aires; 1955.??.??; 1-0; https://lichess.org/study/eD6ECZu4/sZZbFACW
 
-E81 King's Indian Defense: Smisch Variation, Bobotsov-Korchnoi-Petrosian Variation; Game: Ponomariov, Ruslan - Radjabov, Teimour; Medias; 2010.06.16; 0-1; https://lichess.org/study/dl0ynDGz/UoZmK12g
+E81 King's Indian Defense: Sämisch Variation, Bobotsov-Korchnoi-Petrosian Variation; Game: Ponomariov, Ruslan - Radjabov, Teimour; Medias; 2010.06.16; 0-1; https://lichess.org/study/dl0ynDGz/UoZmK12g
 
-E81 King's Indian Defense: Smisch Variation, Normal Defense; Game*: Beliavsky, Alexander G. - Kasparov, Garry; Mosca; 1983.??.??; 0-1; https://lichess.org/study/E787KvJ9/WZbs3zKB
+E81 King's Indian Defense: Sämisch Variation, Normal Defense; Game*: Beliavsky, Alexander G. - Kasparov, Garry; Mosca; 1983.??.??; 0-1; https://lichess.org/study/E787KvJ9/WZbs3zKB
 
-E81 King's Indian Defense: Smisch Variation, Normal Defense; Game*: Botvinnik, Mikhail - Tal, Mikhail; Mosca; 1961.??.??; 1-0; https://lichess.org/study/k4B16BhD/1Am5LkHI
+E81 King's Indian Defense: Sämisch Variation, Normal Defense; Game*: Botvinnik, Mikhail - Tal, Mikhail; Mosca; 1961.??.??; 1-0; https://lichess.org/study/k4B16BhD/1Am5LkHI
 
-E81 King's Indian Defense: Smisch Variation, Normal Defense; Game*: Nimzowitsch, Aron - Tartakower, Savielly; Karlsbad; 1929.??.??; 1-0; https://lichess.org/study/eD6ECZu4/Dys22sKJ
+E81 King's Indian Defense: Sämisch Variation, Normal Defense; Game*: Nimzowitsch, Aron - Tartakower, Savielly; Karlsbad; 1929.??.??; 1-0; https://lichess.org/study/eD6ECZu4/Dys22sKJ
 
-E81 King's Indian Defense: Smisch Variation, Normal Defense; Game*: Zuccaro, Guido - Buglisi, Massimo; Condino; 2009.07.29; 0-1; https://lichess.org/study/m0LDLCIA/LdQ30Knd
+E81 King's Indian Defense: Sämisch Variation, Normal Defense; Game*: Zuccaro, Guido - Buglisi, Massimo; Condino; 2009.07.29; 0-1; https://lichess.org/study/m0LDLCIA/LdQ30Knd
 
-E81 King's Indian Defense: Smisch Variation, Smisch Gambit; Game*: Vitiugov, Nikita - Ding, Liren; St Petersburg RUS; 2012.7.2; 1-0; https://lichess.org/study/dl0ynDGz/Rk8c9DMC
+E81 King's Indian Defense: Sämisch Variation, Sämisch Gambit; Game*: Vitiugov, Nikita - Ding, Liren; St Petersburg RUS; 2012.7.2; 1-0; https://lichess.org/study/dl0ynDGz/Rk8c9DMC
 
-E82 King's Indian Defense: Smisch Variation, Double Fianchetto; Game*: Hort, Vlastimil - Gligoric, Svetozar; 1970.??.??; 0-1; https://lichess.org/study/E787KvJ9/3mde6WpU
+E82 King's Indian Defense: Sämisch Variation, Double Fianchetto; Game*: Hort, Vlastimil - Gligoric, Svetozar; 1970.??.??; 0-1; https://lichess.org/study/E787KvJ9/3mde6WpU
 
-E84 King's Indian Defense: Smisch Variation, Panno Main Line; Game*: Bagirov, Vladimir - Gufeld, Eduard; Korovabad; 2019.02.15; 0-1; https://lichess.org/study/drEQ8cYo/VjdDOpOG
+E84 King's Indian Defense: Sämisch Variation, Panno Main Line; Game*: Bagirov, Vladimir - Gufeld, Eduard; Korovabad; 2019.02.15; 0-1; https://lichess.org/study/drEQ8cYo/VjdDOpOG
 
-E85 King's Indian Defense: Smisch Variation, Orthodox Variation; Game*: Capablanca, Jose Raul - Menchik, Vera; 1935.??.??; 1-0; https://lichess.org/study/uDpA956I/tOGnQHyP
+E85 King's Indian Defense: Sämisch Variation, Orthodox Variation; Game*: Capablanca, Jose Raul - Menchik, Vera; 1935.??.??; 1-0; https://lichess.org/study/uDpA956I/tOGnQHyP
 
-E85 King's Indian Defense: Smisch Variation, Orthodox Variation; Game*: Menchik, Vera - Thomas, George Alan; London; 1932.??.??; 1-0; https://lichess.org/study/eD6ECZu4/2Rl9qF0x
+E85 King's Indian Defense: Sämisch Variation, Orthodox Variation; Game*: Menchik, Vera - Thomas, George Alan; London; 1932.??.??; 1-0; https://lichess.org/study/eD6ECZu4/2Rl9qF0x
 
-E86 King's Indian Defense: Smisch Variation; Game*: Fuster, Geza - Fischer, Robert James; Portorose; 1958.??.??; 0-1; https://lichess.org/study/sDsyelY0/PdtEdAGL
+E86 King's Indian Defense: Sämisch Variation; Game*: Fuster, Geza - Fischer, Robert James; Portorose; 1958.??.??; 0-1; https://lichess.org/study/sDsyelY0/PdtEdAGL
 
-E87 King's Indian Defense: Smisch Variation, Closed Variation; Game*: Kotov, Alexander - Gligoric, Svetozar; Zurigo; 1953.??.??; 1/2-1/2; https://lichess.org/study/5mW5ZvOp/wV6lynOP
+E87 King's Indian Defense: Sämisch Variation, Closed Variation; Game*: Kotov, Alexander - Gligoric, Svetozar; Zurigo; 1953.??.??; 1/2-1/2; https://lichess.org/study/5mW5ZvOp/wV6lynOP
 
-E87 King's Indian Defense: Smisch Variation, Closed Variation; Game*: Kotov, Alexander - Szabo, Laszlo; Zurigo; 1953.??.??; 1-0; https://lichess.org/study/uDpA956I/z5eDLfFk
+E87 King's Indian Defense: Sämisch Variation, Closed Variation; Game*: Kotov, Alexander - Szabo, Laszlo; Zurigo; 1953.??.??; 1-0; https://lichess.org/study/uDpA956I/z5eDLfFk
 
-E87 King's Indian Defense: Smisch Variation, Closed Variation; Game*: Sherwin, James T. - Reshevsky, Samuel Herman; New York; 1957.??.??; 1-0; https://lichess.org/study/eD6ECZu4/38xapBhL
+E87 King's Indian Defense: Sämisch Variation, Closed Variation; Game*: Sherwin, James T. - Reshevsky, Samuel Herman; New York; 1957.??.??; 1-0; https://lichess.org/study/eD6ECZu4/38xapBhL
 
-E88 King's Indian Defense: Smisch Variation, Closed Variation; Game*: Evans, Larry Melvin - Gligoric, Svetozar; USA; 1971.??.??; 0-1; https://lichess.org/study/2a0vxusd/wfZgBoWb
+E88 King's Indian Defense: Sämisch Variation, Closed Variation; Game*: Evans, Larry Melvin - Gligoric, Svetozar; USA; 1971.??.??; 0-1; https://lichess.org/study/2a0vxusd/wfZgBoWb
 
 E90 King's Indian Defense: Normal Variation, Rare Defenses; Game*: Averbakh, Yuri - Lilienthal, Andor; 1949.??.??; 1-0; https://lichess.org/study/sDsyelY0/LRfsdCMN
 

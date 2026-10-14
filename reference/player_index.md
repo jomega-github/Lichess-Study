@@ -289,7 +289,7 @@ Game*: Bosboom, Manuel - Afek, Yochanan; 1987.??.??; 0-1; B31; https://lichess.o
 
 Game*: Botvinnik, Mikhail - Alekhine, Alexander; Amsterdam; 1938.??.??; 1-0; D41; https://lichess.org/study/amMc8Mig/oMNbVvoQ
 
-Game*: Botvinnik, Mikhail - Bronstein, David I; Mosca; 1951.??.??; 1-0; E60; https://lichess.org/study/k4B16BhD/BokXncwr
+Game*: Botvinnik, Mikhail - Bronstein, David I.; Mosca; 1951.??.??; 1-0; E60; https://lichess.org/study/k4B16BhD/BokXncwr
 
 Game*: Botvinnik, Mikhail - Chekhover, Vitaly; Leningrado; 1973.??.??; 1-0; E21; https://lichess.org/study/5mW5ZvOp/UIYNzHoa
 
@@ -345,17 +345,17 @@ Game: Brinckmann, Alfred - Nimzowitsch, Aron; Bad Niendorf GER; 1927.08.07; 0-1;
 
 Game: Brkic, Ante - Kovacevic, Aleksandar; Zadar; 2010.12.17; 0-1; C11; https://lichess.org/study/wAhu1kg2/GIIT0g4l
 
-Game*: Bronstein, David I - Boleslavsky, Isaak; Mosca; 1950.??.??; 1-0; E21; https://lichess.org/study/k4B16BhD/JjzN736w
+Game*: Bronstein, David I. - Boleslavsky, Isaak; Mosca; 1950.??.??; 1-0; E21; https://lichess.org/study/k4B16BhD/JjzN736w
 
-Game*: Bronstein, David I - Byrne, Robert E.; Helsinki; 1952.??.??; 0-1; D24; https://lichess.org/study/fxEOlxbq/pyJrjWCf
-
-Game*: Bronstein, David I - Olafsson, Fridrik; Portoroz; 1958.??.??; 1-0; B90; https://lichess.org/study/2a0vxusd/2rU9pVtZ
-
-Game*: Bronstein, David I - Panno, Oscar; 1954.??.??; 1-0; A54; https://lichess.org/study/k4B16BhD/a5mNFurj
-
-Game*: Bronstein, David I - Pilnik, Herman; 1954.??.??; 1-0; E74; https://lichess.org/study/uDpA956I/h8JaaEWb
+Game*: Bronstein, David I. - Byrne, Robert E.; Helsinki; 1952.??.??; 0-1; D24; https://lichess.org/study/fxEOlxbq/pyJrjWCf
 
 Game*: Bronstein, David I. - Lutikov, Anatoly; 1960.01.27; 1-0; B01; https://lichess.org/study/hnwliF9Y/IG7Kg03C
+
+Game*: Bronstein, David I. - Olafsson, Fridrik; Portoroz; 1958.??.??; 1-0; B90; https://lichess.org/study/2a0vxusd/2rU9pVtZ
+
+Game*: Bronstein, David I. - Panno, Oscar; 1954.??.??; 1-0; A54; https://lichess.org/study/k4B16BhD/a5mNFurj
+
+Game*: Bronstein, David I. - Pilnik, Herman; 1954.??.??; 1-0; E74; https://lichess.org/study/uDpA956I/h8JaaEWb
 
 Game*: Brown, George - Thomas, George Alan; Southsea; 1949.??.??; 0-1; C50; https://lichess.org/study/rgKjJhUJ/FtnWjvn9
 
@@ -813,7 +813,7 @@ Game: Gopal, Geetha Narayanan - Bologan, Viktor Antonovich; Caleta; 2012.02.01; 
 
 Game: Gossip, George Hatfeild - Tarrasch, Siegbert; Breslau; 1889.??.??; 0-1; C25; https://lichess.org/study/bELN6Owi/JlAPiYgF
 
-Game: Granda Zuniga, Julio E - Narciso Dublan, Marc; Zaragoza; 2012.12.30; 1-0; A41; https://lichess.org/study/wAhu1kg2/uAYqkUrx
+Game: Granda Zuniga, Julio E. - Narciso Dublan, Marc; Zaragoza; 2012.12.30; 1-0; A41; https://lichess.org/study/wAhu1kg2/uAYqkUrx
 
 Game: Greco, Gioachino - NN; TAOTC; 1619.??.??; 1-0; C00; https://lichess.org/study/tmHOF54H/nCpQiJez
 
@@ -1573,7 +1573,7 @@ Game: Mortimer, James - Tarrasch, Siegbert; Manchester; 1890.09.06; 0-1; C13; ht
 
 Game: Mueller, Oscar Conrad - Tarrasch, Siegbert; Manchester; 1890.08.26; 0-1; D35; https://lichess.org/study/bELN6Owi/SZEni3pv
 
-Game: Munoz Pantoja, Miguel - Granda Zuniga, Julio E; La Roda; 2013.03.29; 0-1; B40; https://lichess.org/study/dl0ynDGz/xkC3oc6g
+Game: Munoz Pantoja, Miguel - Granda Zuniga, Julio E.; La Roda; 2013.03.29; 0-1; B40; https://lichess.org/study/dl0ynDGz/xkC3oc6g
 
 Game*: Naegeli, Oskar - Euwe, Max; Bern SUI; 1932.07.27; 0-1; B03; https://lichess.org/study/hnwliF9Y/cK8j08pK
 
@@ -2121,7 +2121,7 @@ Game*: Schwietzer, George J. - Shrader, Eugene Wesley; St Louis; 1904.??.??; 1-0
 
 Game*: Seirawan, Yasser - Tal, Mikhail; Montpellier; 1985.??.??; 1-0; D46; https://lichess.org/study/amMc8Mig/Wtrzy2zZ
 
-Game*: Shahade, Gregory P - Akobian, Varuzhan; Philadelphia; 2012.04.06; 0-1; C05; https://lichess.org/study/wAhu1kg2/ghsnzoEB
+Game*: Shahade, Gregory P. - Akobian, Varuzhan; Philadelphia; 2012.04.06; 0-1; C05; https://lichess.org/study/wAhu1kg2/ghsnzoEB
 
 Game*: Shaw, Terrey - Keene, Raymond; Brisbane; 1979.??.??; 0-1; B25; https://lichess.org/study/NHyuBHth/Lu3JKu6U
 
@@ -2131,7 +2131,7 @@ Game*: Sherwin, James T. - Reshevsky, Samuel Herman; New York; 1957.??.??; 1-0; 
 
 Game*: Shishkin, Vadim - Nyzhnyk, Illya; Mamaia ROU; 2013.09.03; 0-1; E92; https://lichess.org/study/wAhu1kg2/ANugFz3P
 
-Game*: Short, Nigel D - Karpov, Anatoly; Linares; 1992.??.??; 1-0; C86; https://lichess.org/study/49AuOOCo/q889DSLW
+Game*: Short, Nigel D. - Karpov, Anatoly; Linares; 1992.??.??; 1-0; C86; https://lichess.org/study/49AuOOCo/q889DSLW
 
 Game*: Shrentzel, Israel - Shvidler, Eliahu; Israel; 1985.??.??; 0-1; C77; https://lichess.org/study/E787KvJ9/QPgRcLL9
 
